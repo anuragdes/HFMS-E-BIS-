@@ -1,0 +1,1194 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Residents                                                                           
+Sub-Category  :Jrr                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIADC00000015 012536 Udaya    Kumar           Junior Resident       20018406048      47454
+
+2   PGIADC00000021 012590 Emtiaz  Ahmed            Junior Resident       20089827029      46057
+
+3   PGIADC00000026 12391  Sourabha Kumar Patro     Junior Resident       31281836259      47489
+
+4   PGIADC00000029 012534 Harsha   Vardhan         Junior Resident       20079493857      47454
+
+5   PGIADC00000030 012533 Bhaskar   Sarkar         Junior Resident       20079494986      47454
+
+6   PGIADC00000034 12365  Arun M G                 Junior Resident       20073408787      47489
+
+7   PGIADC00000036 12402  DEBA PRASAD  DHIBAR      Junior Resident       20003713634      47489
+
+8   PGIADC00000044 012317 Ravi Kumar HS            Junior Resident       31082426294      50095
+
+9   PGIADC00000056 12370  Gandhi Komal Anil        Junior Resident       31264187000      47489
+
+10  PGIADC00000059 12420  Gupta Adit Ajay          Junior Resident       31296278536      53059
+
+11  PGIADC00000061 12394  VALLIPPAN   M            Junior Resident       10186549667      47489
+
+12  PGIADC00000062 12411  Gayana   S               Junior Resident       31339297361      47489
+
+13  PGIADC00000069 012587 Neeraj  Kumar            Junior Resident       20089827483      46057
+
+14  PGIADC00000071 012589 Surendra  Sewda          Junior Resident       20089827018      46057
+
+15  PGIADC00000072 12371  Siva Subramani  V P      Junior Resident       31262808724      47489
+
+16  PGIADC00000073 012291 Manohar N.M Bhatt        Junior Resident       31014041282      55833
+
+17  PGIADC00000098 12456  Ghodake Swapnil Dnyanes  Junior Resident       31284944193      47489
+
+18  PGIADC00000099 12426  Chandra Kuma Shekhar     Junior Resident       20073412546      53059
+
+19  PGIADC00000101 12453  Parmod   Gulia           Junior Resident       30825090483      53059
+
+20  PGIADC00000104 12425  Anupama   Saini          Junior Resident       31368853949      53059
+
+21  PGIADC00000106 12423  Hemant   Kumar           Junior Resident       20073408696      53059
+
+22  PGIADC00000117 012593 Shiva   Kumar            Junior Resident       20089827256      46057
+
+23  PGIADC00000128 012348 Vidisha   Khanna         Junior Resident       31080813830      48654
+
+24  PGIADC00000130 12414  Ajay Kumar Aggarwal      Junior Resident       31340526081      47489
+
+25  PGIADC00000132 012332 J  Sathesh Krishna       Junior Resident       20003715836      50095
+
+26  PGIADC00000139 12450  Pardeep Krishna R V      Junior Resident       31354432675      47489
+
+27  PGIADC00000147 12377  Shyam Charan Meena       Junior Resident       20073408721      47489
+
+28  PGIADC00000162 12395  R  LAKSHMI NARASIMHAN    Junior Resident       31368578201      47489
+
+29  PGIADC00000163 12398  VALLURUPALLI KRISHNA PR  Junior Resident       20030325231      47489
+
+30  PGIADC00000164 12400  ABHINESH  V              Junior Resident       31346253539      47489
+
+31  PGIADC00000165 12404  RANJEET KUMAR SHREERAMA  Junior Resident       31370685560      47489
+
+32  PGIADC00000166 12405  RAKESH  SHARMA           Junior Resident       31247749072      47489
+
+33  PGIADC00000174 012336 Anirudha  S              Junior Resident       20011488870      50095
+
+34  PGIADC00000181 012580 Satya   Prakash          Junior Resident       20033203050      46057
+
+35  PGIADC00000200 12444  Shruti  Gupta            Junior Resident       31259182665      47489
+
+36  PGIADC00000201 12446  Arvind  Guru             Junior Resident       20073409043      53059
+
+37  PGIADC00000209 12366  Rajesh M G               Junior Resident       31262639356      47489
+
+38  PGIADC00000215 012552 Babu  Lal   MEENA        Junior Resident       20079493303      47454
+
+39  PGIADC00000226 12393  Sindhura   S             Junior Resident       31343005135      47489
+
+40  PGIADC00000227 12454  Cheshta   Yadav          Junior Resident       10230663507      53059
+
+41  PGIADC00000239 012354 Srikanth  KP             Junior Resident       10599824001      50095
+
+42  PGIADC00000241 12464  Abhijit Arun Chodhary    Junior Resident       31361651984      47489
+
+43  PGIADC00000242 012324 R Karthik N              Junior Resident       31074061434      55833
+
+44  PGIADC00000243 12449  Jaya Richard A           Junior Resident       31249006102      47489
+
+45  PGIADC00000245 012591 Akshat  Gupta            Junior Resident       20089827631      46057
+
+46  PGIADC00000253 012321 Amapoorani  RM           Junior Resident       31026828297      50095
+
+47  PGIADC00000254 012326 Vimlesh  Soni            Junior Resident       31123602111      55833
+
+48  PGIADC00000255 12462  Ashok  Kumar             Junior Resident       20073408867      53059
+
+49  PGIADC00000261 12457  Sandeep  Sharma          Junior Resident       31371965669      47489
+
+50  PGIADC00000282 012331 Ravi  Shankar V          Junior Resident       20003715825      50095
+
+51  PGIADC00000285 012362 Sree Kanth Reddy R       Junior Resident       31114035571      50095
+
+52  PGIADC00000288 012524 Reema  Goel              Junior Resident       20073413141      51465
+
+53  PGIADC00000297 12436  Balan Louis G            Junior Resident       31277695417      47489
+
+54  PGIADC00000304 012595 Neha                     Junior Resident       20089827552      46057
+
+55  PGIADC00000305 012345 Jane George P            Junior Resident       20073413027      48654
+
+56  PGIADC00000306 12386  Sawatkar Gitesh Upendra  Junior Resident       20073408506      47489
+
+57  PGIADC00000307 12388  Ashok Kumar Dhakar       Junior Resident       63000608805      47489
+
+58  PGIADC00000312 012346 DEEPAK  T                Junior Resident       30896841111      48654
+
+59  PGIADC00000319 012322 Dhawan Sumeet r          Junior Resident       20003715892      50095
+
+60  PGIADC00000320 012355 Lins  Paul               Junior Resident       31048141800      50095
+
+61  PGIADC00000323 12434  Sudha   Sharma           Junior Resident       31319155932      47489
+
+62  PGIADC00000325 012410 Kiran Kumar J K          Junior Resident       31357724530      53059
+
+63  PGIADC00000342 12417  J  yavana Suriya         Junior Resident       31295565735      53059
+
+64  PGIADC00000358 12432  Preithy  U               Junior Resident       31288024524      47489
+
+65  PGIADC00000363 012458 Nishat  Ahmed            Junior Resident       31324360137      47489
+
+66  PGIADC00000367 012542 Karthik Bommannan Bk     Junior Resident       20079492582      47454
+
+67  PGIADC00000378 12459  Nabaneeta  Dash          Junior Resident       31368622242      47489
+
+68  PGIADC00000379 012586 Ferah  Rehman            Junior Resident       20089827494      51465
+
+69  PGIADC00000384 12407  KAMAL KANT   SAHU        Junior Resident       31379280054      47489
+
+70  PGIADC00000388 12430  Subbaiah R M             Junior Resident       31321536809      47489
+
+71  PGIADC00000395 12431  Chougule Abhijit  Praka  Junior Resident       31277635526      47489
+
+72  PGIADC00000397 12385  Chandeep  Singh          Junior Resident       20073409713      53059
+
+73  PGIADC00000403 12387  Rajnesh  Kanwat          Junior Resident       10655099023      47489
+
+74  PGIADC00000410 012576 Pradeep Kumar S          Junior Resident       20079493325      47454
+
+75  PGIADC00000413 12397  G S R S N K NAIDU        Junior Resident       31298122825      47489
+
+76  PGIADC00000417 12378  Bimal Kumar Sahoo        Junior Resident       10134492961      53059
+
+77  PGIADC00000429 12390  Amit   Babel             Junior Resident       31370598198      53059
+
+78  PGIADC00000430 12389  Karan                    Junior Resident       31293388520      53059
+
+79  PGIADC00000454 012356 J Jeya Prakash           Junior Resident       10422593508      50095
+
+80  PGIADC00000455 012561 Karthik  K               Junior Resident       20073412681      47454
+
+81  PGIADC00000459 12448  Jagjit  Singh            Junior Resident       30040142070      53059
+
+82  PGIADC00000460 12452  Rohit   Bahri            Junior Resident       20052976628      47489
+
+83  PGIADC00000464 12460  Vinod    Sharma          Junior Resident       31290526392      47489
+
+84  PGIADC00000471 012720 Vineet  kumar P M        Junior Resident       30176751453      46057
+
+85  PGIADC00000476 12367  Chethan    S             Junior Resident       10970132289      47489
+
+86  PGIADC00000478 012353 Vinod  G                 Junior Resident       10444587146      50095
+
+87  PGIADC00000482 012316 Umesh Kumar Meena        Junior Resident       31084669417      50095
+
+88  PGIADC00000485 12424  Shri Kant Prasad         Junior Resident       31370327092      47489
+
+89  PGIADC00000486 12438  Abdul   Hakim            Junior Resident       31357881935      47489
+
+90  PGIADC00000490 012344 Geeti   Khullar          Junior Resident       31051959273      48654
+
+91  PGIADC00000501 12396  ABHINAV  AGGARWAL        Junior Resident       31238213066      53059
+
+92  PGIADC00000502 12403  ARIVARASAN   K           Junior Resident       30651970780      47489
+
+93  PGIADC00000508 12379  Breethaa Tanani S        Junior Resident       30474479964      47489
+
+94  PGIADC00000511 012359 Ashwani  Sachdeva        Junior Resident       31057058024      50095
+
+95  PGIADC00000516 12435  Ganesh  Kumar V          Junior Resident       31294133681      47489
+
+96  PGIADC00000521 12428  Sampat Singh Jhala       Junior Resident       20073408368      47489
+
+97  PGIADC00000538 12440  Ankur Kumar K Vagadiya   Junior Resident       31372754840      47489
+
+98  PGIADC00000557 012337 P Shivanesan             Junior Resident       31115173587      50095
+
+99  PGIADC00000558 12443  Shruthi H S              Junior Resident       20017975888      47489
+
+100 PGIADC00000559 12447  Rajesh  Roat             Junior Resident       31333854477      47489
+
+101 PGIADC00000565 12415  N Sravanthi              Junior Resident       31011418040      47489
+
+102 PGIADC00000575 12399  VIPIN   GUPTA            Junior Resident       20073408459      47489
+
+103 PGIADC00000576 12380  Sudha Karan R            Junior Resident       31280600904      47489
+
+104 PGIADC00000577 012328 Pankaj   Maheshwari      Junior Resident       31055147519          0
+
+105 PGIADC00000580 12364  Indranil   Biswas        Junior Resident       31289369943      47489
+
+106 PGIADC00000594 12451  Dara Ravi Chandabhan     Junior Resident       31340686636      47489
+
+107 PGIADC00000597 012360 DEVARASETHI   PHANIK     Junior Resident       31091746020      50095
+
+108 PGIADC00000600 012374 Savla Jyothi Rani        Junior Resident       31264884679      47489
+
+109 PGIADC00000605 012535 Gaurav Kumar Sharma      Junior Resident       20073412636      47454
+
+110 PGIADC00000606 12503  Om  Parkash              Junior Resident       20079493744      47454
+
+111 PGIADC00000608 012489 Pankaj   Kumta           Junior Resident       30050647251      46057
+
+112 PGIADC00000609 12427  Gopinath   P             Junior Resident       10273521472      47489
+
+113 PGIADC00000612 12505  Muhammed Shafi P. S      Junior Resident       20079494545      53024
+
+114 PGIADC00000658 12392  Aniruddha   Sarkar       Junior Resident       20022026559      53059
+
+115 PGIADC00000661 012416 Papri   Sarkar           Junior Resident       31294006710      47489
+
+116 PGIADC00000664 12419  Sushil   Ojha            Junior Resident       20073408834      53059
+
+117 PGIADC00000669 012401 AMIT   BHAUWALA          Junior Resident       20057711179      47489
+
+118 PGIADC00000696 012567 Pavan Kumar G            Junior Resident       20079492388      53024
+
+119 PGIADC00000705 12381  Jayagandan               Junior Resident       20073408936      53059
+
+120 PGIADC00000706 12383  Ashutosh   Sarwa         Junior Resident       31376066962      53059
+
+121 PGIADC00000710 012382 Nalini Kanta Tripathy    Junior Resident       30837785187      47489
+
+122 PGIADC00000712 12384  Kathirvel   S            Junior Resident       31346901740      47489
+
+123 PGIADC00000720 012351 Vishakha Ashok Wadibhas  Junior Resident       031103298501     50095
+
+124 PGIADC00000726 12369  Dinesh Kumar Sardana     Junior Resident       31249164320      53059
+
+125 PGIADC00000727 12375  Latha Y S                Junior Resident       20011488825      47489
+
+126 PGIADC00000738 012516 Bhuvanesh   M            Junior Resident       20079493085      47454
+
+127 PGIADC00000752 012341 Ch. Srinivas   Rao       Junior Resident       31041839720      55833
+
+128 PGIADC00000753 012338 Souban Parkinson Singh   Junior Resident       30780824877      55833
+
+129 PGIADC00000763 12463  Shailesh D  Mantur       Junior Resident       20073408391      47489
+
+130 PGIADC00000764 012329 Shivya   Tucker          Junior Resident       31052245054      50095
+
+131 PGIADC00000775 12412  Bhawana   Tiwari         Junior Resident       31277928920      47489
+
+132 PGIADC00000781 12418  Agarwal Aniruddha Kisha  Junior Resident       31268556575      53059
+
+133 PGIADC00000782 12422  Samendra  Kumar          Junior Resident       31281017922      53059
+
+134 PGIADC00000784 12373  Sujay   Samanta          Junior Resident       11250579770      47489
+
+135 PGIADC00000785 12376  Narender   Kaloria       Junior Resident       31333905161      47489
+
+136 PGIADC00000790 012333 Vijaisimha               Junior Resident       31081230064      50095
+
+137 PGIADC00000794 12406  Anshu Kumar Aggarwal     Junior Resident       20073408460      47489
+
+138 PGIADC00000796 12413  Shreyasi   Sharma        Junior Resident       30382872836      47489
+
+139 PGIADC00000807 12372  Kumar Rajani Kant        Junior Resident       31299975055      47489
+
+140 PGIADC00000812 012522 S   Nadini               Junior Resident       20079494487      51465
+
+141 PGIADC00000814 012335 Sowmiya   S              Junior Resident       10578572498      54224
+
+142 PGIADC00001220 012292 Kiran Bharath B          Junior Resident       30461552067      50095
+
+143 PGIADC00001221 012293 Kawarti Jitendra Nadhu   Junior Resident       31094612174      54224
+
+144 PGIADC00001222 012294 Amit  Kumar              Junior Resident       56047119246      55833
+
+145 PGIADC00001223 12295  Madhan Raj K             Junior Resident       31029712336      50095
+
+146 PGIADC00001224 012296 Ajit B Janagond          Junior Resident       31085870317      50095
+
+147 PGIADC00001225 012297 C  Aniganesh             Junior Resident       31085904166      50095
+
+148 PGIADC00001226 012298 Raghavendra Prasad K.v   Junior Resident       31110294788      50095
+
+149 PGIADC00001227 012299 Puneet  Chhabra          Junior Resident       31036355827      54224
+
+150 PGIADC00001228 012300 Indu R Rao               Junior Resident       31056801530      47095
+
+151 PGIADC00001229 012301 Kumar Shwetanshu Naray   Junior Resident       20003715676      50095
+
+152 PGIADC00001230 012302 Nanda Kishore B          Junior Resident       31077033800      50095
+
+153 PGIADC00001231 012303 Pankaj  Verma            Junior Resident       10874761502      50095
+
+154 PGIADC00001232 012304 P Sathish Kumar          Junior Resident       31076776484      50095
+
+155 PGIADC00001233 012305 Anandha Kumar R          Junior Resident       31059783083      48654
+
+156 PGIADC00001234 012306 Balaji L Bellam          Junior Resident       31089928264      50095
+
+157 PGIADC00001235 012307 Ganesh  P                Junior Resident       31113115200      50095
+
+158 PGIADC00001236 012308 Mohd Labeeb  Abrar       Junior Resident       31037581594      50095
+
+159 PGIADC00001237 012309 S  Arun                  Junior Resident       31099674850      48654
+
+160 PGIADC00001238 012310 C  Abi                   Junior Resident       30388844972      50095
+
+161 PGIADC00001239 012311 Priyanka                 Junior Resident       31051903003      54224
+
+162 PGIADC00001240 12368  Sudesh   Kumar           Junior Resident       31262717177      53059
+
+163 PGIADC00001241 012312 Baljeet  Kaur            Junior Resident       10309131780      55833
+
+164 PGIADC00001242 012313 Khushbu  Meena           Junior Resident       31047716757      50095
+
+165 PGIADC00001243 012314 Balaji  S                Junior Resident       31043195147      50095
+
+166 PGIADC00001244 012315 Prateek  Behera          Junior Resident       31089800016      50095
+
+167 PGIADC00001245 012318 Karthik  S               Junior Resident       31084749177      50095
+
+168 PGIADC00001246 012319 Raja Guru P              Junior Resident       30777438389      50095
+
+169 PGIADC00001247 012320 Vinay  Uamdev Kulkarni   Junior Resident       10309136165      55833
+
+170 PGIADC00001248 012323 Sapatrish L G            Junior Resident       20041698701      55833
+
+171 PGIADC00001249 012486 Ajay  Padmanaban R       Junior Resident       20073412909      47454
+
+172 PGIADC00001250 012325 Buay Laxmi Behera        Junior Resident       30284148177      50095
+
+173 PGIADC00001251 012490 Kishore Kumar  ks        Junior Resident       10578626264      46057
+
+174 PGIADC00001252 012494 Sanjay  Kumar            Junior Resident       10012864204      51465
+
+175 PGIADC00001255 012330 Vaneetha  Raghu          Junior Resident       20011488814      50095
+
+176 PGIADC00001256 012496 Prerana  Chauhan         Junior Resident       30310089564      51465
+
+177 PGIADC00001257 12500  Atlaf  Ahmed             Junior Resident       20079493846      46057
+
+178 PGIADC00001258 12504  Vinay  K                 Junior Resident       20079492730      47454
+
+179 PGIADC00001259 12507  Bipadabhanjan Malliclc   Junior Resident       10145549701      47454
+
+180 PGIADC00001260 12508  Shruthi Subhash Kamath   Junior Resident       20079492548      53024
+
+181 PGIADC00001261 12509  Laxmi Prasad Dash        Junior Resident       10145543798      47454
+
+182 PGIADC00001262 012347 Parghane Rahul Vithalra  Junior Resident       31087869741      48654
+
+183 PGIADC00001263 12510  Aarthi Chandra Sekaran   Junior Resident       30762061327      47454
+
+184 PGIADC00001264 012350 Gupta Rohit Parasanth    Junior Resident       30391970751      50095
+
+185 PGIADC00001265 012358 Devasthi Gayatri Ganesh  Junior Resident       31014220023      50095
+
+186 PGIADC00001266 012363 Suja Mariam G            Junior Resident       31099016266      50095
+
+187 PGIADC00001267 12511  Hari Prasad A            Junior Resident       30795516639      47454
+
+188 PGIADC00001268 012512 Mayank  Singhal          Junior Resident       10622184077      53024
+
+189 PGIADC00001270 012513 Arihant  Jain            Junior Resident       20079495731      47454
+
+190 PGIADC00001271 12429  Deba  Jyoti Chatterjee   Junior Resident       31252505797      47489
+
+191 PGIADC00001272 012514 Ashok Kumar Pannu        Junior Resident       20079493755      47454
+
+192 PGIADC00001273 012588 Mehta Keyur Sumatilal    Junior Resident       20089827030      51465
+
+193 PGIADC00001274 012515 P  Vasudevan             Junior Resident       20079495083      47454
+
+194 PGIADC00001275 012592 Praveen  Kumar           Junior Resident       10226023121      46057
+
+195 PGIADC00001276 012517 Punith Kumar Tp          Junior Resident       20073413094      47454
+
+196 PGIADC00001277 012594 Rajesh  Kasimahanti      Junior Resident       11398751076      46057
+
+197 PGIADC00001278 12441  Kumar   Jayant           Junior Resident       31327406669      53059
+
+198 PGIADC00001279 012518 Nipun  Verma             Junior Resident       10413795889      53024
+
+199 PGIADC00001280 12442  Vikash  Kumar Panwar     Junior Resident       31318945987      53059
+
+200 PGIADC00001281 012596 N.  Vinoth               Junior Resident       20089826922      46057
+
+201 PGIADC00001282 012519 Rabindranath  E          Junior Resident       10995892345      47454
+
+202 PGIADC00001283 012520 Sridharan  U             Junior Resident       10273526005      47454
+
+203 PGIADC00001284 012597 Pokale Snweta Nand Kuma  Junior Resident       20089826547      46057
+
+204 PGIADC00001285 012598 Vinod  Bishnoi           Junior Resident       20089827802      51465
+
+205 PGIADC00001286 012599 Jesto  Kurian            Junior Resident       20089827267      46057
+
+206 PGIADC00001287 012525 Natasha   Garg           Junior Resident       20079494181      53024
+
+207 PGIADC00001288 012528 Monika  Meena            Junior Resident       20073412965      47454
+
+208 PGIADC00001289 012601 Saranys V. Shnumathy S   Junior Resident       20089828103      46057
+
+209 PGIADC00001290 012530 Rashmi  Pilania          Junior Resident       20079492605      47454
+
+210 PGIADC00001291 012602 Dinesh Kumar K K         Junior Resident       20089828158      46057
+
+211 PGIADC00001292 012532 Vikas                    Junior Resident       20079496279      47454
+
+212 PGIADC00001293 012603 Shalvi  Mohajan          Junior Resident       20089827880      46057
+
+213 PGIADC00001294 012604 Bharath  K V             Junior Resident       10309137679      46057
+
+214 PGIADC00001295 012605 Varun  S.                Junior Resident       20089826615      51465
+
+215 PGIADC00001297 012607 K.  Aswini               Junior Resident       20100309072      46057
+
+216 PGIADC00001298 012537 Suvradeep  Mitra         Junior Resident       20079494250      46057
+
+217 PGIADC00001299 012538 Vikrent Singh Bhar       Junior Resident       20019011491      51465
+
+218 PGIADC00001300 012539 Sudhakar  R              Junior Resident       20079493449      46057
+
+219 PGIADC00001301 012608 K.  Prabhakar            Junior Resident       20089828249      46057
+
+220 PGIADC00001302 12461  Rohit  Bhowmick          Junior Resident       20073408685      47489
+
+221 PGIADC00001303 012541 Neha  Mittal             Junior Resident       20073412932      47454
+
+222 PGIADC00001304 012609 Manmohan  Singh          Junior Resident       30006281516      51465
+
+223 PGIADC00001305 012610 Ajith Brabhv Kumar C     Junior Resident       20089829231      51465
+
+224 PGIADC00001306 012543 Manish   Rohilla         Junior Resident       20079494668      46057
+
+225 PGIADC00001307 012611 Ankit  Mittal            Junior Resident       30354624401      46057
+
+226 PGIADC00001308 012544 Abhishek  S              Junior Resident       10309138695      47454
+
+227 PGIADC00001309 012612 Umesh  Kumar Sahu        Junior Resident       20100310180      51465
+
+228 PGIADC00001310 012545 Dhaarani  J              Junior Resident       20079492399      47454
+
+229 PGIADC00001311 012613 Savdamini Jayant Lele    Junior Resident       20089829106      51465
+
+230 PGIADC00001312 012546 Sagar Badrinaryan Bhatt  Junior Resident       31542361299      47454
+
+231 PGIADC00001313 012614 Saran  Kumar             Junior Resident       20089826966      46057
+
+232 PGIADC00001314 012615 Sunil Subramanyan M      Junior Resident       20089828170      51465
+
+233 PGIADC00001315 012547 R  Divya                 Junior Resident       20079492311      46057
+
+234 PGIADC00001316 012616 Kumaran  M               Junior Resident       20089828169      51465
+
+235 PGIADC00001317 012548 Harish  N                Junior Resident       20079494523      46057
+
+236 PGIADC00001318 012549 P  Satheesh              Junior Resident       20079494410      47454
+
+237 PGIADC00001319 012617 Ashwani Kumar Sharma     Junior Resident       20100309061      46057
+
+238 PGIADC00001320 012550 Nagaraju A S             Junior Resident       20079492956      47454
+
+239 PGIADC00001322 012619 Jasmine  Sethi           Junior Resident       20100309265      51465
+
+240 PGIADC00001323 012620 Vikas  K.k               Junior Resident       20100309209      46057
+
+241 PGIADC00001324 012551 Asmita  Das              Junior Resident       20079495107      46057
+
+242 PGIADC00001325 012621 Arvind Damba Lkar        Junior Resident       10634371380      51465
+
+243 PGIADC00001326 012622 Aditya  Chaudhary        Junior Resident       20009715852      51465
+
+244 PGIADC00001327 012623 Gaurav  Ahuja            Junior Resident       20089828782      51465
+
+245 PGIADC00001328 012553 Nirmal  Hansdak          Junior Resident       20089825373      46057
+
+246 PGIADC00001329 012624 Kasina Dhuni Nags Ganes  Junior Resident       20073409871      46057
+
+247 PGIADC00001330 012625 Pandit Sachin Sita Ram   Junior Resident       30828004900      51465
+
+248 PGIADC00001331 012626 Sanjeev  Sroa            Junior Resident       30720407208      51465
+
+249 PGIADC00001332 012627 Anand  M                 Junior Resident       31227970131      51465
+
+250 PGIADC00001333 012554 Siya Ram Didel           Junior Resident       20079494421      47454
+
+251 PGIADC00001334 012628 Mohan Kumar H            Junior Resident       20089829388      46057
+
+252 PGIADC00001335 012629 Akash  Chakma            Junior Resident       30901259243      46057
+
+253 PGIADC00001336 012630 Sabari Krishnan P        Junior Resident       20089828908      46057
+
+254 PGIADC00001337 012631 Saravan Kumar Sogu       Junior Resident       30794983796      46057
+
+255 PGIADC00001338 012555 Chethan  R               Junior Resident       20079493438      47454
+
+256 PGIADC00001339 012632 Saroj  Kumar Sahoo       Junior Resident       20089828001      51465
+
+257 PGIADC00001340 012633 Vinod  N                 Junior Resident       20089829377      46057
+
+258 PGIADC00001341 012634 Tanmaya Kumar Sahu       Junior Resident       20023161995      51465
+
+259 PGIADC00001342 012635 Shvetha  Sethi           Junior Resident       31257756939      46057
+
+260 PGIADC00001343 012636 Nitya  Batra             Junior Resident       30803078993      46057
+
+261 PGIADC00001344 012637 Supriya  Malvi           Junior Resident       30437772693      51465
+
+262 PGIADC00001345 012556 Chanchal  Kumar          Junior Resident       20079493686      47454
+
+263 PGIADC00001346 012639 Lakshmi Sree  V          Junior Resident       20089826183      46057
+
+264 PGIADC00001348 012559 Aditya  Hegde            Junior Resident       20073412829      47454
+
+265 PGIADC00001349 012640 J. Mohan Roop            Junior Resident       31762857106      46057
+
+266 PGIADC00001350 012641 Shruti  Shambhavi        Junior Resident       10874598760      46057
+
+267 PGIADC00001351 012642 Anjumunnisa  S           Junior Resident       31802237268      51465
+
+268 PGIADC00001352 012562 Saravana Kumar G         Junior Resident       20073412852      47454
+
+269 PGIADC00001353 012643 Puneeti  Ballega         Junior Resident       20089829128      46057
+
+270 PGIADC00001354 012563 Alok  Sharma             Junior Resident       20073412614      47454
+
+271 PGIADC00001355 012644 Rahul Deepak Midi        Junior Resident       20089828409      46057
+
+272 PGIADC00001356 012645 C.  Keerthi              Junior Resident       20017978584      46057
+
+273 PGIADC00001357 012564 Baskaran  V              Junior Resident       20079493461      47454
+
+274 PGIADC00001358 012646 Monika  Makur            Junior Resident       30043918507      40475
+
+275 PGIADC00001359 012647 Muthyala  Tanuja         Junior Resident       20017978903      46057
+
+276 PGIADC00001360 012565 Sofia  L                 Junior Resident       31054816298      50454
+
+277 PGIADC00001362 012648 Archana  Kumari          Junior Resident       10031437008      46057
+
+278 PGIADC00001363 012569 Ashish  Gupta            Junior Resident       20079492286      47454
+
+279 PGIADC00001364 012649 Swati  Singla            Junior Resident       20089827369      51465
+
+280 PGIADC00001365 012650 Ramanus  Samanta         Junior Resident       20089829060      46057
+
+281 PGIADC00001366 012574 S.pradeep Jeya Kumar     Junior Resident       20028756830      47454
+
+282 PGIADC00001367 012651 Veeneet  Singla          Junior Resident       20089827518      51465
+
+283 PGIADC00001368 012652 Pankaj  Kataria          Junior Resident       20100308841      51465
+
+284 PGIADC00001369 012653 Poredi Amit Subhash      Junior Resident       20089828839      51465
+
+285 PGIADC00001370 012654 Faisal  T. T             Junior Resident       20089828352      46057
+
+286 PGIADC00001371 012655 Rakesh  John             Junior Resident       20089826230      46057
+
+287 PGIADC00001372 012656 K.  Venkataramana        Junior Resident       20017978867      51465
+
+288 PGIADC00001373 012657 Arjun  R. H. H           Junior Resident       20048843538      46057
+
+289 PGIADC00001374 012575 Viswanth Reddy B         Junior Resident       30410971519      47454
+
+290 PGIADC00001375 012658 Prasoon  Kumar           Junior Resident       10749135579      51465
+
+291 PGIADC00001376 012659 Sandeep  Kumar           Junior Resident       31180547513      46057
+
+292 PGIADC00001377 012660 Rama   Kishan            Junior Resident       30284290065      46057
+
+293 PGIADC00001378 012579 Rajeswari  S             Junior Resident       20073413083      46057
+
+294 PGIADC00001379 012661 Saniya   Sharma          Junior Resident       20089826172      46057
+
+295 PGIADC00001380 012662 Parvati  Joshi           Junior Resident       20089827653      46057
+
+296 PGIADC00001381 012663 Sunayana  Misra          Junior Resident       20089826194      46057
+
+297 PGIADC00001382 012664 Rajesh Kumar Aggarwal    Junior Resident       30303952668      51465
+
+298 PGIADC00001383 012665 Rajesh  Kumar            Junior Resident       20089827675      46057
+
+299 PGIADC00001384 012666 Pulkit  Rastogi          Junior Resident       20089827461      51465
+
+300 PGIADC00001385 012667 Lipi  Wppal              Junior Resident       20100308669      46057
+
+301 PGIADC00001386 012668 Archana  P               Junior Resident       31193113773      46057
+
+302 PGIADC00001387 012669 Hari  Kushnan            Junior Resident       20026161335      46057
+
+303 PGIADC00001391 012670 Alla Bharath Kumar       Junior Resident       20089827110      46057
+
+304 PGIADC00001393 012671 Rajendra Prasan Anne     Junior Resident       31194935420      51465
+
+305 PGIADC00001394 012672 Dibya Lochan Praharaj    Junior Resident       30557196664      46057
+
+306 PGIADC00001395 012673 Jagdeesh Menon U R       Junior Resident       31589203476      51465
+
+307 PGIADC00001396 012674 Nuthan Kumar M K         Junior Resident       20079492923      46057
+
+308 PGIADC00001397 012675 Savita  Rani             Junior Resident       30841959750      46057
+
+309 PGIADC00001398 012676 Dhana Lakshmi A          Junior Resident       31030834666      46057
+
+310 PGIADC00001399 012677 Stanzer  Chakdour        Junior Resident       20089828205      46057
+
+311 PGIADC00001401 012678 Hasanashree  P           Junior Resident       20017975991      46057
+
+312 PGIADC00001402 012680 Rakesh  Kumar            Junior Resident       20089829162      46057
+
+313 PGIADC00001403 012681 Ananta Rao Kancha        Junior Resident       20089828646      46057
+
+314 PGIADC00001404 012682 Emine A Rahiman          Junior Resident       31786468598      46057
+
+315 PGIADC00001424 012686 Soumya  Jhanda           Junior Resident       20100310656      46057
+
+316 PGIADC00001425 012687 Gaurav  Gupta            Junior Resident       20089827733      46057
+
+317 PGIADC00001426 012688 Sridhar  M               Junior Resident       20089827686      46057
+
+318 PGIADC00001427 012689 Aseem  Mehra             Junior Resident       31481714096      51465
+
+319 PGIADC00001428 012690 Saif  Uddin Khatana      Junior Resident       20100310601      51465
+
+320 PGIADC00001429 012691 Venkatesh Kumar K        Junior Resident       20089826875      46057
+
+321 PGIADC00001431 012692 Madhu  Rima              Junior Resident       20089826478      46057
+
+322 PGIADC00001433 012693 Laxmi Kant Gupta         Junior Resident       20089826693      46057
+
+323 PGIADC00001435 012694 Rajeev P Kamble          Junior Resident       20079494715      46057
+
+324 PGIADC00001437 012695 Desh Raj Meena           Junior Resident       20089826717      46057
+
+325 PGIADC00001439 012696 Gaurav  Sharma           Junior Resident       30569133768      46057
+
+326 PGIADC00001444 012698 Lawrence  A J            Junior Resident       20089826795      46057
+
+327 PGIADC00001446 012699 Ranjit  Rattan           Junior Resident       20100308422      51465
+
+328 PGIADC00001448 012700 Sidharth  Garg           Junior Resident       20089827245      51465
+
+329 PGIADC00001450 012701 Basant  Narayan Singh    Junior Resident       20100313227      46057
+
+330 PGIADC00001451 012702 Brahmadatta  Pattnaik    Junior Resident       10145553820      46057
+
+331 PGIADC00001452 012703 Venkata Vishwanath Redd  Junior Resident       31398090116      46057
+
+332 PGIADC00001453 012704 Deepti Ranjan Satapathi  Junior Resident       30022671186      45057
+
+333 PGIADC00001454 012706 Saltineni Raghu Ram Red  Junior Resident       31208769049      51465
+
+334 PGIADC00001455 012707 C. H Bharat Siddharth    Junior Resident       31202705717      51465
+
+335 PGIADC00001456 012708 Anand Ebin Thomas        Junior Resident       20100309050      46057
+
+336 PGIADC00001474 012710 Prashant Raj Garg        Junior Resident       20100309572      51465
+
+337 PGIADC00001476 012711 Sandeep  B               Junior Resident       20089826241      51465
+
+338 PGIADC00001478 012712 Shibejit  Talukder       Junior Resident       20089828737      51465
+
+339 PGIADC00001479 012713 Varinder Singh Attan     Junior Resident       30009934416      51465
+
+340 PGIADC00001480 012715 Lalit  Kishore           Junior Resident       20100308320      46057
+
+341 PGIADC00001481 012717 Srinath  S. R            Junior Resident       20100309833      51465
+
+342 PGIADC00001483 012718 Kapil  Chaudhary         Junior Resident       20100309390      46057
+
+343 PGIADC00001484 012721 Gograj Kumar Garhwal     Junior Resident       20089829004      46057
+
+344 PGIADC00001486 012722 Ram Niwas Yadav          Junior Resident       20062203034      46057
+
+345 PGIADC00001488 012724 Ashish  Maheshwari       Junior Resident       20100308444      46057
+
+346 PGIADC00001489 012725 Shailesh Kumar Misra     Junior Resident       20089827766      51465
+
+347 PGIADC00001491 012727 Sujeet Kumar Sinha       Junior Resident       20089827187      40475
+
+348 PGIADC00001521 012723 Prabakaran  S            Junior Resident       20089829322      51465
+
+349 PGIADC00001525 012719 Abhimanyu  Singh         Junior Resident       20089828851      46057
+
+350 PGIADC00001526 012714 Chethan  L               Junior Resident       20089829402      45057
+
+351 PGIADC00001527 012726 Navin  Panday            Junior Resident       20089827176      51465
+
+352 PGIADC00001628 012705 Nripesh   Sadasukhi      Junior Resident       20100313192      51465
+
+353 PGIADC00001635 012730 Ranjitpal Singh Bhogal   Junior Resident       20100723288      48952
+
+354 PGIADC00001636 012731 Gopala Krishanan Ravi    Junior Resident       20100723131      43702
+
+355 PGIADC00001637 012732 Channakeshavalu G N      Junior Resident       20100722547      45057
+
+356 PGIADC00001638 012734 Kushal  Kumar            Junior Resident       20100722604      45057
+
+357 PGIADC00001640 012736 Ruchi   Bhutungru        Junior Resident       20100723460      45057
+
+358 PGIADC00001641 012737 Ritu                     Junior Resident       20100312723      43702
+
+359 PGIADC00001642 012738 Sonali  Bhat             Junior Resident       30906215631      43702
+
+360 PGIADC00001643 012739 Senthil  Kumar           Junior Resident       20100723142      45057
+
+361 PGIADC00001644 012740 Adarsh M B               Works Attendant Gr.II 31023936566      50465
+
+362 PGIADC00001645 012741 Sudhanshu  Budakoty      Junior Resident       20100723357      50465
+
+363 PGIADC00001646 012742 B  Nandakrishna          Junior Resident       20100722853      45057
+
+364 PGIADC00001647 012743 Shaadab Ahmed Mohammed   Junior Resident       31193113886      45057
+
+365 PGIADC00001648 012744 Pramod  Kumar D A        Junior Resident       20100723017      45057
+
+366 PGIADC00001649 012745 Jegan  S                 Junior Resident       20100722626      43702
+
+367 PGIADC00001650 012746 Nachimuthu  K            Junior Resident       20100723313      45057
+
+368 PGIADC00001651 012747 Niya  Narayanan          Junior Resident       30006626369      45057
+
+369 PGIADC00001652 012748 Sudheer  Tale            Junior Resident       30503100524      43702
+
+370 PGIADC00001653 012749 Isak  Lallawmkima        Junior Resident       32204683396      45057
+
+371 PGIADC00001654 012750 Nadiya Mudin Meduediyak  Junior Resident       20100723663      45057
+
+372 PGIADC00001655 012751 Umesh  Kumar             Junior Resident       20100723380      45057
+
+373 PGIADC00001656 012752 Kamran  Zaman            Junior Resident       20100723197      48952
+
+374 PGIADC00001657 012753 Gorla Arun  Reddy        Junior Resident       32106751257      45057
+
+375 PGIADC00001658 012754 Suchita  Singh           Junior Resident       20100722659      43702
+
+376 PGIADC00001659 012755 K C Navya                Junior Resident       20100722648      45057
+
+377 PGIADC00001660 012756 Amanjot  Kaur            Junior Resident       20100723630      43702
+
+378 PGIADC00001661 012757 Bhimeshwar Nayak G       Junior Resident       11483963673      45057
+
+379 PGIADC00001662 012758 G  Gokul                 Junior Resident       20100722740      45057
+
+380 PGIADC00001663 012759 Kevin  Syam              Junior Resident       20100312745      45057
+
+381 PGIADC00001664 012760 Anand  Rajagopal         Junior Resident       31105067514      45057
+
+382 PGIADC00001665 012761 Sunil Kumar Bhutungru    Junior Resident       20100723506      45057
+
+383 PGIADC00001666 012762 Ankit  Dadra             Junior Resident       31744478606      48952
+
+384 PGIADC00001667 012763 R   Poongodi             Junior Resident       20100723584      43702
+
+385 PGIADC00001668 012764 Deepali  V               Junior Resident       20100313114      45057
+
+386 PGIADC00001669 012765 Sindhuja  L              Junior Resident       20100722864      45057
+
+387 PGIADC00001670 012766 Reshma  Aramanadka       Junior Resident       20017976972      45057
+
+388 PGIADC00001671 012767 Vadhi Mounika Reddy      Junior Resident       20100723607      43702
+
+389 PGIADC00001672 012768 Shalthi  Chinnatandi     Junior Resident       32239721785      45057
+
+390 PGIADC00001673 012769 Saravanan  C             Junior Resident       32268740806      50465
+
+391 PGIADC00001674 012770 P Senthil Kumar          Junior Resident       10273526174      45057
+
+392 PGIADC00001675 012771 Karuru Uma Devi          Junior Resident       20017979236      45057
+
+393 PGIADC00001676 012772 Sapna  Sandal            Junior Resident       32229890053      45057
+
+394 PGIADC00001677 012773 Priyatharshini  P        Junior Resident       32241908033      43702
+
+395 PGIADC00001678 012774 Banothu Kiran Kumar      Junior Resident       20103982060      50465
+
+396 PGIADC00001679 012776 Srinivas                 Junior Resident       20100723629      45057
+
+397 PGIADC00001680 012777 Pradyumna                Junior Resident       32270970834      45057
+
+398 PGIADC00001681 012778 Santhosh Kumar Thamarai  Junior Resident       20100722886      45057
+
+399 PGIADC00001682 012779 Aakanksha   Singh        Junior Resident       20100313045      50465
+
+400 PGIADC00001683 012780 Rayasam  Karthik         Junior Resident       20100312676      45057
+
+401 PGIADC00001684 012781 S  Abhinaya              Junior Resident       20100312701      45057
+
+402 PGIADC00001685 012782 Pavan B Mulgund          Junior Resident       20100312687      45057
+
+403 PGIADC00001686 012783 P Santhosh Kumar         Junior Resident       20100312698      45057
+
+404 PGIADC00001687 012784 P Kartik Ganga           Junior Resident       20100312734      45057
+
+405 PGIADC00001688 012785 Deepak  Koppaka          Junior Resident       32196448008      45057
+
+406 PGIADC00001689 012787 Ajay Kumar K             Junior Resident       31186388817      50465
+
+407 PGIADC00001690 012788 Anil  Mani               Junior Resident       32237781204      45057
+
+408 PGIADC00001691 012789 Raghu  Samala            Junior Resident       30795327278      45057
+
+409 PGIADC00001692 012790 Bhoopal Naik Jatavath    Junior Resident       20017978175      45057
+
+410 PGIADC00001693 012791 Srinivas  Bannoth        Junior Resident       31638532714      45057
+
+411 PGIADC00001694 012792 Aarti  Chaudhary         Junior Resident       20100722897      43702
+
+412 PGIADC00001695 012793 Prathibha  B             Junior Resident       20100723652      45057
+
+413 PGIADC00001696 012794 Praveen Raja R           Junior Resident       20100722773      45057
+
+414 PGIADC00001697 012796 Shikha  Jain             Junior Resident       20100723721      48952
+
+415 PGIADC00001698 012797 Deepika  Jain            Junior Resident       10123157482      43702
+
+416 PGIADC00001699 012798 Samarendra  Behera       Junior Resident       20100723641      50465
+
+417 PGIADC00001700 012799 K  Preetam               Junior Resident       20100722489      45057
+
+418 PGIADC00001701 012800 Preethi  J               Junior Resident       20100723244      45057
+
+419 PGIADC00001702 012801 Sameer  Kumar            Junior Resident       30663345879      45057
+
+420 PGIADC00001703 012802 Soumya  S                Junior Resident       31175297467      45057
+
+421 PGIADC00001704 012803 Jatinder  Khipal         Junior Resident       30672072580      45057
+
+422 PGIADC00001705 012804 A  Rahman Khan           Junior Resident       20100722922      45057
+
+423 PGIADC00001706 012805 Shoban Babu Varthya      Junior Resident       20100722332      48952
+
+424 PGIADC00001709 012807 Saheer  N                Junior Resident       32237857968      43702
+
+425 PGIADC00001710 012808 Karikal  Chakaravarthi   Junior Resident       20100723685      45057
+
+426 PGIADC00001711 012809 R  Mahendran             Junior Resident       20100723551      48952
+
+427 PGIADC00001712 012810 Ajay  Kumar              Junior Resident       32066228886      45057
+
+428 PGIADC00001713 012811 Paladugu  Ramu           Junior Resident       30796347953      48952
+
+429 PGIADC00001714 012812 N  Ramasubramaniam       Junior Resident       32251984422      43702
+
+430 PGIADC00001717 012618 Khaire Niranjan Shiwaji  Junior Resident       30243300492      51465
+
+431 PGIADC00001718 012697 Balasubramaniam          Junior Resident       20089826490      46057
+
+432 PGIADC00001774 012466 Shyam Balaji A           Junior Resident       30835674558      53059
+
+433 PGIADC00001775 012467 Pugazi Henthan T         Junior Resident       31213417626      47489
+
+434 PGIADC00001776 012468 Aditi  Aggarwal          Junior Resident       20073408528      47489
+
+435 PGIADC00001777 012469 Anisha  Garg             Junior Resident       20042086898      47489
+
+436 PGIADC00001778 012470 Gita  Devi               Junior Resident       31309413395      47489
+
+437 PGIADC00001779 012471 Wepetso  Marhu           Junior Resident       31338321205      47489
+
+438 PGIADC00001780 012475 Amulya Sarojini Thote    Junior Resident       30895454281      53059
+
+439 PGIADC00001781 012476 Ganvir Rohan Hemraj      Junior Resident       31296785716      53059
+
+440 PGIADC00001782 012477 Vinay  Rathore           Junior Resident       20100309481      53059
+
+441 PGIADC00001783 012478 Rana Prashnat B          Junior Resident       31266135560      47489
+
+442 PGIADC00001784 012479 Pendharkar Shreyas Shri  Junior Resident       31255177115      47489
+
+443 PGIADC00001785 012480 Vijay  Parkash           Junior Resident       30390933334      53059
+
+444 PGIADC00001786 012481 Sanjay  Lahariya         Junior Resident       20073409666      47489
+
+445 PGIADC00001787 012482 Sudhir  Mahajan          Junior Resident       31255257547      47489
+
+446 PGIADC00001788 012483 Ravanane  R              Junior Resident       20102699923      47489
+
+447 PGIADC00001789 012484 Shridhar  P              Junior Resident       31353254534      47489
+
+448 PGIADC00001790 012465 Santosh  S               Junior Resident       10309137465      47489
+
+449 PGIADC00001822 012813 Vishwanatha  S           Junior Resident       20017974454      45057
+
+450 PGIADC00001823 012814 Vinaya  Gopalaswamy      Junior Resident       20048843617      45057
+
+451 PGIADC00001901 012815 Vighnesh  A              Junior Resident       32500395026      47902
+
+452 PGIADC00001902 012816 Pulak Priyadarshi Padhi  Junior Resident       20050840633      47902
+
+453 PGIADC00001903 012817 Aakriti  Gupta           Junior Resident       32500191293      47902
+
+454 PGIADC00001904 012818 Rajarajan  G             Junior Resident       32497043064      47902
+
+455 PGIADC00001905 012819 Shankar  Vallapu         Junior Resident       32486366678      47902
+
+456 PGIADC00001906 012820 Rohan  Magoon            Junior Resident       32415225199      53152
+
+457 PGIADC00001907 012821 Varun  Singla            Junior Resident       32529651207      47902
+
+458 PGIADC00001908 012822 Sharma Ila Narendradev   Junior Resident       32491149748      47902
+
+459 PGIADC00001909 012823 Asis Kumar Sahoo         Junior Resident       20003329839      47902
+
+460 PGIADC00001912 012826 Mukilan  B               Junior Resident       32295794859      47902
+
+461 PGIADC00001913 012827 Mohd. Qurram Parveez     Junior Resident       20048843425      47902
+
+462 PGIADC00001914 012828 Ganesh Kumar M           Junior Resident       32448848830      47902
+
+463 PGIADC00001915 012829 Ajay Sriram A            Junior Resident       32451029224      47902
+
+464 PGIADC00001916 012830 Vivekananthan  P         Junior Resident       32444892464      53152
+
+465 PGIADC00001917 012831 Sunita  Kulhari          Junior Resident       32538598976      47902
+
+466 PGIADC00001918 012832 Abhilash  Thatikala      Junior Resident       32468677416          0
+
+467 PGIADC00001919 012833 Balbir  Kumar            Junior Resident       31367479993      47902
+
+468 PGIADC00001921 012835 Devendra Prasad Bairwa   Junior Resident       32495286486      47902
+
+469 PGIADC00001922 012836 Vikram Rao S             Junior Resident       32526594657      47902
+
+470 PGIADC00001923 012837 K Ashok Kumar            Junior Resident       10639706663      47902
+
+471 PGIADC00001924 012838 K  Prashanth             Junior Resident       32486366918      47902
+
+472 PGIADC00001925 012839 Naveen Naik Banavathu    Junior Resident       32486384814      47902
+
+473 PGIADC00001926 012840 Jameel  Abdul Aleem      Junior Resident       32462089533      47902
+
+474 PGIADC00001927 012841 Mohan Raj P S            Junior Resident       20005197616      47902
+
+475 PGIADC00001928 012842 Sowmya  S                Junior Resident       32465512956      47902
+
+476 PGIADC00001930 012844 Sudip  Bhattacharya      Junior Resident       32423366934      47902
+
+477 PGIADC00001931 012845 Anuradha                 Junior Resident       20089827529      47902
+
+478 PGIADC00001932 012846 Muhammed Razmi T         Junior Resident       10643247206      47902
+
+479 PGIADC00001933 012847 Mohit  Nagpal            Junior Resident       32502844040      47902
+
+480 PGIADC00001935 012849 Alok  Rathi              Junior Resident       32491263789      47902
+
+481 PGIADC00001937 012851 Gyanaranjan  Nayak       Junior Resident       32506399784      47902
+
+482 PGIADC00001938 012852 Jai Richo Johnson J      Junior Resident       30020537606      47902
+
+483 PGIADC00001939 012853 Anup Kumar Roy           Junior Resident       11314134891      47902
+
+484 PGIADC00001940 012854 Varun   Nabh             Junior Resident       10067849544      47902
+
+485 PGIADC00001943 012857 Palanivel Rajan M        Junior Resident       32540080868      47902
+
+486 PGIADC00001944 012858 Ram V Nampoothiri        Junior Resident       20099067018      47902
+
+487 PGIADC00001945 012859 Jaskaran Singh Gujral    Junior Resident       32534374427      47902
+
+488 PGIADC00001946 012860 Nitish  Rai              Junior Resident       32536427254      47902
+
+489 PGIADC00001947 012861 Kabilan S J              Junior Resident       20089826740      47902
+
+490 PGIADC00001948 012862 Santosh V Chikkadi       Junior Resident       10818042857      47902
+
+491 PGIADC00001949 012863 Laxman Ram Jhuria        Junior Resident       32459756525      47902
+
+492 PGIADC00001951 012865 Mohamed Raneesh P P      Junior Resident       20061495844      47902
+
+493 PGIADC00001952 012866 Narendhiran  Panduranga  Junior Resident       20114655698      47902
+
+494 PGIADC00001953 012867 Sumita  Bhogal           Junior Resident       30086974913      47902
+
+495 PGIADC00001956 012870 Megha  Sharma            Junior Resident       20036945679      47902
+
+496 PGIADC00001958 012872 Abhay  Kumar             Junior Resident       30264825359      47902
+
+497 PGIADC00001960 012874 Aravind  R               Junior Resident       32528150904      47902
+
+498 PGIADC00001961 012875 Anju  Bala               Junior Resident       32451290765      47902
+
+499 PGIADC00001962 012876 Alpana  Garg             Junior Resident       32474291491      47902
+
+500 PGIADC00001963 012877 Ena  Arora               Junior Resident       32516355372      47902
+
+501 PGIADC00001964 012878 Babeeta                  Junior Resident       32463375352      47902
+
+502 PGIADC00001965 012879 Amrutha Shree S          Junior Resident       32538938277      47902
+
+503 PGIADC00001966 012880 Amandeep  Kaur           Junior Resident       32416843635      47902
+
+504 PGIADC00001967 012881 Pasari Anand Shyamkisho  Junior Resident       32449525078      47902
+
+505 PGIADC00001968 012882 Kalpita  Das             Junior Resident       32484795995      47902
+
+506 PGIADC00001969 012883 Deepika                  Junior Resident       32529708426      47902
+
+507 PGIADC00001970 012884 Natasha  Gautam          Junior Resident       20084346952      47902
+
+508 PGIADC00001971 012885 Shweta  Gupta            Junior Resident       32488836995      33078
+
+509 PGIADC00001973 012887 Dakshayini  C            Junior Resident       20145142929      47902
+
+510 PGIADC00001974 012888 Basavaraj  Tigari        Junior Resident       32488686631      47902
+
+511 PGIADC00001975 012889 Jitender                 Junior Resident       30051804168      47902
+
+512 PGIADC00001976 012890 Nitin  Kumar             Junior Resident       32531046579      47902
+
+513 PGIADC00001977 012891 Sonam  Yangzes           Junior Resident       10942201678      47902
+
+514 PGIADC00001978 012892 Poornalingam  K          Junior Resident       32487043011      47902
+
+515 PGIADC00001979 012893 Jujhar  Singh            Junior Resident       32435820546      47902
+
+516 PGIADC00001981 012895 Karthick S R             Junior Resident       32490969759      47902
+
+517 PGIADC00001982 012896 Abin  Koshy              Junior Resident       30019667379      47902
+
+518 PGIADC00001983 012897 Parimal  Agarwal         Junior Resident       32456826452      47902
+
+519 PGIADC00001984 012898 Ravi  Mangalia           Junior Resident       10186065290      47902
+
+520 PGIADC00001985 012899 Arvind  S                Junior Resident       32454901669      53152
+
+521 PGIADC00001990 012904 Nannapaneni  Sravani     Junior Resident       31175297489      47902
+
+522 PGIADC00001991 012905 Piyush  Mittal           Junior Resident       20100724271      47902
+
+523 PGIADC00001992 012906 Nitin  Dhochak           Junior Resident       20100724282      47902
+
+524 PGIADC00001994 012908 Vinita  Garg             Junior Resident       30071936566      47902
+
+525 PGIADC00001996 012910 Sooraj  Patil            Junior Resident       32444829366      47902
+
+526 PGIADC00001997 012911 Anish  Bhargav           Junior Resident       32542402048      47902
+
+527 PGIADC00001998 012912 Y Raghavndra Prasad      Junior Resident       31208769005      47902
+
+528 PGIADC00001999 012913 Sudhakar  P              Junior Resident       20100724588      47902
+
+529 PGIADC00002000 012914 Prasanna Kumar M         Junior Resident       31111483833      47902
+
+530 PGIADC00002001 012915 Shamnad  M               Junior Resident       31144202538      47902
+
+531 PGIADC00002004 012918 Amandeep  Kaur           Junior Resident       32441859532      47902
+
+532 PGIADC00002006 012920 Altaf  Hussain           Junior Resident       20100724486      47902
+
+533 PGIADC00002007 012921 Pawan  Kumar             Junior Resident       20073695849      47902
+
+534 PGIADC00002008 012922 Man Singh Parihar        Junior Resident       32485238069      47902
+
+535 PGIADC00002010 012924 Joshi Vineet Pramod      Junior Resident       32513844515      47902
+
+536 PGIADC00002011 012925 Ravi Kumar N             Junior Resident       32414752727      47902
+
+537 PGIADC00002012 012926 Neha  Singla             Junior Resident       20100724792      47902
+
+538 PGIADC00002013 012927 Triveni  D               Junior Resident       20100723776      47902
+
+539 PGIADC00002014 012928 Yuvraj  Gulati           Junior Resident       30174554843      47902
+
+540 PGIADC00002015 012929 Pradeep  C               Junior Resident       32542083574      47902
+
+541 PGIADC00002016 012930 Swapnajeet  Sahoo        Junior Resident       11382745094      47902
+
+542 PGIADC00002017 012931 V.  Vijay Lakshmi        Junior Resident       31163587682      47902
+
+543 PGIADC00002018 012932 Harsha  Vardhan M        Junior Resident       20120544659      47902
+
+544 PGIADC00002019 012933 A. Satish Kumar          Junior Resident       -                47902
+
+545 PGIADC00002020 012934 Komarapu Dileep Kumar    Junior Resident       32419456122      47902
+
+546 PGIADC00002021 012935 Ranjeet  Choudhary       Junior Resident       32414884131      47902
+
+547 PGIADC00002022 012936 J  Saritha               Junior Resident       32422934717      47902
+
+548 PGIADC00002023 012937 Raviteja  Miriyala       Junior Resident       20057184877      47902
+
+549 PGIADC00002026 012940 Sivasubramaniam K        Junior Resident       32505891542      47902
+
+550 PGIADC00002027 012941 Jaskarn  Singh           Junior Resident       32468045034      47902
+
+551 PGIADC00002028 012942 Rishabh  Jindal          Junior Resident       30060272630      47902
+
+552 PGIADC00002029 012943 Rekapalli Raja Sekhar    Junior Resident       32534555539      47902
+
+553 PGIADC00002030 012944 Adnan Hussain Shahid     Junior Resident       32480024447      47902
+
+554 PGIADC00002031 012945 G Madhusudhan Reddy      Junior Resident       31193113820      47902
+
+555 PGIADC00002032 012946 Avishek  Samaddar        Junior Resident       11170428279      53152
+
+556 PGIADC00002035 012949 Shashwat  Sarin          Junior Resident       32468049356      47902
+
+557 PGIADC00002037 012951 Krishna Kumar G          Junior Resident       32475243139      47902
+
+558 PGIADC00002039 012953 Rahul  Jena              Junior Resident       32416777636      47902
+
+559 PGIADC00002040 012954 Naren Kumar A            Junior Resident       32499478118      47902
+
+560 PGIADC00002041 012955 Tushit Kumar Rai         Junior Resident       32465656251      47902
+
+561 PGIADC00002042 012956 Ponnaboyina  Sirish      Junior Resident       32258191209      47902
+
+562 PGIADC00002044 012958 Yatin  Arora             Junior Resident       32468668117      47902
+
+563 PGIADC00002045 012959 Naveen Kumar Ch          Junior Resident       31190334727      47902
+
+564 PGIADC00002046 012960 Nitin Kumar              Junior Resident       30227873850      47902
+
+565 PGIADC00002047 012961 Raghupathi  S            Junior Resident       30034849305      47902
+
+566 PGIADC00002048 012962 Jagdeesh  K              Junior Resident       20048843855      47902
+
+567 PGIADC00002049 012963 Soundara Rajan L         Junior Resident       32535784137      47902
+
+568 PGIADC00002050 012964 Mohanasundaram A         Junior Resident       31619216146      47902
+
+569 PGIADC00002051 012965 Yaswant Raj Sakaray      Junior Resident       32479883164      47902
+
+570 PGIADC00002052 012966 Raghavendra              Junior Resident       30016722630      47902
+
+571 PGIADC00002053 012967 Shahnawaz  Danish        Junior Resident       20003375626      47902
+
+572 PGIADC00002054 012968 Y M Prashanth            Junior Resident       32481685534      47902
+
+573 PGIADC00002056 012970 Ranjith Kumar R          Junior Resident       20014729835      47902
+
+574 PGIADC00002057 012971 Jayakumar P              Junior Resident       32586323302      47902
+
+575 PGIADC00002058 012972 Kiran Kumar D            Junior Resident       20100722933      47902
+
+576 PGIADC00002059 012973 Jahangir Ahmed Naseem    Junior Resident       32474868287          0
+
+577 PGIADC00002060 012974 Seetharam Thejavth       Junior Resident       32471956303      47902
+
+578 PGIADC00002061 012975 Maneesh Kumar Singh      Junior Resident       20039518688      47902
+
+579 PGIADC00002062 012976 Diptiranjan  Rout        Junior Resident       10994079281      47902
+
+580 PGIADC00002066 012977 Devashish                Junior Resident       32441747918      47902
+
+581 PGIADC00002067 012978 Patel Chirag Kumar       Junior Resident       32468143575      47902
+
+582 PGIADC00002068 012979 Morankar Rahul Gangadha  Junior Resident       32468103698      47902
+
+583 PGIADC00002069 012980 Amita  Thakur            Junior Resident       20100724055      47902
+
+584 PGIADC00002070 012981 Rais  Ahmed              Junior Resident       30637882361      47902
+
+585 PGIADC00002071 012982 Sombir  Singh            Junior Resident       20094323375      43902
+
+586 PGIADC00002072 012983 Vijay  Kumar             Junior Resident       32461774722      47902
+
+587 PGIADC00002073 012984 Tarun  Sharma            Junior Resident       32494842753      47902
+
+588 PGIADC00002074 012985 Gyana Ranjan Sahu        Junior Resident       32499197976      47902
+
+589 PGIADC00002081 012986 Rathna Partheep R        Junior Resident       20085973992      47902
+
+                                                                          Grand Total  28218639
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

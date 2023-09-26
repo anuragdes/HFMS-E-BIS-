@@ -1,0 +1,96 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                    Schedule Report For SLIS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl5                                               
+Demand No  :10120018661  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000298 051148 Kiran  Bala Puri         OTHER (C)             Bio Statistics          36
+
+PGIPER00000301 051078 Santosh   Kumari         OTHER (B)             Anaesthesia And         36
+
+PGIPER00000303 051150 Saroj   Bala             OTHER (C)             Bio Statistics          36
+
+PGIPER00000318 051325 Jagjeet   Jaswal         Data Entry Operator G Computer Sectio         36
+
+PGIPER00000323 051268 Lekh Raj Vyas            Office Superintendent Institute Hoste         25
+
+PGIPER00000324 051320 Parminder Singh Sodhi    Data Entry Operator   Computer Sectio         36
+
+PGIPER00000326 051319 Davinder   Chopra        Data Entry Operator   Computer Sectio         36
+
+PGIPER00000342 051363 Hema  Sonia Saini        OTHER (C)             Bio Statistics          36
+
+PGIPER00000565 051379 Shila   Devi             OTHER (C)             Deptt Of Gynaec         36
+
+PGIPER00000895 051094 Narinder   Kaur          Dental Hygenist       Oral Health Sci         36
+
+PGIPER00000896 051138 Sat  Pal  Bhatia         OTHER (C)             Other                   36
+
+PGIPER00000910 051137 Laxmi   Chand            OTHER (C)             Other                   36
+
+PGIPER00000931 051278 Anjali   Sharma          Sr. Tailor            Centre Store            36
+
+PGIPER00000941 051140 Vijay   Rani             OTHER (C)             Other                   36
+
+PGIPER00000942 051126 Swaran Inderjit Singh    Ophthalmic Photograph Ophthalmology           36
+
+PGIPER00000954 051307 Shiv Kumar kaushal       OTHER (C)             Hindi Section           36
+
+PGIPER00001045 051125 Sukhvinder   Singh       Other                 Forensic Medici         36
+
+PGIPER00001424 051353 Bachhanidhi   Behera     Assistant Dietician   Diet & Kitchen          25
+
+PGIPER00001576 051202 Sangeeta    Singh        OTHER (B)             Physiotherapy1          36
+
+PGIPER00001579 051169 Surinder   Kumar         Suprivisor            Central Sterile         36
+
+PGIPER00001587 051285 Suresh    Pal            Medical Social Worker Oral Health Sci         36
+
+PGIPER00004218 051247 Krishan  Lal             OTHER (A)             Other                   36
+
+PGIPER00004223 051246 Balbir   Singh           OTHER (A)             Other                   25
+
+PGIPER00004225 051053 Tripta   Devi            OTHER (A)             Other                   36
+
+PGIPER00004226 051049 Sumitra   Mehta          OTHER (A)             Other                   36
+
+PGIPER00004231 051066 Gurdeep  Singh           Sanitation Officer    Sanitation              36
+
+PGIPER00004234 051167 Mohinder  Singh          OTHER (C)             Other                   36
+
+PGIPER00004235 051245 Romesh                   Ast.Blood Transf.Offi Other                   25
+
+PGIPER00004237 051054 Davinder   Kaur          Pharmacist(Supett.Dis Other                   36
+
+PGIPER00004239 051050 Pritam   Singh           OTHER (A)             Pharmacology            36
+
+PGIPER00004242 051250 Ramlesh                  Sr. Store Officer     Other                   36
+
+PGIPER00004245 051055 Shashi   Sachdeva        Pharmacist(Supett.Dis Other                   36
+
+PGIPER00004247 051057 Anu   Gupta              Pharmacist(Supett.Dis Other                   36
+
+PGIPER00004256 051269 Mohan Chandra Joshi      OTHER (A)             Other                   36
+
+PGIPER00004257 051249 Arvind Kumar Walia       Asstt. Pub. Relation  Other                   25
+
+PGIPER00004288 051248 Hari  Singh              OTHER (B)             Other                   25
+
+PGIPER00004290 051048 Deep   Rani              Other                 Pharmacology            36
+
+PGIPER00004296 051041 Usha   Kumari            Other                 Other                   36
+
+PGIPER00008666 051116 Jaimal  Singh            Pharmacist Gr.I       Other                   36
+
+PGIPER00008705 051455 Joginder  Kaur           Social Worker         Sanitation              36
+
+                                                                          Grand Total      1374
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

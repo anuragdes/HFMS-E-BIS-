@@ -1,0 +1,238 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Nursing                                                                             
+Sub-Category  :Nu1                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00001633 027105 Manmohan    Kaur         DNS                   10413599238          0
+
+2   PGIPER00001635 027123 Dhanwant    Kaur         ANS                   10413600085          0
+
+3   PGIPER00001639 027131 Vinod   Jolly            DNS                   10413606065      39837
+
+4   PGIPER00001641 027109 Shanta Mahajan           DNS                   10413599374          0
+
+5   PGIPER00001643 027125 Bimla    Verma           DNS                   10413596022      46993
+
+6   PGIPER00001645 027111 Gagan Bala Sharma        DNS                   10413599679      30558
+
+7   PGIPER00001646 027130 Tripta    Sharma         DNS                   10413599975      37577
+
+8   PGIPER00001649 027127 Sudershan   Bansal       DNS                   10413600438      42084
+
+9   PGIPER00001650 027142 Daya    Sharma           ANS                   10413601227      50111
+
+10  PGIPER00001651 027134 Simmerjit   Bhullar      DNS                   10413598166      55175
+
+11  PGIPER00001652 027150 Kiran   Behal            ANS                   10413603495      39456
+
+12  PGIPER00001653 027152 Evelyn Manorma Thorpe    ANS                   10413603814      26438
+
+13  PGIPER00001657 027156 Shobha   Mohini          ANS                   10413604182      36427
+
+14  PGIPER00001659 027148 Urmil Kanta Sharma       ANS                   10413603371      52870
+
+15  PGIPER00001668 027161 Lakhwinder   Kaur        ANS                   10413604273      35532
+
+16  PGIPER00001673 027053 Sodhi Dass Mattu         DNS                   10413652057          0
+
+17  PGIPER00001677 027162 Rajinder Kaur Walia      ANS                   10413604193      42732
+
+18  PGIPER00001699 027171 Santosh   Kumari         Sister Gr. I          10413605324      41380
+
+19  PGIPER00001706 027172 Uma   Rani               Sister Gr. I          10413605277      44675
+
+20  PGIPER00001728 027174 Manjeet   Kaur           Sister Gr. I          10413632799      36142
+
+21  PGIPER00001741 027188 Sarita                   Jr. House Keeper      10413662167      20185
+
+22  PGIPER00001796 027167 Clotilda   Minz          DNS                   10413618561      37387
+
+23  PGIPER00001798 027165 Shobha   Kujur           DNS                   10413619122      40230
+
+24  PGIPER00002197 028608 Manjinder   Kaur         Sister Gr. II         10413670734      43660
+
+25  PGIPER00002200 028696 Manju   Bala             Sister Gr. II         10413672743      27400
+
+26  PGIPER00002201 028613 Devika   Rani            Sister Gr. II         10413670279      36900
+
+27  PGIPER00002202 028615 Bindhya   Sharma         Sister Gr. II         10413670665      33486
+
+28  PGIPER00002203 028669 Daisy K.B Shan           Sister Gr. II         10413673724      42120
+
+29  PGIPER00002205 028628 Dalbir   Kaur            Sister Gr. II         10413672186      40724
+
+30  PGIPER00002207 028634 Amarjit   Kaur           Sister Gr. I          10413672415      37570
+
+31  PGIPER00002208 028640 Rakhel                   Sister Gr. II         10413673871      39360
+
+32  PGIPER00002210 028695 Santosh   Devi           Sister Gr. II         10413672674      25764
+
+33  PGIPER00002211 028674 Anjali                   Sister Gr. II         10413673010      36610
+
+34  PGIPER00002212 028645 Promila   George         Sister Gr. II         10413673598      38802
+
+35  PGIPER00002213 028642 Manshinder   Jit         Sister Gr. II         10413673305      42360
+
+36  PGIPER00002214 028655 Florence   Nayyer        Sister Gr. II         10413672607      26964
+
+37  PGIPER00002215 028692 Agnes                    Sister Gr. II         10413674241      44338
+
+38  PGIPER00002216 028652 Promila                  Sister Gr. II         10413672776      39831
+
+39  PGIPER00002218 028665 Jatinder   Kaur          Sister Gr. II         10413672970      40120
+
+40  PGIPER00002219 028631 Ramandeep   Kaur         Sister Gr. II         10413673101      36452
+
+41  PGIPER00002220 028664 Kiran                    Sister Gr. II         10413673757      34856
+
+42  PGIPER00002221 028663 Jyoti                    Sister Gr. II         10413673735      40736
+
+43  PGIPER00002222 028650 Alka   Mehta             Sister Gr. II         10413673485      40120
+
+44  PGIPER00002224 028636 Kulbir   Kaur            Sister Gr. II         10413673441      34162
+
+45  PGIPER00002225 028658 Asha    Verma            Sister Gr. II         10413673882      35891
+
+46  PGIPER00002226 028648 Harinder   Jit           Sister Gr. II         10413673032      40078
+
+47  PGIPER00002227 028656 Anju   Robert            Sister Gr. II         10413673236      38458
+
+48  PGIPER00002228 028690 Neelam   Bhatti          Sister Gr. II         10413673600      38902
+
+49  PGIPER00002229 028644 Sangeeta                 Sister Gr. II         10413672696      36403
+
+50  PGIPER00002230 028667 Nisha   Rani             Sister Gr. II         10413672595      43160
+
+51  PGIPER00002231 028707 Simar Jit Kaur           Sister Gr. II         10413673225      40610
+
+52  PGIPER00002233 028718 Davinder Kaur Kaur       Sister Gr. II         20100312393      37432
+
+53  PGIPER00002234 028657 Balwinder Kaur Nahar     Sister Gr. II         10413673951      35292
+
+54  PGIPER00002236 028688 Sanju   Kaushal          Sister Gr. II         10413672845      42285
+
+55  PGIPER00002237 028706 Kuljit   Kaur            Sister Gr. II         10413674365      34724
+
+56  PGIPER00002238 028630 Jaswinder   Kaur         Sister Gr. II         10413673394      39585
+
+57  PGIPER00002239 028728 Rajinder Kaur Walia      Sister Gr. II         10413674229      40620
+
+58  PGIPER00002240 028678 Sonia   Puri             Sister Gr. II         10413673383      32663
+
+59  PGIPER00002241 028675 Ranjit   Kaur            Sister Gr. II         10413672981      38400
+
+60  PGIPER00002242 028672 Rupinder   Jeet          Sister Gr. I          10413673156      31860
+
+61  PGIPER00002243 028708 Jagroop   Kaur           Sister Gr. II         10413674025      31299
+
+62  PGIPER00002244 028673 Kamaljit   Kaur          Sister Gr. II         10413673167      37620
+
+63  PGIPER00002245 028710 Navdeep   Kaur           Sister Gr. II         10413673826      39086
+
+64  PGIPER00002246 028711 Amrit Pal Kaur           Sister Gr. II         10413673906      33224
+
+65  PGIPER00002247 028689 Sophia                   Sister Gr. II         10413673644      38913
+
+66  PGIPER00002248 028702 Manpreet   Kaur          Sister Gr. II         10413673984      43667
+
+67  PGIPER00002249 028735 Usha   Rani              Sister Gr. II         10413674489      41031
+
+68  PGIPER00002252 028704 Jasbir   Kaur            Sister Gr. II         10413674478      28221
+
+69  PGIPER00002253 028703 Kanwaljeet   Kaur        Sister Gr. II         10413674309      31348
+
+70  PGIPER00002254 028691 Saroj   Massey           Sister Gr. II         10413662225      27123
+
+71  PGIPER00002255 028719 Rajwinder    Kaur        Sister Gr. II         10413674310      32860
+
+72  PGIPER00002256 028693 Chandana    Kaur         Sister Gr. II         10413674081      30639
+
+73  PGIPER00002257 028694 Venus   Bhatti           Sister Gr. II         10413674456      37403
+
+74  PGIPER00002258 028641 Manjit   Kaur            Sister Gr. II         10413673565      35352
+
+75  PGIPER00002259 028725 Harbhajan   Kaur         Sister Gr. II         10413673270      41430
+
+76  PGIPER00002260 028701 Veena   Samuel           Sister Gr. II         10413674423      36091
+
+77  PGIPER00002261 028730 Poonam   Lata            Sister Gr. II         10413674058      37360
+
+78  PGIPER00002262 028680 Satya   Devi             Sister Gr. I          10413673510      43160
+
+79  PGIPER00002263 028682 Karamjit  kaur Grewal    Sister Gr. II         10413672992      34722
+
+80  PGIPER00002264 028685 Laviza                   Sister Gr. II         10413674230      33155
+
+81  PGIPER00002265 028732 Margaret                 Sister Gr. II         10413673430      35684
+
+82  PGIPER00002266 028722 Surinder   Devi          Sister Gr. II         10413674569      36693
+
+83  PGIPER00002267 028737 Umesh   Kumari           Sister Gr. II         10413674808      35113
+
+84  PGIPER00002268 028716 Harjit   Kaur            Sister Gr. II         10413674263      41110
+
+85  PGIPER00002269 028697 Meena   Dutta            Sister Gr. II         10413673587      38610
+
+86  PGIPER00002270 028739 Sukhvir   Kaur           Sister Gr. II         10413675007      37147
+
+87  PGIPER00002271 028681 Renu   Bala              Sister Gr. II         10413673859      42120
+
+88  PGIPER00002272 028740 Newton                   Sister Gr. II         10413674819      38160
+
+89  PGIPER00002273 028734 Sushila   Rohilla        Sister Gr. II         10413674706      33407
+
+90  PGIPER00002274 028705 Avninder   Kaur          Sister Gr. II         10413674401      44085
+
+91  PGIPER00002275 028712 Ravinder   Kaur          Sister Gr. II         10413673973      30662
+
+92  PGIPER00002279 028713 Anjana   Sharma          Sister Gr. II         10413674376      38860
+
+93  PGIPER00002280 028743 Paramjeet   Kaur         Sister Gr. II         10413674831      27152
+
+94  PGIPER00002281 028698 Amanat   Masih           Sister Gr. II         10413673848      39260
+
+95  PGIPER00002283 028723 Rajan                    Sister Gr. II         10413674570      37039
+
+96  PGIPER00002284 028738 Sandeep   Gill           Sister Gr. II         10413672801      41620
+
+97  PGIPER00002285 028726 Samrat Pal    Kaur       Sister Gr. II         10413674172      32824
+
+98  PGIPER00002315 028731 Urmila   Dass            Sister Gr. II         10413673576      34052
+
+99  PGIPER00002378 027194 Anu   Kumari             Jr. House Keeper      10413711740      17477
+
+100 PGIPER00007851 027129 Vinod   Sethi            DNS                   10413600449      49193
+
+101 PGIPER00008013 028671 Kulwinder                Sister Gr. I          10413673327      36662
+
+102 PGIPER00008021 028654 Raibka   Singh           Sister Gr. II         10413672618      41824
+
+103 PGIPER00008064 028699 Sangeeta Gill Rana       Sister Gr. II         10413673350      37464
+
+104 PGIPER00008069 028622 Mehar    Kaur            Sister Gr. II         10413670439      35231
+
+105 PGIPER00008083 027071 Gurmit K Bagi            DNS                   10413618287      42864
+
+106 PGIPER00008112 028717 Gasten    Masih          Sister Gr. II         10413674343      44155
+
+107 PGIPER00008131 028721 Anu   Radha              Sister Gr. II         10413662009      42945
+
+108 PGIPER00008134 028627 Archana    Bansal        Sister Gr. II         10413670508      39550
+
+109 PGIPER00008161 028670 Seema   Rani             Sister Gr. II         10413672448      37120
+
+110 PGIPER00008353 027170 Suman  Lata              Sister Gr. II         10413635778      29230
+
+111 PGIPER00008930 028744 Kuljinder  Singh         Jr. House Keeper      32505720938      13324
+
+                                                                          Grand Total   3988828
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

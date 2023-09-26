@@ -1,0 +1,198 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl3                                               
+Demand No  :10120018641  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000005 041024 Madan   Lal              Other                 Establishment          152
+
+PGIPER00000012 041113 Rekha  Rani              A L I O               Administration         102
+
+PGIPER00000018 041039 Anita   Sachdeva         Other                 Administration         100
+
+PGIPER00000020 041151 Dhirendra  Singh Negi    Other                 Medical Microbi        100
+
+PGIPER00000022 041021 Devi Bai Malhotra        Clerk                 National Instit        170
+
+PGIPER00000030 041010 Ratna   Barua            Office Superintendent Administration         100
+
+PGIPER00000033 041011 Ved    Parkash           Office Superintendent Training Branch        152
+
+PGIPER00000042 041038 Sunita   Kumari          Other                 X R A Y                100
+
+PGIPER00000052 041036 Neelam   Bakshi          Other                 M.S.Office             102
+
+PGIPER00000060 041067 Rameshawar   Yadava      Other                 Nursing Cell           150
+
+PGIPER00000061 041058 Gopalakrishna   Pillai   OTHER (B)             Administration         152
+
+PGIPER00000065 041119 Dil Bahadur Thapa        Clerk                 Accounts               152
+
+PGIPER00000066 041174 Dharam   Singh           Clerk                 Accounts               102
+
+PGIPER00000067 041162 Sunita Mahajan Rana      Clerk                 Accounts               152
+
+PGIPER00000070 041261 Bimla   Sharma           Lower Division Clerk  Accounts               152
+
+PGIPER00000072 041139 Satish   Kumar           Clerk                 Accounts               152
+
+PGIPER00000076 041127 Kulwant  Kaur            Asst.Cashier          Accounts               152
+
+PGIPER00000078 041185 Sulakshan   Ram          Clerk                 Accounts               100
+
+PGIPER00000079 041237 Reena   Datta            Lower Division Clerk  Accounts               102
+
+PGIPER00000080 041093 Bajrang   Bali           Clerk                 Accounts               170
+
+PGIPER00000085 041191 Dharminder               Asst.Cashier          Accounts               102
+
+PGIPER00000086 041172 Rakesh   Sharma          Clerk                 Accounts               152
+
+PGIPER00000087 041286 Harwinder  Singh         Lower Division Clerk  Transport              150
+
+PGIPER00000092 041109 Virender  Kumar          Jr. Auditor           Accounts               102
+
+PGIPER00000094 041107 Sanjay  Sharma           Jr. Auditor           Accounts               100
+
+PGIPER00000096 041271 Rajender  Singh          Jr. Auditor           Accounts               102
+
+PGIPER00000097 041143 Kulwinder   Kaur         Auditor               Accounts               152
+
+PGIPER00000100 041076 Pawan Kumar Sharma       Other                 Accounts               100
+
+PGIPER00000101 041055 Anup  Kumar              Toxi Cologist         Accounts               102
+
+PGIPER00000111 041116 Kaushalya   Devi         Clerk                 Accounts               170
+
+PGIPER00000117 041131 Aruna   Sharma           Other                 Advance Pediatr        152
+
+PGIPER00000118 041134 Anu   Sharma             Other                 Paediatric Surg        102
+
+PGIPER00000119 041183 Piar Chand Soni          Clerk                 Administration         102
+
+PGIPER00000122 041175 Harjeet   Singh          Clerk                 Radiotherapy           100
+
+PGIPER00000123 041176 Rajni   Chandna          Clerk                 Cytology               102
+
+PGIPER00000125 041198 Parveen  Kumar           Clerk                 Administration         102
+
+PGIPER00000128 041149 Kiran   Amritsar         Clerk                 Administration         152
+
+PGIPER00000129 041150 Ram Yash Yadav           Clerk                 Radiology              150
+
+PGIPER00000130 041164 Hoshiar   Singh          Clerk                 Accounts               152
+
+PGIPER00000132 041159 Paramjit  Singh          Clerk                 Nursing Cell           152
+
+PGIPER00000133 041157 Jasbir  Singh            Clerk                 Cardiology             152
+
+PGIPER00000135 041155 Subash   Parwana         Clerk                 Ophthalmology          102
+
+PGIPER00000136 041170 Krishan Kumar Sharma     Clerk                 Nursing Cell           152
+
+PGIPER00000140 041190 Desh Raj Rana            Clerk                 Other                  152
+
+PGIPER00000143 041201 Vipan   Kumar            Clerk                 Establishment          100
+
+PGIPER00000144 041202 Ranbir   Singh           Clerk                 Estate Branch -        102
+
+PGIPER00000148 041181 Balwant  Singh Rawat     Clerk                 Other                  102
+
+PGIPER00000149 041179 Ravinder  Singh          Clerk                 Radiology              150
+
+PGIPER00000151 041186 Kali    Dass             Clerk                 Legal Cell             100
+
+PGIPER00000156 041124 Bhupinder Singh Brar     Stenographer          Advance Eye Cen        106
+
+PGIPER00000157 041136 Madan Lal Pant           Other                 Other                  152
+
+PGIPER00000163 041089 Jagan   Nath             Clerk                 Director Office        100
+
+PGIPER00000167 041099 Daya Dhar Pant           Asst.Cashier          Accounts               102
+
+PGIPER00000168 041092 Onkar  Chand             Other                 Radio Diagnosis        100
+
+PGIPER00000170 041100 Karam   Chand            Other                 Radiology              152
+
+PGIPER00000171 041105 Baljit   Kaur            Clerk                 Histopathology         152
+
+PGIPER00000172 041103 Sukhdev Singh Rana       Other                 Advance Pediatr        102
+
+PGIPER00000173 041096 Parveen   Gupta          Clerk                 Photography            102
+
+PGIPER00000174 041094 Anil   Kumar             Clerk                 Accounts               152
+
+PGIPER00000177 041108 Subhash   Chander        Clerk                 Medical Educati        100
+
+PGIPER00000179 041251 Jaswinder   Singh        Lower Division Clerk  Neurosurgery           102
+
+PGIPER00000184 041229 Rajesh   Prasad          Lower Division Clerk  Establishment          152
+
+PGIPER00000188 041248 Raj   Kumar              Upper Division Clerk  Estate Branch -        100
+
+PGIPER00000194 041228 Atma   Ram               Lower Division Clerk  Procurement Bra        102
+
+PGIPER00000195 041226 Vinod    Kumar           Upper Division Clerk  Procurement Bra        100
+
+PGIPER00000199 041243 Harbhajan Singh Bhatti   Upper Division Clerk  M.S.Office             102
+
+PGIPER00000201 041244 Gurdeep   Singh          Lower Division Clerk  Other                  102
+
+PGIPER00000205 041232 Rajesh   Kumar           Lower Division Clerk  Radio Diagnosis        102
+
+PGIPER00000220 041262 Ajay   Kumar             Lower Division Clerk  Vigilance Cell         102
+
+PGIPER00000229 041266 Kailash   Kumar          Lower Division Clerk  Anatomy                100
+
+PGIPER00000231 041275 Prem   Singh             Lower Division Clerk  Accounts               102
+
+PGIPER00000237 041285 Lajwanti                 Lower Division Clerk  Radio Diagnosis        102
+
+PGIPER00000239 041287 Jeevan   Kumar           Lower Division Clerk  Biochemistry           102
+
+PGIPER00000242 041290 Ashok   Kumar            Lower Division Clerk  Training Branch        100
+
+PGIPER00000394 041057 Shanta   Kapoor          Other                 Other                  170
+
+PGIPER00000434 041163 Veena                    Clerk                 Accounts               152
+
+PGIPER00000441 041203 Charanjit   Kaur         Clerk                 Immunopathology        100
+
+PGIPER00000458 041292 Sachin   Sharma          Lower Division Clerk  Establishment          100
+
+PGIPER00001056 041147 Gian   Chand             Clerk                 Other                  102
+
+PGIPER00001063 041054 Ashok   Kumar            Other                 Haematology            152
+
+PGIPER00001065 041144 Anita   Rani             Other                 Estate Branch -        152
+
+PGIPER00001071 041062 Rattan Singh Verma       Clerk                 Training Branch        100
+
+PGIPER00001131 041078 Swarn   Singh            Asstt.Admn.Officer    Other                  152
+
+PGIPER00007842 041299 R. Vijay Vardhan  Rao    Lower Division Clerk  Establishment          102
+
+PGIPER00007843 041295 Subhash Chandra Yadav    Lower Division Clerk  Estate Branch -        102
+
+PGIPER00007844 041300 Jaswant  Singh           Lower Division Clerk  Accounts               102
+
+PGIPER00008077 041294 Prashant   Kumar         Lower Division Clerk  Estate Branch -        102
+
+PGIPER00008078 041293 Pinku Kr Sinha           Lower Division Clerk  Legal Cell             100
+
+PGIPER00008683 041296 Neelam  Kumari           Clerk                 Procurement Bra        102
+
+PGIPER00008684 041297 Bimal Kumar Yadav        Clerk                 Procurement Bra        102
+
+PGIPER00008685 041298 Ajay  Kumar              Clerk                 Procurement Bra        100
+
+                                                                          Grand Total     11006
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

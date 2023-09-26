@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER actpns_pension_commuted_trn
+  AFTER UPDATE OR DELETE
+  ON actpay.actpns_pension_commuted_trn
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpns_pension_commuted_trn_log(gnum_sl_no,str_employee_no,num_amount,str_rec_status,dt_rec_start_date,dt_rec_end_date,gnum_isvalid,gnum_seat_id,gdt_entry_date,gdt_lstmod_date
+,gnum_lstmod_seatid,gnum_hospital_code,num_comm_sl_no,strremark) 
+ select :old.gnum_sl_no,:old.str_employee_no,:old.num_amount,:old.str_rec_status,:old.dt_rec_start_date,Old.dt_rec_end_date,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date
+,:old.gnum_lstmod_seatid,:old.gnum_hospital_code,:old.num_comm_sl_no,:old.strremark from actpay.actpns_pension_commuted_trn
+where str_employee_no=:new.str_employee_no and   gnum_sl_no=:new.gnum_sl_no;
+END;

@@ -1,0 +1,128 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl4                                               
+Demand No  :10120018651  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00000009 043109 Vijay  Kumar Ahuja       OS        Administration 162716325           410
+
+PGIPER00000014 043125 Suresh   Pal             Clerk     Estate Branch  161810783           496
+
+PGIPER00000014 043125 Suresh   Pal             Clerk     Estate Branch  171514696           147
+
+PGIPER00000038 043116 Amarjit Singh Heer       Other     Emergency      160588545           143
+
+PGIPER00000038 043116 Amarjit Singh Heer       Other     Emergency      162740180           721
+
+PGIPER00000113 043100 Sansar   Chand           Clerk     Anaesthesia An 161912763           584
+
+PGIPER00000113 043100 Sansar   Chand           Clerk     Anaesthesia An 163013029           537
+
+PGIPER00000115 043119 Neelam   Rani            Clerk     Advance Pediat 161731130           482
+
+PGIPER00000115 043119 Neelam   Rani            Clerk     Advance Pediat 162642333           319
+
+PGIPER00000294 041085 Jeet  Ram                StrKeepr  Radio Diagnosi 160801598           215
+
+PGIPER00000294 041085 Jeet  Ram                StrKeepr  Radio Diagnosi 162839322           422
+
+PGIPER00000294 041085 Jeet  Ram                StrKeepr  Radio Diagnosi 162839547           395
+
+PGIPER00000304 043121 Kuldip Kumar Sharma      Leg.Ast.  Legal Cell     162049856           144
+
+PGIPER00000304 043121 Kuldip Kumar Sharma      Leg.Ast.  Legal Cell     162470591           178
+
+PGIPER00000306 041035 Gurcharan    Singh       StrKeepr  Centre Store   160890673           491
+
+PGIPER00000306 041035 Gurcharan    Singh       StrKeepr  Centre Store   160941055           225
+
+PGIPER00000306 041035 Gurcharan    Singh       StrKeepr  Centre Store   162839622           544
+
+PGIPER00000309 041070 Ramesh   Lal             StrKeepr  Pathology      617773455           298
+
+PGIPER00000310 041074 Rajni   Devi             StrKeepr  Sanjivini Host 170619775           284
+
+PGIPER00000313 041072 Jaspal  Singh            StrKeepr  Other          161777202           231
+
+PGIPER00000314 043022 Shanti   Ram             StrKeepr  Cardiology     163034094           710
+
+PGIPER00000314 043022 Shanti   Ram             StrKeepr  Cardiology     163729772           800
+
+PGIPER00000314 043022 Shanti   Ram             StrKeepr  Cardiology     163729773           566
+
+PGIPER00000314 043022 Shanti   Ram             StrKeepr  Cardiology     163729774           797
+
+PGIPER00000317 043131 Yogesh   Sharma          StrKeepr  Ophthalmology  162296298           472
+
+PGIPER00000317 043131 Yogesh   Sharma          StrKeepr  Ophthalmology  163038066          1086
+
+PGIPER00000329 043024 Dilbag Singh Jarial      StrKeepr  Advance Pediat 160890283          1277
+
+PGIPER00000331 043140 Shriman   Singh          StrKeepr  Estate Branch  170619421           227
+
+PGIPER00000331 043140 Shriman   Singh          StrKeepr  Estate Branch  170619882           129
+
+PGIPER00000339 043145 Paramvir Singh Godray    StrKeepr  Other          163030921           841
+
+PGIPER00000339 043145 Paramvir Singh Godray    StrKeepr  Other          164564466           789
+
+PGIPER00000347 043133 Rajeev   Awasthi         StrKeepr  Other          16229965            470
+
+PGIPER00000347 043133 Rajeev   Awasthi         StrKeepr  Other          163030919           441
+
+PGIPER00000348 043134 Virendra Pratap Singh    StrKeepr  Other          162296948           554
+
+PGIPER00000348 043134 Virendra Pratap Singh    StrKeepr  Other          162641665           276
+
+PGIPER00000348 043134 Virendra Pratap Singh    StrKeepr  Other          162641697           248
+
+PGIPER00000348 043134 Virendra Pratap Singh    StrKeepr  Other          162800712           870
+
+PGIPER00000348 043134 Virendra Pratap Singh    StrKeepr  Other          163155817           538
+
+PGIPER00000349 043136 Sanjeev  Kumar Bhalla    OTH       Other          162606958           275
+
+PGIPER00000349 043136 Sanjeev  Kumar Bhalla    OTH       Other          163155773           268
+
+PGIPER00000350 043135 Surinder Singh Rawat     StrKeepr  Other          162505796           550
+
+PGIPER00000350 043135 Surinder Singh Rawat     StrKeepr  Other          162606957           227
+
+PGIPER00000350 043135 Surinder Singh Rawat     StrKeepr  Other          163155775M          688
+
+PGIPER00000440 043102 Mahi   Pal               Clerk     Advance Pediat 161912968           334
+
+PGIPER00000440 043102 Mahi   Pal               Clerk     Advance Pediat 162384230           549
+
+PGIPER00000440 043102 Mahi   Pal               Clerk     Advance Pediat 163013475           345
+
+PGIPER00000440 043102 Mahi   Pal               Clerk     Advance Pediat 163014796           331
+
+PGIPER00000808 043150 Rohit   Sharma           StrKeepr  Sanitation     162229637           146
+
+PGIPER00001078 043101 Surmukh   Singh          Clerk     Other          162740173           742
+
+PGIPER00001078 043101 Surmukh   Singh          Clerk     Other          163013953          1347
+
+PGIPER00004217 041148 Rajesh  Kumar            Clerk     Other          162470012           282
+
+PGIPER00004219 041125 Lakha  Singh             Clerk     Other          160801574           277
+
+PGIPER00004220 041114 Lakhbir   Singh          Wd.Serv.  Other          161777204           284
+
+PGIPER00004269 041146 Vinod  Krishan  Sharma   Clerk     Other          162642980           556
+
+PGIPER00004285 043129 Reshma                   Clerk     Other          162641975           603
+
+PGIPER00008679 043123 Hukam   Singh            UD.Clerk  Administration 160941223           141
+
+                                                                          Grand Total     26302
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

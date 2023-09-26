@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="Configuration Master" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+<OPR ID="1" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 UPDATE actpay_sal_sub_cat_mst SET STR_CATEGORY_CODE=?,STR_CATEGORY_TYPE=?,STR_SUB_CATEGORY_NAME=?,GDT_EFFECTIVE_FRM=TO_DATE(?,'DD-MON-YYYY'),GDT_EFFECTIVE_TO=TO_DATE(?,'DD-MON-YYYY'),GNUM_ISVALID=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=?,GSTR_REMARKS=?,gnum_hospital_code=? WHERE  GNUM_SLNO=? AND NUM_SAL_SUB_CAT_ID=?
+	 </QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="2" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	  UPDATE actpay_sal_sub_cat_mst T  SET T.GNUM_ISVALID=0,T.GDT_ENTRY_DATE=?, T.GNUM_SEAT_ID=? WHERE  T.NUM_SAL_SUB_CAT_ID=? AND T.GNUM_SLNO=? AND T.GNUM_HOSPITAL_CODE=?
+     </QRY>
+   </BLOCK>
+</OPR>
+
+<OPR ID="3" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	  insert into actpay_sal_sub_cat_mst  (NUM_SAL_SUB_CAT_ID,STR_SUB_CATEGORY_NAME,STR_CATEGORY_CODE,GNUM_SLNO,GDT_EFFECTIVE_FRM,GDT_EFFECTIVE_TO,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GSTR_REMARKS,GNUM_HOSPITAL_CODE,STR_CATEGORY_TYPE) values (?,?,?,?,?,?,?,?,?,?,?,?)
+     </QRY>
+   </BLOCK>
+</OPR>
+
+</tns:Transaction>

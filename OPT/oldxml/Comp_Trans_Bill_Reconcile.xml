@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="COMPILATION" PROCESS_NAME="act_catMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+  
+    <OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 INSERT INTO  actcom_b_reconcile_trn (STR_BILL_NUMBER,DT_BILL_DATE,STR_RECEIVED_THROUGH,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_CHEQUE_NUMBER,STR_CHEQUE_DATE,NUM_CHEQUE_AMT,STR_RECONCILE,STR_RECONCILE_DATE,STR_RECONCILE_REMARKS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	 <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actcom_b_inst_trn  SET STR_STATUS_CODE=? WHERE STR_BILL_NUMBER=?
+	 </QRY>
+	 </BLOCK>
+	
+	
+</OPR>
+
+
+
+    <OPR ID="2" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 INSERT INTO  actcom_b_reconcile_trn (STR_BILL_NUMBER,DT_BILL_DATE,STR_RECEIVED_THROUGH,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_CHEQUE_NUMBER,STR_CHEQUE_DATE,NUM_CHEQUE_AMT,STR_RECONCILE,STR_RECONCILE_DATE,STR_RECONCILE_REMARKS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	 <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actcom_b_inst_trn  SET STR_STATUS_CODE=? WHERE STR_BILL_NUMBER=?
+	 </QRY>
+	 </BLOCK>
+	
+	
+</OPR>
+
+ 
+
+ 
+</tns:Transaction>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

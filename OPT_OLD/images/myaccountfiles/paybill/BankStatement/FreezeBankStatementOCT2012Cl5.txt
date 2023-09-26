@@ -1,0 +1,438 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Miscellaneous                                                                       
+Sub-Category  :Cl5                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000292 051080 Hardeep Singh Batu       OTHER (C)             10413631401      24195
+
+2   PGIPER00000295 051195 Jagjivan   Singh         Book Binder           10413624154      14855
+
+3   PGIPER00000296 051194 Parkash   Chand          Book Binder           10413648802      17594
+
+4   PGIPER00000298 051148 Kiran  Bala Puri         OTHER (C)             10413603994      18643
+
+5   PGIPER00000299 051149 Meena   Pardasani        OTHER (C)             10413653855      16892
+
+6   PGIPER00000300 051193 Suresh Kumar Sharma      Book Binder           10413616608      20224
+
+7   PGIPER00000301 051078 Santosh   Kumari         OTHER (B)             10413642719      20502
+
+8   PGIPER00000303 051150 Saroj   Bala             OTHER (C)             10413621685      21280
+
+9   PGIPER00000318 051325 Jagjeet   Jaswal         Data Entry Operator G 10413681678      28378
+
+10  PGIPER00000319 051323 Rakesh   Bhardwaj        Clerk                 10413681555      11454
+
+11  PGIPER00000320 051324 Neeru   Sood             Clerk                 10413681500      23730
+
+12  PGIPER00000321 051331 Ravinder Kaur Bhamra     DPA Gr.'A'            10413683541      26814
+
+13  PGIPER00000322 051362 Omkar    Singh           OTHER (C)             10413701516      22619
+
+14  PGIPER00000323 051268 Lekh Raj Vyas            Office Superintendent 10413611214      19962
+
+15  PGIPER00000324 051320 Parminder Singh Sodhi    Data Entry Operator   10413681317      16042
+
+16  PGIPER00000325 051318 Amar   Kant              Data Entry Operator   10413651610      18788
+
+17  PGIPER00000326 051319 Davinder   Chopra        Data Entry Operator   10413681226      20042
+
+18  PGIPER00000327 051317 Chinu   Arora            Data Entry Operator   20089827824      28436
+
+19  PGIPER00000332 051183 Usha   Rani              Sr.Lib. And Inf. Assi 10413656674      16888
+
+20  PGIPER00000340 051364 Sheela   Rohilla         Data Entry Operator   10413701538      17813
+
+21  PGIPER00000341 051367 Sandeep   Suri           Data Entry Operator   10413701505      18619
+
+22  PGIPER00000342 051363 Hema  Sonia Saini        OTHER (C)             10413701527      15663
+
+23  PGIPER00000345 051370 Parminder   Kaur         Data Entry Operator   10413703841      24369
+
+24  PGIPER00000565 051379 Shila   Devi             OTHER (C)             10413632198      19178
+
+25  PGIPER00000894 051108 Joginder  Singh Pathani  OTHER (C)             10413634548      19653
+
+26  PGIPER00000895 051094 Narinder   Kaur          Dental Hygenist       10413642505      28410
+
+27  PGIPER00000896 051138 Sat  Pal  Bhatia         OTHER (C)             10413608267      22046
+
+28  PGIPER00000899 051286 Jai   Singh              OTHER (C)             10413664573      13663
+
+29  PGIPER00000900 051306 Mohan   Singh            Dup.Machine Operator  10413631536      15562
+
+30  PGIPER00000901 051189 Onkar   Singh            Sr. Libary Attendent  10413604614      34395
+
+31  PGIPER00000910 051137 Laxmi   Chand            OTHER (C)             10413611633      20685
+
+32  PGIPER00000916 051109 Kuldeep Kumar Soni       OTHER (C)             10413622146      21840
+
+33  PGIPER00000927 051293 Poonam   Kumari          Sr. Tailor            10413667596      12511
+
+34  PGIPER00000928 051288 Harish   Chand           Dark Room Attendant   10413651064      15820
+
+35  PGIPER00000929 051281 Renu Bala Gill           Dental Room Operator  10413662430      16993
+
+36  PGIPER00000930 051280 Karampal   Kaur          Dental Operating Room 10413662441      19719
+
+37  PGIPER00000931 051278 Anjali   Sharma          Sr. Tailor            10413662112      22573
+
+38  PGIPER00000932 051279 Asha   Rani              Sr. Tailor            10413662123      23718
+
+39  PGIPER00000934 051276 Gurshabad   Dulari       OTHER (C)             10413637980      31684
+
+40  PGIPER00000941 051140 Vijay   Rani             OTHER (C)             10413654316       7908
+
+41  PGIPER00000942 051126 Swaran Inderjit Singh    Ophthalmic Photograph 10413654269      36446
+
+42  PGIPER00000948 051104 Parvinder   Kaur         Dental Operating Room 10413646247      22051
+
+43  PGIPER00000950 051315 Vijay    Kumar           OTHER (C)             10413657226      17018
+
+44  PGIPER00000951 051312 Simmi   kapoor           OTHER (C)             10413680211      18896
+
+45  PGIPER00000952 051313 Balwinder  Kaur          OTHER (C)             10413680404      16059
+
+46  PGIPER00000953 051311 Vinod   Kumar            OTHER (C)             10413680324      20626
+
+47  PGIPER00000954 051307 Shiv Kumar kaushal       OTHER (C)             10413631069      24659
+
+48  PGIPER00000956 051305 Neelam   Kumari          Dental Operating Room 10413674581      16682
+
+49  PGIPER00000957 051303 Nasima                   Sr. Tailor            10413673123      16874
+
+50  PGIPER00000959 051294 Dharamjit   Singh        Technical Artist      10413667880      28896
+
+51  PGIPER00000960 051283 Parveen   Rani           Dental Operating Room 10413662429      20009
+
+52  PGIPER00000961 051336 Jagdish   Chander        OTHER (C)             10413686632      21282
+
+53  PGIPER00000962 051334 Kamal   Behl             OTHER (C)             10413686676      17382
+
+54  PGIPER00000963 051341 Manoj Kumar Dhawan       OTHER (C)             10413630225      26597
+
+55  PGIPER00000964 051338 Sunita   Rani            OTHER (C)             10413686542      18625
+
+56  PGIPER00000965 051339 Sunita   Devi            OTHER (C)             10413686575      11273
+
+57  PGIPER00000966 051342 Hira   Singh             OTHER (C)             10413688493      18031
+
+58  PGIPER00000967 051337 Meena Kumari Verma       OTHER (C)             10413686520      19569
+
+59  PGIPER00000969 051335 Ashok   Kumar            OTHER (C)             10413686519      16082
+
+60  PGIPER00000971 051340 Rupinderjit   Kaur       OTHER (C)             10413686531      16625
+
+61  PGIPER00000973 051332 Jaspal   Singh           OTHER (C)             10413682989      15680
+
+62  PGIPER00000974 051330 Rajesh  Kumar            Dental Mechanic Grade 10413683563      23713
+
+63  PGIPER00000990 051361 Phool   Chand            OTHER (C)             10413658672      19937
+
+64  PGIPER00000994 051358 Reeta                    Dental Operating Room 10413698296      14796
+
+65  PGIPER00000995 051368 Kanti                    OTHER (C)             10413703206      15887
+
+66  PGIPER00000997 051369 Pankaj    Kumar          OTHER (C)             10413676351      16689
+
+67  PGIPER00001001 051418 Sukhwinder   Singh       OTHER (C)             10413647489      17073
+
+68  PGIPER00001003 051417 Monika   Saini           OTHER (C)             30105091714      23834
+
+69  PGIPER00001005 051414 Amit   Kumar             OTHER (C)             31030991573      27778
+
+70  PGIPER00001006 051412 AmritPal Singh Sood      OTHER (C)             30095589024      27778
+
+71  PGIPER00001007 051413 Binod Kumar Pandey       OTHER (C)             10413699845      27141
+
+72  PGIPER00001008 051352 Jyotsana   Sharma        OTHER (C)             10413620400      16227
+
+73  PGIPER00001009 051409 krishan   Dutt           OTHER (C)             10413751750      14538
+
+74  PGIPER00001011 051380 Suresh   Kumar           OTHER (C)             10413708828      21558
+
+75  PGIPER00001012 051403 Rajan   Kumar            OTHER (C)             10413713623      14183
+
+76  PGIPER00001013 051402 Narinder   Singh         OTHER (C)             10413714264       7208
+
+77  PGIPER00001014 051376 Rama   Malhotra          Other                 10413650661      28459
+
+78  PGIPER00001015 051397 Rakesh   Dogra           OTHER (C)             10413689917      12594
+
+79  PGIPER00001016 051373 Manpreet Singh Arora     OTHER (C)             10413683438      20189
+
+80  PGIPER00001017 051394 Sanjeev   Kumar          Jr.Speech Therapist   10413684523      32339
+
+81  PGIPER00001020 051392 Abhijeet Singh Jadon     OTHER (C)             10413716205      22679
+
+82  PGIPER00001023 051432 Sukhdeep Singh Uppal     OTHER (C)             30623731735      23459
+
+83  PGIPER00001035 051433 Sandeep   Negi           OTHER (C)             10413699685      23499
+
+84  PGIPER00001041 051115 Mulam   Singh            OTHER (C)             10413655558      12743
+
+85  PGIPER00001043 051114 Gurmeet   Singh          OTHER (C)             10413622601      16463
+
+86  PGIPER00001044 051113 Sagar   Chandrana        OTHER (C)             10413653572      13010
+
+87  PGIPER00001045 051125 Sukhvinder   Singh       Other                 10413650934      29477
+
+88  PGIPER00001419 051291 Bibek   Adhya            Other                 10413666706      31713
+
+89  PGIPER00001424 051353 Bachhanidhi   Behera     Assistant Dietician   10413697463      30799
+
+90  PGIPER00001427 051344 Baldhi Raj Singh         Security Officer      10413689429      30194
+
+91  PGIPER00001437 051442 Dr. Asha   Rani          Medical Social Worker 30886108650      27218
+
+92  PGIPER00001450 051391 Jyotsna                  Sr.Lib. And Inf. Assi 10413715778      31111
+
+93  PGIPER00001452 051178 Jeevanjyot               Sr.Lib. And Inf. Assi 10413654928      37494
+
+94  PGIPER00001474 051411 Deepika   Puri           Assistant Dietician   30073953499      25203
+
+95  PGIPER00001476 051390 Deepika                  Sr.Lib. And Inf. Assi 10413715360      30111
+
+96  PGIPER00001485 051439 Monika                   Sr.Lib. And Inf. Assi 10445120294      23202
+
+97  PGIPER00001487 051440 Mutyalamma   Gorle       Assistant Dietician   30035233103      25165
+
+98  PGIPER00001493 051351 Mukesh   Kumar           Sr.Lib. And Inf. Assi 10413695794      28255
+
+99  PGIPER00001496 051322 Kiran                    Lib.Infor.Asstt.      10413681577      29626
+
+100 PGIPER00001498 051374 Kusum   Lata             Medical Social Worker 10413656153      28636
+
+101 PGIPER00001500 051093 Meenakshi  Sharma        OTHER (B)             10413618196      30711
+
+102 PGIPER00001513 051174 Neelima                  Sr.Lib. And Inf. Assi 10413654768      35612
+
+103 PGIPER00001516 051348 Narinder Kumar Prarthi   Other                 10413691937      27343
+
+104 PGIPER00001519 051214 Niranjan  Singh          Asstt.Admn.Officer    10413627495      33920
+
+105 PGIPER00001530 051407 Prit  Pal                Medical Social Worker 30016414478      32188
+
+106 PGIPER00001532 051406 Pardeep  Kumar           Medical Social Worker 30016365462      31934
+
+107 PGIPER00001535 051429 Perminder   Toor         Medical Social Worker 30186634033      28779
+
+108 PGIPER00001541 051290 Dr. Raghunath   Sahoo    OTHER (A)             10413666897      33943
+
+109 PGIPER00001569 051399 Rajesh  Kumar            Fire Officer          10413723711      29993
+
+110 PGIPER00001576 051202 Sangeeta    Singh        OTHER (B)             10413630995      32738
+
+111 PGIPER00001579 051169 Surinder   Kumar         Suprivisor            10413628921      28075
+
+112 PGIPER00001580 051345 Sanjay Kumar Trikha      Asstt.Admn.Officer    10413689418      26478
+
+113 PGIPER00001585 051408 Suman   Gautam           Medical Social Worker 30016343153      32498
+
+114 PGIPER00001587 051285 Suresh    Pal            Medical Social Worker 10413626649      28524
+
+115 PGIPER00001588 051166 Shavinder   Rai          Suprivisor            10413603155      31124
+
+116 PGIPER00001591 051089 Sudha  Rani              Medical Social Worker 10413654565      24620
+
+117 PGIPER00001594 051186 Shivani                  Sr.Lib. And Inf. Assi 10413656992      30031
+
+118 PGIPER00001600 051428 Surinder Pal Kaur        Medical Social Worker 30186635741          0
+
+119 PGIPER00001601 051297 Upendra Nath Goswami     Other                 10413671411      26612
+
+120 PGIPER00001602 051427 Shikha   Tyagi           Medical Social Worker 30186986096      28779
+
+121 PGIPER00001604 051360 Usha   Devi              Sr.Lib. And Inf. Assi 10413699867      28636
+
+122 PGIPER00001605 051430 Sunila   Chhetri         Assistant Dietician   30020883169      27975
+
+123 PGIPER00001611 051441 Sukhjinder   Singh       Assistant Dietician   30857755089      27218
+
+124 PGIPER00001619 051141 Joban   Kumar            OTHER (C)             10413655547      18242
+
+125 PGIPER00002751 051431 Balrajinder  Kaur        OTHER (B)             30412847718      24963
+
+126 PGIPER00003948 051181 Kalpana   Rani           Sr. Libary Attendent  10413653447      15892
+
+127 PGIPER00003952 051459 Surinder   Singh         Dark Room Attendant   10413689804      15134
+
+128 PGIPER00003955 051458 Salim   Kalyan           Dark Room Attendant   10413675041      12050
+
+129 PGIPER00004218 051247 Krishan  Lal             OTHER (A)             10413614522      23260
+
+130 PGIPER00004223 051246 Balbir   Singh           OTHER (A)             10413607922      28905
+
+131 PGIPER00004225 051053 Tripta   Devi            OTHER (A)             10413628422      27567
+
+132 PGIPER00004226 051049 Sumitra   Mehta          OTHER (A)             10413613595      34875
+
+133 PGIPER00004228 051309 Amrit  Pal  Kaur         OTHER (C)             10413676907      28570
+
+134 PGIPER00004230 051277 Alka   Rani              Pharmacist Gr.I       10413661811      27612
+
+135 PGIPER00004231 051066 Gurdeep  Singh           Sanitation Officer    10413656754      20673
+
+136 PGIPER00004232 051310 Anjana    Verma          OTHER (C)             10413676894      28352
+
+137 PGIPER00004234 051167 Mohinder  Singh          OTHER (C)             10413638098      22117
+
+138 PGIPER00004235 051245 Romesh                   Ast.Blood Transf.Offi 10413614293      31521
+
+139 PGIPER00004236 051387 Kumari  Pramila          OTHER (C)             10413713113      11188
+
+140 PGIPER00004237 051054 Davinder   Kaur          Pharmacist(Supett.Dis 10413617726      27076
+
+141 PGIPER00004238 051069 Basant   Kumar           Sanitation Officer    10413655434      21588
+
+142 PGIPER00004239 051050 Pritam   Singh           OTHER (A)             10413613528      32630
+
+143 PGIPER00004240 051308 Anil   Kumar             OTHER (C)             10413676769      25354
+
+144 PGIPER00004241 051389 Sonia   Rani             OTHER (C)             10413703513      16463
+
+145 PGIPER00004242 051250 Ramlesh                  Sr. Store Officer     10413655819      22070
+
+146 PGIPER00004243 051382 Nitika    Chandel        OTHER (C)             10413712982      14942
+
+147 PGIPER00004244 051071 Ravi Dutt Sharma         Sanitary Inspector    10413653287      34525
+
+148 PGIPER00004245 051055 Shashi   Sachdeva        Pharmacist(Supett.Dis 10413641908      37417
+
+149 PGIPER00004246 051357 Jai Prakash Sachan       Sanitary Inspector Gr 10413698138      28867
+
+150 PGIPER00004247 051057 Anu   Gupta              Pharmacist(Supett.Dis 10413653345      30318
+
+151 PGIPER00004248 051386 Jyoti                    OTHER (C)             10413713022      15044
+
+152 PGIPER00004250 051355 Naresh   Mahajan         Sanitary Inspector    10413697780      25867
+
+153 PGIPER00004251 051284 Sudesh   Paul            Pharmacist Gr.I       10413663874      34678
+
+154 PGIPER00004253 051350 Narender  Kumar          OTHER (C)             10413692624      31247
+
+155 PGIPER00004254 051372 Amnesh    Kaundal        OTHER (C)             10413704028      22824
+
+156 PGIPER00004255 051273 Shiv Nandan Kumar        Pharmacist Gr.I       10413661470      29682
+
+157 PGIPER00004256 051269 Mohan Chandra Joshi      OTHER (A)             10413654699      29429
+
+158 PGIPER00004257 051249 Arvind Kumar Walia       Asstt. Pub. Relation  10413605391      21405
+
+159 PGIPER00004259 051251 Jagdish   Singh          Sr. Store Officer     10413660432      21073
+
+160 PGIPER00004262 051434 Nishi   Singh            OTHER (C)             30305258146      24498
+
+161 PGIPER00004264 051274 Deepak   Sharma          Pharmacist Gr.I       10413661550      28029
+
+162 PGIPER00004266 051328 Sukhjeet  Kaur           Other                 10413683427      23328
+
+163 PGIPER00004267 051329 Renu   Arora             Pharmacist Gr.II      10413683325      21828
+
+164 PGIPER00004268 051435 Jagdeep   Singh          OTHER (C)             30644126881      24498
+
+165 PGIPER00004270 051275 Dharmesh   Kumar         Pharmacist Gr.I       10413661822      22670
+
+166 PGIPER00004271 051327 Sukhbir  Kaur            Other                 10413683416      18028
+
+167 PGIPER00004272 051301 Harbinder Jit Kaur       Pharmacist Gr.I       10413671488      18672
+
+168 PGIPER00004273 051421 Navneet   Khattar        OTHER (C)             30133492941      17133
+
+169 PGIPER00004274 051073 Sanjeev  Sharma          Sanitary Inspector    10413660330      23536
+
+170 PGIPER00004275 051437 Vajinder  Singh          OTHER (C)             30820331038      13912
+
+171 PGIPER00004276 051074 Pawan   Kumar            Sanitary Inspector    10413660410      23487
+
+172 PGIPER00004277 051422 Sushil  Kumar            OTHER (C)             10413729134      17133
+
+173 PGIPER00004278 051075 Subodh  Kumar Sahu       Sanitary Inspector    10413660409      25385
+
+174 PGIPER00004279 051426 Gopal  Singh             OTHER (C)             10413732556      15684
+
+175 PGIPER00004280 051300 Babbu    Devi            Pharmacist Gr.I       10413671477      28609
+
+176 PGIPER00004282 051420 Sandeep  Kaur            OTHER (C)             10413732432      16633
+
+177 PGIPER00004286 051051 Gurnam  Singh            Other                 10413642414      32953
+
+178 PGIPER00004287 051410 Hemant  Kumar  Bansal    Pharmacist Gr.II      30024020903      26158
+
+179 PGIPER00004288 051248 Hari  Singh              OTHER (B)             10413614963      22251
+
+180 PGIPER00004290 051048 Deep   Rani              Other                 31202870102      22837
+
+181 PGIPER00004293 051384 Nitin                    OTHER (C)             10413701786      19418
+
+182 PGIPER00004294 051349 Manju  Bala              OTHER (B)             10413692205      27133
+
+183 PGIPER00004296 051041 Usha   Kumari            Other                 10413617668      39034
+
+184 PGIPER00004876 051453 Baharat S Rawat          Hospital Attendant Gr 20073408573      25704
+
+185 PGIPER00004877 051450 Sandeep   Kumar          Pharmacist Gr.II      31294513448      25704
+
+186 PGIPER00007853 051444 Aditi  Sharma            Asstt.Clinical Psycho 30244706821      24251
+
+187 PGIPER00007980 051175 Lalita                   Jr. Med. Record Offic 10413654917      31501
+
+188 PGIPER00008120 051218 Ved    Vyas              Office Superintendent 10413626945      31188
+
+189 PGIPER00008665 051111 Rajinder  Kumar          Pharmacist Gr.I       10413635756      24422
+
+190 PGIPER00008666 051116 Jaimal  Singh            Pharmacist Gr.I       10413624063      11011
+
+191 PGIPER00008687 051223 Piara  Singh             OTHER (B)             10413618913      22911
+
+192 PGIPER00008688 051333 Dinesh  Kumar            OTHER (B)             10413686847      19437
+
+193 PGIPER00008689 051401 Seema   Chetri           Occ. Therapist        10413730671      29238
+
+194 PGIPER00008690 051446 Rati   Sikka             Physiotherapist       31216282809      26467
+
+195 PGIPER00008691 051447 Lokesh   Bhardwaj        Physiotherapist       10413708635      26467
+
+196 PGIPER00008702 051448 Ajit   Kumar             Physiotherapist       31216404090      23501
+
+197 PGIPER00008703 051449 Mohammad  Hassan Manjar  Physiotherapist       31216459142      25446
+
+198 PGIPER00008704 051454 Harshita   Singh         Physiotherapist       31309836445      26467
+
+199 PGIPER00008705 051455 Joginder  Kaur           Social Worker         10413749672      23146
+
+200 PGIPER00008706 051456 Jaya   Talwar            Physiotherapist       20073409076      26467
+
+201 PGIPER00008707 051457 Sahil  Sharma            Social Worker         20089826659      16206
+
+202 PGIPER00008793 051445 S. Rajan Chellappa       Physiotherapist       31222515190      23601
+
+203 PGIPER00008904 051460 Deepika                  Medical Social Worker 20073696230      25016
+
+204 PGIPER00008905 051461 Atul Kumar Rai           Medical Social Worker 30012490180      25016
+
+205 PGIPER00008906 051462 Chering  Bhag            Medical Social Worker 30023126082      25016
+
+206 PGIPER00008907 051463 Lakhpat  Rai             Medical Social Worker 30796415777      21963
+
+207 PGIPER00008908 051464 Kaushlendra  Kumar       Sanitary Inspector    32334177074      21963
+
+208 PGIPER00008934 051467 Kulbhushan   Kumar       Asstt. Security Offic 10413753702      21511
+
+209 PGIPER00008935 051465 Chander Mohan Baswal     Asstt. Security Offic 30046758463      22286
+
+210 PGIPER00008936 051466 Sanjeev   Kumar          Asstt. Security Offic 20100723903      22286
+
+211 PGIPER00008944 051468 Baldev  Singh            Sanitary Inspector Gr 20040815676      19631
+
+                                                                          Grand Total   4903321
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,28 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Ddtc                                                                                
+Sub-Category  :Ddtc 12                                                                         
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000207 041240 Usha   Rani              Clerk                 10413677275      16288
+
+2   PGIPER00000250 040076 Poonam Vansal Rawal      Stenographer          10413630123      22586
+
+3   PGIPER00000297 051152 Kiran                    Data Entry Operator G 10413644658      25035
+
+4   PGIPER00001497 051292 Manpreet  Kaur           OTHER (B)             10413641556      36046
+
+5   PGIPER00001533 051377 Om Prakash Giri          Medical Social Worker 10413705362      31579
+
+6   PGIPER00001581 051375 Seema                    Medical Social Worker 10413705055      29636
+
+                                                                          Grand Total    161170
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

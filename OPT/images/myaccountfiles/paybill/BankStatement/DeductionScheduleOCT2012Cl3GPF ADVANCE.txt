@@ -1,0 +1,52 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                             Schedule Report For GPF ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl3                                               
+Demand No  :10120018641  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000065 041119 Dil Bahadur Thapa        Clerk                 Accounts              2250
+
+PGIPER00000072 041139 Satish   Kumar           Clerk                 Accounts              4000
+
+PGIPER00000086 041172 Rakesh   Sharma          Clerk                 Accounts              1550
+
+PGIPER00000093 041112 Ramesh   Bhatia          Jr. Auditor           Accounts              2000
+
+PGIPER00000105 041270 Manvinder   Kaur         Jr. Auditor           Accounts              2600
+
+PGIPER00000127 041153 Bhupinder   Singh        Clerk                 Other                  500
+
+PGIPER00000139 041189 Sukhwinder   Kaur        Asst.Cashier          Accounts              6250
+
+PGIPER00000150 041180 Sarvjeet   Kaur          Clerk                 Dermatology           4000
+
+PGIPER00000167 041099 Daya Dhar Pant           Asst.Cashier          Accounts              5000
+
+PGIPER00000183 041230 Sneh   Singh             Clerk                 Other                 1550
+
+PGIPER00000189 041208 Surekha   Sharma         Clerk                 RTI                   2400
+
+PGIPER00000199 041243 Harbhajan Singh Bhatti   Upper Division Clerk  M.S.Office            1600
+
+PGIPER00000201 041244 Gurdeep   Singh          Lower Division Clerk  Other                 5000
+
+PGIPER00000229 041266 Kailash   Kumar          Lower Division Clerk  Anatomy               2000
+
+PGIPER00000239 041287 Jeevan   Kumar           Lower Division Clerk  Biochemistry          1250
+
+PGIPER00000436 041130 Harish Chander Bhatia    Clerk                 Director Office       1000
+
+PGIPER00001058 041245 Jeet   Singh             Lower Division Clerk  Other                 3200
+
+PGIPER00001061 041204 Balwant   Singh          Other                 Estate Branch -       1600
+
+                                                                          Grand Total     47750
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.cdacnoida.in/his/IpdConfig" xmlns:tns="http://www.cdacnoida.in/his/IpdConfig" elementFormDefault="qualified">
+
+    
+    <complexType name="IPDGeneralConfigType">
+    	<sequence>
+    		<element name="genWardAdmission" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="genWardApproval"
+    			type="tns:GenWardApprovalType" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="privateWardAdmission" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="privateWardApproval"
+    			type="tns:PrivateWardApprovalType" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="bookBed" type="string" minOccurs="1"></element>
+    		<element name="billing" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="negativeBilling" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="patientCategory" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="govtEmpBasicPayLimit" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="pvtEmpMonIncomeLimit" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="admissionAdviceValidityFrom" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+
+    		<element name="admissionChargeTakenAtAdmissionCounter"
+    			type="string" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="newBornBabyRegistrationCharge" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+
+
+    		<element name="newBornBabyAdmissionCharge" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="admissionAdviceValidityTo" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="modificationTime" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="dischargeCancellationTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="advanceAmountTakenFromNewBornBaby"
+    			type="string" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="blockBedExpiryTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="admissionReprintCharge" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+
+
+    		<element name="dischargeReprintCharge" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="noOfLineAmissionSlip" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="noOfLineVisitorPassSlip" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+
+    		<element name="admissionProcessOnline" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="privateWardType" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="icuWardType" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+
+    		<element
+    			name="daysForPurgingRecordFromCurrentlyAdmissionDetails"
+    			type="string" maxOccurs="1" minOccurs="1">
+    		</element>
+
+    		<element name="purgeTimeForNotReported" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="msApprovalFormNoRequired" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="dischargeProcessType" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="newBornBabyProcess" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="minAgeToBeMother" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="maxNoOfBabyMotherCanBorn" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+
+    <complexType name="GenWardApprovalType">
+    	<sequence>
+    		<element name="authorityId" type="string" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="PrivateWardApprovalType">
+    	<sequence>
+    		<element name="authorityId" type="string" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+
+    
+    <complexType name="IPDPassDetails">
+    	<sequence>
+    		<element name="noOfFreePass" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="noOfPaidPass" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="newFreePassValidity" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="newPaidPassValidity" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="renewFreePassValidity" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="renewPaidPassValidity" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="summerMorningFromTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="summerMorningToTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="summerEveningFromTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="summerEveningToTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="winterMorningFromTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="winterMorningToTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="winterEveningFromTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="winterEveningToTime" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="printRequest" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="noOfFreePassAtTimeOfAdmission" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+
+    		<element name="paidPassCharges" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="paidPassRenewCharges" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="passReprintCharges" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="attendentPassRequired" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="attendentPassGenerateAtAdmissionTime" type="string" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+
+    <element name="ipdConfig" type="tns:IPDConfig"></element>
+    
+
+
+    <complexType name="IPDConfig">
+    	<sequence>
+    		<element name="ipdGeneralConfig"
+    			type="tns:IPDGeneralConfigType" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ipdPassDetails" type="tns:IPDPassDetails"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ipdReportDetails" type="tns:IPDReportDetails"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ipdBillDetails" type="tns:IPDBillDetails"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="ipdPrintDetails"
+    			type="tns:IPDPrintConfigType" maxOccurs="1" minOccurs="1">
+    		</element>
+
+    	</sequence>
+    </complexType>
+
+    <complexType name="IPDReportDetails">
+    	<sequence>
+    		<element name="dischargeSummaryReportAdvice"
+    			type="string" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="dischargeSummaryReportFooter" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="IPDBillDetails">
+    	<sequence>
+    		<element name="advanceRequestAdmissionAdvice" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="advanceamountAdmission" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="patientAdjustedFinalBillAtAdmission"
+    			type="string" maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="bedChange" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="advanceRefundRequestAtAdmissionCancellation"
+    			type="string" maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="integrationWithBilling" type="string" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="IPDPrintConfigType">
+    	<sequence>
+    		<element name="noOfLinesAdmission" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="noOfLineNewBornBay" type="string" maxOccurs="1" minOccurs="1"></element>
+    		<element name="noOfLinesVisitorPass" type="string" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+
+
+</schema>

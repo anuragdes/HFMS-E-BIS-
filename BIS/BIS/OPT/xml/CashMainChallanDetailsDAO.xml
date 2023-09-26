@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="CASH" PROCESS_NAME="Main Challan Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="5">
+	update  ACTCAS_CHAL_TRN z  set  z.STR_CHALLAN_STATUS=? where z.STR_CHALLAN_STATUS=? and z.DT_CHALLAN_DATE=? and z.GNUM_HOSPITAL_CODE=? and z.STR_DEPOSIT_TYPE=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="2" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="5">
+	update  actcas_chal_acc_trn t  set  t.STR_MAIN_CHALLAN_PREPARE=?, t.DT_MAIN_CHALLAN_PREPARE_DATE=? where t.DT_DATE_OF_RECEIVING=?  and t.GNUM_HOSPITAL_CODE=? and t.STR_CHALLAN_NO=?
+	</QRY>
+	</BLOCK>
+
+</OPR>
+</tns:Transaction>

@@ -1,0 +1,154 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00000334 045267 S   Tamilarasu           OTH       Biophysics     161616754           484
+
+PGIPER00000334 045267 S   Tamilarasu           OTH       Biophysics     161809568           427
+
+PGIPER00000334 045267 S   Tamilarasu           OTH       Biophysics     162740183           535
+
+PGIPER00000958 045368 Sukhjit  Singh           Driver    Other          160940927           138
+
+PGIPER00000958 045368 Sukhjit  Singh           Driver    Other          161616028           232
+
+PGIPER00002951 045376 Suresh    Kumar          OTH       Other          161616040           584
+
+PGIPER00002952 045284 Rajesh   Kumar           OTH       Other          163589768          1749
+
+PGIPER00002961 045309 Rajinder  Pal  Singh     OTH       Other          162688902           516
+
+PGIPER00002961 045309 Rajinder  Pal  Singh     OTH       Other          163729767           891
+
+PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk     Engineering De 162470877          1168
+
+PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk     Engineering De 162641264           919
+
+PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk     Engineering De 164309500          1997
+
+PGIPER00002983 045305 Mahesh Kumar Mehta       Clerk     Engineering De 163549623           841
+
+PGIPER00003003 045365 Varinder   Kumar         LD Clerk  Other          160941080           269
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk     Other          162740785           621
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk     Other          163589170           547
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk     Other          170619420           165
+
+PGIPER00003024 045322 Lachham    Singh         Clerk     Other          163155882          1028
+
+PGIPER00003024 045322 Lachham    Singh         Clerk     Other          170474409           169
+
+PGIPER00003029 045323 Sham   Lal               Clerk     Other          162800190           639
+
+PGIPER00003029 045323 Sham   Lal               Clerk     Other          162800227           634
+
+PGIPER00003035 045401 Hira   Lal               OTH       Other          162179215           917
+
+PGIPER00003041 045217 Tajinder   Singh         OTH       Engineering De 164563906          2042
+
+PGIPER00003048 045266 Ram Pyara Sharma         OTH       Other          160941267           230
+
+PGIPER00003048 045266 Ram Pyara Sharma         OTH       Other          161731379           538
+
+PGIPER00003052 045313 Gurdeep   Singh          Clerk     Other          161777350           157
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          160890559           634
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          162295455          1164
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          162839067           814
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          163032675           828
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          163034977           989
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          163589805          3460
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTH       Other          164587041          1792
+
+PGIPER00003060 045390 Shashi   Prabha          Clerk     Engineering De 162229235           420
+
+PGIPER00003064 045366 Gurmeet   Singh          LD Clerk  Other          160941097           267
+
+PGIPER00003067 045304 Sameer   Tinku           LD Clerk  Other          163729311           400
+
+PGIPER00003072 045391 Amrik   Kaur             OTH       Engineering De 160889833           141
+
+PGIPER00003072 045391 Amrik   Kaur             OTH       Engineering De 162642544           583
+
+PGIPER00003072 045391 Amrik   Kaur             OTH       Engineering De 164562056          1021
+
+PGIPER00003078 045397 Rajnish   Mittal         TELau     Engineering De 162229593           546
+
+PGIPER00003085 045378 Sunita   Devi            LD Clerk  Other          161832216           274
+
+PGIPER00003086 045382 Jaibinder   Singh        Draftman  Other          162299989           494
+
+PGIPER00003087 045248 Trisha                   OTH       Other          160890070           462
+
+PGIPER00003087 045248 Trisha                   OTH       Other          161616237           546
+
+PGIPER00003087 045248 Trisha                   OTH       Other          161946794           396
+
+PGIPER00003098 045393 Daljit   Kaur            Draftman  Other          161832202           540
+
+PGIPER00003098 045393 Daljit   Kaur            Draftman  Other          163729926           823
+
+PGIPER00003099 045415 Archana   Kumari         Draftman  Other          162470531           221
+
+PGIPER00003102 045331 Siya Ram Yadav           LD Clerk  Engineering De 160171165            68
+
+PGIPER00003102 045331 Siya Ram Yadav           LD Clerk  Engineering De 16288040            482
+
+PGIPER00003106 045367 Yash Pal Singh           LD Clerk  Other          162229592           286
+
+PGIPER00003106 045367 Yash Pal Singh           LD Clerk  Other          162470379           170
+
+PGIPER00003109 045406 Surya   Bhushan          OTH       Other          162229590           539
+
+PGIPER00003110 045235 Sushil   Kumar           OTH       Other          162688189           278
+
+PGIPER00003110 045235 Sushil   Kumar           OTH       Other          170474822           222
+
+PGIPER00003113 045361 Sandeep   Yakhmi         OTH       Other          160684365           542
+
+PGIPER00003114 045261 Dinesh Kumar Sapra       OTH       Other          161616646           168
+
+PGIPER00003116 045375 Suba   Singh             OTH       Other          161615731           700
+
+PGIPER00003116 045375 Suba   Singh             OTH       Other          163013532           877
+
+PGIPER00003119 045202 Sanjiv   Kalia           OTH       Other          160548187           277
+
+PGIPER00003120 045405 Prabhjeet   Singh        OTH       Other          162229586           632
+
+PGIPER00003715 045341 Manjit   Singh           Wire Man  Other          163729935          1768
+
+PGIPER00003731 045328 Jatinder Pal Srivastava  Tech.Ast  Engineering De 162179292           199
+
+PGIPER00003731 045328 Jatinder Pal Srivastava  Tech.Ast  Engineering De 170619340           117
+
+PGIPER00003751 045215 Gurnam   Singh           OTH       Other          161503553           222
+
+PGIPER00003778 045224 Prem     Chandera        OTH       Engineering De 161616015           584
+
+PGIPER00003809 045411 Joginder  Pal Singh      Wire Man  Other          162297984           612
+
+PGIPER00003809 045411 Joginder  Pal Singh      Wire Man  Other          163729936          1716
+
+PGIPER00004900 045410 Rishi   Pal              Tech.Gr3  Engineering De 162470530           326
+
+                                                                          Grand Total     46037
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

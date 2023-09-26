@@ -1,0 +1,286 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For GIS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu6                                               
+Demand No  :1012001161   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00008188 031002 Gagan Preet  Kohli       Sister Gr. II         Nursing Cell            30
+
+PGIPER00008189 031003 Mamta    Kumari          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008190 031004 Rajesh   O.k             Sister Gr. II         Nursing Cell            30
+
+PGIPER00008191 031005 Gurpreet  Kaur           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008192 031006 Surekha                  Sister Gr. II         Nursing Cell            30
+
+PGIPER00008193 031017 Anand  Kumar Ghiya       Sister Gr. II         Nursing Cell            30
+
+PGIPER00008194 031009 Gurmail    Singh         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008196 031011 Sumandeep   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008197 031012 Sanjeev   Shah           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008198 031013 Dipti   Moudgil          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008199 031014 Vimla                    Sister Gr. II         Nursing Cell            30
+
+PGIPER00008200 031015 Meenakshi                Sister Gr. II         Nursing Cell            30
+
+PGIPER00008201 031016 Sabhpreet    Kaur        Sister Gr. II         Nursing Cell            30
+
+PGIPER00008203 031020 Anju   Bala              Sister Gr. II         Nursing Cell            30
+
+PGIPER00008204 031007 Raj Kumar Verma          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008205 031008 Ananda Krishna Sidhan    Sister Gr. II         Nursing Cell            30
+
+PGIPER00008206 031018 Ripjit   Kaur            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008207 031021 Chanderprabha            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008208 031022 Rojomon   Johny          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008209 031028 Satpal   Kaur            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008210 031029 Sharwan   Kumar          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008211 031031 Harpreet   Kaur          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008212 031032 Deepinder   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008213 031038 Nitee                    Sister Gr. II         Nursing Cell            30
+
+PGIPER00008214 031039 Bhupinder   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008215 031024 Santosh   Kumar          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008216 031023 Renu                     Sister Gr. II         Nursing Cell            30
+
+PGIPER00008217 031026 Ravinder   Kaur          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008218 031027 Beant  Kaur Rai          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008219 031033 Ruchi    Kajal           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008220 031034 Pitamber    Meena        Sister Gr. II         Nursing Cell            30
+
+PGIPER00008221 031035 Parveen                  Sister Gr. II         Nursing Cell            30
+
+PGIPER00008222 031036 Manohar  Singh Choudhar  Sister Gr. II         Nursing Cell            30
+
+PGIPER00008223 031037 Raju Kumar Meena         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008224 031040 Meera  Saini Rama        Sister Gr. II         Nursing Cell            30
+
+PGIPER00008226 031042 Jeetendra    Kumar       Sister Gr. II         Nursing Cell            30
+
+PGIPER00008227 031043 Vishnu Kumar Jangid      Sister Gr. II         Nursing Cell            30
+
+PGIPER00008228 031052 Rajesh   Meena           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008229 031049 Shyam  Babu Sharma       Sister Gr. II         Nursing Cell            30
+
+PGIPER00008230 031050 Nidhi   Rauthan          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008231 031045 Deepak   Sharma          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008232 031048 Dinesh  Kumar Verma      Sister Gr. II         Nursing Cell            30
+
+PGIPER00008233 031044 Navjot   Kaur            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008234 031047 Sukhmanpreet    Kaur     Sister Gr. II         Nursing Cell            30
+
+PGIPER00008293 031001 Manjinder   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008294 031019 Harjinder   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008295 031025 Arvind   Meena           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008305 031051 Jasbir  Kaur             Sister Gr. II         Nursing Cell            30
+
+PGIPER00008306 031053 Pooja  Pawar             Sister Gr. II         General Surgery         30
+
+PGIPER00008307 031054 Rachna  Sharma           Sister Gr. II         Neurology               30
+
+PGIPER00008308 031055 Simatjeet  Kaur          Sister Gr. II         Neurology               30
+
+PGIPER00008309 031056 Poonam   Chand           Sister Gr. II         Ophthalmology           30
+
+PGIPER00008310 031057 Mahesh Kumar Yadav       Sister Gr. II         Parasitology            30
+
+PGIPER00008311 031058 Raj  Pal                 Sister Gr. II         Ophthalmology           30
+
+PGIPER00008312 031059 Anshu                    Sister Gr. II         Neurology               30
+
+PGIPER00008314 031061 Karam  Pal               Sister Gr. II         Neurology               30
+
+PGIPER00008315 031062 Menka  Kumari            Sister Gr. II         Neurology               30
+
+PGIPER00008316 031063 Kavita                   Sister Gr. II         Nursing Cell            30
+
+PGIPER00008318 031065 Kanchan  Kanojia         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008319 031066 Ankita  Sood             Sister Gr. II         Nursing Cell            30
+
+PGIPER00008320 031067 Deepika  Rikhi           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008321 031068 Reeta  Khuresha          Sister Gr. II         Nursing Cell            30
+
+PGIPER00008322 031069 Sunita  Chahar           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008323 031070 Sushila   Devi           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008324 031071 Dharmendra Kumar Mahala  Sister Gr. II         Nursing Cell            30
+
+PGIPER00008325 031072 Jaswinder   Singh        Sister Gr. II         Nursing Cell            30
+
+PGIPER00008326 031073 Pawanpreet  Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008327 031074 Varun  Sen               Sister Gr. II         Nursing Cell            30
+
+PGIPER00008329 031076 Rimai  Marbaniang        Sister Gr. II         Nursing Cell            30
+
+PGIPER00008330 031077 Antima  Kumari           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008331 031078 Navjeet Kaur Saini       Sister Gr. II         Nursing Cell            30
+
+PGIPER00008332 031079 Navdeep   Kaur           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008333 031080 Sahil  Bhatti            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008334 031081 Rajwant  Kaur            Sister Gr. II         Nursing Cell            30
+
+PGIPER00008335 031082 Sangita  Dalal           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008336 031083 Rajpal Kaur Mann         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008337 031084 Rashmi  Paul             Sister Gr. II         Nursing Cell            30
+
+PGIPER00008338 031085 Ambily J. Vadakkumapada  Sister Gr. II         Nursing Cell            30
+
+PGIPER00008339 031086 Dhiraj  Sharma           Sister Gr. II         Nursing Cell            30
+
+PGIPER00008699 031087 Sandeep  Kulhari         Sister Gr. II         Anaesthesia And         30
+
+PGIPER00008700 031088 Monu  Mittal             Sister Gr. I          Bio Statistics          30
+
+PGIPER00008701 031089 Renu                     Sister Gr. II         Bio Statistics          30
+
+PGIPER00008849 031090 Rajwinder   Kaur         Sister Gr. II         Nursing Cell            30
+
+PGIPER00008856 031091 Aarzoo   Kakria          Sister Gr. II         Endocrinology           30
+
+PGIPER00008859 031092 Harmandeep               Sister Gr. II         Nuclear Medicin         30
+
+PGIPER00008860 031093 Navpreet  Kaur Saini     Sister Gr. II         Cytology                30
+
+PGIPER00008861 031094 Ravneet   Kaur           Sister Gr. II         Cardiology              30
+
+PGIPER00008863 031095 Navjot  Kaur             Sister Gr. II         Endocrinology           30
+
+PGIPER00008865 031096 Sukhjinder   Kaur        Sister Gr. II         Cardiology              30
+
+PGIPER00008866 031097 Anu Radha Rani           Sister Gr. II         Nephrology              30
+
+PGIPER00008867 031098 Manpreet   Kaur          Sister Gr. II         Nuclear Medicin         30
+
+PGIPER00008868 031099 Manisha  Rani            Sister Gr. II         Cardiology              30
+
+PGIPER00008869 031100 Manpreet  Kaur           Sister Gr. II         Cardiology              30
+
+PGIPER00008870 031101 Rupinder   Kaur          Sister Gr. II         Bio Statistics          30
+
+PGIPER00008871 031102 Suman Preet              Sister Gr. II         Biochemistry            30
+
+PGIPER00008872 031103 Preetinder  Kaur         Sister Gr. II         Cardiology              30
+
+PGIPER00008873 031104 Ravneet   Kaur           Sister Gr. II         Cytology                30
+
+PGIPER00008874 031105 Rabau  Bala              Sister Gr. II         Dermatology             30
+
+PGIPER00008875 031106 Sonali  Surya            Sister Gr. II         Biochemistry            30
+
+PGIPER00008876 031107 Shivani  Kalia           Sister Gr. II         Chief Nursing O         30
+
+PGIPER00008877 031108 Simranjit Kaur Dhiman    Sister Gr. II         Advance Cardiac         30
+
+PGIPER00008878 031109 Kuljit  Kaur             Sister Gr. II         Nursing Cell            30
+
+PGIPER00008879 031110 Amandeep  Kaur           Sister Gr. II         Cardiology              30
+
+PGIPER00008880 031111 Neha  Thakur             Sister Gr. II         Cardiology              30
+
+PGIPER00008882 031113 Amandeep  Kaur           Sister Gr. II         Cardiology              30
+
+PGIPER00008883 031114 Amandeep   Kaur          Sister Gr. II         Cardiology              30
+
+PGIPER00008884 031115 Navjot  Kaur             Sister Gr. II         General Surgery         30
+
+PGIPER00008885 031116 Ramneet  Kaur            Sister Gr. II         Cardiology              30
+
+PGIPER00008886 031117 Neha  Dhingra            Sister Gr. II         Cardiovascular          30
+
+PGIPER00008887 031118 Harpreet  Kaur           Sister Gr. II         Chief Nursing O         30
+
+PGIPER00008888 031119 Poonamjeet  Kaur         Sister Gr. II         Endocrinology           30
+
+PGIPER00008889 031120 Shama  Sharma            Sister Gr. II         Advance Eye Cen         30
+
+PGIPER00008890 031121 Harpreet  Kaur           Sister Gr. II         Cardiovascular          30
+
+PGIPER00008891 031122 Manjit  Kaur             Sister Gr. II         Cardiology              30
+
+PGIPER00008892 031123 Rajwinder  Kaur          Sister Gr. II         Cardiology              30
+
+PGIPER00008893 031124 Deepika  Kanwar          Sister Gr. II         Advance Pediatr         30
+
+PGIPER00008895 031126 Paramjeet  Kaur          Sister Gr. II         Cardiology              30
+
+PGIPER00008896 031127 Malwinderjit  Kaur       Sister Gr. II         Advance Cardiac         30
+
+PGIPER00008897 031128 Raman  Sharma            Sister Gr. II         Cardiology              30
+
+PGIPER00008898 031129 Ravneet Kaur Gill        Sister Gr. II         Advance Eye Cen         30
+
+PGIPER00008912 031130 Afroz                    Sister Gr. II         Clinical Photog         30
+
+PGIPER00008913 031131 Daljit   Kaur            Sister Gr. II         Biophysics              30
+
+PGIPER00008914 031132 Ritu                     Sister Gr. II         Cytology                30
+
+PGIPER00008915 031133 Sandeep   Kaur           Sister Gr. II         Clinical Photog         30
+
+PGIPER00008916 031134 Mahipal   Patidar        Sister Gr. II         Cardiology              30
+
+PGIPER00008917 031135 Om Prakash Dhakar        Sister Gr. II         Emergency               30
+
+PGIPER00008918 031136 Urvinder   Kaur          Sister Gr. II         Dermatology             30
+
+PGIPER00008919 031137 Shyam Sundar Dholi       Sister Gr. II         Cardiology              30
+
+PGIPER00008920 031138 Seema   Rani             Sister Gr. II         Cardiology              30
+
+PGIPER00008921 031139 Rajwinder   Kaur         Sister Gr. II         Anatomy                 30
+
+PGIPER00008922 031140 Kuldeep   Kaur           Sister Gr. II         Pulmonary Medic         30
+
+PGIPER00008923 031141 Sukhmanjyot   Kaur       Sister Gr. II         Anaesthesia And         30
+
+PGIPER00008924 031142 Satish Kumar Gurjar      Sister Gr. II         Anaesthesia And         30
+
+PGIPER00008925 031143 Raghuveer   Singh        Sister Gr. II         Anaesthesia And         30
+
+PGIPER00008926 031144 Maninder Deep Kaur       Sister Gr. II         Nursing Cell            30
+
+                                                                          Grand Total      4050
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

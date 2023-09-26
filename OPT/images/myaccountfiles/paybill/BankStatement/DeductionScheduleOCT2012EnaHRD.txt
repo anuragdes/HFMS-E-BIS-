@@ -1,0 +1,26 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ena                                               
+Demand No  :10120014481  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003187 060011 Daya Shankar Yadav       Mali                  Other                   54
+
+PGIPER00003204 060019 Prem   Lal               Mali                  Other                   54
+
+PGIPER00003249 060007 Ram   Sanjivan           Mali                  Engineering Dep        102
+
+PGIPER00003268 060020 Balbir    Singh          Suprivisor            Engineering Dep        100
+
+PGIPER00003301 060009 Chhadi   Ram             Mali                  Other                  102
+
+                                                                          Grand Total       412
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

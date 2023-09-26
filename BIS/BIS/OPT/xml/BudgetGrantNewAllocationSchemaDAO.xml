@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="Allocation New Npn Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+
+ <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+	  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+		<QRY ID="1" COL_SIZE="15">
+		Insert into ACTBUD_FUND_ALLOC_TRN_DTL
+		           (NUM_LED_HED_FOL_NO, STR_GRANT_TYPE_CODE, STR_BUD_TYPE_CODE,STR_EVENT_TYPE, STR_PROJECT_CODE, 
+		            STR_SCHEME_CODE, STR_MAJOR_HEAD_CODE, STR_SUBMAJOR_HEAD_CODE, STR_MINOR_HEAD_CODE, STR_SUB_MINOR_HEAD_CODE, 
+		             NUM_ALLOC_AMOUNT,  GDT_ENTRY_DATE, 
+		            GNUM_ISVALID, GNUM_SEAT_ID, GNUM_HOSPITAL_CODE)
+		         Values
+           (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+		</QRY>
+	  </BLOCK>
+		
+	
+  </OPR>
+  
+    <OPR ID="2" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+	  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+		<QRY ID="1" COL_SIZE="14">
+		Insert into ACTPGR_HEAD_TO_HEAD_FUN_DTL
+		           (NUM_LED_HED_FOL_NO, STR_GRANT_TYPE_CODE, STR_BUD_TYPE_CODE, STR_PROJECT_CODE, 
+		            STR_SCHEME_CODE, STR_MAJOR_HEAD_CODE, STR_SUBMAJOR_HEAD_CODE, STR_MINOR_HEAD_CODE, STR_SUB_MINOR_HEAD_CODE, 
+		             NUM_ALLOC_AMOUNT,  GDT_ENTRY_DATE, 
+		            GNUM_ISVALID, GNUM_SEAT_ID, GNUM_HOSPITAL_CODE)
+		         Values
+           (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+		</QRY>
+	  </BLOCK>
+		
+	
+  </OPR>
+  
+
+   
+   
+   
+</tns:Transaction>

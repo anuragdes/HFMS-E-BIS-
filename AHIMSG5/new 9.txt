@@ -1,0 +1,83 @@
+ ELSIF(p_modeVal='2') 
+	THEN  
+		SELECT COUNT(*) into countComRecord FROM ahistrn.pist_prom_due_list_gen_dtl a WHERE a.num_prom_due_list_no=p_intPromDueListNo and a.num_rec_status='20';
+		SELECT COUNT(*) into countTotRecord FROM ahistrn.pist_prom_due_list_gen_dtl a WHERE a.num_prom_due_list_no=p_intPromDueListNo;
+
+		if(countComRecord=countTotRecord) then
+
+		UPDATE ahistrn.pist_prom_due_list_gen_trn
+		   SET num_due_list_status=20, gnum_seat_id=p_seatId, gdt_entry=now() WHERE num_prom_due_list_no=p_intPromDueListNo;
+			
+
+		SELECT COUNT(*) into countComRecord FROM ahistrn.pist_prom_due_list_gen_dtl a WHERE a.num_prom_due_list_no=p_intPromDueListNo and a.num_rec_status='20' and num_prom_scrutinize_type_id=12;
+		SELECT COUNT(*) into countTotRecord FROM ahistrn.pist_prom_due_list_gen_dtl a WHERE a.num_prom_due_list_no=p_intPromDueListNo;
+
+		if(countComRecord!=countTotRecord) then
+
+		INSERT INTO ahistrn.pist_prom_due_list_filter_trn( num_prom_due_list_no, num_due_list_filter_status, gnum_isvalid, gnum_seat_id, gdt_entry, gnum_hospital_code,num_location_id)
+		(SELECT num_prom_due_list_no, 10, gnum_isvalid, p_seatId, now(), gnum_hospital_code ,(select a.num_posting_h_code FROM ahistrn.pist_emp_posting_dtl a,gblt_user_mst b,ahistrn.pist_prom_due_list_gen_trn t
+                 where a.str_emp_no=b.psrstr_emp_no and b.gnum_userid=p_seatid and t.num_prom_due_list_no=p_intPromDueListNo) FROM ahistrn.pist_prom_due_list_gen_trn WHERE num_prom_due_list_no=p_intPromDueListNo);
+
+				
+		
+		
+		
+		INSERT INTO ahistrn.pist_prom_due_list_filter_dtl(
+			    num_prom_due_list_no, str_emp_no, num_interview_conducted, num_is_eligible, 
+			    str_remarks, num_rec_status, gnum_isvalid, gnum_seat_id, gdt_entry, gnum_hospital_code,num_location_id)
+			    
+			    
+			  (SELECT num_prom_due_list_no, str_emp_no, null, null, 
+		       null, 10, gnum_isvalid, p_seatId, now(), gnum_hospital_code,(select a.num_posting_h_code FROM ahistrn.pist_emp_posting_dtl a,gblt_user_mst b,ahistrn.pist_prom_due_list_gen_trn t
+                          where a.str_emp_no=b.psrstr_emp_no and b.gnum_userid=p_seatid and t.num_prom_due_list_no=p_intPromDueListNo)
+
+
+		       FROM ahistrn.pist_prom_due_list_gen_dtl b,ahistrn.pist_emp_posting_dtl a  WHERE b.num_prom_due_list_no=p_intPromDueListNo and b.num_prom_scrutinize_type_id=11 and b.str_emp_no=a.str_emp_no 
+		       
+		        and a.num_posting_h_code=(select a.num_posting_h_code
+                         FROM ahistrn.pist_emp_posting_dtl a,gblt_user_mst b where a.str_emp_no=b.psrstr_emp_no and b.gnum_userid=p_seatid));
+		);
+		
+		
+				
+		
+		
+                        INSERT INTO ahistrn.pist_prom_due_list_filter_scrutiny_dtl(
+			   num_prom_due_list_no, str_emp_no, num_interview_conducted, num_is_eligible,num_isvigilance,num_isintegrity,num_majorpenalty,num_isacr,	     
+			 str_remarks, num_rec_status, gnum_isvalid, gnum_seat_id, gdt_entry, gnum_hospital_code,num_location_id)
+
+
+                          (SELECT b.num_prom_due_list_no, b.str_emp_no, b.num_interview_conducted,b.num_is_eligible, b.num_isvigilance,b.num_isintegrity,b.num_majorpenalty,b.num_isacr,b.str_remarks ,
+			  10, b.gnum_isvalid, b.gnum_seat_id, now(), b.gnum_hospital_code,(select a.num_posting_h_code FROM ahistrn.pist_emp_posting_dtl a,gblt_user_mst b,ahistrn.pist_prom_due_list_filter_trn t
+                          where a.str_emp_no=b.psrstr_emp_no and b.gnum_userid=p_seatid and t.num_prom_due_list_no=p_intPromDueListNo)
+
+			   FROM ahistrn.pist_prom_due_list_filter_dtl b ,ahistrn.pist_emp_posting_dtl a 
+
+			  			   
+			   WHERE b.num_prom_due_list_no=p_intPromDueListNo and b.num_rec_status=20 and b.str_emp_no=a.str_emp_no  and
+			    a.num_posting_h_code=(select a.num_posting_h_code
+                         FROM ahistrn.pist_emp_posting_dtl a,gblt_user_mst b where a.str_emp_no=b.psrstr_emp_no and b.gnum_userid=p_seatid));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		end if;
+
+		retMsg :='Record Submitted Successfully';
+
+		else
+		 retMsg :='Record are pending for Completion';
+		end if;
+		    
+		    
+
+		    
+		    

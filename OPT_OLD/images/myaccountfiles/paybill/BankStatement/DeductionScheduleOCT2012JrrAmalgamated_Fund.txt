@@ -1,0 +1,790 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Amalgamated Fund
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Residents    Sub-Category  :Jrr                                               
+Demand No  :10120017701  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIADC00000015 012536 Udaya    Kumar           Junior Resident       Orthopaedics            75
+
+PGIADC00000021 012590 Emtiaz  Ahmed            Junior Resident       Oral Health Sci         75
+
+PGIADC00000026 12391  Sourabha Kumar Patro     Junior Resident       Otolaryngology,         75
+
+PGIADC00000029 012534 Harsha   Vardhan         Junior Resident       Orthopaedics            75
+
+PGIADC00000030 012533 Bhaskar   Sarkar         Junior Resident       Orthopaedics            75
+
+PGIADC00000034 12365  Arun M G                 Junior Resident       Anaesthesia And         75
+
+PGIADC00000036 12402  DEBA PRASAD  DHIBAR      Junior Resident       Internal Medici         75
+
+PGIADC00000056 12370  Gandhi Komal Anil        Junior Resident       Anaesthesia And         75
+
+PGIADC00000059 12420  Gupta Adit Ajay          Junior Resident       Ophthalmology           75
+
+PGIADC00000061 12394  VALLIPPAN   M            Junior Resident       Internal Medici         75
+
+PGIADC00000062 12411  Gayana   S               Junior Resident       Nuclear Medicin         75
+
+PGIADC00000069 012587 Neeraj  Kumar            Junior Resident       Oral Health Sci         75
+
+PGIADC00000071 012589 Surendra  Sewda          Junior Resident       Oral Health Sci         75
+
+PGIADC00000072 12371  Siva Subramani  V P      Junior Resident       Anaesthesia And         75
+
+PGIADC00000098 12456  Ghodake Swapnil Dnyanes  Junior Resident       Oral Health Sci         75
+
+PGIADC00000099 12426  Chandra Kuma Shekhar     Junior Resident       Orthopaedics            75
+
+PGIADC00000101 12453  Parmod   Gulia           Junior Resident       Oral Health Sci         75
+
+PGIADC00000104 12425  Anupama   Saini          Junior Resident       Ophthalmology           75
+
+PGIADC00000106 12423  Hemant   Kumar           Junior Resident       Ophthalmology           75
+
+PGIADC00000117 012593 Shiva   Kumar            Junior Resident       Oral Health Sci         75
+
+PGIADC00000130 12414  Ajay Kumar Aggarwal      Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000139 12450  Pardeep Krishna R V      Junior Resident       General Surgery         75
+
+PGIADC00000147 12377  Shyam Charan Meena       Junior Resident       Anaesthesia And         75
+
+PGIADC00000162 12395  R  LAKSHMI NARASIMHAN    Junior Resident       Internal Medici         75
+
+PGIADC00000163 12398  VALLURUPALLI KRISHNA PR  Junior Resident       Internal Medici         75
+
+PGIADC00000164 12400  ABHINESH  V              Junior Resident       Internal Medici         75
+
+PGIADC00000165 12404  RANJEET KUMAR SHREERAMA  Junior Resident       Internal Medici         75
+
+PGIADC00000166 12405  RAKESH  SHARMA           Junior Resident       Internal Medici         75
+
+PGIADC00000181 012580 Satya   Prakash          Junior Resident       Bio Statistics          75
+
+PGIADC00000200 12444  Shruti  Gupta            Junior Resident       General Surgery         75
+
+PGIADC00000201 12446  Arvind  Guru             Junior Resident       General Surgery         75
+
+PGIADC00000209 12366  Rajesh M G               Junior Resident       Anaesthesia And         75
+
+PGIADC00000215 012552 Babu  Lal   MEENA        Junior Resident       Paediatric Medi         75
+
+PGIADC00000226 12393  Sindhura   S             Junior Resident       Otolaryngology,         75
+
+PGIADC00000227 12454  Cheshta   Yadav          Junior Resident       Other                   75
+
+PGIADC00000241 12464  Abhijit Arun Chodhary    Junior Resident       Paediatric Medi         75
+
+PGIADC00000243 12449  Jaya Richard A           Junior Resident       General Surgery         75
+
+PGIADC00000245 012591 Akshat  Gupta            Junior Resident       Oral Health Sci         75
+
+PGIADC00000255 12462  Ashok  Kumar             Junior Resident       Paediatric Medi         75
+
+PGIADC00000261 12457  Sandeep  Sharma          Junior Resident       Paediatric Medi         75
+
+PGIADC00000288 012524 Reema  Goel              Junior Resident       Nuclear Medicin         75
+
+PGIADC00000297 12436  Balan Louis G            Junior Resident       Pathology               75
+
+PGIADC00000304 012595 Neha                     Junior Resident       Anaesthesia And         75
+
+PGIADC00000306 12386  Sawatkar Gitesh Upendra  Junior Resident       Dermatology             75
+
+PGIADC00000307 12388  Ashok Kumar Dhakar       Junior Resident       Dermatology             75
+
+PGIADC00000323 12434  Sudha   Sharma           Junior Resident       Pathology               75
+
+PGIADC00000325 012410 Kiran Kumar J K          Junior Resident       Nuclear Medicin         75
+
+PGIADC00000342 12417  J  yavana Suriya         Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000358 12432  Preithy  U               Junior Resident       Pathology               75
+
+PGIADC00000363 012458 Nishat  Ahmed            Junior Resident       Paediatric Medi         75
+
+PGIADC00000367 012542 Karthik Bommannan Bk     Junior Resident       Pathology               75
+
+PGIADC00000378 12459  Nabaneeta  Dash          Junior Resident       Paediatric Medi         75
+
+PGIADC00000379 012586 Ferah  Rehman            Junior Resident       Oral Health Sci         75
+
+PGIADC00000384 12407  KAMAL KANT   SAHU        Junior Resident       Internal Medici         75
+
+PGIADC00000388 12430  Subbaiah R M             Junior Resident       Pathology               75
+
+PGIADC00000395 12431  Chougule Abhijit  Praka  Junior Resident       Pathology               75
+
+PGIADC00000397 12385  Chandeep  Singh          Junior Resident       Dermatology             75
+
+PGIADC00000403 12387  Rajnesh  Kanwat          Junior Resident       Dermatology             75
+
+PGIADC00000410 012576 Pradeep Kumar S          Junior Resident       General Surgery         75
+
+PGIADC00000413 12397  G S R S N K NAIDU        Junior Resident       Internal Medici         75
+
+PGIADC00000417 12378  Bimal Kumar Sahoo        Junior Resident       Anaesthesia And         75
+
+PGIADC00000429 12390  Amit   Babel             Junior Resident       Otolaryngology,         75
+
+PGIADC00000430 12389  Karan                    Junior Resident       Otolaryngology,         75
+
+PGIADC00000455 012561 Karthik  K               Junior Resident       Radio Diagnosis         75
+
+PGIADC00000459 12448  Jagjit  Singh            Junior Resident       General Surgery         75
+
+PGIADC00000460 12452  Rohit   Bahri            Junior Resident       Oral Health Sci         75
+
+PGIADC00000464 12460  Vinod    Sharma          Junior Resident       Paediatric Medi         75
+
+PGIADC00000471 012720 Vineet  kumar P M        Junior Resident       General Surgery         75
+
+PGIADC00000476 12367  Chethan    S             Junior Resident       Anaesthesia And         75
+
+PGIADC00000485 12424  Shri Kant Prasad         Junior Resident       Ophthalmology           75
+
+PGIADC00000486 12438  Abdul   Hakim            Junior Resident       Radiotherapy            75
+
+PGIADC00000501 12396  ABHINAV  AGGARWAL        Junior Resident       Internal Medici         75
+
+PGIADC00000502 12403  ARIVARASAN   K           Junior Resident       Internal Medici         75
+
+PGIADC00000508 12379  Breethaa Tanani S        Junior Resident       Anaesthesia And         75
+
+PGIADC00000516 12435  Ganesh  Kumar V          Junior Resident       Pathology               75
+
+PGIADC00000521 12428  Sampat Singh Jhala       Junior Resident       Orthopaedics            75
+
+PGIADC00000538 12440  Ankur Kumar K Vagadiya   Junior Resident       General Surgery         75
+
+PGIADC00000558 12443  Shruthi H S              Junior Resident       General Surgery         75
+
+PGIADC00000559 12447  Rajesh  Roat             Junior Resident       General Surgery         75
+
+PGIADC00000565 12415  N Sravanthi              Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000575 12399  VIPIN   GUPTA            Junior Resident       Internal Medici         75
+
+PGIADC00000576 12380  Sudha Karan R            Junior Resident       Anaesthesia And         75
+
+PGIADC00000580 12364  Indranil   Biswas        Junior Resident       Anaesthesia And         75
+
+PGIADC00000594 12451  Dara Ravi Chandabhan     Junior Resident       Other                   75
+
+PGIADC00000600 012374 Savla Jyothi Rani        Junior Resident       Anaesthesia And         75
+
+PGIADC00000605 012535 Gaurav Kumar Sharma      Junior Resident       Orthopaedics            75
+
+PGIADC00000606 12503  Om  Parkash              Junior Resident       Medical Microbi         75
+
+PGIADC00000608 012489 Pankaj   Kumta           Junior Resident       Anaesthesia And         75
+
+PGIADC00000609 12427  Gopinath   P             Junior Resident       Orthopaedics            75
+
+PGIADC00000612 12505  Muhammed Shafi P. S      Junior Resident       E N T1                  75
+
+PGIADC00000658 12392  Aniruddha   Sarkar       Junior Resident       Otolaryngology,         75
+
+PGIADC00000661 012416 Papri   Sarkar           Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000664 12419  Sushil   Ojha            Junior Resident       Ophthalmology           75
+
+PGIADC00000669 012401 AMIT   BHAUWALA          Junior Resident       Internal Medici         75
+
+PGIADC00000696 012567 Pavan Kumar G            Junior Resident       General Surgery         75
+
+PGIADC00000705 12381  Jayagandan               Junior Resident       Biochemistry            75
+
+PGIADC00000706 12383  Ashutosh   Sarwa         Junior Resident       Community Medic         75
+
+PGIADC00000710 012382 Nalini Kanta Tripathy    Junior Resident       Community Medic         75
+
+PGIADC00000712 12384  Kathirvel   S            Junior Resident       Community Medic         75
+
+PGIADC00000726 12369  Dinesh Kumar Sardana     Junior Resident       Anaesthesia And         75
+
+PGIADC00000727 12375  Latha Y S                Junior Resident       Anaesthesia And         75
+
+PGIADC00000738 012516 Bhuvanesh   M            Junior Resident       Internal Medici         75
+
+PGIADC00000763 12463  Shailesh D  Mantur       Junior Resident       Paediatric Medi         75
+
+PGIADC00000775 12412  Bhawana   Tiwari         Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000781 12418  Agarwal Aniruddha Kisha  Junior Resident       Ophthalmology           75
+
+PGIADC00000782 12422  Samendra  Kumar          Junior Resident       Ophthalmology           75
+
+PGIADC00000784 12373  Sujay   Samanta          Junior Resident       Anaesthesia And         75
+
+PGIADC00000785 12376  Narender   Kaloria       Junior Resident       Anaesthesia And         75
+
+PGIADC00000794 12406  Anshu Kumar Aggarwal     Junior Resident       Internal Medici         75
+
+PGIADC00000796 12413  Shreyasi   Sharma        Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00000807 12372  Kumar Rajani Kant        Junior Resident       Anaesthesia And         75
+
+PGIADC00000812 012522 S   Nadini               Junior Resident       Medical Microbi         75
+
+PGIADC00001240 12368  Sudesh   Kumar           Junior Resident       Anaesthesia And         75
+
+PGIADC00001249 012486 Ajay  Padmanaban R       Junior Resident       Anaesthesia And         75
+
+PGIADC00001251 012490 Kishore Kumar  ks        Junior Resident       Anaesthesia And         75
+
+PGIADC00001252 012494 Sanjay  Kumar            Junior Resident       Anaesthesia And         75
+
+PGIADC00001256 012496 Prerana  Chauhan         Junior Resident       Anaesthesia And         75
+
+PGIADC00001257 12500  Atlaf  Ahmed             Junior Resident       Biochemistry            75
+
+PGIADC00001258 12504  Vinay  K                 Junior Resident       Staff Clinic            75
+
+PGIADC00001259 12507  Bipadabhanjan Malliclc   Junior Resident       Internal Medici         75
+
+PGIADC00001260 12508  Shruthi Subhash Kamath   Junior Resident       Internal Medici         75
+
+PGIADC00001261 12509  Laxmi Prasad Dash        Junior Resident       Internal Medici         75
+
+PGIADC00001263 12510  Aarthi Chandra Sekaran   Junior Resident       Internal Medici         75
+
+PGIADC00001267 12511  Hari Prasad A            Junior Resident       Internal Medici         75
+
+PGIADC00001268 012512 Mayank  Singhal          Junior Resident       Internal Medici         75
+
+PGIADC00001270 012513 Arihant  Jain            Junior Resident       Internal Medici         75
+
+PGIADC00001271 12429  Deba  Jyoti Chatterjee   Junior Resident       Pathology               75
+
+PGIADC00001272 012514 Ashok Kumar Pannu        Junior Resident       Internal Medici         75
+
+PGIADC00001273 012588 Mehta Keyur Sumatilal    Junior Resident       Oral Health Sci         75
+
+PGIADC00001274 012515 P  Vasudevan             Junior Resident       Internal Medici         75
+
+PGIADC00001275 012592 Praveen  Kumar           Junior Resident       Oral Health Sci         75
+
+PGIADC00001276 012517 Punith Kumar Tp          Junior Resident       Internal Medici         75
+
+PGIADC00001277 012594 Rajesh  Kasimahanti      Junior Resident       Anaesthesia And         75
+
+PGIADC00001278 12441  Kumar   Jayant           Junior Resident       General Surgery         75
+
+PGIADC00001279 012518 Nipun  Verma             Junior Resident       Internal Medici         75
+
+PGIADC00001280 12442  Vikash  Kumar Panwar     Junior Resident       General Surgery         75
+
+PGIADC00001281 012596 N.  Vinoth               Junior Resident       Anaesthesia And         75
+
+PGIADC00001282 012519 Rabindranath  E          Junior Resident       Internal Medici         75
+
+PGIADC00001283 012520 Sridharan  U             Junior Resident       Internal Medici         75
+
+PGIADC00001284 012597 Pokale Snweta Nand Kuma  Junior Resident       Anaesthesia And         75
+
+PGIADC00001285 012598 Vinod  Bishnoi           Junior Resident       Anaesthesia And         75
+
+PGIADC00001286 012599 Jesto  Kurian            Junior Resident       Anaesthesia And         75
+
+PGIADC00001287 012525 Natasha   Garg           Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001288 012528 Monika  Meena            Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001289 012601 Saranys V. Shnumathy S   Junior Resident       Anaesthesia And         75
+
+PGIADC00001290 012530 Rashmi  Pilania          Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001291 012602 Dinesh Kumar K K         Junior Resident       Anaesthesia And         75
+
+PGIADC00001292 012532 Vikas                    Junior Resident       Ophthalmology           75
+
+PGIADC00001293 012603 Shalvi  Mohajan          Junior Resident       Anaesthesia And         75
+
+PGIADC00001294 012604 Bharath  K V             Junior Resident       Anaesthesia And         75
+
+PGIADC00001295 012605 Varun  S.                Junior Resident       Anaesthesia And         75
+
+PGIADC00001297 012607 K.  Aswini               Junior Resident       Anaesthesia And         75
+
+PGIADC00001298 012537 Suvradeep  Mitra         Junior Resident       Pathology               75
+
+PGIADC00001299 012538 Vikrent Singh Bhar       Junior Resident       Pathology               75
+
+PGIADC00001300 012539 Sudhakar  R              Junior Resident       Pathology               75
+
+PGIADC00001301 012608 K.  Prabhakar            Junior Resident       Anaesthesia And         75
+
+PGIADC00001302 12461  Rohit  Bhowmick          Junior Resident       Paediatric Medi         75
+
+PGIADC00001303 012541 Neha  Mittal             Junior Resident       Pathology               75
+
+PGIADC00001304 012609 Manmohan  Singh          Junior Resident       Anaesthesia And         75
+
+PGIADC00001305 012610 Ajith Brabhv Kumar C     Junior Resident       Internal Medici         75
+
+PGIADC00001306 012543 Manish   Rohilla         Junior Resident       Pathology               75
+
+PGIADC00001307 012611 Ankit  Mittal            Junior Resident       Anaesthesia And         75
+
+PGIADC00001308 012544 Abhishek  S              Junior Resident       Paediatric Medi         75
+
+PGIADC00001309 012612 Umesh  Kumar Sahu        Junior Resident       Internal Medici         75
+
+PGIADC00001310 012545 Dhaarani  J              Junior Resident       Paediatric Medi         75
+
+PGIADC00001311 012613 Savdamini Jayant Lele    Junior Resident       E N T1                  75
+
+PGIADC00001312 012546 Sagar Badrinaryan Bhatt  Junior Resident       Paediatric Medi         75
+
+PGIADC00001313 012614 Saran  Kumar             Junior Resident       E N T1                  75
+
+PGIADC00001314 012615 Sunil Subramanyan M      Junior Resident       Internal Medici         75
+
+PGIADC00001315 012547 R  Divya                 Junior Resident       Paediatric Medi         75
+
+PGIADC00001316 012616 Kumaran  M               Junior Resident       Forensic Medici         75
+
+PGIADC00001317 012548 Harish  N                Junior Resident       Paediatric Medi         75
+
+PGIADC00001318 012549 P  Satheesh              Junior Resident       Paediatric Medi         75
+
+PGIADC00001319 012617 Ashwani Kumar Sharma     Junior Resident       Internal Medici         75
+
+PGIADC00001320 012550 Nagaraju A S             Junior Resident       Paediatric Medi         75
+
+PGIADC00001322 012619 Jasmine  Sethi           Junior Resident       Internal Medici         75
+
+PGIADC00001323 012620 Vikas  K.k               Junior Resident       Internal Medici         75
+
+PGIADC00001324 012551 Asmita  Das              Junior Resident       Paediatric Medi         75
+
+PGIADC00001325 012621 Arvind Damba Lkar        Junior Resident       Internal Medici         75
+
+PGIADC00001326 012622 Aditya  Chaudhary        Junior Resident       Internal Medici         75
+
+PGIADC00001327 012623 Gaurav  Ahuja            Junior Resident       Internal Medici         75
+
+PGIADC00001328 012553 Nirmal  Hansdak          Junior Resident       Paediatric Medi         75
+
+PGIADC00001329 012624 Kasina Dhuni Nags Ganes  Junior Resident       Internal Medici         75
+
+PGIADC00001330 012625 Pandit Sachin Sita Ram   Junior Resident       Internal Medici         75
+
+PGIADC00001331 012626 Sanjeev  Sroa            Junior Resident       Internal Medici         75
+
+PGIADC00001332 012627 Anand  M                 Junior Resident       Internal Medici         75
+
+PGIADC00001333 012554 Siya Ram Didel           Junior Resident       Paediatric Medi         75
+
+PGIADC00001334 012628 Mohan Kumar H            Junior Resident       Internal Medici         75
+
+PGIADC00001335 012629 Akash  Chakma            Junior Resident       Internal Medici         75
+
+PGIADC00001336 012630 Sabari Krishnan P        Junior Resident       Internal Medici         75
+
+PGIADC00001337 012631 Saravan Kumar Sogu       Junior Resident       Internal Medici         75
+
+PGIADC00001338 012555 Chethan  R               Junior Resident       Paediatric Medi         75
+
+PGIADC00001339 012632 Saroj  Kumar Sahoo       Junior Resident       Internal Medici         75
+
+PGIADC00001340 012633 Vinod  N                 Junior Resident       Internal Medici         75
+
+PGIADC00001341 012634 Tanmaya Kumar Sahu       Junior Resident       Internal Medici         75
+
+PGIADC00001342 012635 Shvetha  Sethi           Junior Resident       Medical Microbi         75
+
+PGIADC00001343 012636 Nitya  Batra             Junior Resident       Medical Microbi         75
+
+PGIADC00001344 012637 Supriya  Malvi           Junior Resident       Medical Microbi         75
+
+PGIADC00001345 012556 Chanchal  Kumar          Junior Resident       Paediatric Medi         75
+
+PGIADC00001346 012639 Lakshmi Sree  V          Junior Resident       Medical Microbi         75
+
+PGIADC00001348 012559 Aditya  Hegde            Junior Resident       Psychiatry              75
+
+PGIADC00001349 012640 J. Mohan Roop            Junior Resident       Internal Medici         75
+
+PGIADC00001350 012641 Shruti  Shambhavi        Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001351 012642 Anjumunnisa  S           Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001352 012562 Saravana Kumar G         Junior Resident       Radio Diagnosis         75
+
+PGIADC00001353 012643 Puneeti  Ballega         Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001354 012563 Alok  Sharma             Junior Resident       Radio Diagnosis         75
+
+PGIADC00001355 012644 Rahul Deepak Midi        Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001356 012645 C.  Keerthi              Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001357 012564 Baskaran  V              Junior Resident       Radio Diagnosis         75
+
+PGIADC00001358 012646 Monika  Makur            Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001359 012647 Muthyala  Tanuja         Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001360 012565 Sofia  L                 Junior Resident       Radio Diagnosis         75
+
+PGIADC00001362 012648 Archana  Kumari          Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001363 012569 Ashish  Gupta            Junior Resident       General Surgery         75
+
+PGIADC00001364 012649 Swati  Singla            Junior Resident       Ophthalmology           75
+
+PGIADC00001365 012650 Ramanus  Samanta         Junior Resident       Ophthalmology           75
+
+PGIADC00001366 012574 S.pradeep Jeya Kumar     Junior Resident       General Surgery         75
+
+PGIADC00001367 012651 Veeneet  Singla          Junior Resident       Ophthalmology           75
+
+PGIADC00001368 012652 Pankaj  Kataria          Junior Resident       Ophthalmology           75
+
+PGIADC00001369 012653 Poredi Amit Subhash      Junior Resident       Ophthalmology           75
+
+PGIADC00001370 012654 Faisal  T. T             Junior Resident       Ophthalmology           75
+
+PGIADC00001371 012655 Rakesh  John             Junior Resident       Orthopaedics            75
+
+PGIADC00001372 012656 K.  Venkataramana        Junior Resident       Orthopaedics            75
+
+PGIADC00001373 012657 Arjun  R. H. H           Junior Resident       Ophthalmology           75
+
+PGIADC00001374 012575 Viswanth Reddy B         Junior Resident       General Surgery         75
+
+PGIADC00001375 012658 Prasoon  Kumar           Junior Resident       Ophthalmology           75
+
+PGIADC00001376 012659 Sandeep  Kumar           Junior Resident       Ophthalmology           75
+
+PGIADC00001377 012660 Rama   Kishan            Junior Resident       Internal Medici         75
+
+PGIADC00001378 012579 Rajeswari  S             Junior Resident       Bio Statistics          75
+
+PGIADC00001379 012661 Saniya   Sharma          Junior Resident       Parasitology            75
+
+PGIADC00001380 012662 Parvati  Joshi           Junior Resident       Pathology               75
+
+PGIADC00001381 012663 Sunayana  Misra          Junior Resident       Pathology               75
+
+PGIADC00001382 012664 Rajesh Kumar Aggarwal    Junior Resident       Pathology               75
+
+PGIADC00001383 012665 Rajesh  Kumar            Junior Resident       Pathology               75
+
+PGIADC00001384 012666 Pulkit  Rastogi          Junior Resident       Pathology               75
+
+PGIADC00001385 012667 Lipi  Wppal              Junior Resident       Paediatric Orth         75
+
+PGIADC00001386 012668 Archana  P               Junior Resident       Pathology               75
+
+PGIADC00001387 012669 Hari  Kushnan            Junior Resident       Parasitology            75
+
+PGIADC00001391 012670 Alla Bharath Kumar       Junior Resident       Paediatric Orth         75
+
+PGIADC00001393 012671 Rajendra Prasan Anne     Junior Resident       Parasitology            75
+
+PGIADC00001394 012672 Dibya Lochan Praharaj    Junior Resident       Paediatric Orth         75
+
+PGIADC00001395 012673 Jagdeesh Menon U R       Junior Resident       Paediatric Medi         75
+
+PGIADC00001396 012674 Nuthan Kumar M K         Junior Resident       Paediatric Medi         75
+
+PGIADC00001397 012675 Savita  Rani             Junior Resident       Paediatric Medi         75
+
+PGIADC00001398 012676 Dhana Lakshmi A          Junior Resident       Paediatric Medi         75
+
+PGIADC00001399 012677 Stanzer  Chakdour        Junior Resident       Paediatric Medi         75
+
+PGIADC00001401 012678 Hasanashree  P           Junior Resident       Paediatric Medi         75
+
+PGIADC00001402 012680 Rakesh  Kumar            Junior Resident       Paediatric Medi         75
+
+PGIADC00001403 012681 Ananta Rao Kancha        Junior Resident       Paediatric Medi         75
+
+PGIADC00001404 012682 Emine A Rahiman          Junior Resident       Paediatric Medi         75
+
+PGIADC00001424 012686 Soumya  Jhanda           Junior Resident       Physiotherapy1          75
+
+PGIADC00001425 012687 Gaurav  Gupta            Junior Resident       Physiotherapy1          75
+
+PGIADC00001426 012688 Sridhar  M               Junior Resident       Physiotherapy1          75
+
+PGIADC00001427 012689 Aseem  Mehra             Junior Resident       Physiotherapy1          75
+
+PGIADC00001428 012690 Saif  Uddin Khatana      Junior Resident       Physiotherapy1          75
+
+PGIADC00001429 012691 Venkatesh Kumar K        Junior Resident       Physiotherapy1          75
+
+PGIADC00001431 012692 Madhu  Rima              Junior Resident       Radiology               75
+
+PGIADC00001433 012693 Laxmi Kant Gupta         Junior Resident       Radiology               75
+
+PGIADC00001435 012694 Rajeev P Kamble          Junior Resident       Radiology               75
+
+PGIADC00001437 012695 Desh Raj Meena           Junior Resident       Radiology               75
+
+PGIADC00001439 012696 Gaurav  Sharma           Junior Resident       Radiology               75
+
+PGIADC00001444 012698 Lawrence  A J            Junior Resident       Radiology               75
+
+PGIADC00001446 012699 Ranjit  Rattan           Junior Resident       Radiotherapy            75
+
+PGIADC00001448 012700 Sidharth  Garg           Junior Resident       Gastroenterolog         75
+
+PGIADC00001450 012701 Basant  Narayan Singh    Junior Resident       Gastroenterolog         75
+
+PGIADC00001451 012702 Brahmadatta  Pattnaik    Junior Resident       Gastroenterolog         75
+
+PGIADC00001452 012703 Venkata Vishwanath Redd  Junior Resident       Gastroenterolog         75
+
+PGIADC00001453 012704 Deepti Ranjan Satapathi  Junior Resident       Gastroenterolog         75
+
+PGIADC00001454 012706 Saltineni Raghu Ram Red  Junior Resident       Gastroenterolog         75
+
+PGIADC00001455 012707 C. H Bharat Siddharth    Junior Resident       Gastroenterolog         75
+
+PGIADC00001456 012708 Anand Ebin Thomas        Junior Resident       Doctors Hostel          75
+
+PGIADC00001474 012710 Prashant Raj Garg        Junior Resident       Gastroenterolog         75
+
+PGIADC00001476 012711 Sandeep  B               Junior Resident       Gastroenterolog         75
+
+PGIADC00001478 012712 Shibejit  Talukder       Junior Resident       Gastroenterolog         75
+
+PGIADC00001479 012713 Varinder Singh Attan     Junior Resident       Gastroenterolog         75
+
+PGIADC00001480 012715 Lalit  Kishore           Junior Resident       Gastroenterolog         75
+
+PGIADC00001481 012717 Srinath  S. R            Junior Resident       Gastroenterolog         75
+
+PGIADC00001483 012718 Kapil  Chaudhary         Junior Resident       Gastroenterolog         75
+
+PGIADC00001484 012721 Gograj Kumar Garhwal     Junior Resident       Gastroenterolog         75
+
+PGIADC00001486 012722 Ram Niwas Yadav          Junior Resident       Transfusion Med         75
+
+PGIADC00001488 012724 Ashish  Maheshwari       Junior Resident       Transfusion Med         75
+
+PGIADC00001489 012725 Shailesh Kumar Misra     Junior Resident       Other                   75
+
+PGIADC00001491 012727 Sujeet Kumar Sinha       Junior Resident       Other                   75
+
+PGIADC00001521 012723 Prabakaran  S            Junior Resident       Forensic Medici         75
+
+PGIADC00001525 012719 Abhimanyu  Singh         Junior Resident       Gastroenterolog         75
+
+PGIADC00001526 012714 Chethan  L               Junior Resident       Gastroenterolog         75
+
+PGIADC00001527 012726 Navin  Panday            Junior Resident       Other                   75
+
+PGIADC00001628 012705 Nripesh   Sadasukhi      Junior Resident       General Surgery         75
+
+PGIADC00001635 012730 Ranjitpal Singh Bhogal   Junior Resident       M.S.Office              75
+
+PGIADC00001636 012731 Gopala Krishanan Ravi    Junior Resident       Anaesthesia And         75
+
+PGIADC00001637 012732 Channakeshavalu G N      Junior Resident       Anaesthesia And         75
+
+PGIADC00001638 012734 Kushal  Kumar            Junior Resident       Anaesthesia And         75
+
+PGIADC00001640 012736 Ruchi   Bhutungru        Junior Resident       Anaesthesia And         75
+
+PGIADC00001641 012737 Ritu                     Junior Resident       Anaesthesia And         75
+
+PGIADC00001642 012738 Sonali  Bhat             Junior Resident       Dermatology             75
+
+PGIADC00001643 012739 Senthil  Kumar           Junior Resident       Forensic Medici         75
+
+PGIADC00001644 012740 Adarsh M B               Works Attendant Gr.II Administration          75
+
+PGIADC00001645 012741 Sudhanshu  Budakoty      Junior Resident       General Other1          75
+
+PGIADC00001646 012742 B  Nandakrishna          Junior Resident       General Other1          75
+
+PGIADC00001647 012743 Shaadab Ahmed Mohammed   Junior Resident       General Other1          75
+
+PGIADC00001648 012744 Pramod  Kumar D A        Junior Resident       General Other1          75
+
+PGIADC00001649 012745 Jegan  S                 Junior Resident       General Other1          75
+
+PGIADC00001650 012746 Nachimuthu  K            Junior Resident       General Other1          75
+
+PGIADC00001651 012747 Niya  Narayanan          Junior Resident       General Other1          75
+
+PGIADC00001652 012748 Sudheer  Tale            Junior Resident       General Other1          75
+
+PGIADC00001653 012749 Isak  Lallawmkima        Junior Resident       General Other1          75
+
+PGIADC00001654 012750 Nadiya Mudin Meduediyak  Junior Resident       General Other1          75
+
+PGIADC00001655 012751 Umesh  Kumar             Junior Resident       General Other1          75
+
+PGIADC00001656 012752 Kamran  Zaman            Junior Resident       Medical Microbi         75
+
+PGIADC00001657 012753 Gorla Arun  Reddy        Junior Resident       Nuclear Medicin         75
+
+PGIADC00001658 012754 Suchita  Singh           Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001659 012755 K C Navya                Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001660 012756 Amanjot  Kaur            Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001661 012757 Bhimeshwar Nayak G       Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001662 012758 G  Gokul                 Junior Resident       Orthopaedics            75
+
+PGIADC00001663 012759 Kevin  Syam              Junior Resident       Orthopaedics            75
+
+PGIADC00001664 012760 Anand  Rajagopal         Junior Resident       Orthopaedics            75
+
+PGIADC00001665 012761 Sunil Kumar Bhutungru    Junior Resident       Orthopaedics            75
+
+PGIADC00001666 012762 Ankit  Dadra             Junior Resident       Orthopaedics            75
+
+PGIADC00001667 012763 R   Poongodi             Junior Resident       Pathology               75
+
+PGIADC00001668 012764 Deepali  V               Junior Resident       Advance Pediatr         75
+
+PGIADC00001669 012765 Sindhuja  L              Junior Resident       Advance Pediatr         75
+
+PGIADC00001670 012766 Reshma  Aramanadka       Junior Resident       Advance Pediatr         75
+
+PGIADC00001671 012767 Vadhi Mounika Reddy      Junior Resident       Advance Pediatr         75
+
+PGIADC00001672 012768 Shalthi  Chinnatandi     Junior Resident       Advance Pediatr         75
+
+PGIADC00001673 012769 Saravanan  C             Junior Resident       Advance Pediatr         75
+
+PGIADC00001674 012770 P Senthil Kumar          Junior Resident       Advance Pediatr         75
+
+PGIADC00001675 012771 Karuru Uma Devi          Junior Resident       Advance Pediatr         75
+
+PGIADC00001676 012772 Sapna  Sandal            Junior Resident       Advance Pediatr         75
+
+PGIADC00001677 012773 Priyatharshini  P        Junior Resident       Advance Pediatr         75
+
+PGIADC00001678 012774 Banothu Kiran Kumar      Junior Resident       Advance Pediatr         75
+
+PGIADC00001679 012776 Srinivas                 Junior Resident       Psychiatry              75
+
+PGIADC00001680 012777 Pradyumna                Junior Resident       Psychiatry              75
+
+PGIADC00001681 012778 Santhosh Kumar Thamarai  Junior Resident       Psychiatry              75
+
+PGIADC00001682 012779 Aakanksha   Singh        Junior Resident       Psychiatry              75
+
+PGIADC00001683 012780 Rayasam  Karthik         Junior Resident       Radiology               75
+
+PGIADC00001684 012781 S  Abhinaya              Junior Resident       Radiology               75
+
+PGIADC00001685 012782 Pavan B Mulgund          Junior Resident       Radiology               75
+
+PGIADC00001686 012783 P Santhosh Kumar         Junior Resident       Radiology               75
+
+PGIADC00001687 012784 P Kartik Ganga           Junior Resident       Radiology               75
+
+PGIADC00001688 012785 Deepak  Koppaka          Junior Resident       Radiotherapy            75
+
+PGIADC00001689 012787 Ajay Kumar K             Junior Resident       Radiotherapy            75
+
+PGIADC00001690 012788 Anil  Mani               Junior Resident       General Surgery         75
+
+PGIADC00001691 012789 Raghu  Samala            Junior Resident       General Surgery         75
+
+PGIADC00001692 012790 Bhoopal Naik Jatavath    Junior Resident       General Surgery         75
+
+PGIADC00001693 012791 Srinivas  Bannoth        Junior Resident       General Surgery         75
+
+PGIADC00001694 012792 Aarti  Chaudhary         Junior Resident       General Surgery         75
+
+PGIADC00001695 012793 Prathibha  B             Junior Resident       Transfusion Med         75
+
+PGIADC00001696 012794 Praveen Raja R           Junior Resident       General Other1          75
+
+PGIADC00001697 012796 Shikha  Jain             Junior Resident       Anaesthesia And         75
+
+PGIADC00001698 012797 Deepika  Jain            Junior Resident       Anaesthesia And         75
+
+PGIADC00001699 012798 Samarendra  Behera       Junior Resident       Otolaryngology,         75
+
+PGIADC00001700 012799 K  Preetam               Junior Resident       General Other1          75
+
+PGIADC00001701 012800 Preethi  J               Junior Resident       General Other1          75
+
+PGIADC00001702 012801 Sameer  Kumar            Junior Resident       General Other1          75
+
+PGIADC00001703 012802 Soumya  S                Junior Resident       Deptt Of Gynaec         75
+
+PGIADC00001704 012803 Jatinder  Khipal         Junior Resident       Advance Pediatr         75
+
+PGIADC00001705 012804 A  Rahman Khan           Junior Resident       Advance Pediatr         75
+
+PGIADC00001706 012805 Shoban Babu Varthya      Junior Resident       Pharmacology            75
+
+PGIADC00001709 012807 Saheer  N                Junior Resident       General Surgery         75
+
+PGIADC00001710 012808 Karikal  Chakaravarthi   Junior Resident       General Surgery         75
+
+PGIADC00001711 012809 R  Mahendran             Junior Resident       General Surgery         75
+
+PGIADC00001712 012810 Ajay  Kumar              Junior Resident       General Surgery         75
+
+PGIADC00001713 012811 Paladugu  Ramu           Junior Resident       General Surgery         75
+
+PGIADC00001714 012812 N  Ramasubramaniam       Junior Resident       Transfusion Med         75
+
+PGIADC00001717 012618 Khaire Niranjan Shiwaji  Junior Resident       General Other1          75
+
+PGIADC00001718 012697 Balasubramaniam          Junior Resident       Radiology               75
+
+PGIADC00001774 012466 Shyam Balaji A           Junior Resident       Pharmacology            75
+
+PGIADC00001775 012467 Pugazi Henthan T         Junior Resident       Pharmacology            75
+
+PGIADC00001776 012468 Aditi  Aggarwal          Junior Resident       X R A Y                 75
+
+PGIADC00001777 012469 Anisha  Garg             Junior Resident       X R A Y                 75
+
+PGIADC00001778 012470 Gita  Devi               Junior Resident       X R A Y                 75
+
+PGIADC00001779 012471 Wepetso  Marhu           Junior Resident       X R A Y                 75
+
+PGIADC00001780 012475 Amulya Sarojini Thote    Junior Resident       Advance Pediatr         75
+
+PGIADC00001781 012476 Ganvir Rohan Hemraj      Junior Resident       Advance Pediatr         75
+
+PGIADC00001782 012477 Vinay  Rathore           Junior Resident       Advance Pediatr         75
+
+PGIADC00001783 012478 Rana Prashnat B          Junior Resident       Pharmacology            75
+
+PGIADC00001784 012479 Pendharkar Shreyas Shri  Junior Resident       Psychiatry              75
+
+PGIADC00001785 012480 Vijay  Parkash           Junior Resident       Psychiatry              75
+
+PGIADC00001786 012481 Sanjay  Lahariya         Junior Resident       Psychiatry              75
+
+PGIADC00001787 012482 Sudhir  Mahajan          Junior Resident       Psychiatry              75
+
+PGIADC00001788 012483 Ravanane  R              Junior Resident       Radiology               75
+
+PGIADC00001789 012484 Shridhar  P              Junior Resident       Radiology               75
+
+PGIADC00001790 012465 Santosh  S               Junior Resident       Pharmacology            75
+
+PGIADC00001822 012813 Vishwanatha  S           Junior Resident       General Other1          75
+
+PGIADC00001823 012814 Vinaya  Gopalaswamy      Junior Resident       General Other1          75
+
+                                                                          Grand Total     29025
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

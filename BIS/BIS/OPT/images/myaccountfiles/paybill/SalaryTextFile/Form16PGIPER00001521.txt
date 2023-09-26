@@ -1,0 +1,105 @@
+ NEELAM BALA                                                            OLD EMP. CODE-025331   
+ --------------------------------------------------------------------------------------------- 
+|                                        FORM NO.16                                           |
+|                                  [See Rule 31(1)(a)]                            "ORIGINAL"  |
+|   Certificate under Section 203 of the Income-Tax Act,1961 for Tax Deducted at source from  |
+|                Income chargeable under head "Salaries"                                      |
+|---------------------------------------------------------------------------------------------|
+|Name and Address of the Employer              Name and Desigation of the Employee            |
+|---------------------------------------------------------------------------------------------|
+|Director,                                     Name           : NEELAM BALA                   |
+|PGIMER,Sector-12,                             Designation    : Private Secretary             |
+|Chandigarh-160012                             Emp.Code       : PGIPER00001521      Sex: F    |
+|---------------------------------------------------------------------------------------------|
+|PAN No of the Deductor |TAN No of the Deductor |PAN No of the Employee |Senior Citizen       |
+|       AAALP0918J      |       PTLD10262A      |       AAKPB7361H      |       N             |
+|---------------------------------------------------------------------------------------------|
+|                    CIT(TDS)                   |         PERIOD        |  ASSESSMENT YEAR    |
+|                                               |    FROM   |    TO     |      2014-2015      |
+|                ITO-WARD1(4),CHANDIGARH        | 01.04.2013 |31.03.2014|                     |
+|---------------------------------------------------------------------------------------------|
+|               DETAILS OF SALARY PAID AND ANY OTHER INCOME AND TAX DEDUCTED                  |
+|---------------------------------------------------------------------------------------------|
+|PARTICULARS                                      |          |Amount(Rs)|Amount(Rs)|Amount(Rs)|
+|1.Gross Salary                                   |          |          |          |          |
+|a)Salary as per provisions contained in sec.17(1)|          |    683940|          |          |
+|b)Value of Perquisites under sec. 17(2)-NPS      |          |         0|          |          |
+|c)Profits in lieu of salary under sec. 17(3)     |          |         0|          |          |
+|d).Total                                         |          |    683940|          |          |
+|2. Less :Allowance to the extent exempt U/s 10   |          |          |          |          |
+|        ALLOWANCE                                |Amount(Rs)|          |          |          |
+|House Rent Allowance                             |         0|          |          |          |
+|Transport Allowance                              |      9600|          |          |          |
+|Children Education Allowance                     |         0|          |          |          |
+|Children Hostel Allowance                        |         0|          |          |          |
+|Total Exemption U/s 10                           |      9600|      9600|      9600|          |
+|3. Balance(1-2)                                  |          |          |    674340|          |
+|4. Deduction U/s 16 & 17:                        |          |          |          |          |
+|a) Entertainment Allowance                       |          |         0|          |          |
+|b) Professional Tax                              |          |         0|          |          |
+|5.Aggregate of 4(a) to 4(b)                      |          |          |         0|          |
+|6.Income Chargeable under the head'Salaries'(3-5)|          |          |          |    674340|
+|7.Add : Any other income reported by the employee|          |          |         0|    674340|
+|               INCOME                            |Amount(Rs)|          |          |          |
+|a).Total                                         |         0|          |         0|         0|
+|8. Gross Total Income (6+7)                      |          |          |          |    674340|
+|---------------------------------------------------------------------------------------------|
+|9.Deductions under chapter VI-A                  |          |          |     Gross|Deductible|
+|                                                 |          |          |Amount(Rs)|Amount(Rs)|
+|A. Deductions U/S 80C,80CCC and 80CCD(1)         |Amount(Rs)|          |          |          |
+|a)General Provident Fund/C.P.F                   |    300000|          |          |          |
+|b)GIS                                            |       720|          |          |          |
+|c)Total u/s 80C,80CCC & 80CCD(1) excl. Govt.Cont.|    300720|          |    300720|    100000|
+|B. New Pension Scheme-Employer Share [80CCD(2)]  |          |          |         0|         0|
+|C.Other Deductions(U/s80G,80D,80DD,80DDB,80U etc)|          |   Gross  |Qualifying|Deductible|
+|                                                 |          |Amount(Rs)|Amount(Rs)|Amount(Rs)|
+|a)Total                                          |          |         0|         0|         0|
+|10. Aggregate of amount under Chapter VI-A(A+B+C)|          |          |          |    100000|
+|11. Total Income (8-10) [Round off U/S 288 A]    |          |          |          |    574340|
+|12. Tax on Total Income                          |          |          |          |     44868|
+|13. Tax Rebate U/s 87A                           |          |          |          |         0|
+|14. Income Tax after rebate u/s 87A              |          |          |          |     44868|
+|15. Education cess @3%                           |          |          |          |      1346|
+|16. Tax Payable (14+15)                          |          |          |          |     46214|
+|17. Less: Relief U/s 89 (attach Form 10E)        |          |          |          |         0|
+|18. Tax Payable(16-17) [Round off U/S 288B]      |          |          |          |     46210|
+|19.Less: a) Advance Tax, if any                  |         0|          |          |          |
+|    b).Tax Deducted at Source (TDS)              |     46210|          |          |     46210|
+|20. Balance Tax Payable /Refundable(18-19)       |          |          |          |         0|
+|---------------------------------------------------------------------------------------------|
+|DETAILS OF TAX DEDUCTED AND DEPOSITED INTO CENTRAL GOVERNMENT ACCOUNT                        |
+|---------------------------------------------------------------------------------------------|
+|S.NO|       MONTH     |   TAX    |CHEQUE/DD/|BSR CODE  |  DATE ON |CHALLAN   |    TOTAL      |
+|    |                 |DEPOSITED |TT/CASH   |OF BANK   |WHICH TAX |SERIAL    |  OF TAX       |
+|    |                 |IN RESPECT|          |BRANCH    |DEPOSITED |NUMBER    | DEPOSITED     |
+|    |                 |OF        |          |          |(DD/MM/YY)|          |(Rs)           |
+|    |                 |EMPLOYEE  |          |          |          |          |               |
+|    |                 |(RS)      |          |          |          |          |               |
+|---------------------------------------------------------------------------------------------|
+|1   |April-2013       |      3000|269927    |0001524   |06/05/13  |00007     |       22954000|
+|2   |May-2013         |      1500|270766    |0001524   |04/06/13  |00005     |       12461405|
+|3   |June-2013        |      3000|272411    |0001524   |04/07/13  |00015     |       12481000|
+|4   |July-2013        |      3000|273580    |0001524   |06/08/13  |00006     |       12603618|
+|5   |August-2013      |      3000|274906    |0001524   |05/09/13  |00013     |       16392652|
+|6   |September-2013   |      3000|276490    |0001524   |05/10/13  |00015     |       17469111|
+|7   |October-2013     |      3000|277845    |0001524   |06/11/13  |00008     |       18321025|
+|8   |November-2013    |      3000|123138    |0001524   |06/12/13  |00009     |       27027766|
+|9   |December-2013    |      3000|124461    |0001524   |06/01/14  |00007     |       29917052|
+|10  |January-2014     |      3000|125481    |0001524   |05/02/14  |00011     |       33845811|
+|11  |February-2014    |     17710|126041    |0001524   |04/03/14  |00012     |       59802724|
+|12  |March-2014       |         0|127542    |0001524   |05/04/14  |00007     |         995447|
+|---------------------------------------------------------------------------------------------|
+|                                    VERIFICATION                                             |
+|---------------------------------------------------------------------------------------------|
+|Certified that the sum of Rs.46210 only In words ( RUPEES FORTY-SIX THOUSAND TWO HUNDRED TEN ONLY) ) has been deducted at source and deposited to the credit of the Central Goverment as per detail given above.Further, certified that above information is true & correct as per records.|
+|( RUPEES FORTY-SIX THOUSAND TWO HUNDRED TEN ONLY)                                            |
+|has been deducted at source and deposited to the credit of the Central Goverment as per      |
+|detail given above.Further, certified that above information is true & correct as per records.|
+|---------------------------------------------------------------------------------------------|
+|                                                                                             |
+|                                                                                             |
+|                                         Signature of person responsible for deduction of tax|
+|                                                               Sd/-                          |
+|Place: Chandigarh                                        (SANJEEV BATTAN)                    |
+|Date:30-May-2014                                       DDO,PGIMER,CHANDIGARH                 |
+ --------------------------------------------------------------------------------------------- 

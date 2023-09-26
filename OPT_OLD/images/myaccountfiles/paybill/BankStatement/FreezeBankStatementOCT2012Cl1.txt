@@ -1,0 +1,218 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Miscellaneous                                                                       
+Sub-Category  :Cl1                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIADC00001614 040162 Gita  Chopr              Stenographer          10413702995      27113
+
+2   PGIPER00000107 040079 Pushpinder   Kaur        Stenographer          10413629174      24330
+
+3   PGIPER00000109 040031 Thakur   Dass            Personal Assistant    10413610617      22554
+
+4   PGIPER00000230 040067 Kanshi Ram Thakur        Stenographer          10413604658      23722
+
+5   PGIPER00000233 040055 Santosh   Kumari         Stenographer          10413614827      24225
+
+6   PGIPER00000235 040058 Brij Mohan Khurana       Stenographer          10413610764      30428
+
+7   PGIPER00000236 040054 Ashok   Kumari           Stenographer          10413610695      27084
+
+8   PGIPER00000238 040066 Kusam   Sharma           Stenographer          10413607933      26950
+
+9   PGIPER00000240 040052 Tarawati                 Stenographer          10413601078      40414
+
+10  PGIPER00000246 040064 Sandeep    kumari        Other                 10413627938      18582
+
+11  PGIPER00000247 040068 Varinder   Kaur          Stenographer          10413621448      30659
+
+12  PGIPER00000249 040077 Rajni   Nagpal           Stenographer          10413630962      27622
+
+13  PGIPER00000251 040089 Raman   Kumari           Stenographer          10413620807      25822
+
+14  PGIPER00000252 040071 Rajinder  Kumar Sabbarw  Stenographer          10413617330      25105
+
+15  PGIPER00000253 040061 Satnam  Kaur             Stenographer          10413655706      19633
+
+16  PGIPER00000254 040073 Susheel   Kumari         Stenographer          10413617828      26278
+
+17  PGIPER00000255 040078 Kuldip   Kaur            Stenographer          10413623092      23586
+
+18  PGIPER00000256 040062 Santosh   Kumari         Stenographer          10413618640      29994
+
+19  PGIPER00000257 040080 Ram   Karan              Stenographer          10413617953      31328
+
+20  PGIPER00000258 040072 Kashmiro   Devi          Stenographer          10413627610      22586
+
+21  PGIPER00000259 040063 Kiran   Kapil            Personal Assistant    10413632052      24458
+
+22  PGIPER00000260 040074 Anju   Gupta             Stenographer          10413657282      20624
+
+23  PGIPER00000261 040070 Ramesh Kumar Anand       Stenographer          10413629786      32622
+
+24  PGIPER00000262 040075 Kiran    Rawat           Stenographer          10413632788      27586
+
+25  PGIPER00000263 040081 Paramjit   Singh         Stenographer          10413631309      21310
+
+26  PGIPER00000264 040082 Amarjeet   Kaur          Stenographer          10413632347      19489
+
+27  PGIPER00000265 040083 Ravi  Bhushan            Stenographer          10413630554      20889
+
+28  PGIPER00000266 040084 Jatinder   Kumar         Stenographer          10413633872      28217
+
+29  PGIPER00000267 040086 Jagdeep   Pathania       Stenographer          10413638190      27952
+
+30  PGIPER00000268 040085 Naveen Chander Bedi      Stenographer          10413659993      36660
+
+31  PGIPER00000269 040087 Harvinder  Singh         Stenographer          10413636704      23429
+
+32  PGIPER00000271 040047 Raman   Verma            Personal Assistant    10413641056      24288
+
+33  PGIPER00000276 040045 Sunil  Dutt Sharma       Office Superintendent 10413631003      27288
+
+34  PGIPER00000277 040030 Manju   Gupta            Private Secretary     10413611688      31826
+
+35  PGIPER00000280 040035 Krishna   Kumari         Personal Assistant    10413614929      23304
+
+36  PGIPER00000281 040032 Manju   Sharma           Personal Assistant    10413616096      26226
+
+37  PGIPER00000282 040033 Swarna   Devi            Personal Assistant    10413611043      27368
+
+38  PGIPER00000288 040037 Ravinder   Sharma        PA                    10413634242      28120
+
+39  PGIPER00000311 040044 Manju   Aggarwal         Personal Assistant    10413608381      37688
+
+40  PGIPER00000352 040091 Puran Chand Pant         Personal Assistant    10413628262      25343
+
+41  PGIPER00000353 040101 Neelam   Sharma          OTHER (C)             10413642185      19315
+
+42  PGIPER00000354 040088 Satinder                 Personal Assistant    10413638768      21371
+
+43  PGIPER00000355 040090 Punam   Sharma           Personal Assistant    10413641250      19513
+
+44  PGIPER00000356 040130 Ajay   Abrol             Stenographer          10413661265      24554
+
+45  PGIPER00000357 040127 Naresh   Kumar           Stenographer          10413661232      22672
+
+46  PGIPER00000358 040124 Saroj   Bala             OTHER (C)             10413660294      24691
+
+47  PGIPER00000359 040125 Fateh   Singh            Stenographer          10413661764      25246
+
+48  PGIPER00000360 040133 Sanjay   Kumar           Stenographer          10413662780      24054
+
+49  PGIPER00000362 040129 Satinder Kumar Jassal    Stenographer          10413661946      19254
+
+50  PGIPER00000363 040134 Rakesh   Kumar           Stenographer          10413666637      19000
+
+51  PGIPER00000364 040137 Man   Singh              Stenographer          30162059092      16612
+
+52  PGIPER00000365 040136 Rajinder   Kumar         Stenographer          10413718699      20020
+
+53  PGIPER00000366 040093 Sudhir Kumar Sharma      Other                 10413674897      16052
+
+54  PGIPER00000368 040126 Harcharan Singh Rana     Stenographer          10413643564      24254
+
+55  PGIPER00000369 040135 Lalita   Khurana         Stenographer          10413653877      31820
+
+56  PGIPER00000370 040098 Sushila  Kumari          Personal Assistant    10413650854      19520
+
+57  PGIPER00000371 040099 Ominder   Kumar          Personal Assistant    10413655977      19329
+
+58  PGIPER00000372 040103 Parveen  kumar Singh     Stenographer          10413651133      19530
+
+59  PGIPER00000373 040102 Ishwar   Kumari          OTHER (C)             10413630509      24720
+
+60  PGIPER00000374 040115 Dhiraj                   OTHER (C)             10413653888      35889
+
+61  PGIPER00000375 040117 Kiran   Jyoti            Personal Assistant    10413655445      19854
+
+62  PGIPER00000376 040132 Anil  Kumar              Stenographer          10413655933      22432
+
+63  PGIPER00000377 040123 Aneeta   Kanwal          Clerk                 10413660396      34160
+
+64  PGIPER00000378 040131 Sanjeev   Kumar          OTHER (C)             10413661651      25702
+
+65  PGIPER00000379 040128 Paramjit   Kaur          Stenographer          10413661334      20054
+
+66  PGIPER00000380 040141 Deepak  Mehta            Store-keeper          10413677377      19200
+
+67  PGIPER00000381 040152 Deep   Mala              Personal Assistant    10413692646      28248
+
+68  PGIPER00000382 040138 Baljeet  Kaur Kamboj     Stenographer          10413667154      20285
+
+69  PGIPER00000383 040140 Baljeet   Kaur           Stenographer          10413677286      17023
+
+70  PGIPER00000384 040143 Harish   Ahuja           Personal Assistant    10413677672      29685
+
+71  PGIPER00000385 040144 Harmeet  Kaur            Personal Assistant    10413677435      28250
+
+72  PGIPER00000387 040163 Sonu                     Stenographer          10413703331      19238
+
+73  PGIPER00000388 040158 Sanjay   Kumar           OTHER (C)             10413693377      21063
+
+74  PGIPER00000389 040149 Sanjay   Abrol           Stenographer          10413692170      22190
+
+75  PGIPER00000390 040155 Suman                    OTHER (C)             10413675143      15150
+
+76  PGIPER00000391 040157 Parveen   Sharma         OTHER (C)             10413692136      27593
+
+77  PGIPER00000392 040154 Vineet  Malhotra         OTHER (C)             10413692294      23813
+
+78  PGIPER00000393 040148 Bhupinder   Kaur         OTHER (C)             10413684421      23063
+
+79  PGIPER00000395 040150 Sonia                    Security Guard Gr.2   10413692657      22753
+
+80  PGIPER00000396 040153 Jitender  Kumar          Store-keeper          10413692578      24367
+
+81  PGIPER00000397 040156 Navneet   Bansal         OTHER (C)             10413692307      21511
+
+82  PGIPER00000398 040165 Deepak   Jugran          Junior Steno          10413705486      19298
+
+83  PGIPER00000400 040161 Manish   Kumar           OTHER (C)             10413699584      27113
+
+84  PGIPER00000445 040113 Surinder   Kumar         Personal Assistant    10413652499      19304
+
+85  PGIPER00000446 040121 Parwinder   Singh        OTHER (C)             10413655514      15855
+
+86  PGIPER00000447 040107 Harmesh Kumari Sharma    Stenographer          10413654145      23040
+
+87  PGIPER00000448 040106 Jasbir    Kaur           Stenographer          10413654189      18545
+
+88  PGIPER00000449 040108 Sunita   Devi            Stenographer          10413652783      23704
+
+89  PGIPER00000450 040112 Alka                     Stenographer          10413653312      23722
+
+90  PGIPER00000451 040110 Rajni   Bala             OTHER (C)             10413653913      22976
+
+91  PGIPER00000452 040114 Neelam   Sharma          Stenographer          10413655671      25840
+
+92  PGIPER00000453 040116 Anu   Monga              Personal Assistant    10413655456      13715
+
+93  PGIPER00000454 040109 Anita   Rani             Stenographer          10413654496      24024
+
+94  PGIPER00000455 040111 Ranjna   Sharma          Stenographer          10413654134      23804
+
+95  PGIPER00000456 040105 Parminder   Singh        OTHER (C)             10413640563      22386
+
+96  PGIPER00001620 040146 Vijay   Kumar            Stenographer          10413677650      24314
+
+97  PGIPER00008040 040122 Rohit                    Stenographer          10413655808      25840
+
+98  PGIPER00008087 040160 Amit  Rawat              Personal Assistant    10413693468      17943
+
+99  PGIPER00008103 040119 Manoj    Kumar           Personal Assistant    10413645120      21826
+
+100 PGIPER00008692 040164 Amritpal   Singh         Clerk                 10413701775      24516
+
+101 PGIPER00008698 040051 Jasbir  Kaur             Hindi Steno           10413629481      33139
+
+                                                                          Grand Total   2446656
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

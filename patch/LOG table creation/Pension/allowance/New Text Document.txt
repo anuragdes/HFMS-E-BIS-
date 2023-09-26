@@ -1,0 +1,26 @@
+CREATE TABLE ahislog.actpns_allowance_specs_trns_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+  str_employee_number character varying(15),
+  num_allowance_code character varying(10),
+  str_category_head_code character varying(10),
+  num_amount character varying(50),
+  gnum_slno numeric(3,0),
+  dt_effective_frm character varying(50),
+  dt_effective_to character varying(50),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date character varying(50),
+  gdt_lstmod_date character varying(50),
+  gnum_lstmod_seatid character varying(50),
+  gstr_remarks character varying(50),
+  gnum_hospital_code numeric(3,0),
+  num_status_flag numeric DEFAULT 1,
+  dt_applicability_date character varying(50),
+  CONSTRAINT actpns_allowance_specs_trns_pk PRIMARY KEY (slno,str_employee_number,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpns_allowance_specs_trns_log
+  OWNER TO bishfms;

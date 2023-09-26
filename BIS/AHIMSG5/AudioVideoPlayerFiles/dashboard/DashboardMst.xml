@@ -1,0 +1,121 @@
+<dashboardMain>
+   <maxDashboardId>7</maxDashboardId>
+   <dashboardLst class="java.util.ArrayList">
+      <dashboardVO>
+         <dashboardId>1</dashboardId>
+         <dashboardName>Staff Enquiry</dashboardName>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>50</width>
+               <height>100</height>
+            </sectionDetails>
+            <sectionDetails>
+               <sectionId>2</sectionId>
+               <sectionName>2</sectionName>
+               <width>49</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+      </dashboardVO>
+      <dashboardVO>
+         <dashboardId>3</dashboardId>
+         <dashboardName>Clinical Enquiry</dashboardName>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>50</width>
+               <height>100</height>
+            </sectionDetails>
+            <sectionDetails>
+               <sectionId>2</sectionId>
+               <sectionName>2</sectionName>
+               <width>49</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+      </dashboardVO>
+      <dashboardVO>
+         <dashboardId>4</dashboardId>
+         <dashboardName>OPD Patient Enquiry</dashboardName>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>99</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+      </dashboardVO>
+      <dashboardVO>
+         <dashboardId>5</dashboardId>
+         <dashboardName>In Patient Enquiry</dashboardName>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>99</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+      </dashboardVO>
+      <dashboardVO>
+         <dashboardId>6</dashboardId>
+         <dashboardName>Todays</dashboardName>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>50</width>
+               <height>100</height>
+            </sectionDetails>
+            <sectionDetails>
+               <sectionId>2</sectionId>
+               <sectionName>2</sectionName>
+               <width>49</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+      </dashboardVO>
+      <dashboardVO>
+         <dashboardId>7</dashboardId>
+         <dashboardName>test tab</dashboardName>
+         <allParameters></allParameters>
+         <lstSection class="java.util.ArrayList">
+            <sectionDetails>
+               <sectionId>1</sectionId>
+               <sectionName>1</sectionName>
+               <width>100</width>
+               <height>100</height>
+            </sectionDetails>
+         </lstSection>
+         <isActive>1</isActive>
+         <isCriteriaWise>0</isCriteriaWise>
+         <parameterOptions>1</parameterOptions>
+         <tabLoadOption>ONWINDOWLOAD</tabLoadOption>
+         <parameterRemarks></parameterRemarks>
+      </dashboardVO>
+   </dashboardLst>
+</dashboardMain>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.cdacnoida.in/his/setup_bill" elementFormDefault="qualified"
+	xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.cdacnoida.in/his/setup_bill">
+    <annotation>
+    	<documentation>
+    		Bill Setup Schema for HIS DIVISION C-DAC Copyright 2007 HIS
+    		DIVISION C-DAC. All rights reserved.
+    	</documentation>
+    </annotation>
+
+       <element name="setup" type="tns:SetupType"></element>
+    
+    <complexType name="SetupType">
+    	<sequence>
+    		<element name="general" type="tns:GeneralType" minOccurs="1" maxOccurs="1"></element>
+    		<element name="opd" type="tns:OpdType" minOccurs="1" maxOccurs="1"></element>
+    		<element name="billformat" type="tns:BillFormatType" minOccurs="1"></element>
+    		<element name="ipd" type="tns:IpdType" minOccurs="1" maxOccurs="1"></element>
+    		<element name="emergency" type="tns:EmergencyType" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+
+    <complexType name="GeneralType">
+    	<sequence>
+    		<element name="cancellationTime" minOccurs="1"
+    			type="string">
+    		</element>
+    		<element name="duplicatePrintCharge" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="printerName" type="string" minOccurs="1"></element>
+    		<element name="recordsDisplayMaster" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="levelModifyMaster" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="levelDeleteMaster" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="tempPath" type="string" minOccurs="1"></element>
+    		<element name="receiptType" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="duplicatePrint" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="isWithoutCrNoRequired" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="onlineRefundRequestAllowed" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="isReferringPhysicianRequired" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="isPreviousCrNoRequired" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ccConfermationType" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="OpdType">
+    	<sequence>
+    		<element name="thirdParyBilling" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="discount" type="string" minOccurs="1"></element>
+    		<element name="discountClerk" type="string" minOccurs="1"></element>
+    		<element name="refundPenalty" type="string" minOccurs="1"></element>
+    		<element name="roundOff" type="string" minOccurs="1"></element>
+    		<element name="opdServiceTax" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="BillFormatType">
+    	<sequence>
+    		<element name="header1" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+
+
+    		<element name="header2" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="header3" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="header4" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="footer" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="disclaimer" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="IpdType">
+    	<sequence>
+    		<element name="thirdParyBilling" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="discount" type="string" minOccurs="1"></element>
+    		<element name="discountClerk" type="string" minOccurs="1"></element>
+    		<element name="refundPenalty" type="string" minOccurs="1"></element>
+    		<element name="creditBilling" type="string" minOccurs="1"></element>
+    		<element name="partPaymentDuration" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="roundOff" type="string" minOccurs="1"></element>
+    		<element name="serviceTaxOnTotalBill" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="excessCreditLimit" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="ipdGenAdtProcessType" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name='ipdServiceTax' type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="EmergencyType">
+    	<sequence>
+    		<element name="thirdPartyBilling" type="string"
+    			minOccurs="1">
+    		</element>
+    		<element name="discount" type="string" minOccurs="1"></element>
+    		<element name="discountClerk" type="string" minOccurs="1"></element>
+    		<element name="refundPenalty" type="string" minOccurs="1"></element>
+    		<element name="roundOff" type="string" minOccurs="1"></element>
+    		<element name="emgServiceTax" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+</schema>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="FTS" PROCESS_NAME="FileHeadMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="TRANSFER" BLOCK_SIZE="5" QRY_TOT_SIZE="5" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	UPDATE fts_dealing_asst_supev_in_trn SET GNUM_ISVALID=0 WHERE STR_DOCUMENT_CID=? and gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	INSERT INTO FTS_FINAL_DISL_ACT_DTL_TRN (NUM_DOCUMENT_CID,NUM_LETTER_NUMBER,DT_DATED,STR_FILE_HEAD_NAME,NUM_SUBJECT_ID,STR_ACTION_TAKEN,STR_ACTION_REMARKS,DT_ACTION_TAKEN_DATE,NUM_DOCUMENT_CID_NEW,NUM_LETTER_NUMBER_NEW,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	 insert into fts_outbox_of_individual_trn(str_document_cid,str_letter_no_file_head_name,str_category,str_priority,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+	
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 insert into fts_deal_in_file_trn(num_document_cid,num_letter_number,dt_dated,NUM_SUBJECT_ID,num_existing_file_cid,str_existing_file_name,num_new_file_cid,str_new_file_name,gdt_effect_date,gnum_seat_id,gdt_entry_date,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+	 <BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="11">
+	insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+    </BLOCK> 
+				
+</OPR>
+
+<OPR ID="2" NAME="TRANSFER" BLOCK_SIZE="5" QRY_TOT_SIZE="5" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	UPDATE fts_dealing_asst_supev_in_trn SET GNUM_ISVALID=0 WHERE STR_DOCUMENT_CID=? and gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	INSERT INTO FTS_FINAL_DISL_ACT_DTL_TRN (NUM_DOCUMENT_CID,NUM_LETTER_NUMBER,DT_DATED,STR_FILE_HEAD_NAME,NUM_SUBJECT_ID,STR_ACTION_TAKEN,STR_ACTION_REMARKS,DT_ACTION_TAKEN_DATE,NUM_DOCUMENT_CID_NEW,NUM_LETTER_NUMBER_NEW,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	 insert into fts_outbox_of_individual_trn(str_document_cid,str_letter_no_file_head_name,str_category,str_priority,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+	
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 insert into fts_deal_in_file_trn(num_document_cid,num_letter_number,dt_dated,NUM_SUBJECT_ID,num_existing_file_cid,str_existing_file_name,num_new_file_cid,str_new_file_name,gdt_effect_date,gnum_seat_id,gdt_entry_date,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+	 <BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="11">
+	insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+    </BLOCK> 
+				
+</OPR>
+
+</tns:Transaction>

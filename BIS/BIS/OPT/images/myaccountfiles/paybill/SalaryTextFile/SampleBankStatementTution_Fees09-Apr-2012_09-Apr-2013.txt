@@ -1,0 +1,14 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                              Chandigarh-(India),  , Chandigarh 
+                               Sample Bank Statement For Bill Reimbursement
+                                  From 09-Apr-2012- to 09-Apr-2013
+ 
+Type Of Bill  :Tution Fees                                                                     
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00008300 -      Gurpreet                 Security Officer      -                 3000
+
+2   PGIPER00008304 sg fdfdgTest Ab Erre Wrwer       Other                 -                 6000
+
+                                                                          Grand Total    9000.0

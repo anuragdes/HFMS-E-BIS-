@@ -1,0 +1,12 @@
+
+CREATE OR REPLACE TRIGGER trg1_actpay_pay_bill_register_dtl
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_pay_bill_register_dtl
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_pay_bill_register_dtl_log(str_employee_number,dt_pbr_generation_date,str_parameter_code,str_salary_arrears_flag,gdt_entry_date,gnum_seat_id,gnum_isvalid,gdt_lstmod_date,
+gnum_lstmod_seatid,gnum_hospital_code,num_parameter_amount,str_parameter_type,str_demand_no) 
+ select :OLD.str_employee_number,:OLD.dt_pbr_generation_date,:OLD.str_parameter_code,:OLD.str_salary_arrears_flag,sysdate,:OLD.gnum_seat_id,:OLD.gnum_isvalid,:OLD.gdt_lstmod_date,
+ :OLD.gnum_lstmod_seatid,:OLD.gnum_hospital_code,:OLD.num_parameter_amount,:OLD.str_parameter_type,:OLD.str_demand_no from actpay.actpay_pay_bill_register_dtl
+where str_employee_number=:new.str_employee_number and dt_pbr_generation_date=:NEW.dt_pbr_generation_date and str_parameter_code=:new.str_parameter_code;
+END;

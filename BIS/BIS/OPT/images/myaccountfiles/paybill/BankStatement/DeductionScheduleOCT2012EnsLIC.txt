@@ -1,0 +1,100 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ens                                               
+Demand No  :10120014711  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00000088 070008 Ram   Bahudar            LD Clerk  Accounts       163014776           479
+
+PGIPER00000088 070008 Ram   Bahudar            LD Clerk  Accounts       163039903          1513
+
+PGIPER00000088 070008 Ram   Bahudar            LD Clerk  Accounts       163549618          1531
+
+PGIPER00000212 070001 Vinod Kumar Bhalla       Ast.C     Canteen        162688943           315
+
+PGIPER00000213 070003 Hem   Raj                OTH       E W Canteen    162688938           231
+
+PGIPER00000215 070004 Achhar    Singh          Ast.C     Training Branc                     411
+
+PGIPER00000216 070010 Soorvir   Singh          LD Clerk  E W Canteen    161832918           292
+
+PGIPER00000216 070010 Soorvir   Singh          LD Clerk  E W Canteen    162688967           289
+
+PGIPER00000217 070006 Amrit   Lal              OTH       Transport      164570556           778
+
+PGIPER00000219 070012 Subhan   Singh           LD Clerk  E W Canteen    161832917           284
+
+PGIPER00000219 070012 Subhan   Singh           LD Clerk  E W Canteen    162688945           273
+
+PGIPER00000402 070002 Rajeev Kumar Bhatnagar   OTH       E W Canteen    162689054           240
+
+PGIPER00003270 070036 Krishan    Pal           SA Gr.3   Sanitation     164562083           510
+
+PGIPER00003270 070036 Krishan    Pal           SA Gr.3   Sanitation     164562604          1531
+
+PGIPER00004305 070039 Vijay  Kumar  Katwal     OTH       Other          162642550           353
+
+PGIPER00004305 070039 Vijay  Kumar  Katwal     OTH       Other          162713966           246
+
+PGIPER00004307 070035 Pitamber   Gewali        OTH       Other          162688939           232
+
+PGIPER00004307 070035 Pitamber   Gewali        OTH       Other          162689007           295
+
+PGIPER00004311 070043 Inder    Singh           OTH       Other          162689050           236
+
+PGIPER00004311 070043 Inder    Singh           OTH       Other          163549510          1531
+
+PGIPER00004331 070028 Main   Pal               OTH       Other          163038883           817
+
+PGIPER00004333 070022 Mohan    Singh           OTH       Other          162470332           349
+
+PGIPER00004337 070032 Chatter   Singh          Barber    Other          162689049           345
+
+PGIPER00004343 070014 Brij   Mohan             OTH       Other          162689051           283
+
+PGIPER00004345 070033 Prem    Chand            OTH       Other          162688944           236
+
+PGIPER00004348 070026 Bhuria   Lal             OTH       Other          162689009           337
+
+PGIPER00004349 070042 Savitri   Devi           OTH       Other          161962856           425
+
+PGIPER00004349 070042 Savitri   Devi           OTH       Other          162688347           295
+
+PGIPER00004349 070042 Savitri   Devi           OTH       Other          163549353           510
+
+PGIPER00004350 070040 Rosahn    Lal            OTH       Other          161811856           266
+
+PGIPER00004350 070040 Rosahn    Lal            OTH       Other          162299957           555
+
+PGIPER00004353 070020 Sunita   Bhalla          OTH       Other          162688423           600
+
+PGIPER00004354 070034 Jagdish    Chand         OTH       Other          162229713           251
+
+PGIPER00004354 070034 Jagdish    Chand         OTH       Other          163548125           799
+
+PGIPER00004355 070019 Subhash   Chand          OTH       Other          162689052           363
+
+PGIPER00004371 070018 Chaman   Lal             OTH       Other          162049712           287
+
+PGIPER00004371 070018 Chaman   Lal             OTH       Other          162689055           227
+
+PGIPER00004375 070016 Puran   Chand            OTH       Other          162688940           299
+
+PGIPER00004385 070041 Rattan  Lal              OTH       Other          162049851           147
+
+PGIPER00004385 070041 Rattan  Lal              OTH       Other          162688968           225
+
+PGIPER00004385 070041 Rattan  Lal              OTH       Other          162740362           261
+
+PGIPER00004385 070041 Rattan  Lal              OTH       Other          163549447          1021
+
+                                                                          Grand Total     20468
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

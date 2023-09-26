@@ -1,0 +1,210 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Technician                                                                          
+Sub-Category  :Tech7                                                                           
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000334 045267 S   Tamilarasu           OTHER (C)             10413659664      19571
+
+2   PGIPER00000958 045368 Sukhjit  Singh           Driver                10413653492      19094
+
+3   PGIPER00002951 045376 Suresh    Kumar          Other                 10413636090      22014
+
+4   PGIPER00002952 045284 Rajesh   Kumar           OTHER (C)             10413641873      19266
+
+5   PGIPER00002956 045310 Krishan Lal Sharma       Clerk                 10413605051      24232
+
+6   PGIPER00002961 045309 Rajinder  Pal  Singh     Other                 10413617498      20507
+
+7   PGIPER00002968 045308 Sudesh   Kumari          Office Superintendent 10413617512      23448
+
+8   PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk                 10413617272      14866
+
+9   PGIPER00002978 045306 Jagdish   Chand          Clerk                 10413654713      20750
+
+10  PGIPER00002983 045305 Mahesh Kumar Mehta       Clerk                 10413657408      29109
+
+11  PGIPER00002992 045400 Parampreet Kaur Ahuja    Other                 10413698569      35125
+
+12  PGIPER00003003 045365 Varinder   Kumar         Lower Division Clerk  10413659541      16531
+
+13  PGIPER00003006 045403 Sikander   Singh         Other                 10413700001      32595
+
+14  PGIPER00003007 045332 Ratti   Pal              Clerk                 10413646859      21879
+
+15  PGIPER00003011 045256 Monika  Bhuchar          Other                 10413683824      32250
+
+16  PGIPER00003012 045325 Lakhbir   Kaur           Clerk                 10413636012      26625
+
+17  PGIPER00003015 045255 Amit   Soni              Other                 10413683857      27038
+
+18  PGIPER00003017 045324 Nirmal   Singh           Clerk                 10413636942      24054
+
+19  PGIPER00003023 045421 Parvinder   Singh        Other                 10413699028      27061
+
+20  PGIPER00003024 045322 Lachham    Singh         Clerk                 10413615537      29174
+
+21  PGIPER00003026 045412 Sandeep   Singh          Other                 10413708986      22453
+
+22  PGIPER00003029 045323 Sham   Lal               Clerk                 10413651199      21272
+
+23  PGIPER00003031 045404 Hitesh   Kumar           Other                 10413700421      31393
+
+24  PGIPER00003032 045402 Bindia   Verma           OTHER (C)             10413699970      31625
+
+25  PGIPER00003035 045401 Hira   Lal               OTHER (B)             10413699663      16984
+
+26  PGIPER00003041 045217 Tajinder   Singh         Other                 10413655853      37610
+
+27  PGIPER00003044 045385 Bhupinder   Kaur         Lower Division Clerk  10413678406      18477
+
+28  PGIPER00003047 045210 Shamsher  Singh Hooda    Other                 30559728940      35354
+
+29  PGIPER00003048 045266 Ram Pyara Sharma         Other                 10413620295      28624
+
+30  PGIPER00003049 045373 Rajinder   Singh         Clerk                 10413662699      24914
+
+31  PGIPER00003051 045413 Arjinder   Pal           Other                 10413709093      32953
+
+32  PGIPER00003052 045313 Gurdeep   Singh          Clerk                 10413620998      17917
+
+33  PGIPER00003053 045418 Jaswinder    Singh       Junior Technician     10413724806          0
+
+34  PGIPER00003054 045374 Amit    Bhalla           Other                 10413677989      29622
+
+35  PGIPER00003055 045311 Bal   Krishan            Upper Division Clerk  10413612820      26074
+
+36  PGIPER00003056 045362 Kulwant   Kaur           Jr. Engineer Electric 10413661129      33992
+
+37  PGIPER00003058 045394 Baljinder   Kaur         Lower Division Clerk  10413687749      13976
+
+38  PGIPER00003059 045219 Parveen Kumar Wadela     OTHER (A)             10413619698      34605
+
+39  PGIPER00003060 045390 Shashi   Prabha          Clerk                 10413683472      19075
+
+40  PGIPER00003061 045389 Gautam   Ram             Clerk                 10413683314      13440
+
+41  PGIPER00003062 045370 Anita   Kiran            Clerk                 10413619916      26450
+
+42  PGIPER00003063 045387 Ravinder   Kumar         Lower Division Clerk  10413680685      18783
+
+43  PGIPER00003064 045366 Gurmeet   Singh          Lower Division Clerk  10413659109      13029
+
+44  PGIPER00003065 045312 Charanjit   Kaur         Clerk                 10413616029      25414
+
+45  PGIPER00003066 045319 Sham   Sunder            Clerk                 10413617501      21914
+
+46  PGIPER00003067 045304 Sameer   Tinku           Lower Division Clerk  10413700908      13270
+
+47  PGIPER00003068 045320 Jaswant   Singh          Clerk                 10413620002      23572
+
+48  PGIPER00003070 045364 Neeru   Sharma           Clerk                 10413679261      15275
+
+49  PGIPER00003072 045391 Amrik   Kaur             OTHER (A)             10413684567      14214
+
+50  PGIPER00003078 045397 Rajnish   Mittal         Tech. Gr.1 Laundry    10413698092      32609
+
+51  PGIPER00003081 045334 Nachhatar   Singh        Clerk                 10413635676      25625
+
+52  PGIPER00003085 045378 Sunita   Devi            Lower Division Clerk  10413663580      19338
+
+53  PGIPER00003086 045382 Jaibinder   Singh        Draftsmam             10413672302      24529
+
+54  PGIPER00003087 045248 Trisha                   Other                 10413679748      29774
+
+55  PGIPER00003090 045363 Rakesh   Gautam          Draftsmam             10413661561      24142
+
+56  PGIPER00003092 045254 Vinay   Kumar            Other                 10413643542      31589
+
+57  PGIPER00003098 045393 Daljit   Kaur            Draftsmam             10413684512      21978
+
+58  PGIPER00003099 045415 Archana   Kumari         Draftsmam             10413715133      20847
+
+59  PGIPER00003100 045330 Ravinder Kumar Saini     Upper Division Clerk  10413621277      18616
+
+60  PGIPER00003102 045331 Siya Ram Yadav           Lower Division Clerk  10413664277      11382
+
+61  PGIPER00003103 045417 Manju   Dhawan           Draftsmam             10413660578      18427
+
+62  PGIPER00003104 045392 Omeshwar   Sharma        Draftsmam             10413684646      21930
+
+63  PGIPER00003105 045408 Swaran   Singh           Other                 10413704073      33625
+
+64  PGIPER00003106 045367 Yash Pal Singh           Lower Division Clerk  10413643111      19528
+
+65  PGIPER00003107 045409 Ram   Kumar              OTHER (B)             10413704266      33497
+
+66  PGIPER00003108 045377 Piar   Chand             Lower Division Clerk  10413671455      19110
+
+67  PGIPER00003109 045406 Surya   Bhushan          Other                 10413703568      30586
+
+68  PGIPER00003110 045235 Sushil   Kumar           Other                 10413664357      30652
+
+69  PGIPER00003111 045422 Rajeev  Singh Thakur     Other                 10413730456      31757
+
+70  PGIPER00003113 045361 Sandeep   Yakhmi         Other                 10413661628      36793
+
+71  PGIPER00003114 045261 Dinesh Kumar Sapra       Other                 10413660737      39805
+
+72  PGIPER00003116 045375 Suba   Singh             Other                 10413662214      15712
+
+73  PGIPER00003119 045202 Sanjiv   Kalia           OTHER (C)             10413643406      39275
+
+74  PGIPER00003120 045405 Prabhjeet   Singh        Other                 10413690343      31993
+
+75  PGIPER00003123 045426 Inderjit   Singh         Other                 30032703683      28913
+
+76  PGIPER00003124 045379 Vikash   Vyas            Other                 10413672890      33732
+
+77  PGIPER00003125 045416 Vijay   Kumar            Other                 10413715224      24998
+
+78  PGIPER00003126 045407 Sarbjit   Singh          OTHER (C)             10413703716      33125
+
+79  PGIPER00003181 045369 Anju    GOYAL            Junior Steno          10413643745      19599
+
+80  PGIPER00003396 045318 Rajesh   Kumar           Divisional Accountant 10413658242      29962
+
+81  PGIPER00003715 045341 Manjit   Singh           Wireman               10413658402      12528
+
+82  PGIPER00003730 045240 Sanjeev   Sharma         Other                 10413655864      27588
+
+83  PGIPER00003731 045328 Jatinder Pal Srivastava  Technical Assistant   10413616245      15845
+
+84  PGIPER00003741 045242 Rajeev   Bassi           Other                 10413657690      34045
+
+85  PGIPER00003746 045216 Jasmer   Singh           Other                 10413608212      28354
+
+86  PGIPER00003751 045215 Gurnam   Singh           Other                 10413646644      32635
+
+87  PGIPER00003765 045214 Sanjeev   Sharma         Other                 10413645710      30452
+
+88  PGIPER00003769 045203 Guna Nand  Semwal        Other                 10413643484      38336
+
+89  PGIPER00003776 045206 Avtar   Singh            OTHER (B)             10413628035      36078
+
+90  PGIPER00003778 045224 Prem     Chandera        Other                 10413629980      20615
+
+91  PGIPER00003779 045231 Narinder   Malik         Other                 10413629833      21437
+
+92  PGIPER00003783 045221 Kishori Lal CHAUDHARY    Other                 10413619961      38536
+
+93  PGIPER00003785 045230 Vinod   Chopra           OTHER (B)             10413619235      25874
+
+94  PGIPER00003787 045232 ABDUAL   Rehman          Other                 10413619100      35774
+
+95  PGIPER00003790 045226 Rajan   Aggarwal         Other                 10413647999      28763
+
+96  PGIPER00003809 045411 Joginder  Pal Singh      Wireman               10413629118      14563
+
+97  PGIPER00004900 045410 Rishi   Pal              Tech.Gr.3             10413618833      16648
+
+                                                                          Grand Total   2438989
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,26 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Ddtc                                                                                
+Sub-Category  :Ddtc 9                                                                          
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00003792 080257 Hari   Singh             Lab Attendent Gr.l    10413632697      16764
+
+2   PGIPER00003946 088147 Bahadur   Singh          Security Guard Gr.2   10413753203      10474
+
+3   PGIPER00003953 088121 Harbans   Singh          Security Guard Gr.1   10413738105      15252
+
+4   PGIPER00003960 088144 Kuldeep   Singh          Security Guard Gr.2   10413753189       7120
+
+5   PGIPER00004177 088191 Sudama   Kumar           Security Guard Gr.2   10413753600      10279
+
+                                                                          Grand Total     59889
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

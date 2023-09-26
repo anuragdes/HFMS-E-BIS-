@@ -1,0 +1,48 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                               04 February 2013 
+                                Employee Wise Bank Statement
+                                    Month  :January 2013
+ 
+Category  :Gazetted                                                                            
+Sub-Category  :Gaz                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000001 1212   Raju Prasad Guaba        Pharmacist Gr.II      gfg                  0
+
+2   PGIPER00000002 041079 Neelam   Kumari          OTHER (B)             10413611576          0
+
+3   PGIPER00000004 041001 Veena  Dogra             Assistant             10413603553          0
+
+4   PGIPER00000009 043109 Vijay  Kumar Ahuja       Clerk                 -                    0
+
+5   PGIPER00000053 -      Sudesh    Kumari         Security Officer      -                    0
+
+6   PGIPER00000217 070006 Amrit   Lal              Clerk                 10413642470          0
+
+7   PGIPER00000336 043142 Ashwani  Thakur          Store-keeper          10413733219          0
+
+8   PGIPER00000383 040140 Baljeet   Kaur           Stenographer          -                    0
+
+9   PGIPER00001219 000687 Manish   Modi            Assistant Professor   -                    0
+
+10  PGIPER00001262 000658 Dr. Prema   Menon        Assistant Professor   10413706321          0
+
+11  PGIPER00001300 000792 Pooja   Sikka            Assistant Professor   -                    0
+
+12  PGIPER00001359 000788 Dr. S   Venkataseshan    Assistant Professor   -                    0
+
+13  PGIPER00001391 000748 Vikas    Suri            Assistant Professor   -                    0
+
+14  PGIPER00008297 456789 Test                     store Officer         -                    0
+
+15  PGIPER00008298 -      Gurpreet                 SHE                   -                    0
+
+16  PGIPER00008306 11223344Abhay  Kumar             PPS                   -                    0
+
+                                                                          Grand Total         0
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

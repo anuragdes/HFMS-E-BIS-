@@ -1,0 +1,49 @@
+CREATE TABLE ahislog.actpay_allowance_mst_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+     str_allow_name character varying(50),
+  str_allow_code character varying(10) NOT NULL,
+  gnum_slno numeric(3,0),
+  str_basis character varying(25),
+  dt_applicability timestamp(6) without time zone,
+  str_rate_flag character varying(4),
+  str_isemployee_specific character varying(4),
+  str_validity_flag character varying(4),
+  str_istaxable_flag character varying(4),
+  str_ispf_calculation character varying(4),
+  str_office_name character varying(5),
+  str_group_name character varying(15),
+  str_employee_type character varying(5),
+  str_employee_class character varying(5),
+  num_lower_basic numeric(10,2),
+  num_upper_basic numeric(10,2),
+  num_amount numeric(8,2),
+  gdt_effective_frm timestamp(6) without time zone,
+  gdt_effective_to timestamp(6) without time zone,
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp(6) without time zone,
+  gdt_lstmod_date timestamp(6) without time zone,
+  gstr_remarks character varying(50),
+  gnum_lstmod_seatid numeric(5,0),
+  str_type character varying(20),
+  num_allow_id numeric(3,0),
+  num_pay_scale_id numeric(20,0),
+  num_amount_qualifying numeric(5,0),
+  num_increment_base numeric(1,0),
+  num_no_of_increments numeric(2,0),
+  num_consolidated_flag character varying(1),
+  str_designation character varying(30),
+  num_basic_id numeric(2,0),
+  gnum_hospital_code numeric(6,0),
+  str_da_flag character varying(2),
+  str_grade_pay character varying(20),
+  num_traveling_amount numeric(10,2),
+  str_pay_commision character varying(3),
+  CONSTRAINT actpay_allowance_mst_log_pk PRIMARY KEY (slno,str_allow_code,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpay_allowance_mst_log
+  OWNER TO bishfms;

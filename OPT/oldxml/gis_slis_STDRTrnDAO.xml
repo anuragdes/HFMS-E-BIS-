@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="GISSLIS" PROCESS_NAME="GIS_SLIS_STDR_TRN" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="12">
+	INSERT INTO ACT_GIS_SLIS_STDR_TRN T (T.STR_BRANCH_CODE,T.STR_BRANCH_NAME,T.STR_ACCOUNT_NO,T.AMOUNT,T.DT_OF_TRN,T.ACCURED_INT,T.STR_REMARKS,T.GNUM_HOSPITAL_CODE,T.GNUM_ISVALID,T.GNUM_SEAT_ID,T.GDT_ENTRY_DT,T.NUM_STDR_TYPE) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>

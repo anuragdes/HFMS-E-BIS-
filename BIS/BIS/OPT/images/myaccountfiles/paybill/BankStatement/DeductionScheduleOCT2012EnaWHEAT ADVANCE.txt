@@ -1,0 +1,38 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                           Schedule Report For WHEAT ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ena                                               
+Demand No  :10120014481  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003186 060012 Bharui   Ram             Mali                  Engineering Dep        500
+
+PGIPER00003192 060037 Sher   Singh             Machine Man           Other                  500
+
+PGIPER00003202 060032 Ram   Bhadur             Mali                  Engineering Dep        500
+
+PGIPER00003204 060019 Prem   Lal               Mali                  Other                  500
+
+PGIPER00003230 060055 Ramesh   Kumar           Mali                  Engineering Dep        500
+
+PGIPER00003235 060067 Vikas    Saini           Mali                  Other                  500
+
+PGIPER00003236 060059 Ram   Partap             Mali                  Other                  500
+
+PGIPER00003244 060057 Ram   Sanjeevan          Mali                  Engineering Dep        500
+
+PGIPER00003268 060020 Balbir    Singh          Suprivisor            Engineering Dep        500
+
+PGIPER00003281 060008 Surjit   Singh           OTHER (C)             Other                  500
+
+PGIPER00003297 060029 Karam   Singh            Mali Gr.I             Engineering Dep        500
+
+                                                                          Grand Total      5500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

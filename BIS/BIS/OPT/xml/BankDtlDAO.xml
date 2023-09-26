@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="Bank Detail Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO ACTPAY_BANK_AC_TRNS(STR_EMPLOYEE_NO,STR_BANK_AC_NO,STR_BANK_CODE,GNUM_SL_NO,GNUM_ISVALID,GDT_ENTRY_DATE,GNUM_SEAT_ID,GDT_LST_MOD_DATE, GNUM_LST_MOD_SEAT_ID, STR_REMARKS,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	 UPDATE ACTPAY_BANK_AC_TRNS SET STR_BANK_AC_NO=?,STR_BANK_CODE=?,GNUM_SL_NO=?,GNUM_ISVALID=?,GDT_LST_MOD_DATE=?,GNUM_LST_MOD_SEAT_ID=?,STR_REMARKS=? where STR_EMPLOYEE_NO=? and gnum_hospital_code=?
+   </QRY>
+   </BLOCK>
+</OPR>
+<OPR ID="3" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	  UPDATE ACTPAY_BANK_AC_TRNS T  SET T.GNUM_ISVALID=0 WHERE  T.STR_EMPLOYEE_NO=?
+     </QRY>
+   </BLOCK>
+</OPR>
+</tns:Transaction>

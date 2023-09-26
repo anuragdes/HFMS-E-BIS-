@@ -1,0 +1,1 @@
+String PROCEDURE_GET_ALREADY_ADDED_QUALIFICATION_DETAILS = "ahistrn.pkg_pis_emp_qualification_dtl.proc_get_already_added_qualification_list";

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<generalConfig xmlns="http://www.cdacnoida.in/his/TransportConfig">
+    <moduleId>21</moduleId>
+    <unitId>0</unitId>
+    <unitName>Km</unitName>
+    <currencyId>0</currencyId>
+    <driverDesignationCode>218</driverDesignationCode>
+    <conductorDesignationCode>196</conductorDesignationCode>
+    <itemCategory>19</itemCategory>
+    <storeId>10101103</storeId>
+    <backDateEntry>90</backDateEntry>
+    <workOrderId>10</workOrderId>
+    <workOrderPaidServiceId>11</workOrderPaidServiceId>
+    <cancellationTime>10</cancellationTime>
+    <authorityCancellationDays>12</authorityCancellationDays>
+    <approvalTime>00</approvalTime>
+    <orderGenTime>00</orderGenTime>
+    <tripOrderType>1</tripOrderType>
+    <logsBackDateEntry>30</logsBackDateEntry>
+    <tripOrderCatType>0</tripOrderCatType>
+	<departmentId>102</departmentId>
+</generalConfig>
+

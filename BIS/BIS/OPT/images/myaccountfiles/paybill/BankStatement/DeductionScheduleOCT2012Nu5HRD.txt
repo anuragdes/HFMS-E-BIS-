@@ -1,0 +1,120 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu5                                               
+Demand No  :1012001151   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001824 029502 Agnes Fazal Masih        Sister Gr. I          Nursing Cell           211
+
+PGIPER00001825 029501 Victoria                 Sister Gr. I          Nursing Cell           210
+
+PGIPER00001826 029504 Roseline   George        Sister Gr. I          Nursing Cell           211
+
+PGIPER00001829 029526 Sunita K Masih           Sister Gr. I          Nursing Cell           172
+
+PGIPER00001831 029506 Surinder Kaur Dial       Sister Gr. I          Nursing Cell           172
+
+PGIPER00001832 029510 Neelam    Chand          Sister Gr. I          Nursing Cell           170
+
+PGIPER00001833 029615 Sunil    Bhatti          Sister Gr. I          Nursing Cell           172
+
+PGIPER00001839 029612 Nishi   Bala             Sister Gr. I          Advance Cardiac        150
+
+PGIPER00001840 029511 Zarina                   OTHER (B)             Nursing Cell           209
+
+PGIPER00001842 029530 Raj    Nahar             Sister Gr. I          Paediatric Surg        209
+
+PGIPER00001846 029533 Asha    Baby             Sister Gr. I          Nursing Cell           172
+
+PGIPER00001849 029513 Parveen  D M             Sister Gr. I          Nursing Cell           170
+
+PGIPER00001853 029538 Santosh   Robert         Sister Gr. I          Nursing Cell           172
+
+PGIPER00001854 029550 Shaella    Barnard       Sister Gr. I          Nursing Cell           152
+
+PGIPER00001855 029571 Rama   Sharma            Sister Gr. I          Nursing Cell           172
+
+PGIPER00001858 029540 Vidya    Devi            Sister Gr. II         Nursing Cell           172
+
+PGIPER00001860 029545 Sukhwinder   kaur        ANS                   Advance Cardiac        211
+
+PGIPER00001868 029555 Zeenat   William         Sister Gr. I          Nursing Cell           170
+
+PGIPER00001870 029539 Indira  Wanti Devi       Sister Gr. I          Nursing Cell           154
+
+PGIPER00001872 029572 Veenus   Pardeep         Sister Gr. I          Nursing Cell           152
+
+PGIPER00001875 029578 Kashmira                 Sister Gr. I          Nursing Cell           172
+
+PGIPER00001876 029580 Deep   Kaur              Sister Gr. II         Advance Cardiac        172
+
+PGIPER00001877 029587 Kiran   Lata             Sister Gr. I          Advance Cardiac        150
+
+PGIPER00001878 029586 Rattan    Kaur           Sister Gr. I          Nursing Cell           152
+
+PGIPER00001879 029581 Deepo                    Sister Gr. I          Nursing Cell           150
+
+PGIPER00001881 029584 Mandhir    Kaur          Sister Gr. I          Nursing Cell           170
+
+PGIPER00001882 029543 Satya   Nahar            Sister Gr. I          Nursing Cell           152
+
+PGIPER00001884 029563 Sulochana    Devi        Sister Gr. I          Nursing Cell           170
+
+PGIPER00001885 029606 Reeta   Paul             Sister Gr. I          Nursing Cell           150
+
+PGIPER00001886 029608 Jaswinder   Kaur         Sister Gr. I          Nursing Cell           170
+
+PGIPER00001890 029593 Elani   Topna            ANS                   Nursing Cell           100
+
+PGIPER00001891 029585 Rajeena   Gill           Sister Gr. I          Nursing Cell           152
+
+PGIPER00001898 029577 Raj   Kumari             Sister Gr. I          Nursing Cell           150
+
+PGIPER00001899 029668 Uma    Devi              Sister Gr. II         Nursing Cell           170
+
+PGIPER00001903 029628 Dalvinder   Kaur         Sister Gr. I          Nursing Cell           152
+
+PGIPER00001904 029667 Reeta   Rani             Sister Gr. I          Nursing Cell           170
+
+PGIPER00001912 029599 Usha                     Sister Gr. I          Nursing Cell           172
+
+PGIPER00001913 029619 Iqbal                    Sister Gr. I          Nursing Cell           152
+
+PGIPER00001924 029662 Kiran   Bala             Sister Gr. I          Advance Cardiac        170
+
+PGIPER00001976 029629 Rita   Rai               Sister Gr. I          Advance Cardiac        170
+
+PGIPER00002050 029621 Renu   Alfred            Sister Gr. I          Nursing Cell           152
+
+PGIPER00002090 029623 Sarita   Victor          Sister Gr. I          Nursing Cell           170
+
+PGIPER00008055 029583 Sneh    Lata             Sister Gr. I          Nursing Cell           172
+
+PGIPER00008066 029631 Saroj   Bala             Sister Gr. II         Nursing Cell           170
+
+PGIPER00008101 029659 Kuldip   Kaur            Sister Gr. I          Nursing Cell           172
+
+PGIPER00008117 029613 Kamlesh   Gill           Sister Gr. I          Nursing Cell           152
+
+PGIPER00008146 029671 Mukhtar   Masih          Sister Gr. I          Nursing Cell           172
+
+PGIPER00008151 029512 Violet   Kashyap         DNS                   Nursing Cell           172
+
+PGIPER00008162 029505 Vijendra A George        DNS                   Nursing Cell           211
+
+PGIPER00008164 029627 Geeta   Ansal            Sister Gr. II         Nursing Cell           154
+
+PGIPER00008340 029516 Reena   Parkash          Sister Gr. II         Nursing Cell           150
+
+PGIPER00008343 029588 Narinder  Kaur  Saini    Sister Gr. II         Nursing Cell           172
+
+                                                                          Grand Total      8768
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

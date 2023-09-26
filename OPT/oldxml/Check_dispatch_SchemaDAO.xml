@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="Grant Received Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+
+ <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+ <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+ <QRY ID="1" COL_SIZE="10">
+  UPDATE actcom_b_inst_trn  SET STR_NAME_OF_PERSON=?,STR_DESIGNATION=?,STR_DEPARTMENT=?,STR_INSTRUMENT_REMARKS=?,STR_BILL_SEND=?,DT_BILL_DISPATCH_DATE=?,STR_DISPATCH_BY=?,GNUM_HOSPITAL_CODE=?,STR_STATUS_CODE=? WHERE STR_BILL_NUMBER=?
+ </QRY>
+  </BLOCK>
+  
+  </OPR>
+   
+   
+   
+</tns:Transaction>

@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_da_goi_mst
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_da_goi_mst
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_da_goi_mst_log(num_da_id,str_da_name,str_da_code,num_da_rate,gnum_slno,gdt_effective_frm,gdt_effective_to,gnum_isvalid,
+gnum_seat_id,gdt_entry_date,gdt_lstmod_date,gnum_lstmod_seatid,gstr_remarks,gnum_hospital_code) 
+ select :old.num_da_id,:old.str_da_name,:old.str_da_code,:old.num_da_rate,:old.gnum_slno,:old.gdt_effective_frm,:old.gdt_effective_to,:old.gnum_isvalid,
+:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.gnum_hospital_code from actpay.actpay_arrear_register_dtl
+where str_employee_number=:new.str_employee_number and dt_applicable_month=:new.dt_applicable_month ;
+END;

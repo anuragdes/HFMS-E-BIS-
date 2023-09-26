@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_partial_salary_config
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_partial_salary_config
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_partial_salary_config_log(str_employee_number,str_month,num_year,num_salary_days,gnum_slno,gnum_isvalid,gnum_seat_id,gdt_entry_date,
+gnum_lstmod_seatid,gdt_lstmod_date,gnum_hospital_code,str_remarks,str_leave_type,str_ispartial_salary) 
+ select :old.str_employee_number,:old.str_month,:old.num_year,:old.num_salary_days,:old.gnum_slno,:old.gnum_isvalid,:old.gnum_seat_id,sysdate,
+:old.gnum_lstmod_seatid,:old.gdt_lstmod_date,:old.gnum_hospital_code,:old.str_remarks,:old.str_leave_type,:old.str_ispartial_salary from actpay.actpay_partial_salary_config
+where str_employee_number=:new.str_employee_number and str_month=:new.str_month and gnum_slno=:new.gnum_slno;
+END;

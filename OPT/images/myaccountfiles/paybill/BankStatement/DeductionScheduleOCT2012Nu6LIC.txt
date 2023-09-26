@@ -1,0 +1,38 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu6                                               
+Demand No  :1012001161   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00008188 031002 Gagan Preet  Kohli       SG2       Nursing Cell   164570570          3163
+
+PGIPER00008189 031003 Mamta    Kumari          SG2       Nursing Cell   164583498          1021
+
+PGIPER00008206 031018 Ripjit   Kaur            SG2       Nursing Cell   163589995          2042
+
+PGIPER00008207 031021 Chanderprabha            SG2       Nursing Cell   164566102          1806
+
+PGIPER00008209 031028 Satpal   Kaur            SG2       Nursing Cell   164587156          2321
+
+PGIPER00008231 031045 Deepak   Sharma          SG2       Nursing Cell   185636412           444
+
+PGIPER00008231 031045 Deepak   Sharma          SG2       Nursing Cell   186164936          2249
+
+PGIPER00008315 031062 Menka  Kumari            SG2       Neurology      164567329          2977
+
+PGIPER00008315 031062 Menka  Kumari            SG2       Neurology      164567330          1021
+
+PGIPER00008326 031073 Pawanpreet  Kaur         SG2       Nursing Cell   164567363          3235
+
+PGIPER00008334 031081 Rajwant  Kaur            SG2       Nursing Cell   164870326          2168
+
+                                                                          Grand Total     22447
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

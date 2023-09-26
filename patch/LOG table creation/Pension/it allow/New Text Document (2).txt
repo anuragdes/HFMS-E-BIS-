@@ -1,0 +1,23 @@
+CREATE TABLE ahislog.actpns_it_allow_dtl_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+  str_employee_number character varying(15),
+  str_assessment_year character varying(11),
+  parameter_code character varying(50),
+  parameter_amount numeric(10,2),
+  final_amount numeric(10,2),
+  parameter_type character varying(1),
+  gnum_slno numeric(3,0),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(3,0),
+  CONSTRAINT actpns_it_allow_dtl_pk PRIMARY KEY (slno,str_employee_number,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpns_it_allow_dtl_log
+  OWNER TO bishfms;

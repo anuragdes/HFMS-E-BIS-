@@ -1,0 +1,17 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                               Date:17-Apr-2013 
+                                      Bank Statement For Bill Reimbursement
+                                              Month APR- Year 2013
+ 
+Type Of Bill  :Remunerarium                                                                    
+Demand No  :0512001103                                                                         
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000336 043142 Ashwani  Thakur          Store-keeper          10413733219       1500
+
+2   PGIPER00000681 032242 Dinesh  Gupta            Sr.Lab.Technician     10413666310         33
+
+3   PGIPER00008292 007    Rashmi   Gupta           Superintendent        -                 1200
+
+                                                                          Grand Total    2733.0

@@ -1,0 +1,42 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Ddtc         Sub-Category  :Ddtc 9                                            
+Demand No  :101200111831 Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00003792 080257 Hari   Singh             LATT      Other          162049335           569
+
+PGIPER00003946 088147 Bahadur   Singh          Sec.Grd2  Security       162470411           290
+
+PGIPER00003946 088147 Bahadur   Singh          Sec.Grd2  Security       163673694          1021
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       162297107           557
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       163033694           495
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       163036198           965
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       163038072           817
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       163038125           817
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       164567628           612
+
+PGIPER00003960 088144 Kuldeep   Singh          Sec.Grd2  Security       164587191          2042
+
+PGIPER00004177 088191 Sudama   Kumar           Sec.Grd2  Security       162298449           199
+
+PGIPER00004177 088191 Sudama   Kumar           Sec.Grd2  Security       162458612           272
+
+PGIPER00004177 088191 Sudama   Kumar           Sec.Grd2  Security       164302272          1035
+
+                                                                          Grand Total      9691
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

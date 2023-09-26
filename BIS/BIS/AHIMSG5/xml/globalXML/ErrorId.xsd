@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/ErrorId" xmlns:tns="http://www.example.org/ErrorId" elementFormDefault="qualified">
+
+
+    
+
+    
+
+
+    
+
+    <element name="hisError" type="tns:HisErrorType"></element>
+    
+    <complexType name="HisErrorType">
+    	<sequence>
+    		<element name="errorId" type="string"></element>
+    	</sequence>
+    </complexType>
+</schema>

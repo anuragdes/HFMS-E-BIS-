@@ -1,0 +1,19 @@
+
+CREATE OR REPLACE TRIGGER actpns_pensioner_dtl
+  AFTER UPDATE OR DELETE
+  ON actpay.actpns_pensioner_dtl
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpns_pensioner_dtl_log(str_employee_no,dt_joining_date,dt_retirement_date,num_commutation_rate,gnum_isvalid,gnum_seat_id,gdt_lstmod_date,gnum_lstmod_seatid,gnum_hospital_code,dt_ppo_date,
+num_avg_pension_emolument,num_admissible_pension,num_emolument_gratuity,num_gratuity_admissible,str_family_type,num_emolument_family,num_admissible_family_pension,num_commutation_years,
+num_commuted_pension,num_reduced_pension_aftr_commu,dt_stop_enhanced_pension,dt_start_family_pension,str_bank_acct_no,str_ppo_no,is_pensioner_died,
+str_pension_type,str_final_status,dt_final_status_date,str_f_mem_name,is_legal_heir,str_pension_category,gdt_entry_date,str_old_employee_no,num_pen_cat_id,num_pen_sub_cat_id,
+str_stop_pension,str_order_number,dt_order_date,num_died_count,dt_death_date,str_stop_pension_remark,str_vigiliance_clearnce,str_administrative_clearance) 
+ select :old.str_employee_no,:old.dt_joining_date,:old.dt_retirement_date,:old.num_commutation_rate,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,
+ :old.gnum_hospital_code,:old.dt_ppo_date,:old.num_avg_pension_emolument,:old.num_admissible_pension,:old.num_emolument_gratuity,:old.num_gratuity_admissible,:old.str_family_type,:old.num_emolument_family,
+ :old.num_admissible_family_pension,:old.num_commutation_years,:old.num_commuted_pension,:old.num_reduced_pension_aftr_commu,:old.dt_stop_enhanced_pension,:old.dt_start_family_pension,
+ :old.str_bank_acct_no,str_ppo_no, :old.is_pensioner_died,:old.str_pension_type,:old.str_final_status,:old.dt_final_status_date,:old.str_f_mem_name,:old.is_legal_heir,
+ :old.str_pension_category,:old.gdt_entry_date, :old.str_old_employee_no,:old.num_pen_cat_id,:old.num_pen_sub_cat_id,:old.str_stop_pension,:old.str_order_number,:old.dt_order_date,
+ :old.num_died_count,:old.dt_death_date, :old.str_stop_pension_remark,:old.str_vigiliance_clearnce,:old.str_administrative_clearance from actpay.actpns_pensioner_dtl
+where str_employee_no=:new.str_employee_no  ;
+END;

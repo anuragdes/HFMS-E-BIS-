@@ -1,0 +1,194 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For GIS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000334 045267 S   Tamilarasu           OTHER (C)             Biophysics              30
+
+PGIPER00000958 045368 Sukhjit  Singh           Driver                Other                   30
+
+PGIPER00002951 045376 Suresh    Kumar          Other                 Other                   30
+
+PGIPER00002952 045284 Rajesh   Kumar           OTHER (C)             Other                   30
+
+PGIPER00002956 045310 Krishan Lal Sharma       Clerk                 Engineering Dep         30
+
+PGIPER00002961 045309 Rajinder  Pal  Singh     Other                 Other                   30
+
+PGIPER00002968 045308 Sudesh   Kumari          Office Superintendent Administration          30
+
+PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk                 Engineering Dep         30
+
+PGIPER00002978 045306 Jagdish   Chand          Clerk                 Other                   30
+
+PGIPER00002983 045305 Mahesh Kumar Mehta       Clerk                 Engineering Dep         30
+
+PGIPER00002992 045400 Parampreet Kaur Ahuja    Other                 Other                   30
+
+PGIPER00003003 045365 Varinder   Kumar         Lower Division Clerk  Other                   30
+
+PGIPER00003006 045403 Sikander   Singh         Other                 Other                   60
+
+PGIPER00003007 045332 Ratti   Pal              Clerk                 Other                   30
+
+PGIPER00003011 045256 Monika  Bhuchar          Other                 Other                   30
+
+PGIPER00003012 045325 Lakhbir   Kaur           Clerk                 Other                   30
+
+PGIPER00003015 045255 Amit   Soni              Other                 Engineering Dep         30
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk                 Other                   30
+
+PGIPER00003023 045421 Parvinder   Singh        Other                 Other                   30
+
+PGIPER00003024 045322 Lachham    Singh         Clerk                 Other                   30
+
+PGIPER00003026 045412 Sandeep   Singh          Other                 Other                   30
+
+PGIPER00003029 045323 Sham   Lal               Clerk                 Other                   30
+
+PGIPER00003031 045404 Hitesh   Kumar           Other                 Other                   60
+
+PGIPER00003032 045402 Bindia   Verma           OTHER (C)             Other                   30
+
+PGIPER00003041 045217 Tajinder   Singh         Other                 Engineering Dep         30
+
+PGIPER00003044 045385 Bhupinder   Kaur         Lower Division Clerk  Other                   30
+
+PGIPER00003047 045210 Shamsher  Singh Hooda    Other                 Other                   30
+
+PGIPER00003048 045266 Ram Pyara Sharma         Other                 Other                   60
+
+PGIPER00003049 045373 Rajinder   Singh         Clerk                 Engineering Dep         30
+
+PGIPER00003051 045413 Arjinder   Pal           Other                 Other                   30
+
+PGIPER00003052 045313 Gurdeep   Singh          Clerk                 Other                   30
+
+PGIPER00003054 045374 Amit    Bhalla           Other                 Other                   30
+
+PGIPER00003055 045311 Bal   Krishan            Upper Division Clerk  Engineering Dep         30
+
+PGIPER00003056 045362 Kulwant   Kaur           Jr. Engineer Electric Engineering Dep         30
+
+PGIPER00003058 045394 Baljinder   Kaur         Lower Division Clerk  Other                   30
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTHER (A)             Other                   30
+
+PGIPER00003060 045390 Shashi   Prabha          Clerk                 Engineering Dep         30
+
+PGIPER00003061 045389 Gautam   Ram             Clerk                 Other                   30
+
+PGIPER00003062 045370 Anita   Kiran            Clerk                 Other                   30
+
+PGIPER00003063 045387 Ravinder   Kumar         Lower Division Clerk  Other                   30
+
+PGIPER00003064 045366 Gurmeet   Singh          Lower Division Clerk  Other                   30
+
+PGIPER00003065 045312 Charanjit   Kaur         Clerk                 Engineering Dep         30
+
+PGIPER00003066 045319 Sham   Sunder            Clerk                 Accounts                30
+
+PGIPER00003068 045320 Jaswant   Singh          Clerk                 Engineering Dep         30
+
+PGIPER00003070 045364 Neeru   Sharma           Clerk                 Other                   30
+
+PGIPER00003072 045391 Amrik   Kaur             OTHER (A)             Engineering Dep         30
+
+PGIPER00003081 045334 Nachhatar   Singh        Clerk                 Other                   30
+
+PGIPER00003085 045378 Sunita   Devi            Lower Division Clerk  Other                   30
+
+PGIPER00003086 045382 Jaibinder   Singh        Draftsmam             Other                   30
+
+PGIPER00003087 045248 Trisha                   Other                 Other                   30
+
+PGIPER00003090 045363 Rakesh   Gautam          Draftsmam             Other                   30
+
+PGIPER00003092 045254 Vinay   Kumar            Other                 Other                   30
+
+PGIPER00003098 045393 Daljit   Kaur            Draftsmam             Other                   30
+
+PGIPER00003100 045330 Ravinder Kumar Saini     Upper Division Clerk  Other                   30
+
+PGIPER00003102 045331 Siya Ram Yadav           Lower Division Clerk  Engineering Dep         30
+
+PGIPER00003103 045417 Manju   Dhawan           Draftsmam             Other                   30
+
+PGIPER00003104 045392 Omeshwar   Sharma        Draftsmam             Engineering Dep         30
+
+PGIPER00003105 045408 Swaran   Singh           Other                 Other                   30
+
+PGIPER00003106 045367 Yash Pal Singh           Lower Division Clerk  Other                   30
+
+PGIPER00003107 045409 Ram   Kumar              OTHER (B)             Other                   60
+
+PGIPER00003108 045377 Piar   Chand             Lower Division Clerk  School Of Publi         30
+
+PGIPER00003109 045406 Surya   Bhushan          Other                 Other                   30
+
+PGIPER00003110 045235 Sushil   Kumar           Other                 Other                   30
+
+PGIPER00003113 045361 Sandeep   Yakhmi         Other                 Other                   30
+
+PGIPER00003114 045261 Dinesh Kumar Sapra       Other                 Other                   30
+
+PGIPER00003116 045375 Suba   Singh             Other                 Other                   30
+
+PGIPER00003119 045202 Sanjiv   Kalia           OTHER (C)             Other                   30
+
+PGIPER00003120 045405 Prabhjeet   Singh        Other                 Other                   30
+
+PGIPER00003124 045379 Vikash   Vyas            Other                 Other                   60
+
+PGIPER00003125 045416 Vijay   Kumar            Other                 Other                   30
+
+PGIPER00003126 045407 Sarbjit   Singh          OTHER (C)             Engineering Dep         30
+
+PGIPER00003181 045369 Anju    GOYAL            Junior Steno          Other                   30
+
+PGIPER00003396 045318 Rajesh   Kumar           Divisional Accountant Superintending          30
+
+PGIPER00003730 045240 Sanjeev   Sharma         Other                 Engineering Dep         30
+
+PGIPER00003731 045328 Jatinder Pal Srivastava  Technical Assistant   Engineering Dep         30
+
+PGIPER00003741 045242 Rajeev   Bassi           Other                 Other                   30
+
+PGIPER00003746 045216 Jasmer   Singh           Other                 Other                   30
+
+PGIPER00003751 045215 Gurnam   Singh           Other                 Other                   30
+
+PGIPER00003765 045214 Sanjeev   Sharma         Other                 Engineering Dep         30
+
+PGIPER00003769 045203 Guna Nand  Semwal        Other                 Other                   60
+
+PGIPER00003776 045206 Avtar   Singh            OTHER (B)             Other                   30
+
+PGIPER00003778 045224 Prem     Chandera        Other                 Engineering Dep         30
+
+PGIPER00003779 045231 Narinder   Malik         Other                 Engineering Dep         30
+
+PGIPER00003783 045221 Kishori Lal CHAUDHARY    Other                 Engineering Dep         30
+
+PGIPER00003785 045230 Vinod   Chopra           OTHER (B)             Other                   60
+
+PGIPER00003787 045232 ABDUAL   Rehman          Other                 Other                   60
+
+PGIPER00003790 045226 Rajan   Aggarwal         Other                 Engineering Dep         30
+
+PGIPER00003809 045411 Joginder  Pal Singh      Wireman               Other                   15
+
+PGIPER00004900 045410 Rishi   Pal              Tech.Gr.3             Engineering Dep         30
+
+                                                                          Grand Total      2895
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

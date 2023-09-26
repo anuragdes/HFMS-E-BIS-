@@ -1,0 +1,24 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Ddtc                                                                                
+Sub-Category  :Ddtc 6                                                                          
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000575 032245 Rajinder   Kumar         Sr.Lab.Technician     10413627972      32828
+
+2   PGIPER00000586 032246 Raminder                 Sr.Lab.Technician     10413631558      34750
+
+3   PGIPER00000970 035349 Dev   Raj                OTHER (C)             10413691483      14290
+
+4   PGIPER00000996 035351 Jaspal  Singh            Driver                10413670133      15402
+
+                                                                          Grand Total     97270
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

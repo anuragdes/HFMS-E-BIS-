@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="Grant Received Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+
+ <OPR ID="1" NAME="INSERT" BLOCK_SIZE="6" QRY_TOT_SIZE="6" TRN_MGMT="Y">
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="5">
+	     UPDATE actcom_d_pvt_app_trn  SET STR_CHEQUE_NUMBER=?,STR_CHEQUE_DATE=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? WHERE STR_DEMAND_NUMBER=?
+	</QRY>
+  </BLOCK>
+  
+  <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	  UPDATE  actcom_d_pvt_a_exp_bo_dtl SET STR_CHEQUE_NUMBER=?,STR_CHEQUE_DATE=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? WHERE STR_DEMAND_NUMBER=? and NUM_PAYMENT_SLNO=? and STR_AMOUNT_HEAD=?
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	  UPDATE  actcom_d_pvt_a_exp_bo_dtl SET STR_CHEQUE_NUMBER=?,STR_CHEQUE_DATE=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? WHERE STR_DEMAND_NUMBER=? and NUM_PAYMENT_SLNO=? and STR_AMOUNT_HEAD=?
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actcom_d_pvt_app_trn SET STR_DEMAND_STATUS=? WHERE STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+	
+	 <BLOCK ID="5" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actcom_d_pvt_app_lp_dtl SET STR_DEMAND_STATUS=? WHERE STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+	
+	 <BLOCK ID="6" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actcom_d_pvt_a_exp_bo_dtl SET STR_DEMAND_STATUS=? WHERE STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+  
+  
+  
+  </OPR>
+   
+   
+   
+</tns:Transaction>

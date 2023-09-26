@@ -1,0 +1,24 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For NPS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003023 045421 Parvinder   Singh        Other                 Other                 2921
+
+PGIPER00003107 045409 Ram   Kumar              OTHER (B)             Other                 3098
+
+PGIPER00003111 045422 Rajeev  Singh Thakur     Other                 Engineering Dep       2921
+
+PGIPER00003123 045426 Inderjit   Singh         Other                 Other                 2776
+
+                                                                          Grand Total     11716
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserManagementConfig><sessionTimeOut>123</sessionTimeOut><loginType>1</loginType><blockAfter>2</blockAfter><AuditLogPathWindow>C:\</AuditLogPathWindow><AuditLogPathLinux>root</AuditLogPathLinux><RegistrationModificationTime>100</RegistrationModificationTime><PasswordModificationTime>91</PasswordModificationTime><PasswordStrength>2</PasswordStrength></UserManagementConfig>

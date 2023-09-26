@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="HEM" PROCESS_NAME="Equipment Master" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	UPDATE HEM_EQUIP_MST SET NUM_ROOM_ID=?, STR_MODEL=?, GDT_LSTMOD_DATE=?, GNUM_LSTMOD_SEATID=? WHERE STR_EQUIP_SL_NO=? AND GNUM_HOSPITAL_CODE=?	
+	 </QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	UPDATE HEM_EQUIP_COMPO_DTL SET STR_MODEL=?, GDT_LSTMOD_DATE=?, GNUM_LSTMOD_SEATID=? WHERE STR_COMPO_SL_NO=? AND STR_EQUIP_SL_NO=? AND GNUM_HOSPITAL_CODE=?	
+	 </QRY>
+	</BLOCK>
+</OPR>
+
+
+
+</tns:Transaction>

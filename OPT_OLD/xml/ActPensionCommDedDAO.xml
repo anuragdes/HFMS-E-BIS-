@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="IT Deduction Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	    INSERT INTO ACTPNS_PENSION_COMMUTED_TRN
+            (GNUM_SL_NO, STR_EMPLOYEE_NO, STR_REC_STATUS, DT_REC_START_DATE,
+             DT_REC_END_DATE,NUM_AMOUNT, gnum_isvalid, gnum_seat_id,gdt_entry_date,gnum_hospital_code
+            ) VALUES (?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	 UPDATE ACTPNS_PENSION_COMMUTED_TRN SET STR_REC_STATUS=?, DT_REC_START_DATE=?,DT_REC_END_DATE=?,NUM_AMOUNT =?,GNUM_LSTMOD_SEATID =?,GDT_LSTMOD_DATE =nvl(to_date(?,'dd-Mon-yyyy'),null) WHERE STR_EMPLOYEE_NO =? AND GNUM_SL_NO =? AND GNUM_ISVALID =? AND NUM_COMM_SL_NO=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="3" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	    INSERT INTO ACTPNS_PENSION_COMMUTED_TRN
+            (GNUM_SL_NO, STR_EMPLOYEE_NO, STR_REC_STATUS, DT_REC_START_DATE,
+             DT_REC_END_DATE,NUM_AMOUNT, gnum_isvalid, gnum_seat_id,gdt_entry_date,gnum_hospital_code,NUM_COMM_SL_NO
+            ) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="4" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	 UPDATE ACTPNS_PENSION_COMMUTED_TRN SET STR_REC_STATUS=?, DT_REC_START_DATE=?,DT_REC_END_DATE=?,NUM_AMOUNT =?,GNUM_LSTMOD_SEATID =?,GDT_LSTMOD_DATE =nvl(to_date(?,'dd-Mon-yyyy'),null) WHERE STR_EMPLOYEE_NO =? AND GNUM_SL_NO =? AND GNUM_ISVALID =? AND NUM_COMM_SL_NO=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+</tns:Transaction>

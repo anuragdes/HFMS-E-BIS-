@@ -1,0 +1,22 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                             Schedule Report For GPF ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ena                                               
+Demand No  :10120014481  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003243 060058 Ram   Chander            Mali                  Engineering Dep       3000
+
+PGIPER00003295 060022 Situ   Ram               Mali                  Other                 1600
+
+PGIPER00003307 060031 Prema   Devi             Mali                  Engineering Dep       2000
+
+                                                                          Grand Total      6600
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

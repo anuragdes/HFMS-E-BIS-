@@ -1,0 +1,38 @@
+select * from  ahistrn.pist_emp_registration_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_registration_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_personnel_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_personnel_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_posting_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_posting_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_pay_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_pay_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_qual_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_qual_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_prev_exp_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_prev_exp_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_family_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_family_dtl_temp where str_emp_no='069280';
+
+select * from  ahistrn.pist_emp_contact_dtl where str_emp_no='069280';
+select * from  ahistrn.pist_emp_contact_dtl_temp where str_emp_no='069280';
+
+select * from ahistrn.pist_emp_lang_known_dtl  where str_emp_no='069280';
+select * from ahistrn.pist_emp_lang_known_dtl_temp  where str_emp_no='069280';
+
+select * from ahistrn.pist_emp_contact_address_dtl where str_emp_no='069280';
+select * from ahistrn.pist_emp_contact_address_dtl_temp where str_emp_no='069280';
+
+select * from ahistrn.pist_emp_identification_dtl where str_emp_no='069280';
+select * from ahistrn.pist_emp_identification_dtl_temp where str_emp_no='069280';
+
+select * from ahistrn.pist_emp_official_dtl where str_emp_no='069280';
+select * from ahistrn.pist_emp_official_dtl_temp where str_emp_no='069280';
+
+select * from ahistrn.pist_emp_nominee_dtl where str_emp_no='069280';
+select * from ahistrn.pist_emp_nominee_dtl_temp where str_emp_no='069280';

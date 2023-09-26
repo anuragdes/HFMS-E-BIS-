@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:Transaction MODULE_NAME="WelfareFund" PROCESS_NAME="ExpMoney" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+  
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="29">
+	insert into ACTBUD_LIABLITY_BOOKING_DTL
+  (NUM_ORDER_NO,DT_ORDER_DATE,NUM_CONTACT_TYPE,NUM_LIABILITY_TYPE,NUM_REQUEST_NO,DT_REQUEST_DATE,NUM_SCREEN_ID,
+  NUM_APPROX_COST,STR_GRANT,STR_BUDGET_TYPE,STR_SCHEAM_CODE,STR_PROJECT_CODE,STR_MAJOR_HEAD_CODE,STR_SUBMAJOR_HEAD_CODE,
+  STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,NUM_TENQUO_NO,NUM_BUDGET_AVAILABLE,NUM_BUDGET_ALLOCATED,NUM_FILE_NO,
+  NUM_PAGE_NO,STR_BOOKED_NO,DT_BOOKED_DATE,NUM_ACRJ_STATUS,STR_REMARK,GNUM_ISVALID,GNUM_SEATID,GDT_ENTRY_DATE,
+  GNUM_HOSPITAL_CODE) values  (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+   </BLOCK>
+
+<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+    <QRY ID="1" COL_SIZE="12">
+      UPDATE hpurt_liablity_booking_dtl c SET  c.hpurstr_grant=?, c.hpurnum_budget_available=? ,c.hpurnum_budget_allocated=?
+     ,c.hpurstr_booked_no=?,c.hpurdt_booked_date=?,c.hpurnum_file_no=?,c.hpurnum_page_no=? ,c.hpurnum_cost=? ,c.hpurnum_status=? 
+     WHERE c.hpurnum_req_no=? and c.hpurnum_liability_type=? and  c.GNUM_HOSPITAL_CODE=?
+    </QRY>
+	 </BLOCK>
+
+   
+  
+</OPR>
+
+
+
+</tns:Transaction>

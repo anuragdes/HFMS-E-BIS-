@@ -1,0 +1,13 @@
+
+
+CREATE OR REPLACE TRIGGER actpay_it_deduction_trns
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_it_deduction_trns
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpns_pension_commuted_trn_log(str_employee_number,str_assessment_year,num_april,num_may,num_june,num_july,num_august,num_september,num_october,num_november
+,num_december,num_january,num_february,num_march,gnum_isvalid,gnum_seat_id,gdt_entry_date,gdt_lstmod_date,gnum_lstmod_seatid,gstr_remarks,gnum_slno,gnum_hospital_code) 
+ select :old.str_employee_number,:old.str_assessment_year,:old.num_april,:old.num_may,:old.num_june,:old.num_july,:old.num_august,:old.num_september,:old.num_october,:old.num_november
+,:old.num_december,:old.num_january,:old.num_february,:old.num_march,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.gnum_slno,:old.gnum_hospital_code from actpay.actpay_it_deduction_trns
+where str_employee_number=:new.str_employee_number and   str_assessment_year=:new.str_assessment_year;
+END;

@@ -1,0 +1,26 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For GIS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Ddtc         Sub-Category  :Ddtc 9                                            
+Demand No  :101200111831 Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003792 080257 Hari   Singh             Lab Attendent Gr.l    Other                   15
+
+PGIPER00003946 088147 Bahadur   Singh          Security Guard Gr.2   Security                15
+
+PGIPER00003953 088121 Harbans   Singh          Security Guard Gr.1   Security                15
+
+PGIPER00003960 088144 Kuldeep   Singh          Security Guard Gr.2   Security                15
+
+PGIPER00004177 088191 Sudama   Kumar           Security Guard Gr.2   Security                15
+
+                                                                          Grand Total        75
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.cdacnoida.in/his/MmsConfig" xmlns:tns="http://www.cdacnoida.in/his/MmsConfig" elementFormDefault="qualified">
+
+    <element name="mmsConfig" type="tns:MmsConfigType"></element>
+    
+    <complexType name="MmsConfigType">
+    	<sequence>
+
+    		<element name="mmsIssueProcess"
+    			type="tns:MmsIssueProcessType" minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="mmsConfigGerneral"
+    			type="tns:MmsConfigGeneral">
+    		</element>
+    	</sequence>
+    </complexType>
+
+
+    <complexType name="MmsIssueProcessType">
+    	<sequence>
+    		<element name="issueMode" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="lastIssuePatientStaffInDays" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="lastIssueEmployeeInDays" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="onlineIssueDetailsInDays" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="autoReturnRequest" type="string" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="MmsConfigGeneral">
+    	<sequence>
+    		<element name="committeeFilePath" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="costRequired" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="indianDeliveryTime" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+
+    		<element name="importedDeliveryTime" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+
+    		<element name="residualCostAuction" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="committeeFilePathLin" type="string"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    		<element name="committeeFilePathWin" type="string" maxOccurs="1" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+
+</schema>

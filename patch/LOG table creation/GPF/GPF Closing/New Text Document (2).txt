@@ -1,0 +1,21 @@
+CREATE TABLE ahislog.actpay_gpf_closing_bal_trn_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+   str_employee_no character varying(15),
+  str_financial_yr character varying(12),
+  num_gpf_opening_bal numeric(10,2),
+  num_gpf_closing_bal numeric(10,2),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  num_gpf_interest numeric(10,2),
+  CONSTRAINT actpay_gpf_closing_bal_trn_pk PRIMARY KEY (slno,str_employee_no,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpay_gpf_closing_bal_trn_log
+  OWNER TO bishfms;

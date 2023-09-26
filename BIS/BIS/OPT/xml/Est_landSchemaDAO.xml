@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="ESTATE" PROCESS_NAME="LandMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+		 <QRY ID="1" COL_SIZE="40">
+		    INSERT INTO EST_LAND_MST(num_hospital_code,num_land_id,GNUM_SLNO,str_land_name,str_agency_name,str_land_address,
+			str_khasra_number,str_kaatoni_number,str_ilaka,str_tehsil,str_district,num_land_area,str_purpose,
+			str_north_land_desc,str_south_land_desc,str_east_land_desc,str_west_land_desc,str_sanction_order_num,
+			dt_saction_order_date,num_land_cost,dt_possession_date,str_land_status,STR_LAND_STATUS_DATE
+			,gdt_effective_frm,GDT_EFFECTIVE_TO,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GSTR_REMARKS,STR_CITY,STR_STATE,DT_LEASE_FROM,DT_LEASE_TO,
+			STR_INST_TYPE,NUM_INST_NO,DT_INST_DATE,DT_INST_REC_DATE,NUM_AMT_PAID,STR_ALLOT_N0,STR_RECEIPT_NO)
+			VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	       
+		</QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="2" NAME="UPDATE1" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+			 <QRY ID="1" COL_SIZE="30">
+			    UPDATE EST_LAND_MST T SET T.STR_LAND_NAME=?,T.STR_AGENCY_NAME=?,
+				T.STR_LAND_ADDRESS=?,T.STR_KHASRA_NUMBER=?,T.STR_KAATONI_NUMBER=?,T.STR_ILAKA=?,T.STR_TEHSIL=?,T.STR_DISTRICT=?,
+				T.NUM_LAND_AREA=?,T.STR_PURPOSE=?,T.STR_NORTH_LAND_DESC=?,T.STR_SOUTH_LAND_DESC=?,T.STR_EAST_LAND_DESC=?,
+				T.STR_WEST_LAND_DESC=?,T.STR_SANCTION_ORDER_NUM=?,T.DT_SACTION_ORDER_DATE=?,T.NUM_LAND_COST=?,T.DT_POSSESSION_DATE=?,
+				T.STR_LAND_STATUS=?,T.STR_LAND_STATUS_DATE=?,GDT_EFFECTIVE_FRM=TO_DATE(?,'DD-MON-YYYY'),
+				GNUM_ISVALID=?,T.GSTR_REMARKS=?, STR_CITY=?,STR_STATE=?,DT_LEASE_FROM=?,DT_LEASE_TO=? WHERE T.NUM_LAND_ID=? AND T.GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=?
+		    </QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="3" NAME="UPDATE2" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+			 <QRY ID="1" COL_SIZE="30">
+			    UPDATE EST_LAND_MST T SET T.STR_LAND_NAME=?,T.STR_AGENCY_NAME=?,
+				T.STR_LAND_ADDRESS=?,T.STR_KHASRA_NUMBER=?,T.STR_KAATONI_NUMBER=?,T.STR_ILAKA=?,T.STR_TEHSIL=?,T.STR_DISTRICT=?,
+				T.NUM_LAND_AREA=?,T.STR_PURPOSE=?,T.STR_NORTH_LAND_DESC=?,T.STR_SOUTH_LAND_DESC=?,T.STR_EAST_LAND_DESC=?,
+				T.STR_WEST_LAND_DESC=?,T.STR_SANCTION_ORDER_NUM=?,T.DT_SACTION_ORDER_DATE=?,T.NUM_LAND_COST=?,T.DT_POSSESSION_DATE=?,
+				T.STR_LAND_STATUS=?,T.STR_LAND_STATUS_DATE=?,T.STR_LAND_MAP_LOCATION=?,T.STR_LAND_MAP_ID=?,T.STR_LAND_DESC=?,GDT_EFFECTIVE_FRM=TO_DATE(?,'DD-MON-YYYY'),GDT_EFFECTIVE_TO=TO_DATE(?,'DD-MON-YYYY'),
+				GNUM_ISVALID=?,T.GSTR_REMARKS=? WHERE NUM_LAND_ID=? AND GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=? 
+		    </QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="4" NAME="MODIFYICATION1" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	
+	 <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="4">
+	UPDATE EST_LAND_MST T SET T.GDT_EFFECTIVE_TO=(TO_DATE(?,'DD-MON-YYYY')-1) WHERE T.NUM_LAND_ID=? AND T.GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=?
+	 </QRY>
+	 </BLOCK>
+	
+	 <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="40">
+		    INSERT INTO EST_LAND_MST(num_hospital_code,num_land_id,GNUM_SLNO,str_land_name,str_agency_name,str_land_address,
+			str_khasra_number,str_kaatoni_number,str_ilaka,str_tehsil,str_district,num_land_area,str_purpose,
+			str_north_land_desc,str_south_land_desc,str_east_land_desc,str_west_land_desc,str_sanction_order_num,
+			dt_saction_order_date,num_land_cost,dt_possession_date,str_land_status,STR_LAND_STATUS_DATE
+			,gdt_effective_frm,GDT_EFFECTIVE_TO,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GSTR_REMARKS,STR_CITY,STR_STATE,DT_LEASE_FROM,DT_LEASE_TO,
+			STR_INST_TYPE,NUM_INST_NO,DT_INST_DATE,DT_INST_REC_DATE,NUM_AMT_PAID,STR_ALLOT_N0,STR_RECEIPT_NO)
+			VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	       
+		</QRY>
+	 </BLOCK>
+	 <BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE EST_LAND_MST T SET T.GDT_LSTMOD_DATE=?,T.GNUM_LSTMOD_SEATID=?  WHERE T.NUM_LAND_ID=? AND T.GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="5" NAME="MODIFYICATION2" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE EST_LAND_MST T SET T.GDT_LSTMOD_DATE=?,T.GNUM_LSTMOD_SEATID=?  WHERE T.NUM_LAND_ID=? AND T.GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="40">
+		    INSERT INTO EST_LAND_MST(num_hospital_code,num_land_id,GNUM_SLNO,str_land_name,str_agency_name,str_land_address,
+			str_khasra_number,str_kaatoni_number,str_ilaka,str_tehsil,str_district,num_land_area,str_purpose,
+			str_north_land_desc,str_south_land_desc,str_east_land_desc,str_west_land_desc,str_sanction_order_num,
+			dt_saction_order_date,num_land_cost,dt_possession_date,str_land_status,STR_LAND_STATUS_DATE
+			,gdt_effective_frm,GDT_EFFECTIVE_TO,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GSTR_REMARKS,STR_CITY,STR_STATE,DT_LEASE_FROM,DT_LEASE_TO,
+			STR_INST_TYPE,NUM_INST_NO,DT_INST_DATE,DT_INST_REC_DATE,NUM_AMT_PAID,STR_ALLOT_N0,STR_RECEIPT_NO)
+			VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	       
+		</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="6" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE EST_LAND_MST T SET T.GDT_LSTMOD_DATE=?,T.GNUM_LSTMOD_SEATID=?, T.GNUM_ISVALID=0 WHERE T.NUM_LAND_ID=? AND T.GNUM_SLNO=? AND T.NUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="7" NAME="DELETE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+ <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+  <QRY ID="1" COL_SIZE="1">DELETE FROM EST_MAP_MST  WHERE NUM_ID=? and GNUM_ISVALID=1 </QRY> 
+  </BLOCK>
+  <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 INSERT INTO EST_MAP_MST (NUM_HOSPITAL_CODE,NUM_ID,GNUM_SLNO,STR_LAND_MAP_LOCATION,STR_LAND_DESC,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE) VALUES (?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+ 
+  </OPR>
+  
+ <OPR ID="8" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+ <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 INSERT INTO EST_MAP_MST (NUM_HOSPITAL_CODE,NUM_ID,GNUM_SLNO,STR_LAND_MAP_LOCATION,STR_LAND_DESC,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE) VALUES (?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+ </OPR>
+ 
+</tns:Transaction>

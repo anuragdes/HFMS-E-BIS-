@@ -1,0 +1,114 @@
+# --------------------------- District Master (By Adil Wasi [27-July-2011] )----------------------------
+									                
+# main query 
+
+districtMst.main =  SELECT NUM_DIST_ID||'@'||GNUM_SLNO||'@'||GNUM_HOSPITAL_CODE||'^'|| \
+				  STR_DIST_NAME||'^'||STR_DIST_ST_NAME \
+				  DATA FROM  GBLT_DISTRICT_MST WHERE GNUM_HOSPITAL_CODE = ?
+						
+													
+districtMst.main.cond.1 = GNUM_ISVALID = ?
+
+districtMst.main.cond.2 = GNUM_STATECODE = ?	
+
+
+
+
+
+
+# for country combo on list page and add page
+------------------------------------------
+district.country.combo  =		SELECT UNIQUE GNUM_COUNTRYCODE, mms_mst.get_country_name(GNUM_HOSPITAL_CODE, GNUM_COUNTRYCODE) As COUNTRY_NAME	\
+								  FROM GBLT_COUNTRY_MST	\
+								 WHERE  GNUM_ISVALID =1 AND GNUM_HOSPITAL_CODE = ? ORDER BY UPPER(COUNTRY_NAME)
+								 
+								 
+# for state combo on list page and add page
+------------------------------------------								 							 
+district.state.combo.0  =		SELECT UNIQUE GNUM_STATECODE, mms_mst.get_state_name(GNUM_HOSPITAL_CODE, GNUM_STATECODE) As STATE_NAME	\
+								  FROM GBLT_STATE_MST	\
+								 WHERE  GNUM_ISVALID =1 AND GNUM_HOSPITAL_CODE = ? AND GNUM_COUNTRYCODE =#1# ORDER BY UPPER(STATE_NAME)								 
+								 
+								 				   		   
+# Add Page Query
+
+# for Country on add page
+--------------------------------------------------------------------------
+district.country.combo.1 =  SELECT UNIQUE MMS_MST.GET_COUNTRY_NAME (GNUM_HOSPITAL_CODE, GNUM_COUNTRYCODE) AS COUNTRY_NAME	\
+							  FROM GBLT_COUNTRY_MST	\
+							 WHERE GNUM_COUNTRYCODE = ? AND GNUM_HOSPITAL_CODE = ? AND GNUM_ISVALID =1 \
+							 		ORDER BY UPPER(COUNTRY_NAME)
+# for state combo on  add page
+--------------------------------------------------------------------------								 							 
+district.state.combo.1  =	SELECT UNIQUE GNUM_STATECODE,mms_mst.get_state_name(GNUM_HOSPITAL_CODE, GNUM_STATECODE) As STATE_NAME	\
+								  FROM GBLT_STATE_MST	\
+								 WHERE  GNUM_ISVALID =1 AND GNUM_COUNTRYCODE =? AND GNUM_HOSPITAL_CODE = ?  ORDER BY UPPER(STATE_NAME)
+								 
+# Check Unique Record( Based on District Name) in Case of Insertion
+--------------------------------------------------------------------------
+
+districtMst.insert1.chkduplicate = 	SELECT count('X') FROM  GBLT_DISTRICT_MST WHERE GNUM_STATECODE=? \
+										and UPPER(TRIM(STR_DIST_NAME))= UPPER(TRIM(?)) \
+						                and GNUM_HOSPITAL_CODE = ? and GNUM_ISVALID != 0	
+						                
+# Check Unique Record(Based on District Short Name) in Case of Insertion
+---------------------------------------------------------------------------
+
+districtMst.insert2.chkduplicate = 	SELECT count('X') FROM  GBLT_DISTRICT_MST WHERE GNUM_STATECODE=? \
+										and UPPER(TRIM(STR_DIST_ST_NAME))= UPPER(TRIM(?)) \
+						                and GNUM_HOSPITAL_CODE = ? and GNUM_ISVALID != 0						                							 
+	
+
+# Check Unique Record(Based on District Name) in Case of Updation
+----------------------------------------------------------------------------
+
+districtMst.update1.chkduplicate = 	SELECT count('X') FROM  GBLT_DISTRICT_MST D, GBLT_STATE_MST S   \
+									WHERE NOT (NUM_DIST_ID = ? AND D.GNUM_HOSPITAL_CODE = ?) \
+									AND D.GNUM_STATECODE=?  AND S.GNUM_COUNTRYCODE = ? \
+									AND UPPER(TRIM(STR_DIST_NAME))= UPPER(TRIM(?)) \
+						            AND D.GNUM_HOSPITAL_CODE = ? and D.GNUM_ISVALID != 0 \
+						            AND D.GNUM_STATECODE=S.GNUM_STATECODE 
+						            
+# Check Unique Record(Based on District Short Name) in Case of Updation
+----------------------------------------------------------------------------
+
+districtMst.update2.chkduplicate = 	SELECT count('X') FROM  GBLT_DISTRICT_MST D, GBLT_STATE_MST S   \
+									WHERE NOT (NUM_DIST_ID = ? AND D.GNUM_HOSPITAL_CODE = ?) \
+									AND D.GNUM_STATECODE=?  AND S.GNUM_COUNTRYCODE = ? \
+									AND UPPER(TRIM(STR_DIST_ST_NAME))= UPPER(TRIM(?)) \
+						            AND D.GNUM_HOSPITAL_CODE = ? and D.GNUM_ISVALID != 0 \
+						            AND D.GNUM_STATECODE=S.GNUM_STATECODE 						            
+							 						   		   			 		 		 
+							 						   		   			 		 		 
+# query for modify page
+-----------------------------------------------------------------------------
+districtMst.modify   =	SELECT mms_mst.get_country_name(S.GNUM_HOSPITAL_CODE, S.GNUM_COUNTRYCODE) As COUNTRY_NAME,	\
+						       mms_mst.get_state_name(D.GNUM_HOSPITAL_CODE, D.GNUM_STATECODE) As STATE_NAME,	\
+                           TRIM(STR_DIST_NAME) STR_DIST_NAME,	TRIM(STR_DIST_ST_NAME) STR_DIST_ST_NAME, \
+                            TO_CHAR(D.GDT_EFFECTIVE_FRM,'DD-Mon-YYYY'), TO_CHAR(D.GDT_EFFECTIVE_TO,'DD-Mon-YYYY'), \
+                            D.GSTR_REMARKS, D.GNUM_ISVALID \
+                      FROM GBLT_STATE_MST S, GBLT_DISTRICT_MST D \
+                     WHERE  D.GNUM_STATECODE = ? AND NUM_DIST_ID = ? AND	D.GNUM_HOSPITAL_CODE = ? \
+                     AND D.GNUM_STATECODE=S.GNUM_STATECODE AND S.GNUM_COUNTRYCODE= ?	
+                     
+                     
+                     
+# View Query 
+-------------------------------------------------------------------------------
+districtMst.view = SELECT mms_mst.get_country_name(S.GNUM_HOSPITAL_CODE, S.GNUM_COUNTRYCODE) As COUNTRY_NAME,	\
+					    mms_mst.get_state_name(D.GNUM_HOSPITAL_CODE, D.GNUM_STATECODE) As STATE_NAME,	\
+	                    TRIM(STR_DIST_NAME) STR_DIST_NAME,	TRIM(STR_DIST_ST_NAME) STR_DIST_ST_NAME, \
+	                    TO_CHAR(D.GDT_EFFECTIVE_FRM,'DD-Mon-YYYY'), NVL(TO_CHAR(D.GDT_EFFECTIVE_TO,'DD-Mon-YYYY'),'---'), \
+	                    NVL(D.GSTR_REMARKS,'---'), DECODE (D.GNUM_ISVALID, 1, 'Active', 2, 'Inactive') AS ISVALID \
+	                    FROM GBLT_STATE_MST S, GBLT_DISTRICT_MST D  \
+	                    WHERE D.NUM_DIST_ID   = ? AND D.GNUM_SLNO =? AND	D.GNUM_HOSPITAL_CODE = ?   \
+	                      AND S.GNUM_COUNTRYCODE = (SELECT  GNUM_COUNTRYCODE from GBLT_STATE_MST  \
+	                     							WHERE GNUM_STATECODE = D.GNUM_STATECODE )  \
+	                      
+# delete query
+----------------------------------------------------------------------------------
+districtMst.delete.0 = update GBLT_DISTRICT_MST set GNUM_ISVALID ='0' , GDT_LSTMOD_DATE=SYSDATE, GNUM_LSTMOD_SEATID=? 
+districtMst.delete.cond.0 = NUM_DIST_ID=? AND GNUM_SLNO =? AND GNUM_HOSPITAL_CODE=?
+
+
+# --------------------------- District Master END (By Adil Wasi) -------------------------------------

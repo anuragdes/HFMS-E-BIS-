@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="CASH" PROCESS_NAME="Challan Form Acceptance" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="19">
+	INSERT INTO ACTCAS_CHQ_RECONCILE_TRN(STR_CHALLAN_NO,DT_CHALLAN_DATE,STR_BANK_VOUCHER_NUMBER,DT_BANK_VOUCHER_DATE,STR_INSTRUMENT_TYPE,STR_INSTRUMENT_NO,DT_INSTRUMENT_DATE,NUM_INSTRUMENT_AMOUNT,STR_BANK_CODE,DT_RECEIPT_DATE,STR_RECONCILE_STATUS,DT_RECONCILE_DATE,STR_RECONCILE_BY,STR_RECONCILE_REMARKS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+
+</tns:Transaction>

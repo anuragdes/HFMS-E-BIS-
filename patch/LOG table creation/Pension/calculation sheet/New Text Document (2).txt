@@ -1,0 +1,26 @@
+
+CREATE OR REPLACE TRIGGER actpns_pension_calc_sheet
+  AFTER UPDATE OR DELETE
+  ON actpay.actpns_pension_calc_sheet
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpns_pension_calc_sheet_log(str_employee_no,str_final_status,dt_final_status_date,dt_retirement_date,num_qualifying_period,dt_emolument_from,dt_emolument_to,
+num_avg_emolument,num_admissible_pension,num_emolument_gratuity,
+num_gratuity_admissible,str_family_type,num_emolument_family,num_admissible_family_pension,num_commuted_pension,num_reduced_pension_aftr_commu,gnum_isvalid,gnum_seat_id,
+gnum_lstmod_seatid,gnum_hospital_code,str_check_status,num_strike_days,num_leave_days,num_adhoc_days_in_half,num_commutation_rate,
+num_commutation_years,dt_stop_enhanced_pension,dt_start_family_pension,num_normal_family_pension,num_enhanced_family_pension,num_basic_pay,
+num_grade_pay,is_manual,gnum_sl_no,num_eol_medical_days,
+num_research_days,gdt_entry_date,gdt_lstmod_date,dt_final_status_date_m,dt_pension_eff_date,str_pay_scale_level,num_emolument_legal_heir,num_admissible_legal_heir_pension,
+dt_start_legal_heir_pension,dt_stop_legal_heir_pension,num_cts,num_interest_hba,num_principle_hba,num_income_tax,num_other,is_other,str_other_name,num_education_cess,str_service_length,
+num_commutation_percentage) 
+ select :old.str_employee_no,:old.str_final_status,:old.dt_final_status_date,:old.dt_retirement_date,:old.num_qualifying_period,:old.dt_emolument_from,:old.dt_emolument_to,
+:old.num_avg_emolument,:old.num_admissible_pension,:old.num_emolument_gratuity,
+:old.num_gratuity_admissible,:old.str_family_type,:old.num_emolument_family,:old.num_admissible_family_pension,:old.num_commuted_pension,:old.num_reduced_pension_aftr_commu,:old.gnum_isvalid,
+:old.gnum_seat_id,:old.gnum_lstmod_seatid,:old.gnum_hospital_code,:old.str_check_status,:old.num_strike_days,:old.num_leave_days,:old.num_adhoc_days_in_half,:old.num_commutation_rate,
+ :old.num_commutation_years,:old.dt_stop_enhanced_pension,:old.dt_start_family_pension,:old.num_normal_family_pension,:old.num_enhanced_family_pension,:old.num_basic_pay,
+ :old.num_grade_pay,:old.is_manual,:old.gnum_sl_no,:old.num_eol_medical_days,
+ :old.num_research_days,:old.gdt_entry_date,:old.gdt_lstmod_date,:old.dt_final_status_date_m,:old.dt_pension_eff_date,:old.str_pay_scale_level,:old.num_emolument_legal_heir,
+ :old.num_admissible_legal_heir_pension,:old.dt_start_legal_heir_pension,:old.dt_stop_legal_heir_pension,:old.num_cts,:old.num_interest_hba,:old.num_principle_hba,:old.num_income_tax,
+  :old.num_other,:old.is_other,:old.str_other_name,:old.num_education_cess,:old.str_service_length,:old.num_commutation_percentage from actpay.actpns_pension_calc_sheet
+where str_employee_no=:new.str_employee_no  ;
+END;

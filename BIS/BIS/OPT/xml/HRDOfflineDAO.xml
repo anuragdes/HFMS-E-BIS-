@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="HRD Offline Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	 insert into ACTPAY_HRD_DTL (STR_EMPLOYEE_NUMBER,GDT_EFFECTIVE_FRM,GDT_EFFECTIVE_TO,STR_VALIDATE,NUM_LICENSE_AMOUNT,NUM_ALLOTMENT_NUMBER,GNUM_ISVALID, GNUM_SEAT_ID,GDT_ENTRY_DATE,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	 update ACTPAY_HRD_DTL set STR_VALIDATE=?,NUM_LICENSE_AMOUNT=?,GDT_EFFECTIVE_FRM=?,GDT_EFFECTIVE_TO=?,GNUM_LSTMOD_SEATID=?,GDT_LSTMOD_DATE=? where GNUM_ISVALID=1 and GNUM_HOSPITAL_CODE=? and STR_EMPLOYEE_NUMBER=? and NUM_ALLOTMENT_NUMBER=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+
+</tns:Transaction>

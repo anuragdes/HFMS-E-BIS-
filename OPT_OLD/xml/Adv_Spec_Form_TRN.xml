@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="Advance Specification Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="14">
+	 INSERT INTO ACTLAA_LOAN_SPECI_TRNS (STR_TYPE_OF_EMPLOYEE,STR_SANCTIONED_ORDER_NUMBER, DT_DATE_OF_SANCTION, STR_EMPLOYEE_CODE, STR_ADV_CODE, NUM_AMOUNT_SANCTIONED, NUM_NO_OF_INSTMT_SANC, NUM_AMOUNT_OF_INSTALLMENT, NUM_INTEREST_RATE, DT_REPAYMENT_START_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	insert into actlaa_loan_recovery_dtl t(t.str_sanction_no,t.num_install_recovered,t.num_amount_recovered,t.num_interest_recovered,t.dt_last_install_date ,t.dt_entry_date,t.num_seat_id,t.gnum_isvalid,t.gnum_hospital_code) values(?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+		<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 INSERT INTO ACTLAA_LOAN_SPECI_TRNS_LOG (GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,STR_TYPE_OF_EMPLOYEE,STR_SANCTIONED_ORDER_NUMBER, DT_DATE_OF_SANCTION, STR_EMPLOYEE_CODE, STR_ADV_CODE, NUM_AMOUNT_SANCTIONED, NUM_NO_OF_INSTMT_SANC, NUM_AMOUNT_OF_INSTALLMENT, NUM_INTEREST_RATE, DT_REPAYMENT_START_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,GNUM_SLNO) (select ?,?, T.STR_TYPE_OF_EMPLOYEE,T.STR_SANCTIONED_ORDER_NUMBER,T.DT_DATE_OF_SANCTION,T.STR_EMPLOYEE_CODE, T.STR_ADV_CODE,T.NUM_AMOUNT_SANCTIONED,T.NUM_NO_OF_INSTMT_SANC,T.NUM_AMOUNT_OF_INSTALLMENT, T.NUM_INTEREST_RATE,T.DT_REPAYMENT_START_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,? from actlaa_loan_speci_trns t where T.STR_SANCTIONED_ORDER_NUMBER=? and T.STR_EMPLOYEE_CODE=?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 UPDATE ACTLAA_LOAN_SPECI_TRNS T SET T.str_sanctioned_order_number=?,T.dt_date_of_sanction=?,T.num_amount_sanctioned=?,T.num_no_of_instmt_sanc=?,T.num_amount_of_installment=?,T.num_interest_rate=?,T.dt_repayment_start_date=?,T.GDT_LSTMOD_DATE=?,T.GNUM_LSTMOD_SEATID=? WHERE T.STR_EMPLOYEE_CODE=? AND T.str_adv_code=? AND T.gnum_hospital_code=? AND T.gnum_isvalid=1
+	</QRY>
+	</BLOCK>
+</OPR>
+
+
+
+
+
+</tns:Transaction>

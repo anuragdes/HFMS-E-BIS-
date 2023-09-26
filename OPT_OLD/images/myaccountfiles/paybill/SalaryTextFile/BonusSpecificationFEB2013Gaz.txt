@@ -1,0 +1,56 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                               04 February 2013 
+                           Employee Wise Bonus Specification
+                                   Month  :February 2013
+ 
+Category  :Gazetted                                                                            
+Sub-Category  :Gaz                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bonus       Amount(Rs)
+1   PGIPER00000002                                                       Test               500
+
+2   PGIPER00000003                                                       Test               500
+
+                                                                         tesrtasd           345
+
+                                                                         tesrtasderr        345
+
+3   PGIPER00000004                                                       Test               500
+
+4   PGIPER00000009                                                       Test               500
+
+5   PGIPER00000053                                                       Test               500
+
+6   PGIPER00000336                                                       Test               500
+
+7   PGIPER00000383                                                       Test               500
+
+8   PGIPER00001219                                                       Test               500
+
+9   PGIPER00001254                                                       Test               500
+
+10  PGIPER00001262                                                       Test               500
+
+11  PGIPER00001300                                                       Test               500
+
+                                                                         tesrtasd           345
+
+12  PGIPER00001359                                                       Test               500
+
+13  PGIPER00001391                                                       Test               500
+
+14  PGIPER00008295                                                       Test               500
+
+15  PGIPER00008297                                                       Test               500
+
+                                                                         tesrtasderr        345
+
+16  PGIPER00008301                                                       Test               500
+
+                                                                          Grand Total      9380
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

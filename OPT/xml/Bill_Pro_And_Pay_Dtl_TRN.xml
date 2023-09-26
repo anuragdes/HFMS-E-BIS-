@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="Bill Process and Payment Dtl" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	   UPDATE ACTLAA_LOAN_REQ_TRNS T SET STR_BILL_STATUS='4' WHERE T.STR_REQ_APP_NO=? AND T.STR_EMPLOYEE_CODE=?
+	 </QRY>
+	 </BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	 INSERT INTO ACTLAA_LOAN_PAY_DTL (STR_BILL_NUMBER,DT_BILL_DATE, STR_SANCTIONED_ORDER_NUMBER, DT_DATE_OF_SANCTION, STR_EMPLOYEE_CODE, STR_ADV_CODE, NUM_TOTAL_AMOUNT_TO_BE_PAID, GDT_ENTRY_DATE, GNUM_ISVALID, GNUM_SEAT_ID) VALUES (?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+
+
+</tns:Transaction>

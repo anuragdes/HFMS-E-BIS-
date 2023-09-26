@@ -1,0 +1,85 @@
+
+PROCEDURE proc_get_emp_acceptance_details(p_empno character varying,p_hcode character varying, p_emp_no2 character varying,OUT err character varying,OUT resultset refcursor) IS
+   QUERY      VARCHAR2 (6000);
+   var1      NUMBER (3);
+   var2      NUMBER (3); 
+   tableName  VARCHAR2 (50); 
+  
+BEGIN
+	select * from db;
+	
+				QUERY :=' SELECT A.STR_PAY_SCALE_TYPE AS payScaleType_p, B.STR_PAY_SCALE_TYPE AS payScaleType,
+ 							A.Pay_Atrri_Code AS payAttributeCode_d, (select str_configuration_name from ahism.pist_configuration_mst
+						   where gnum_isvalid=1 and str_configuration_code=A.Pay_Atrri_Code) AS payAttributeCode_p, (select str_configuration_name from ahism.pist_configuration_mst
+						   where gnum_isvalid=1 and str_configuration_code=B.Str_Pay_Attri_Code) AS payAttributeCode, A.STR_EMPLOYEE_NUMBER AS empNumber_p, B.STR_EMPLOYEE_NUMBER AS empNumber, 
+						   (SELECT    s.str_emp_full_name FROM ahistrn.pist_emp_personnel_dtl s WHERE     s.str_emp_no = A.str_employee_number AND s.str_validate_status = ''Y'' AND s.gnum_isvalid = 1) 
+						   AS empName_p, (SELECT    s.str_emp_full_name FROM ahistrn.pist_emp_personnel_dtl s WHERE     s.str_emp_no = B.str_employee_number AND s.str_validate_status = ''Y'' AND s.gnum_isvalid = 1) 
+						   AS empName, A.STR_GENDER as gender_d, (select gstr_gender_name from ahism.gblt_gender_mst where gstr_gender_code = A.STR_GENDER and gnum_isvalid=1) AS gender_p, 
+						   (select gstr_gender_name from ahism.gblt_gender_mst where gstr_gender_code = B.STR_GENDER and gnum_isvalid=1) AS gender, A.NUM_DESIG_ID as desig_d, 
+						   (select distinct gstr_desig_name from ahism.gblt_designation_mst where gnum_desig_code=A.NUM_DESIG_ID and gnum_isvalid=1 ) AS desig_p, 
+						   (select distinct gstr_desig_name from ahism.gblt_designation_mst where gnum_desig_code=B.NUM_DESIG_ID and gnum_isvalid=1 ) AS desig, 
+						   A.NUM_DEPT_ID as dept_d, (select distinct gstr_dept_name from ahism.gblt_department_mst where gnum_dept_code=A.NUM_DEPT_ID and gnum_isvalid=1 ) AS dept_p, 
+						   (select distinct gstr_dept_name from ahism.gblt_department_mst where gnum_dept_code=B.NUM_DEPT_ID and gnum_isvalid=1 ) AS dept, 
+						   A.NUM_NAT_JOB_ID as natureOfJob_d, (select str_nat_job_name from ahism.pist_nat_job_mst where gnum_isvalid=1 and num_nat_job_id=A.NUM_NAT_JOB_ID) AS natureOfJob_p, 
+						   (select str_nat_job_name from ahism.pist_nat_job_mst where gnum_isvalid=1 and num_nat_job_id=B.NUM_NAT_JOB_ID) AS natureOfJob, TO_CHAR (A.DT_JOB_FROM_DATE, ''DD-Mon-YYYY'') AS joinFromDate_p, 
+						   TO_CHAR (B.DT_JOB_FROM_DATE, ''DD-Mon-YYYY'') AS joinFromDate, A.STR_ESTB_ATTRI_CODE AS office_d, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and num_configuration_id=A.STR_ESTB_ATTRI_CODE) AS office_p, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and num_configuration_id=B.STR_ESTB_ATTRI_CODE) AS office, A.STR_CLASS_ATTRI_CODE as empClass_d, 
+						   TO_CHAR (A.DT_JOB_TO_DATE, ''DD-Mon-YYYY'') AS joinToDate_p, 
+						   TO_CHAR (B.DT_JOB_TO_DATE, ''DD-Mon-YYYY'') AS joinToDate, A.NUM_SRC_OF_RECRUIT_ID AS srcOfRecruitment_d, (select str_rec_src_name from ahism.pist_recruitment_source_mst where 
+						   num_rec_src_id=A.NUM_SRC_OF_RECRUIT_ID and gnum_isvalid=1) AS srcOfRecruitment_p, (select str_rec_src_name from ahism.pist_recruitment_source_mst where 
+						   num_rec_src_id=B.NUM_SRC_OF_RECRUIT_ID and gnum_isvalid=1) AS srcOfRecruitment, A.STR_SERVICE_GRP_CODE AS serviceGroup_d, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and num_configuration_id=A.STR_SERVICE_GRP_CODE) AS serviceGroup_p, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and str_configuration_code=B.STR_SERVICE_GRP_CODE) AS serviceGroup, TO_CHAR (A.DT_DATE_OF_APPOINT, ''DD-Mon-YYYY'') AS appointmentDate_p, 
+						   TO_CHAR (B.DT_DATE_OF_APPOINT, ''DD-Mon-YYYY'') AS appointmentDate, TO_CHAR (A.DT_DATE_OF_JOIN, ''DD-Mon-YYYY'') AS joiningDate_p, TO_CHAR (B.DT_DATE_OF_JOIN, ''DD-Mon-YYYY'') AS joiningDate, 
+						   TO_CHAR (A.DT_DATE_OF_RETIRE, ''DD-Mon-YYYY'') AS retirementDate_p, TO_CHAR (b.dt_date_of_retire, ''DD-Mon-YYYY'') AS retirementDate, 
+						   a.num_payscale_id AS currentPayScale_d, 
+						   (select num_ps_start_amt || '-' || num_ps_end_amt from ahism.pist_ps_mst where gnum_isvalid=1 and num_ps_id = a.num_payscale_id) AS currentPayScale_p, 
+       					   (select num_ps_start_amt || '-' || num_ps_end_amt from ahism.pist_ps_mst where gnum_isvalid=1 and num_ps_id = B.NUM_PAYSCALE_ID) AS currentPayScale, TO_CHAR (A.DT_PAYSCALE_EFF_DATE, ''DD-Mon-YYYY'') AS payScaleEffectiveDate_p, 
+						   TO_CHAR (B.DT_PAYSCALE_EFF_DATE, ''DD-Mon-YY'') AS payScaleEffectiveDate, 
+						   (select CAST(m.num_starting_basic_amt as INTEGER) from pist_ps_mst m , ahistrn.pist_emp_pay_dtl p where m.num_ps_id=p.num_pipb and p.str_emp_no=a.str_employee_number) currentBasicPay_p, 
+						   b.num_cur_basic_pay currentBasicPay, 
+						   TO_CHAR (A.DT_BASIC_EFF_DATE, ''DD-Mon-YYYY'') AS basicEffectiveDate_p, TO_CHAR (B.DT_BASIC_EFF_DATE, ''DD-Mon-YYYY'') AS basicEffectiveDate, A.NUM_CONS_SALARY AS consolidatedSal_p, 
+						   B.NUM_CONS_SALARY AS consolidatedSal, TO_CHAR (A.DT_CON_SAL_EFF_DATE, ''DD-Mon-YYYY'') AS consolidatedSalEffectDate_p, TO_CHAR (B.DT_CON_SAL_EFF_DATE, ''DD-Mon-YYYY'') AS consolidatedSalEffectDate, 
+						   A.STR_STATUS AS status_d, (select str_configuration_name from ahism.pist_configuration_mst where gnum_isvalid=1 and num_configuration_id=A.STR_STATUS) AS status_p, 
+						   (select str_configuration_name from ahism.pist_configuration_mst where gnum_isvalid=1 and num_configuration_id=B.STR_STATUS) AS status, TO_CHAR (A.DT_STATUS_DATE, ''DD-Mon-YYYY'') AS statusDate_p,
+						   TO_CHAR (B.DT_STATUS_DATE, ''DD-Mon-YYYY'') AS statusDate, A.STR_FINAL_STATUS AS finalStatus_d, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and num_configuration_id=A.STR_FINAL_STATUS) AS finalStatus_p, (select str_configuration_name from ahism.pist_configuration_mst 
+						   where gnum_isvalid=1 and num_configuration_id=B.STR_FINAL_STATUS) AS finalStatus, TO_CHAR (A.DT_FINAL_STATUS_DATE, ''DD-Mon-YYYY'') AS finalStatusDate_p, 
+						   TO_CHAR (B.DT_FINAL_STATUS_DATE, ''DD-Mon-YYYY'') AS finalStatusDate, A.GNUM_SL_NO AS slno_p, A.STR_PAY_BAND AS payBand_d, 
+						   (select str_ps_grade_or_pb_name from ahism.pist_ps_grade_or_pb_mst where gnum_isvalid=1 and num_ps_grade_or_pb_id = A.STR_PAY_BAND) AS payBand_p, 
+					       (select str_ps_grade_or_pb_name from ahism.pist_ps_grade_or_pb_mst where gnum_isvalid=1 and num_ps_grade_or_pb_id = nvl(B.STR_PAY_BAND,null)) AS payBand, 
+						   A.STR_GRADE_PAY AS gradePay_p, B.NUM_GRADE_PAY AS gradePay, 
+						   (select STR_CATEGORY_NAME from actpay.actpay_sal_cat_mst where NUM_SAL_CAT_ID=b.num_sal_cat_id 
+					       and GNUM_ISVALID=1 ) AS salCategory_p, 
+						   (SELECT str_sub_category_name FROM actpay.actpay_sal_sub_cat_mst where num_sal_sub_cat_id=b.num_sal_sub_cat_id 
+						   and gnum_isvalid=1 and str_category_code=b.num_sal_cat_id) AS salSubCategory_p, 
+						   b.num_sal_cat_id AS salCategory, b.num_sal_sub_cat_id AS salSubCategory, 
+						   (SELECT vw.str_identification_unit_value FROM ahistrn.pist_emp_identification_dtl vw WHERE  VW.STR_EMP_NO = A.STR_EMPLOYEE_NUMBER AND num_identification_unit_id=1) AS panNo_p, B.str_pan_no AS panNo,
+						   (SELECT vw.str_official_no   F FROM ahistrn.pist_emp_official_dtl vw  WHERE  VW.GNUM_ISVALID = 1  and VW.STR_EMP_NO = A.STR_EMPLOYEE_NUMBER AND num_slno=1) AS salaryAccountNo_p, 
+						   (select str_ps_grade_or_pb_name from ahistrn.pist_emp_pay_dtl p, ahism.pist_ps_grade_or_pb_mst g where  p.payscalelevel = g.num_ps_grade_or_pb_id and p.str_emp_no = A.str_employee_number and p.gnum_isvalid = 1) AS payscalelevel_p, B.payscalelevel as payscalelevel, 
+                           A.num_cadre_id as cadre_d, (select str_cad_name from ahism.pist_cadre_mst where gnum_isvalid=1 and num_cad_id=B.num_cadre_id) as cadre, 
+						   (select str_cad_name from ahism.pist_cadre_mst where gnum_isvalid=1 and num_cad_id=A.num_cadre_id) as cadre_p, A.num_basic_pay AS BasicPay_p 
+						   FROM actpay.ACTPAY_DUMMY_PROF_DTL A, actpay.ACTPAY_PROF_DTL B WHERE  A.STR_EMPLOYEE_NUMBER = B.STR_EMPLOYEE_NUMBER(+) AND A.STR_EMPLOYEE_NUMBER = ? 
+						   AND A.GNUM_HOSPITAL_CODE = ? AND (B.STR_EMPLOYEE_NUMBER =?  OR B.STR_EMPLOYEE_NUMBER IS NULL) AND A.gnum_sl_no = (SELECT MAX (A1.gnum_sl_no) 
+						   FROM actpay.ACTPAY_DUMMY_PROF_DTL A1 WHERE A1.str_employee_number = A.str_employee_number) AND (B.GNUM_SL_NO = (SELECT MAX (b1.gnum_sl_no) FROM actpay.ACTPAY_PROF_DTL b1 
+						   WHERE b1.str_employee_number = b.str_employee_number) OR B.GNUM_SL_NO IS NULL) ' ;
+	
+
+
+ 
+  OPEN resultset FOR QUERY;
+
+
+      EXCEPTION
+         WHEN OTHERS
+         THEN
+            IF resultset%ISOPEN
+            THEN
+               CLOSE resultset;
+            END IF;
+            err := SQLERRM;
+            RAISE;
+END;
+
+

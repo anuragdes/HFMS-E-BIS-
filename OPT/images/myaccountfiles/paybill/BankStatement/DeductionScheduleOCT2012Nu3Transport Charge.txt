@@ -1,0 +1,68 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu3                                               
+Demand No  :1012001131   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001734 028344 Rajwant   Kaur           Sister Gr. I          Nursing Cell           750
+
+PGIPER00001735 028331 Kanwal Jeet Kaur         Sister Gr. I          Advance Pediatr        750
+
+PGIPER00001737 028322 Baljinder   Kaur         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002037 028245 Hardeep   Kaur           Sister Gr. II         Other                  750
+
+PGIPER00002041 028228 Navneet                  Sister Gr. II         Nursing Cell           750
+
+PGIPER00002042 028248 Paramjit   Kaur          Sister Gr. I          Nursing Cell           750
+
+PGIPER00002056 028254 Martha                   Sister Gr. I          Nursing Cell           750
+
+PGIPER00002058 028253 Krishna Devi             Sister Gr. I          Nursing Cell           750
+
+PGIPER00002072 028292 Sunita   Rani            Sister Gr. II         Nursing Cell           750
+
+PGIPER00002073 028303 Sukhvinder   Kaur        Sister Gr. I          Nursing Cell           750
+
+PGIPER00002084 028320 Swaran   Kaur            Sister Gr. I          Nursing Cell           750
+
+PGIPER00002086 028315 Sarla   Devi             Sister Gr. I          Nursing Cell           750
+
+PGIPER00002110 028444 Paramjit   Kaur          Sister Gr. II         Nursing Cell           750
+
+PGIPER00002121 028481 Swinder   Jit            Sister Gr. II         Nursing Cell           750
+
+PGIPER00002126 028487 Zeenat                   Sister Gr. I          Nursing Cell           750
+
+PGIPER00002127 028497 Anu   Bala               Sister Gr. II         Nursing Cell           750
+
+PGIPER00002128 028494 Meenakshi   Kohali       Sister Gr. II         Nursing Cell           750
+
+PGIPER00002134 028498 Shahnaz   Massey         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002141 028500 Renu    Bala             Sister Gr. I          Nursing Cell           750
+
+PGIPER00002144 028506 Kusum E Singh            Sister Gr. II         Advance Cardiac        750
+
+PGIPER00002160 028426 Veenu    Malik           Sister Gr. I          Emergency              750
+
+PGIPER00002172 028561 Charanjeet   Kaur        Sister Gr. II         Nursing Cell           750
+
+PGIPER00002182 028528 Raj    Kumari            Sister Gr. II         Nursing Cell           750
+
+PGIPER00002196 028580 Shanta                   Sister Gr. II         Nursing Cell           750
+
+PGIPER00002199 028590 Reena                    Sister Gr. II         Nursing Cell           750
+
+PGIPER00008104 028504 Kuljit    Kaur           Sister Gr. II         Nursing Cell           750
+
+                                                                          Grand Total     19500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

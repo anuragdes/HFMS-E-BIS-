@@ -1,0 +1,24 @@
+CREATE TABLE ahislog.actpns_pension_commuted_trn_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+ gnum_sl_no numeric(3,0),
+  str_employee_no character varying(14),
+  num_amount character varying(50),
+  str_rec_status character varying(1),
+  dt_rec_start_date character varying(50),
+  dt_rec_end_date character varying(50),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date character varying(50),
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(5,0),
+  num_comm_sl_no numeric(2,0),
+  strremark character varying,
+  CONSTRAINT actpns_pension_commuted_trn_pk PRIMARY KEY (slno,gnum_sl_no,str_employee_no,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpns_pension_commuted_trn_log
+  OWNER TO bishfms;

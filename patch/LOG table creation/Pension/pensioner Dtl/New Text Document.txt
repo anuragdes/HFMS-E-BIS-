@@ -1,0 +1,57 @@
+-- Table: ahislog.actpns_pensioner_dtl_log
+
+-- DROP TABLE ahislog.actpns_pensioner_dtl_log;
+
+CREATE TABLE ahislog.actpns_pensioner_dtl_log
+(
+  slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+  str_employee_no character varying(14) NOT NULL,
+  dt_joining_date timestamp without time zone,
+  dt_retirement_date timestamp without time zone,
+  num_commutation_rate numeric(2,0),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  dt_ppo_date timestamp without time zone,
+  num_avg_pension_emolument character varying(25),
+  num_admissible_pension character varying(25),
+  num_emolument_gratuity character varying(25),
+  num_gratuity_admissible character varying(25),
+  str_family_type character varying(25),
+  num_emolument_family character varying(25),
+  num_admissible_family_pension character varying(25),
+  num_commutation_years numeric(2,0),
+  num_commuted_pension character varying(25),
+  num_reduced_pension_aftr_commu character varying(25),
+  dt_stop_enhanced_pension timestamp without time zone,
+  dt_start_family_pension timestamp without time zone,
+  str_bank_acct_no character varying(16),
+  str_ppo_no character varying(16),
+  is_pensioner_died character varying(50),
+  str_pension_type character varying(30),
+  str_final_status character varying(50),
+  dt_final_status_date timestamp without time zone,
+  str_f_mem_name character varying(30),
+  is_legal_heir character varying(30),
+  str_pension_category character varying(10),
+  gdt_entry_date character varying(30) NOT NULL,
+  str_old_employee_no character varying(40),
+  num_pen_cat_id numeric(3,0),
+  num_pen_sub_cat_id numeric(3,0),
+  str_stop_pension character varying(30),
+  str_order_number character varying(15),
+  dt_order_date character varying(30),
+  num_died_count numeric(10,0),
+  dt_death_date character varying(50),
+  str_stop_pension_remark character varying(50),
+  str_vigiliance_clearnce character varying(5),
+  str_administrative_clearance character varying(5),
+  CONSTRAINT actpns_pensioner_dtl_pk PRIMARY KEY (slno, str_employee_no, gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpns_pensioner_dtl_log
+  OWNER TO bishfms;

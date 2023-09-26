@@ -1,0 +1,38 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                             Schedule Report For GPF ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu3                                               
+Demand No  :1012001131   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00002056 028254 Martha                   Sister Gr. I          Nursing Cell          3250
+
+PGIPER00002118 028447 Jyoti   Sahni            Sister Gr. II         Nursing Cell          2000
+
+PGIPER00002129 028451 Manju   Sharma           Sister Gr. II         Nursing Cell          3200
+
+PGIPER00002138 028430 Sudesh   Kumari          Sister Gr. I          Nursing Cell          2350
+
+PGIPER00002139 028478 Asha    Alfred           Sister Gr. II         Nursing Cell          2560
+
+PGIPER00002148 028532 Meena   Kumari           Sister Gr. II         Advance Cardiac       2250
+
+PGIPER00002161 028511 Beena  Kumari Bansal     Sister Gr. II         Nursing Cell          3500
+
+PGIPER00002194 028586 Smeen    Akhtar          Sister Gr. II         Other                 3000
+
+PGIPER00002198 028576 Harjeet   Kaur           Sister Gr. II         Advance Cardiac       7600
+
+PGIPER00008072 028470 Preet   Kamal            Sister Gr. II         Nursing Cell          3125
+
+PGIPER00008091 028564 Meena   Puri             Sister Gr. II         Nursing Cell          2750
+
+                                                                          Grand Total     35585
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

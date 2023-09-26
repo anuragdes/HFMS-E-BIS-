@@ -1,0 +1,23 @@
+CREATE TABLE ahislog.actpay_extded_mst_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+    num_extded_id numeric(3,0),
+  str_exded_name character varying(20),
+  num_exded_code character varying(5),
+  gnum_slno numeric(3,0),
+  gdt_effective_frm timestamp(6) without time zone,
+  gdt_effective_to timestamp(6) without time zone,
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp(6) without time zone,
+  gdt_lstmod_date timestamp(6) without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gstr_remarks character varying(100),
+  gnum_hospital_code numeric(6,0),
+  CONSTRAINT actpay_extded_mst_log_pk PRIMARY KEY (slno,num_extded_id,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpay_extded_mst_log
+  OWNER TO bishfms;

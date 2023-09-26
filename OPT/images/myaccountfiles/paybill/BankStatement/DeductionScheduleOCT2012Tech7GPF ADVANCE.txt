@@ -1,0 +1,42 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                             Schedule Report For GPF ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000958 045368 Sukhjit  Singh           Driver                Other                 1180
+
+PGIPER00003026 045412 Sandeep   Singh          Other                 Other                 2500
+
+PGIPER00003029 045323 Sham   Lal               Clerk                 Other                 2000
+
+PGIPER00003060 045390 Shashi   Prabha          Clerk                 Engineering Dep       1000
+
+PGIPER00003061 045389 Gautam   Ram             Clerk                 Other                 1875
+
+PGIPER00003063 045387 Ravinder   Kumar         Lower Division Clerk  Other                 2500
+
+PGIPER00003070 045364 Neeru   Sharma           Clerk                 Other                 1400
+
+PGIPER00003087 045248 Trisha                   Other                 Other                 6219
+
+PGIPER00003090 045363 Rakesh   Gautam          Draftsmam             Other                 2000
+
+PGIPER00003098 045393 Daljit   Kaur            Draftsmam             Other                 1625
+
+PGIPER00003099 045415 Archana   Kumari         Draftsmam             Other                 3200
+
+PGIPER00003102 045331 Siya Ram Yadav           Lower Division Clerk  Engineering Dep       2750
+
+PGIPER00003126 045407 Sarbjit   Singh          OTHER (C)             Engineering Dep       1000
+
+                                                                          Grand Total     29249
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

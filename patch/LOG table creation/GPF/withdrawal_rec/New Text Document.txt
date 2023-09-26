@@ -1,0 +1,13 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_gpf_emp_wdrl_rec_trn
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_gpf_emp_wdrl_rec_trn
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_gpf_emp_wdrl_rec_trn_log(str_req_app_no,dt_req_app_date,str_employee_code,str_gpf_act_number,num_withdrawal_type,num_arrear_sl_no,num_amount_requested,str_withdrawal_name,
+str_check_status,gdt_entry_date,gnum_isvalid,gnum_seatid,gnum_hospital_code,str_adv_withd_purpose,num_no_installment,num_balance_amount,num_arrear_amount,dt_req_arrear_date,num_installment_amount,
+num_amount_remaining) 
+ select :old.str_req_app_no,:old.dt_req_app_date,:old.str_employee_code,:old.str_gpf_act_number,:old.num_withdrawal_type,:old.num_arrear_sl_no,:old.num_amount_requested,:old.str_withdrawal_name,
+:old.str_check_status,:old.gdt_entry_date,:old.gnum_isvalid,:old.gnum_seatid,:old.gnum_hospital_code,:old.str_adv_withd_purpose,:old.num_no_installment,:old.num_balance_amount,:old.num_arrear_amount
+ ,:old.dt_req_arrear_date,:old.num_installment_amount,:old.num_amount_remaining from actpay.actpay_gpf_emp_wdrl_rec_trn
+where str_employee_number=:new.str_employee_number and str_financial_yr=:new.str_financial_yr ;
+END;

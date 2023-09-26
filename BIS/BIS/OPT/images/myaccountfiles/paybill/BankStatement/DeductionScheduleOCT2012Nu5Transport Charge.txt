@@ -1,0 +1,32 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu5                                               
+Demand No  :1012001151   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001841 029524 Sirtaj   Kaur            Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001844 029528 Geeta    Dutta           Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001856 029541 Manorama   Rani          Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001864 029557 Anurita   Roopra         Sister Gr. II         Nursing Cell          1000
+
+PGIPER00001893 029589 Harjeet   Kaur           Sister Gr. I          Advance Cardiac       1000
+
+PGIPER00001896 029595 Rajinder   Kaur Dhanija  Sister Gr. II         Nursing Cell          1000
+
+PGIPER00008110 029607 Manju    Bala            Sister Gr. I          Nursing Cell          1000
+
+PGIPER00008114 029630 Anita   Sharma           Sister Gr. I          Nursing Cell          1000
+
+                                                                          Grand Total      8000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

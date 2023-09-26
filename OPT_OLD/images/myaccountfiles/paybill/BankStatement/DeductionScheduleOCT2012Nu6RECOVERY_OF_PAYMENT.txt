@@ -1,0 +1,46 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                     Schedule Report For RECOVERY OF PAYMENT
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu6                                               
+Demand No  :1012001161   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00008188 031002 Gagan Preet  Kohli       Sister Gr. II         Nursing Cell          6320
+
+PGIPER00008201 031016 Sabhpreet    Kaur        Sister Gr. II         Nursing Cell          6338
+
+PGIPER00008307 031054 Rachna  Sharma           Sister Gr. II         Neurology             1156
+
+PGIPER00008308 031055 Simatjeet  Kaur          Sister Gr. II         Neurology             1190
+
+PGIPER00008311 031058 Raj  Pal                 Sister Gr. II         Ophthalmology         1270
+
+PGIPER00008314 031061 Karam  Pal               Sister Gr. II         Neurology             1156
+
+PGIPER00008316 031063 Kavita                   Sister Gr. II         Nursing Cell          6656
+
+PGIPER00008319 031066 Ankita  Sood             Sister Gr. II         Nursing Cell          1337
+
+PGIPER00008329 031076 Rimai  Marbaniang        Sister Gr. II         Nursing Cell          1156
+
+PGIPER00008339 031086 Dhiraj  Sharma           Sister Gr. II         Nursing Cell          1156
+
+PGIPER00008699 031087 Sandeep  Kulhari         Sister Gr. II         Anaesthesia And       1270
+
+PGIPER00008700 031088 Monu  Mittal             Sister Gr. I          Bio Statistics        1270
+
+PGIPER00008849 031090 Rajwinder   Kaur         Sister Gr. II         Nursing Cell          1156
+
+PGIPER00008873 031104 Ravneet   Kaur           Sister Gr. II         Cytology              1184
+
+PGIPER00008885 031116 Ramneet  Kaur            Sister Gr. II         Cardiology            1156
+
+                                                                          Grand Total     33771
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

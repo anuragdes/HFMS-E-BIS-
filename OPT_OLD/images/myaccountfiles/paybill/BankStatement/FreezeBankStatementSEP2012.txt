@@ -1,0 +1,108 @@
+                       Post Graduate Institute of Medical Education And Research 
+                                 Sector, 12, Chandigarh 
+                                                                                20 October 2012 
+                                               Employee Wise Bank Statement
+                                            Month  :September 2012
+ 
+Category  :Class4                                                                              
+Sub-Category  :Ena                                                                             
+ 
+SlNoEmployee ID    Old ID Name                    Designation           Bank Ac No   Amount(Rs)
+1   PGIPER00003184 060036 Avtar   Singh           Security Guard Gr.1   10413744812       14287
+
+2   PGIPER00003186 060012 Bharui   Ram            Mali                  10413742804       15019
+
+3   PGIPER00003187 060011 Daya Shankar Yadav      Mali                  10413744823       13077
+
+4   PGIPER00003192 060037 Sher   Singh            Machine Man           10413740862        7738
+
+5   PGIPER00003194 060040 Jagira   Ram            Machine Man           10413749752       13624
+
+6   PGIPER00003196 060033 Jawahar   Lal           Mali                  10413741152       14847
+
+7   PGIPER00003199 060001 Mehma   Ram             OTHER (C)             10413745282       10013
+
+8   PGIPER00003202 060032 Ram   Bhadur            Mali                  10413749582       15798
+
+9   PGIPER00003204 060019 Prem   Lal              Mali                  10413745634       17465
+
+10  PGIPER00003209 060039 Sucha   Ram             Machine Man           10413746241       16208
+
+11  PGIPER00003215 060038 Basheshar               Machine Man           10413744539       14317
+
+12  PGIPER00003217 060060 Nirmal   Devi           Mali                  10413753076       10736
+
+13  PGIPER00003219 060063 Joginder                Mali                  30017092219       14937
+
+14  PGIPER00003223 060056 Kali   Dass             Mali                  10413751262       11531
+
+15  PGIPER00003229 060064 Rakesh Kumar Pal        Mali                  30023260313       14196
+
+16  PGIPER00003230 060055 Ramesh   Kumar          Mali                  10413751217       17055
+
+17  PGIPER00003235 060067 Vikas    Saini          Mali                  30051987854       14524
+
+18  PGIPER00003236 060059 Ram   Partap            Mali                  10413751295       17208
+
+19  PGIPER00003241 060054 Kalika   Parshad        Mali                  10413751160       11539
+
+20  PGIPER00003243 060058 Ram   Chander           Mali                  10413751319       12057
+
+21  PGIPER00003244 060057 Ram   Sanjeevan         Mali                  10413751308       11320
+
+22  PGIPER00003247 060053 Mishri   Lal            Mali                  10413751159       12053
+
+23  PGIPER00003249 060007 Ram   Sanjivan          Mali                  10413742338       10925
+
+24  PGIPER00003251 060061 Rama   Kant             Mali                  30023264227       13457
+
+25  PGIPER00003253 060052 Ram   Nath              Mali                  10413751193       16053
+
+26  PGIPER00003255 060065 Daya   Shankar          Mali                  30023252664       13573
+
+27  PGIPER00003259 060051 Nirmal                  Mali                  10413751171       13357
+
+28  PGIPER00003260 060062 Bans    Bhadur          Mali                  10413712483       14658
+
+29  PGIPER00003264 060068 Sunita   Sharma         Hospital Attendant Gr.230377780612       13674
+
+30  PGIPER00003268 060020 Balbir    Singh         Suprivisor            10413680017       20506
+
+31  PGIPER00003269 060066 Gajodhar   Parshad      Mali                  30023320169       15389
+
+32  PGIPER00003272 060049 Gurdev   Kaur           Mali                  10413744415        7230
+
+33  PGIPER00003274 060006 Dwaraka   Prashad       Mali                  10413742780       12317
+
+34  PGIPER00003277 060003 Banta   Ram             Mali                  10413745464       17583
+
+35  PGIPER00003280 060014 Girdhari   Lal          Mali                  10413744970       15317
+
+36  PGIPER00003281 060008 Surjit   Singh          OTHER (C)             10413749515       13901
+
+37  PGIPER00003284 060002 Gorkha   Ram            Mali                  10413749694       13763
+
+38  PGIPER00003288 060004 Shri Hira Lal           Mali                  10413744028       13002
+
+39  PGIPER00003291 060024 Sada   Nand             Mali                  10413744801       13317
+
+40  PGIPER00003293 060030 Dharm   Pal             Mali                  10413749559       15168
+
+41  PGIPER00003295 060022 Situ   Ram              Mali                  10413749435       12217
+
+42  PGIPER00003297 060029 Karam   Singh           Mali Gr.I             10413745497       17397
+
+43  PGIPER00003299 060005 Piara   Singh           Mali                  10413745419       13317
+
+44  PGIPER00003301 060009 Chhadi   Ram            Mali                  10413743422       12487
+
+45  PGIPER00003303 060026 Sohan   Singh           Mali                  10413741094       10891
+
+46  PGIPER00003306 060027 Banwari   Lal           Mali                  10413743284           0
+
+47  PGIPER00003307 060031 Prema   Devi            Mali                  10413743705       11603
+
+                                                                          Grand Total    630651
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

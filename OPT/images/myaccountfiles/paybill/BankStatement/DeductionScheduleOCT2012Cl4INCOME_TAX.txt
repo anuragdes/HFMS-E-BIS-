@@ -1,0 +1,124 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                              Schedule Report For INCOME TAX
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl4                                               
+Demand No  :10120018651  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Pan No          Amount(Rs)
+PGIPER00000007 043104 Sukhjeet Singh Bath      Office Superintendent ADHPS6571L             500
+
+PGIPER00000009 043109 Vijay  Kumar Ahuja       Office Superintendent AAVPA7144G            1500
+
+PGIPER00000014 043125 Suresh   Pal             Clerk                 BASPP5207C            1000
+
+PGIPER00000025 043126 Parkash   Chand          Office Superintendent ABGPC2936A            1000
+
+PGIPER00000027 043112 Satish Kumar Sharma      Other                 ACFPS1309D            1000
+
+PGIPER00000037 043113 Shiv Kant Gupta          Other                 ABGPG3475L             500
+
+PGIPER00000038 043116 Amarjit Singh Heer       Other                 ACNPS7775B             500
+
+PGIPER00000043 043114 Jit Ram Banger           Office Superintendent AAUPB5424H             500
+
+PGIPER00000113 043100 Sansar   Chand           Clerk                 ABAPC2874K             500
+
+PGIPER00000114 043124 Sushil Kumar Singla      Clerk                 AISPS0532M            1000
+
+PGIPER00000115 043119 Neelam   Rani            Clerk                 ACYPN0576E            1000
+
+PGIPER00000289 043020 Sunil  Kumar Bajaj       Store-keeper          AEIPB3643L            1000
+
+PGIPER00000290 043023 Naresh   Kumar           Store-keeper          ADVPK0724D            1000
+
+PGIPER00000291 043018 Surinder Paul Singh Cho  Jr. Store Officer     AAWPC3639H            2000
+
+PGIPER00000293 041073 Ghanshiam   Sharma       Store-keeper          AJDPS9467P            1000
+
+PGIPER00000294 041085 Jeet  Ram                Store-keeper          AATPR2246Q            1000
+
+PGIPER00000302 043025 Ghanshayam Chander Vark  Store-keeper          AANPO2448M            1000
+
+PGIPER00000304 043121 Kuldip Kumar Sharma      Legal Assistant       AEKPS6361N             500
+
+PGIPER00000305 043016 Jai Bhagwan Sharma       Jr. Store Officer     AHDPS5070V            2000
+
+PGIPER00000306 041035 Gurcharan    Singh       Store-keeper          AJDPS9320H            1000
+
+PGIPER00000308 043128 Satish   Kumar           Store-keeper          ACEPK6790P            1000
+
+PGIPER00000309 041070 Ramesh   Lal             Store-keeper          AAMPL3609A            1000
+
+PGIPER00000310 041074 Rajni   Devi             Store-keeper          ACZPD0413D            1000
+
+PGIPER00000312 041061 Rakesh  Kumar Sangar     Store-keeper          ACNPS8818F            1000
+
+PGIPER00000313 041072 Jaspal  Singh            Store-keeper          ADHPS6672E            1500
+
+PGIPER00000314 043022 Shanti   Ram             Store-keeper          ADMPR5520M            1000
+
+PGIPER00000315 043017 Janak   Dulari           Other                 ABNPD1762C            1500
+
+PGIPER00000316 043132 Satwinder  Kumar         Store-keeper          AUYAS3482J             500
+
+PGIPER00000328 043130 Ram  Pukar               Store-keeper          AVZPS1776K            1000
+
+PGIPER00000329 043024 Dilbag Singh Jarial      Store-keeper          AAXPJ2296C            1000
+
+PGIPER00000330 043141 Neeraj  Narula           Store-keeper          -                     1000
+
+PGIPER00000335 043138 Ram   Kumar              Store-keeper          AKEPP3957H            1000
+
+PGIPER00000339 043145 Paramvir Singh Godray    Store-keeper          AHRPC1467F            1000
+
+PGIPER00000347 043133 Rajeev   Awasthi         Store-keeper          AFTPA7557A            1500
+
+PGIPER00000348 043134 Virendra Pratap Singh    Store-keeper          AVQPS6273A            1000
+
+PGIPER00000349 043136 Sanjeev  Kumar Bhalla    Other                 AIHPB1873H            1000
+
+PGIPER00000350 043135 Surinder Singh Rawat     Store-keeper          AHCPR8803K            1000
+
+PGIPER00000351 043137 Rajender Kumar Sharma    Other                 BBPPS8519H             800
+
+PGIPER00000404 043148 Satish Kumar Gautam      Store-keeper          BBTPK8806K             500
+
+PGIPER00000439 043117 Ram   Chand              Clerk                 ACSPC4830A            1000
+
+PGIPER00000440 043102 Mahi   Pal               Clerk                 ADMPR5455P            1000
+
+PGIPER00000459 041034 Gurdeep   Singh          Store-keeper          AJOPS9542E            1000
+
+PGIPER00001078 043101 Surmukh   Singh          Clerk                 AISPS0533L            1000
+
+PGIPER00001459 043015 HarKrishan   Singh       Other                 AJBPS7007B            1000
+
+PGIPER00001566 043011 Pawan    Kumar           Store-keeper          ACWPS3378P            2000
+
+PGIPER00001582 043019 Surjit   Singh           Store-keeper          AWDPS0225Q            1500
+
+PGIPER00001609 041083 Som Nath Rana            Asstt.Admn.Officer    AASPN5337K            1000
+
+PGIPER00004217 041148 Rajesh  Kumar            Clerk                 AXKPS3021N            1500
+
+PGIPER00004219 041125 Lakha  Singh             Clerk                 AIFPS8028P            1000
+
+PGIPER00004220 041114 Lakhbir   Singh          Ward Servant          AQJPS8422Q             800
+
+PGIPER00004269 041146 Vinod  Krishan  Sharma   Clerk                 AQHPS6629J            1000
+
+PGIPER00007887 043149 Arvind   Kumar           Store-keeper          BRPPK9086B            1000
+
+PGIPER00008676 043021 Bharat    Bhusan         Store-keeper          ABBPB3348J            1500
+
+PGIPER00008679 043123 Hukam   Singh            Upper Division Clerk  AMIPS4294C            1000
+
+                                                                          Grand Total     56100
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

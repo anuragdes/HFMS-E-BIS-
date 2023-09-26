@@ -1,0 +1,66 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                           Schedule Report For WHEAT ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ens                                               
+Demand No  :10120014711  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000088 070008 Ram   Bahudar            Lower Division Clerk  Accounts               500
+
+PGIPER00000212 070001 Vinod Kumar Bhalla       Asst.Cashier          Canteen                500
+
+PGIPER00000213 070003 Hem   Raj                OTHER (C)             E W Canteen            500
+
+PGIPER00000214 070011 Duni   Chand             Lower Division Clerk  E W Canteen            500
+
+PGIPER00000215 070004 Achhar    Singh          Asst.Cashier          Training Branch        500
+
+PGIPER00000216 070010 Soorvir   Singh          Lower Division Clerk  E W Canteen            500
+
+PGIPER00000217 070006 Amrit   Lal              OTHER (C)             Transport              500
+
+PGIPER00000219 070012 Subhan   Singh           Lower Division Clerk  E W Canteen            500
+
+PGIPER00000402 070002 Rajeev Kumar Bhatnagar   OTHER (B)             E W Canteen            500
+
+PGIPER00003261 070037 Jai  Ram                 Safaiwala             Other                  500
+
+PGIPER00003270 070036 Krishan    Pal           Sanitary Attendant Gr Sanitation             500
+
+PGIPER00004311 070043 Inder    Singh           OTHER (C)             Other                  500
+
+PGIPER00004331 070028 Main   Pal               OTHER (C)             Other                  500
+
+PGIPER00004337 070032 Chatter   Singh          Barber                Other                  500
+
+PGIPER00004342 070027 Jagat    Singh           OTHER (C)             Other                  500
+
+PGIPER00004343 070014 Brij   Mohan             OTHER (C)             Other                  500
+
+PGIPER00004345 070033 Prem    Chand            OTHER (C)             Other                  500
+
+PGIPER00004348 070026 Bhuria   Lal             OTHER (C)             Other                  500
+
+PGIPER00004354 070034 Jagdish    Chand         OTHER (C)             Other                  500
+
+PGIPER00004355 070019 Subhash   Chand          OTHER (C)             Other                  500
+
+PGIPER00004361 070030 Kirpa    Ram             OTHER (C)             Other                  500
+
+PGIPER00004365 070017 Pawan   Kumar            OTHER (C)             Other                  500
+
+PGIPER00004371 070018 Chaman   Lal             OTHER (C)             Other                  500
+
+PGIPER00004375 070016 Puran   Chand            OTHER (C)             Other                  500
+
+PGIPER00004385 070041 Rattan  Lal              OTHER (C)             Other                  500
+
+                                                                          Grand Total     12500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.cdacnoida.in/his/TransportConfig" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.cdacnoida.in/his/TransportConfig">
+
+    <element name="generalConfig" type="tns:GeneralType"></element>
+    
+    <complexType name="GeneralType">
+    	<sequence>
+    		<element name="moduleId" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="unitId" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="unitName" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="currencyId" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="driverDesignationCode" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="conductorDesignationCode" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="itemCategory" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="storeId" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+
+    		<element name="backDateEntry" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="workOrderId" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="workOrderPaidServiceId" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="cancellationTime" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="authorityCancellationDays" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="approvalTime" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="orderGenTime" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="tripOrderType" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="logsBackDateEntry" type="string"
+    			minOccurs="1" maxOccurs="1">
+    		</element>
+    		<element name="tripOrderCatType" type="string" minOccurs="1"
+    			maxOccurs="1">
+    		</element>
+    		<element name="departmentId" type="string" minOccurs="1" maxOccurs="1"></element>
+    	</sequence>
+    </complexType>
+</schema>

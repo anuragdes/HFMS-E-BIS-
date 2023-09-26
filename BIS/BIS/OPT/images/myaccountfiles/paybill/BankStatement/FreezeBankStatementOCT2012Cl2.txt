@@ -1,0 +1,22 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Miscellaneous                                                                       
+Sub-Category  :Cl2                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000108 040662 Suman   Arora            Office Superintendent 10413610719      34985
+
+2   PGIPER00001052 040665 Ravindra   Tripathi      Office Superintendent 10413636771      38099
+
+3   PGIPER00008348 040668 Ram    Singh             Asstt.Admn.Officer    10413607218      30597
+
+                                                                          Grand Total    103681
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

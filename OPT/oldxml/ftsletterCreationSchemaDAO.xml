@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="FTS" PROCESS_NAME="LetterCreation" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="4" QRY_TOT_SIZE="4" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="26">
+	 INSERT INTO FTS_LETTER_CREATION_TRN(STR_PRE_LTR_EMAIL_NO_REF,STR_GENERAL_OR_DEPARTMENTAL,STR_EMAIL_ID,NUM_LETTER_CID,NUM_LETTER_NO,NUM_FILE_CID,STR_HEAD_NAME,NUM_SUBJECT_ID,STR_TYPE_OF_RECIPIENT,STR_MODE_OF_DISPATCH,NUM_DISPATCH_NO,STR_NAME_NAME,STR_ADDRESS_NAME,STR_CITY_NAME,STR_STATE_NAME,STR_COUNTRY_NAME,NUM_PIN,GNUM_SLNO,DT_EFFECT_DATE,DT_ENTRY_DATE,GNUM_ISVALID,GBL_NUM_SEAT_ID,gnum_hospital_code,NUM_REF_LETTER_CID,DT_DATE_OF_CREATION,STR_DOCUMENT) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	 insert into fts_inbox_of_rni_trn(str_dispatch_number,num_type_of_document_id,str_type_of_document,str_letter_no_file_head_name,str_document_cid,STR_RECEIVED_FROM_EMPID,num_flag_id,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,STR_GEN_OR_DEPT_LETTER,gnum_hospital_code,STR_ADDRESS_TO_PERSON,STR_ADDRESS_TO_ADDRESS) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 insert into fts_outbox_of_individual_trn(str_type_of_document,str_letter_no_file_head_name,str_document_cid,str_category,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,dt_date_of_physical_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,str_address_to_designation,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO,STR_RECEIVED_FROM_EMPID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>	
+</OPR>
+
+<OPR ID="2" NAME="INSERT" BLOCK_SIZE="4" QRY_TOT_SIZE="4" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="23">
+	 INSERT INTO FTS_LETTER_CREATION_TRN(STR_PRE_LTR_EMAIL_NO_REF,NUM_LETTER_CID,STR_GENERAL_OR_DEPARTMENTAL,NUM_LETTER_NO,NUM_FILE_CID,STR_HEAD_NAME,DT_DATE_OF_CREATION,NUM_NUMBER_OF_ENCLOSURES,NUM_TOTAL_NO_OF_PAGES,NUM_SUBJECT_ID,STR_TYPE_OF_RECIPIENT,NUM_DISPATCH_NO,STR_DEPARTMENT_NAME,STR_NAME_NAME,STR_DESIGNATION_NAME,GNUM_SLNO,DT_EFFECT_DATE,DT_ENTRY_DATE,GNUM_ISVALID,GBL_NUM_SEAT_ID,GNUM_HOSPITAL_CODE,NUM_REF_LETTER_CID,STR_DOCUMENT) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 insert into fts_department_inbox_trn(str_document_cid,str_dispatch_number,str_type_of_document,str_letter_no_file_head_name,STR_RECEIVED_FROM_EMPID,NUM_SUBJECT_ID,dt_date_of_electronic_receipt,num_flag_id,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_type_of_document_id,STR_MARK_TO_DEPARTMENT,STR_MARK_TO_EMPID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 insert into fts_outbox_of_individual_trn(str_type_of_document,str_letter_no_file_head_name,str_document_cid,str_category,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,dt_date_of_physical_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,str_address_to_designation,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO,STR_RECEIVED_FROM_EMPID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="3" NAME="INSERT" BLOCK_SIZE="4" QRY_TOT_SIZE="4" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="24">
+	 INSERT INTO FTS_LETTER_CREATION_TRN(STR_PRE_LTR_EMAIL_NO_REF,NUM_LETTER_CID,STR_GENERAL_OR_DEPARTMENTAL,NUM_LETTER_NO,DT_DATE_OF_CREATION,NUM_NUMBER_OF_ENCLOSURES,NUM_TOTAL_NO_OF_PAGES,STR_TYPE_OF_RECIPIENT,STR_MODE_OF_DISPATCH,NUM_DISPATCH_NO,STR_NAME_NAME,STR_ADDRESS_NAME,STR_CITY_NAME,STR_STATE_NAME,STR_COUNTRY_NAME,NUM_PIN,GNUM_SLNO,DT_EFFECT_DATE,DT_ENTRY_DATE,GNUM_ISVALID,GBL_NUM_SEAT_ID,gnum_hospital_code,NUM_SUBJECT_ID,STR_DOCUMENT) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 insert into fts_inbox_of_rni_trn(str_dispatch_number,num_type_of_document_id,str_type_of_document,str_letter_no_file_head_name,str_document_cid,STR_RECEIVED_FROM_EMPID,num_flag_id,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,STR_GEN_OR_DEPT_LETTER,gnum_hospital_code,STR_ADDRESS_TO_PERSON,STR_ADDRESS_TO_ADDRESS,NUM_SUBJECT_ID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 insert into fts_outbox_of_individual_trn(str_type_of_document,str_letter_no_file_head_name,str_document_cid,str_category,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,dt_date_of_physical_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,str_address_to_designation,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO,STR_RECEIVED_FROM_EMPID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>	
+	
+</OPR>
+
+<OPR ID="4" NAME="INSERT" BLOCK_SIZE="4" QRY_TOT_SIZE="4" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="20">
+	 INSERT INTO FTS_LETTER_CREATION_TRN(STR_PRE_LTR_EMAIL_NO_REF,NUM_LETTER_CID,STR_GENERAL_OR_DEPARTMENTAL,NUM_LETTER_NO,DT_DATE_OF_CREATION,NUM_NUMBER_OF_ENCLOSURES,NUM_TOTAL_NO_OF_PAGES,NUM_SUBJECT_ID,STR_TYPE_OF_RECIPIENT,NUM_DISPATCH_NO,STR_DEPARTMENT_NAME,STR_NAME_NAME,STR_DESIGNATION_NAME,GNUM_SLNO,DT_EFFECT_DATE,DT_ENTRY_DATE,GNUM_ISVALID,GBL_NUM_SEAT_ID,GNUM_HOSPITAL_CODE,STR_DOCUMENT) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 insert into fts_department_inbox_trn(str_document_cid,str_dispatch_number,str_type_of_document,str_letter_no_file_head_name,STR_RECEIVED_FROM_EMPID,NUM_SUBJECT_ID,dt_date_of_electronic_receipt,num_flag_id,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_type_of_document_id,STR_MARK_TO_DEPARTMENT,STR_MARK_TO_EMPID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 insert into fts_outbox_of_individual_trn(str_type_of_document,str_letter_no_file_head_name,str_document_cid,str_category,NUM_SUBJECT_ID,str_received_from,dt_date_of_electronic_receipt,dt_date_of_physical_receipt,gnum_isvalid,gdt_effect_date,gnum_seat_id,gdt_entry_date,num_flag_id,str_address_to_department,str_address_to_name,str_address_to_designation,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	insert into FTS_DOCUMENT_HISTORY(STR_DOCUMENT_CID,STR_EXISTANCE_TABLE,STR_MARK_TO, STR_MARKED_DATE, STR_RECEIVED_BY, STR_RECEIVING_DATE,GNUM_HOSPITAL_CODE,GNUM_ISVALID,GDT_ENTRY_DATE,NUM_DISPATCH_NO,NUM_SL_NO,STR_RECEIVED_FROM_EMPID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)	
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="5" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 UPDATE FTS_LETTER_CREATION_TRN SET NUM_EMAIL_IDENTIFICATION_NO=?,NUM_LETTER_NO=?,STR_SUBJECT=?,STR_MODE_OF_DISPATCH=?,STR_POSTAL_TYPE=? WHERE NUM_LETTER_CID=? 
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="6" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 UPDATE FTS_LETTER_CREATION_TRN SET NUM_LETTER_NO=?,DT_DATE_OF_CREATION=?,NUM_NUMBER_OF_ENCLOSURES=?,NUM_TOTAL_NO_OF_PAGES=?,STR_SUBJECT=?,STR_MODE_OF_DISPATCH=?,STR_POSTAL_TYPE=? WHERE NUM_LETTER_CID=? 
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="7" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 UPDATE FTS_LETTER_CREATION_TRN SET GNUM_ISVALID=0 WHERE NUM_LETTER_CID=? 
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="8" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	 Delete from FTS_RECIPIENT_SELECT_DETAILS where GNUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO FTS_RECIPIENT_SELECT_DETAILS(NUM_INDIVIDUAL_ID,STR_ORGNISATION_NAME,STR_DEPARTMENT_NAME,STR_NAME_NAME,STR_DESIGNATION_NAME,STR_ADDRESS_NAME,STR_CITY_NAME,STR_STATE_NAME,STR_COUNTRY_NAME,NUM_PIN,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	
+</OPR>
+
+<OPR ID="9" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+
+  
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO FTS_RECIPIENT_SELECT_DETAILS(NUM_INDIVIDUAL_ID,STR_ORGNISATION_NAME,STR_DEPARTMENT_NAME,STR_NAME_NAME,STR_DESIGNATION_NAME,STR_ADDRESS_NAME,STR_CITY_NAME,STR_STATE_NAME,STR_COUNTRY_NAME,NUM_PIN,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	
+</OPR>
+
+</tns:Transaction>

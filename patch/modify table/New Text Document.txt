@@ -1,0 +1,717 @@
+ALTER TABLE actpay.act_gis_slis_p_mst ADD COLUMN str_financial_year character varying(20);
+
+-- Table: actpay.actpay_gpf_emp_act_dtl_mst
+
+-- DROP TABLE actpay.actpay_gpf_emp_act_dtl_mst;
+
+CREATE TABLE actpay.actpay_gpf_emp_act_dtl_mst
+(
+  num_gpf_dtl_no numeric(6,0),
+  str_emp_code character varying(14),
+  dt_of_employment timestamp without time zone,
+  str_gpf_ac_no character varying(12),
+  num_ladger_fl_no character varying(5),
+  gnum_slno numeric(3,0),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gstr_remarks character varying(50),
+  gnum_hospital_code numeric(6,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_gpf_emp_act_dtl_mst
+  OWNER TO bishfms;
+
+
+CREATE TABLE actpay.actpay_gpf_dept_subs_trn
+(
+  str_employee_no character varying(15) NOT NULL,
+  str_gpf_acct_no character varying(10),
+  str_financial_yr character varying(12),
+  str_gpf_month character varying(10),
+  num_gpf_amount numeric(10,2),
+  dt_gpf_date character varying(15),
+  str_remarks character varying(100),
+  gdt_entry_date timestamp without time zone,
+  gnum_isvalid numeric(1,0),
+  gnum_hospital_code numeric(6,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_gpf_dept_subs_trn
+  OWNER TO bisadmin;
+
+  
+  
+  
+  /*
+Navicat PGSQL Data Transfer
+
+Source Server         : BIS
+Source Server Version : 90102
+Source Host           : 10.226.1.10:5444
+Source Database       : bishfmsuat
+Source Schema         : actpay
+
+Target Server Type    : PGSQL
+Target Server Version : 90102
+File Encoding         : 65001
+
+Date: 2019-02-11 17:04:24
+*/
+
+
+-- ----------------------------
+-- Table structure for "actpay"."actpay_gpf_dli_amt"
+-- ----------------------------
+DROP TABLE "actpay"."actpay_gpf_dli_amt";
+CREATE TABLE "actpay"."actpay_gpf_dli_amt" (
+"id" numeric NOT NULL,
+"level_id" numeric NOT NULL,
+"dli_amount" numeric NOT NULL,
+"gnum_isvalid" numeric
+)
+WITH (OIDS=FALSE)
+
+;
+
+-- ----------------------------
+-- Records of actpay_gpf_dli_amt
+-- ----------------------------
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('1', '10038', '10000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('2', '10037', '10000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('3', '10036', '10000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('4', '10035', '10000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('5', '10034', '10000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('6', '10033', '15000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('7', '10032', '15000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('8', '10031', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('9', '10030', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('10', '10029', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('11', '10028', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('12', '10027', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('13', '10026', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('14', '10024', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('15', '10023', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('16', '10022', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('17', '10021', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('18', '10001', '25000', '1');
+INSERT INTO "actpay"."actpay_gpf_dli_amt" VALUES ('133', '10025', '25000', '1');
+
+-- ----------------------------
+-- Alter Sequences Owned By 
+-- ----------------------------
+
+-- ----------------------------
+-- Primary Key structure for table "actpay"."actpay_gpf_dli_amt"
+-- ----------------------------
+ALTER TABLE "actpay"."actpay_gpf_dli_amt" ADD PRIMARY KEY ("id");
+
+
+-- Table: actpay.actpay_gpf_emp_wdrl_req_trn
+
+ DROP TABLE actpay.actpay_gpf_emp_wdrl_req_trn;
+
+CREATE TABLE actpay.actpay_gpf_emp_wdrl_req_trn
+(
+  str_req_app_no character varying(11),
+  dt_req_app_date timestamp without time zone,
+  str_employee_code character varying(14),
+  str_gpf_act_number character varying(14),
+  num_withdrawal_type numeric(1,0),
+  num_amount_requested numeric(10,2),
+  str_withdrawal_name character varying(50),
+  str_check_status numeric(2,0), -- 1  emp request,2 hod approval -2 hod rej,3 and -3 dealing clerk approval and rejection,4 and -4 aao,5 and -5 ao 6 and -6 srao
+  str_remarks character varying(50),
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  gnum_isvalid numeric(1,0), -- 0 for HOD rejection otherwise 1
+  gnum_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  str_adv_withd_purpose character varying(25),
+  str_no_permission character varying(2),
+  num_no_installment numeric(3,0),
+  num_balance_amount numeric(10,2),
+  num_extra_amount numeric(10,2),
+  num_int_pen_amount numeric(10,2),
+  str_section_name character varying(50),
+  num_arrear_amount numeric(10,2),
+  dt_req_arrear_date character varying(15),
+  num_installment_amount numeric(10,2),
+  num_amount_remaining numeric(10,2),
+  num_arrear_sl_no numeric(2,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_gpf_emp_wdrl_req_trn
+  OWNER TO bishfms;
+COMMENT ON COLUMN actpay.actpay_gpf_emp_wdrl_req_trn.str_check_status IS '1  emp request,2 hod approval -2 hod rej,3 and -3 dealing clerk approval and rejection,4 and -4 aao,5 and -5 ao 6 and -6 srao';
+COMMENT ON COLUMN actpay.actpay_gpf_emp_wdrl_req_trn.gnum_isvalid IS '0 for HOD rejection otherwise 1';
+
+
+-- Trigger: trg_actpay_gpf_balance_dtl on actpay.actpay_gpf_emp_wdrl_req_trn
+
+-- DROP TRIGGER trg_actpay_gpf_balance_dtl ON actpay.actpay_gpf_emp_wdrl_req_trn;
+
+CREATE OR REPLACE TRIGGER trg_actpay_gpf_balance_dtl
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_gpf_emp_wdrl_req_trn
+  FOR EACH ROW
+declare 
+ var1 NUMBER;
+begin   
+
+	 INSERT INTO ahislog.actpay_gpf_emp_wdrl_req_trn_log(
+            str_req_app_no, dt_req_app_date, str_employee_code, str_gpf_act_number, 
+            num_withdrawal_type, num_amount_requested, str_withdrawal_name, 
+            str_check_status, str_remarks, gdt_lstmod_date, gnum_lstmod_seatid, 
+            gdt_entry_date, gnum_isvalid, gnum_seatid, gnum_hospital_code, 
+            str_adv_withd_purpose, str_no_permission, num_no_installment, 
+            num_balance_amount, num_extra_amount, num_int_pen_amount, str_section_name, 
+            num_arrear_amount, dt_req_arrear_date, num_installment_amount,num_amount_remaining,num_arrear_sl_no) 
+            values ( :old.str_req_app_no, :old.dt_req_app_date, :old.str_employee_code, :old.str_gpf_act_number, 
+            :old.num_withdrawal_type, :old.num_amount_requested, :old.str_withdrawal_name, 
+            :old.str_check_status, :old.str_remarks, :old.gdt_lstmod_date, :old.gnum_lstmod_seatid, 
+            :old.gdt_entry_date, :old.gnum_isvalid, :old.gnum_seatid, :old.gnum_hospital_code, 
+            :old.str_adv_withd_purpose, :old.str_no_permission, :old.num_no_installment, 
+            :old.num_balance_amount, :old.num_extra_amount, :old.num_int_pen_amount, :old.str_section_name, 
+            :old.num_arrear_amount, :old.dt_req_arrear_date, :old.num_installment_amount, :old.num_amount_remaining, :old.num_arrear_sl_no);
+	   
+   
+   EXCEPTION
+         WHEN OTHERS
+         THEN            
+          dbms_output.put_line(sqlerrm);
+            RAISE;
+
+end;
+
+-- Trigger: trg_actpay_gpf_recorded_balance_dtl on actpay.actpay_gpf_emp_wdrl_req_trn
+
+-- DROP TRIGGER trg_actpay_gpf_recorded_balance_dtl ON actpay.actpay_gpf_emp_wdrl_req_trn;
+
+CREATE OR REPLACE TRIGGER trg_actpay_gpf_recorded_balance_dtl
+  AFTER UPDATE
+  ON actpay.actpay_gpf_emp_wdrl_req_trn
+  FOR EACH ROW
+declare 
+ var1 NUMBER;
+begin  
+select count(*)+1 into var1 from  ACTPAY.actpay_gpf_emp_wdrl_rec_trn where str_req_app_no=:old.str_req_app_no;
+if old.str_check_status >7 and :new.num_arrear_amount!=0
+then
+	 INSERT INTO actpay.actpay_gpf_emp_wdrl_rec_trn(
+            str_req_app_no, dt_req_app_date, str_employee_code, str_gpf_act_number, 
+            num_withdrawal_type,num_arrear_sl_no, num_amount_requested, str_withdrawal_name, 
+            str_check_status, gdt_entry_date, gnum_isvalid, gnum_seatid, 
+            gnum_hospital_code, str_adv_withd_purpose, num_no_installment, num_balance_amount, 
+            num_arrear_amount, dt_req_arrear_date, num_installment_amount, num_amount_remaining) 
+            values ( :old.str_req_app_no, :old.dt_req_app_date, :old.str_employee_code, :old.str_gpf_act_number, 
+            :old.num_withdrawal_type, var1, :old.num_amount_requested, :old.str_withdrawal_name, 
+            :old.str_check_status, :old.gdt_entry_date, :old.gnum_isvalid, :old.gnum_seatid, 
+            :old.gnum_hospital_code, :old.str_adv_withd_purpose, :new.num_no_installment, :new.num_balance_amount, 
+            :new.num_arrear_amount, :new.dt_req_arrear_date, :new.num_installment_amount, :new.num_amount_remaining);
+      end if;    
+   
+   EXCEPTION
+         WHEN OTHERS
+         THEN            
+          dbms_output.put_line(sqlerrm);
+            RAISE;
+
+end;
+
+
+
+
+
+-- Table: actpay.actpay_gpf_emp_wdrl_rec_trn
+
+-- DROP TABLE actpay.actpay_gpf_emp_wdrl_rec_trn;
+
+CREATE TABLE actpay.actpay_gpf_emp_wdrl_rec_trn
+(
+  str_req_app_no character varying(11),
+  dt_req_app_date timestamp without time zone,
+  str_employee_code character varying(14),
+  str_gpf_act_number character varying(14),
+  num_withdrawal_type numeric(1,0),
+  num_arrear_sl_no numeric(2,0),
+  num_amount_requested numeric(10,2),
+  str_withdrawal_name character varying(50),
+  str_check_status numeric(2,0),
+  gdt_entry_date timestamp without time zone,
+  gnum_isvalid numeric(1,0),
+  gnum_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  str_adv_withd_purpose character varying(25),
+  num_no_installment numeric(3,0),
+  num_balance_amount numeric(10,2),
+  num_arrear_amount numeric(10,2),
+  dt_req_arrear_date character varying(15),
+  num_installment_amount numeric(10,2),
+  num_amount_remaining numeric(10,2)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_gpf_emp_wdrl_rec_trn
+  OWNER TO bisadmin;
+
+  
+  -- Table: actpay.actpay_gpf_intrest_mon
+
+-- DROP TABLE actpay.actpay_gpf_intrest_mon;
+
+CREATE TABLE actpay.actpay_gpf_intrest_mon
+(
+  str_employee_no character varying(15),
+  str_financial_yr character varying(12),
+  str_month character varying(12),
+  num_gpf_opening_bal numeric(10,2),
+  gnum_isvalid numeric(1,0),
+  gdt_entry_date timestamp without time zone,
+  num_gpf_interest numeric(10,2)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_gpf_intrest_mon
+  OWNER TO bishfms;
+
+  
+  ALTER TABLE actpay.actpay_gpf_voucher_dtl ADD COLUMN str_new_voucher_number character varying(15);
+	ALTER TABLE actpay.actpay_partial_salary_config ADD COLUMN str_leave_type character varying(15);
+	ALTER TABLE actpay.actpay_partial_salary_config ADD COLUMN str_ispartial_salary character varying(10);
+	
+	
+	/*
+Navicat PGSQL Data Transfer
+
+Source Server         : BIS
+Source Server Version : 90102
+Source Host           : 10.226.1.10:5444
+Source Database       : bishfmsuat
+Source Schema         : actpay
+
+Target Server Type    : PGSQL
+Target Server Version : 90102
+File Encoding         : 65001
+
+Date: 2019-02-11 17:14:16
+*/
+
+
+-- ----------------------------
+-- Table structure for "actpay"."actpay_paybill_cghs_amt"
+-- ----------------------------
+DROP TABLE "actpay"."actpay_paybill_cghs_amt";
+CREATE TABLE "actpay"."actpay_paybill_cghs_amt" (
+"id" numeric NOT NULL,
+"level_id" numeric NOT NULL,
+"cghs_amount" numeric NOT NULL,
+"gnum_isvalid" numeric
+)
+WITH (OIDS=FALSE)
+
+;
+
+-- ----------------------------
+-- Records of actpay_paybill_cghs_amt
+-- ----------------------------
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('1', '10038', '250', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('2', '10037', '250', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('3', '10036', '250', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('4', '10035', '250', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('5', '10034', '250', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('6', '10033', '450', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('7', '10032', '650', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('8', '10031', '650', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('9', '10030', '650', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('10', '10029', '650', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('11', '10028', '650', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('12', '10027', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('13', '10026', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('14', '10024', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('15', '10023', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('16', '10022', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('17', '10021', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('18', '10001', '1000', '1');
+INSERT INTO "actpay"."actpay_paybill_cghs_amt" VALUES ('133', '10025', '1000', '1');
+
+-- ----------------------------
+-- Alter Sequences Owned By 
+-- ----------------------------
+
+-- ----------------------------
+-- Primary Key structure for table "actpay"."actpay_paybill_cghs_amt"
+-- ----------------------------
+ALTER TABLE "actpay"."actpay_paybill_cghs_amt" ADD PRIMARY KEY ("id");
+
+
+
+-- Table: actpay.actpay_pran_intrest_mon
+
+-- DROP TABLE actpay.actpay_pran_intrest_mon;
+
+CREATE TABLE actpay.actpay_pran_intrest_mon
+(
+  str_employee_no character varying(15),
+  str_financial_yr character varying(12),
+  str_month character varying(12),
+  num_gpf_opening_bal numeric(10,2),
+  gnum_isvalid numeric(1,0),
+  gdt_entry_date timestamp(6) without time zone,
+  num_gpf_interest numeric(10,2)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_pran_intrest_mon
+  OWNER TO cdscoadmin;
+
+  
+  -- Table: actpay.actpay_pran_opening_bal_trn
+
+-- DROP TABLE actpay.actpay_pran_opening_bal_trn;
+
+CREATE TABLE actpay.actpay_pran_opening_bal_trn
+(
+  str_employee_no character varying(14),
+  str_financial_yr character varying(12),
+  num_pran_opening_amt numeric(10,2),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  str_remarks character varying(50),
+  gnum_hospital_code numeric(6,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_pran_opening_bal_trn
+  OWNER TO bishfms;
+
+  ALTER TABLE actpay.actpay_pvt_pay_bill_reg_dtl ADD COLUMN str_demand_no character varying(14);
+
+  
+  
+  DROP TABLE actpay.actpay_pvt_pay_bill_reg_dtl;
+
+CREATE TABLE actpay.actpay_pvt_pay_bill_reg_dtl
+(
+  str_employee_number character varying(14),
+  dt_pbr_generation_date timestamp without time zone,
+  str_parameter_code character varying(30),
+  str_salary_arrears_flag character varying(2),
+  gdt_entry_date timestamp without time zone,
+  gnum_seat_id numeric(5,0),
+  gnum_isvalid numeric(1,0),
+  gdt_lstmod_date timestamp without time zone,
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  num_parameter_amount numeric(10,2),
+  str_parameter_type character varying(1),
+  str_demand_no character varying(14)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpay_pvt_pay_bill_reg_dtl
+  OWNER TO bishfms;
+
+  DROP TABLE actpay.actpns_ext_ded_specs_trn;
+  
+CREATE TABLE actpay.actpns_ext_ded_specs_trn
+(
+  str_employee_number character varying(16),
+  dt_of_applicable character varying(50),
+  str_ded_code character varying(6),
+  num_amount numeric(10,2),
+  gnum_slno numeric(3,0),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date character varying(50),
+  gdt_lstmod_date character varying(50),
+  gnum_lstmod_seatid character varying(5),
+  gnum_hospital_code numeric(3,0),
+  strremark character varying(50)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpns_ext_ded_specs_trn
+  OWNER TO bishfms;
+
+  
+  
+  -- Table: actpay.actpns_ext_ded_specs_trn_log
+
+ DROP TABLE actpay.actpns_ext_ded_specs_trn_log;
+
+CREATE TABLE actpay.actpns_ext_ded_specs_trn_log
+(
+  str_employee_number character varying(16),
+  dt_of_applicable timestamp without time zone,
+  str_ded_code character varying(6),
+  num_amount numeric(10,2),
+  gnum_slno numeric(3,0),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gdt_entry_date timestamp without time zone,
+  gdt_lstmod_date character varying(50),
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(3,0),
+  strremark character varying(50)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpns_ext_ded_specs_trn_log
+  OWNER TO bishfms;
+  
+  -- Table: actpay.actpns_pension_calc_sheet
+
+DROP TABLE actpay.actpns_pension_calc_sheet;
+
+CREATE TABLE actpay.actpns_pension_calc_sheet
+(
+  str_employee_no character varying(14),
+  str_final_status character varying(50),
+  dt_final_status_date timestamp without time zone,
+  dt_retirement_date timestamp without time zone,
+  num_qualifying_period character varying(25),
+  dt_emolument_from timestamp without time zone,
+  dt_emolument_to timestamp without time zone,
+  num_avg_emolument character varying(25),
+  num_admissible_pension character varying(25),
+  num_emolument_gratuity character varying(25),
+  num_gratuity_admissible character varying(25),
+  str_family_type character varying(25),
+  num_emolument_family character varying(25),
+  num_admissible_family_pension character varying(25),
+  num_commuted_pension character varying(25),
+  num_reduced_pension_aftr_commu character varying(25),
+  gnum_isvalid numeric(1,0),
+  gnum_seat_id numeric(5,0),
+  gnum_lstmod_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  str_check_status numeric(2,0),
+  num_strike_days numeric(10,0),
+  num_leave_days numeric(10,0),
+  num_adhoc_days_in_half numeric(10,0),
+  num_commutation_rate numeric(10,3),
+  num_commutation_years numeric(10,0),
+  dt_stop_enhanced_pension timestamp without time zone,
+  dt_start_family_pension timestamp without time zone,
+  num_normal_family_pension character varying(30),
+  num_enhanced_family_pension character varying(30),
+  num_basic_pay numeric(10,0),
+  num_grade_pay numeric(10,0),
+  is_manual numeric(1,0),
+  gnum_sl_no numeric(3,0),
+  num_eol_medical_days numeric(3,0),
+  num_research_days numeric(10,0),
+  gdt_entry_date character varying(20),
+  gdt_lstmod_date character varying(30),
+  dt_final_status_date_m character varying(30),
+  dt_pension_eff_date timestamp without time zone,
+  str_pay_scale_level character varying(15),
+  num_emolument_legal_heir character varying(25),
+  num_admissible_legal_heir_pension character varying(25),
+  dt_start_legal_heir_pension timestamp without time zone,
+  dt_stop_legal_heir_pension timestamp without time zone,
+  num_cts numeric(10,0),
+  num_interest_hba numeric(10,0),
+  num_principle_hba numeric(10,0),
+  num_income_tax numeric(10,0),
+  num_other numeric(10,0),
+  is_other character varying(5),
+  str_other_name character varying(50),
+  num_education_cess numeric(10,0),
+  str_service_length character varying(30),
+  num_commutation_percentage numeric(10,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpns_pension_calc_sheet
+  OWNER TO bishfms;
+  
+  ALTER TABLE actpay.actpns_pension_commuted_trn ADD COLUMN strremark character varying;
+ALTER TABLE actpay.actpns_pension_it_rates_mst ADD COLUMN is_sup_senior_citizen character varying(1);
+
+
+
+-- Table: actpay.actpns_pension_slip_mail_dtl
+
+-- DROP TABLE actpay.actpns_pension_slip_mail_dtl;
+
+CREATE TABLE actpay.actpns_pension_slip_mail_dtl
+(
+  str_employee_number character varying(14),
+  str_month character varying(14),
+  num_year character varying(14),
+  str_email character varying(60),
+  gdt_entry_date timestamp without time zone,
+  gnum_seat_id numeric(5,0),
+  gnum_isvalid numeric(1,0),
+  gnum_hospital_code numeric(6,0)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE actpay.actpns_pension_slip_mail_dtl
+  OWNER TO bishfms;
+
+  ALTER TABLE actpay.actpns_pensioner_dtl ADD COLUMN str_vigiliance_clearnce character varying(5);
+ALTER TABLE actpay.actpns_pensioner_dtl ADD COLUMN str_administrative_clearance character varying(5);
+ALTER TABLE ahistrn.pist_acr_track_dtl ADD COLUMN int_marks numeric(10,2);
+ALTER TABLE ahistrn.pist_acr_track_dtl ADD COLUMN str_integrity character varying(15);
+ALTER TABLE ahistrn.pist_acr_track_dtl ADD COLUMN int_ro_marks numeric(10,2);
+
+
+
+
+
+-- ----------------------------
+-- Table structure for "ahistrn"."pist_join_req_dtl"
+-- ----------------------------
+DROP TABLE "ahistrn"."pist_join_req_dtl";
+CREATE TABLE "ahistrn"."pist_join_req_dtl" (
+"num_req_no" numeric(10) NOT NULL,
+"dt_req" timestamp(6),
+"num_order_no" varchar(50),
+"str_emp_no" varchar(12),
+"num_location_id" varchar(5),
+"gnum_state" varchar,
+"gnum_district" varchar,
+"gnum_placeofposting" varchar,
+"num_transfer_reason" varchar(250),
+"str_remarks" varchar(250),
+"num_doc_id" numeric(10),
+"num_req_status" numeric(2),
+"gnum_isvalid" numeric(1),
+"gnum_seat_id" numeric(5) NOT NULL,
+"gdt_entry" timestamp(6) NOT NULL,
+"gnum_hospital_code" numeric(6) NOT NULL,
+"dt_relieve_date" timestamp(6),
+"dt_joining_date" timestamp(6),
+"str_releiving_meridiem" varchar(3),
+"str_joining_meridiem" varchar(3),
+"str_relieving_option_other" varchar(250)
+)
+WITH (OIDS=FALSE)
+
+;
+
+-- ----------------------------
+-- Records of pist_join_req_dtl
+-- ----------------------------
+
+-- ----------------------------
+-- Alter Sequences Owned By 
+-- ----------------------------
+
+-- ----------------------------
+-- Indexes structure for table pist_join_req_dtl
+-- ----------------------------
+CREATE INDEX "fki_fk2_pist_join_req_dtl" ON "ahistrn"."pist_join_req_dtl" USING btree ("str_emp_no");
+CREATE INDEX "fki_fk3_pist_join_req_dtl" ON "ahistrn"."pist_join_req_dtl" USING btree ("gnum_hospital_code");
+
+-- ----------------------------
+-- Primary Key structure for table "ahistrn"."pist_join_req_dtl"
+-- ----------------------------
+ALTER TABLE "ahistrn"."pist_join_req_dtl" ADD PRIMARY KEY ("num_req_no");
+
+-- ----------------------------
+-- Foreign Key structure for table "ahistrn"."pist_join_req_dtl"
+-- ----------------------------
+ALTER TABLE "ahistrn"."pist_join_req_dtl" ADD FOREIGN KEY ("str_emp_no") REFERENCES "ahistrn"."pist_emp_registration_dtl" ("str_emp_no") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE "ahistrn"."pist_join_req_dtl" ADD FOREIGN KEY ("gnum_hospital_code") REFERENCES "ahiscl"."gblt_hospital_mst" ("gnum_hospital_code") ON DELETE NO ACTION ON UPDATE NO ACTION;
+
+ALTER TABLE ahistrn.pist_prom_due_list_gen_trn ADD COLUMN num_qualificationid character varying;
+ALTER TABLE ahistrn.pist_prom_due_list_gen_trn ADD COLUMN num_examid character varying;
+ALTER TABLE ahistrn.pist_prom_order_dtl ADD COLUMN gnum_group_code_old numeric(3,0);
+ALTER TABLE ahistrn.pist_prom_order_dtl ADD COLUMN gnum_seatid_old numeric(5,0);
+ALTER TABLE ahistrn.pist_prom_order_dtl ADD COLUMN gnum_group_code_new numeric(3,0);
+ALTER TABLE ahistrn.pist_prom_order_dtl ADD COLUMN gnum_seatid_new numeric(5,0);
+ALTER TABLE ahistrn.pist_pt_immovable_training_dec_trn ADD COLUMN pt_status numeric(2,0);
+ALTER TABLE ahistrn.pist_pt_immovable_training_dec_trn ADD COLUMN ch_other character varying(250);
+ALTER TABLE ahistrn.pist_pt_immovable_training_dec_trn ADD COLUMN num_pt_doc_id numeric(10,0);
+
+
+
+
+-- ----------------------------
+-- Table structure for "ahistrn"."pist_relieve_req_dtl"
+-- ----------------------------
+DROP TABLE "ahistrn"."pist_relieve_req_dtl";
+CREATE TABLE "ahistrn"."pist_relieve_req_dtl" (
+"num_req_no" numeric(10) NOT NULL,
+"dt_req" timestamp(6),
+"num_order_no" varchar(50),
+"str_emp_no" varchar(12),
+"num_location_id" varchar(5),
+"gnum_state" varchar,
+"gnum_district" varchar,
+"gnum_placeofposting" varchar,
+"num_transfer_reason" varchar(250),
+"str_remarks" varchar(250),
+"num_doc_id" numeric(10),
+"num_req_status" numeric(2),
+"gnum_isvalid" numeric(1),
+"gnum_seat_id" numeric(5) NOT NULL,
+"gdt_entry" timestamp(6) NOT NULL,
+"gnum_hospital_code" numeric(6) NOT NULL,
+"dt_relieve_date" timestamp(6),
+"dt_joining_date" timestamp(6),
+"str_releiving_meridiem" varchar(3),
+"str_joining_meridiem" varchar(3),
+"str_relieving_option_other" varchar(250)
+)
+WITH (OIDS=FALSE)
+
+;
+
+-- ----------------------------
+-- Records of pist_relieve_req_dtl
+-- ----------------------------
+
+-- ----------------------------
+-- Alter Sequences Owned By 
+-- ----------------------------
+
+-- ----------------------------
+-- Indexes structure for table pist_relieve_req_dtl
+-- ----------------------------
+CREATE INDEX "fki_fk2_pist_relieve_req_dtl" ON "ahistrn"."pist_relieve_req_dtl" USING btree ("str_emp_no");
+CREATE INDEX "fki_fk3_pist_relieve_req_dtl" ON "ahistrn"."pist_relieve_req_dtl" USING btree ("gnum_hospital_code");
+
+-- ----------------------------
+-- Primary Key structure for table "ahistrn"."pist_relieve_req_dtl"
+-- ----------------------------
+ALTER TABLE "ahistrn"."pist_relieve_req_dtl" ADD PRIMARY KEY ("num_req_no");
+
+-- ----------------------------
+-- Foreign Key structure for table "ahistrn"."pist_relieve_req_dtl"
+-- ----------------------------
+ALTER TABLE "ahistrn"."pist_relieve_req_dtl" ADD FOREIGN KEY ("gnum_hospital_code") REFERENCES "ahiscl"."gblt_hospital_mst" ("gnum_hospital_code") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE "ahistrn"."pist_relieve_req_dtl" ADD FOREIGN KEY ("str_emp_no") REFERENCES "ahistrn"."pist_emp_registration_dtl" ("str_emp_no") ON DELETE NO ACTION ON UPDATE NO ACTION;
+ALTER TABLE ahistrn.pist_status_chng_dtl ADD COLUMN vigilanceclearanceid character varying(3);
+ALTER TABLE ahistrn.pist_status_chng_dtl ADD COLUMN administrationclearanceid character varying(3);
+ALTER TABLE ahistrn.pist_susp_order_dtl ADD COLUMN gnum_group_code numeric(3,0);
+ALTER TABLE ahistrn.pist_susp_order_dtl ADD COLUMN gnum_seatid numeric(5,0);
+
+ALTER TABLE ahistrn.pist_transfer_req_dtl ADD COLUMN str_prefrence4 character varying;
+ALTER TABLE ahistrn.pist_transfer_req_dtl ADD COLUMN str_prefrence5 character varying;
+ALTER TABLE ahistrn.pist_transfer_req_dtl ADD COLUMN str_declaration character varying;
+
+

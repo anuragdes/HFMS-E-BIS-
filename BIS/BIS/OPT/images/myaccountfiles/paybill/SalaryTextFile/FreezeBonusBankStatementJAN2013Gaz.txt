@@ -1,0 +1,38 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                               04 February 2013 
+                                Employee Wise Bank Statement
+                                    Month  :January 2013
+ 
+Category  :Gazetted                                                                            
+Sub-Category  :Gaz                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000002 041079 Neelam   Kumari          OTHER (B)             10413611576        500
+
+2   PGIPER00000004 041001 Veena  Dogra             Assistant             10413603553        200
+
+3   PGIPER00000009 043109 Vijay  Kumar Ahuja       Clerk                 -                 1500
+
+4   PGIPER00000053 -      Sudesh    Kumari         Security Officer      -                 1000
+
+5   PGIPER00000336 043142 Ashwani  Thakur          Store-keeper          10413733219       1000
+
+6   PGIPER00000383 040140 Baljeet   Kaur           Stenographer          -                 1000
+
+7   PGIPER00001219 000687 Manish   Modi            Assistant Professor   -                  500
+
+8   PGIPER00001262 000658 Dr. Prema   Menon        Assistant Professor   10413706321         45
+
+9   PGIPER00001300 000792 Pooja   Sikka            Assistant Professor   -                  500
+
+10  PGIPER00001359 000788 Dr. S   Venkataseshan    Assistant Professor   -                  500
+
+11  PGIPER00008297 456789 Test                     store Officer         -                  500
+
+                                                                          Grand Total      7245
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

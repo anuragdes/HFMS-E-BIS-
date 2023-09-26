@@ -1,0 +1,46 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu4                                               
+Demand No  :1012001141   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001666 029011 Jitamber   Kaur          Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001671 029027 Inderjit   Kaur          ANS                   Nursing Cell          1000
+
+PGIPER00001672 029004 Paramjit Kaur Battu      ANS                   Nursing Cell          1000
+
+PGIPER00001679 029042 Shashi   Kaushik         Sister Gr. II         Nursing Cell          1000
+
+PGIPER00001697 029051 Grace Bachan Dass        Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001717 029067 Geeta   Bedi             Sister Gr. II         Nursing Cell          1000
+
+PGIPER00001719 029069 Joginder   Kaur          Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001748 029095 Sarita   Khanna          Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001769 029082 Usha   Sharma            Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001771 029076 Agnes   Masih            Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001779 029128 Tejpal   Kaur            Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001787 029118 Bhupinder   kaur Tiwana  Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001797 029124 Gurmail    Kaur          Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001830 029153 Veena    Chhabra         Sister Gr. I          Nursing Cell          1000
+
+PGIPER00001836 029171 Kamlesh Rani Saini       Sister Gr. I          Nursing Cell          1000
+
+                                                                          Grand Total     15000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

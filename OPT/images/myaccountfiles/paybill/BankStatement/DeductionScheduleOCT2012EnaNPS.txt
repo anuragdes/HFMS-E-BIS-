@@ -1,0 +1,32 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                                     Schedule Report For NPS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ena                                               
+Demand No  :10120014481  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003219 060063 Joginder                 Mali                  Engineering Dep       1486
+
+PGIPER00003229 060064 Rakesh Kumar Pal         Mali                  Engineering Dep       1486
+
+PGIPER00003235 060067 Vikas    Saini           Mali                  Other                 1441
+
+PGIPER00003251 060061 Rama   Kant              Mali                  Engineering Dep       1486
+
+PGIPER00003255 060065 Daya   Shankar           Mali                  Engineering Dep       1486
+
+PGIPER00003260 060062 Bans    Bhadur           Mali                  Engineering Dep       1486
+
+PGIPER00003264 060068 Sunita   Sharma          Hospital Attendant Gr Engineering Dep       1357
+
+PGIPER00003269 060066 Gajodhar   Parshad       Mali                  Other                 1486
+
+                                                                          Grand Total     11714
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

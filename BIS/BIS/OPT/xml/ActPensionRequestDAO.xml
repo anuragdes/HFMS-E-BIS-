@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="Pension" PROCESS_NAME="Pension calculation request" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+<QRY ID="1" COL_SIZE="9">	 
+ UPDATE actpns_pensioner_dtl SET str_ppo_no = ?, dt_ppo_date = to_date(?,'dd/mm/yyyy'),str_pension_category=?, NUM_PEN_CAT_ID=?,NUM_PEN_SUB_CAT_ID=?,STR_STOP_PENSION=?,STR_ORDER_NUMBER=?,DT_ORDER_DATE=? WHERE str_employee_no = ?
+</QRY>
+</BLOCK>
+</OPR>
+
+<OPR ID="2" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+<QRY ID="2" COL_SIZE="12">	 
+ INSERT INTO ACTPNS_PENSION_REQUEST_DTL (STR_EMPLOYEE_NO,STR_FINAL_STATUS,DT_FINAL_STATUS_DATE,DT_RETIREMENT_DATE,DT_JOINING_DATE,STR_PENSION_TYPE,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE, GDT_LSTMOD_DATE, GNUM_LSTMOD_SEATID,GNUM_HOSPITAL_CODE) VALUES (?,?,to_date(?,'DD/MM/YYYY'),to_date(?,'DD/MM/YYYY'),to_date(?,'DD/MM/YYYY'),?,?,?,?,?,?,?)
+</QRY>
+</BLOCK>
+</OPR>
+
+<OPR ID="3" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+<QRY ID="1" COL_SIZE="4">	 
+ UPDATE actpns_pensioner_dtl SET str_stop_pension=?,str_order_number = ?, dt_order_date = to_date(?,'dd/mm/yyyy') WHERE str_employee_no = ?
+</QRY>
+</BLOCK>
+</OPR>
+
+
+
+</tns:Transaction>

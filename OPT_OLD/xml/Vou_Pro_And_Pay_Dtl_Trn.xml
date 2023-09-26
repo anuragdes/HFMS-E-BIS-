@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="GPF" PROCESS_NAME="vOUCHER Process and Payment Dtl" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="3">
+	   UPDATE actpay_gpf_emp_wdrl_req_trn t SET t.str_check_status='6' WHERE STR_REQ_APP_NO=? AND STR_EMPLOYEE_CODE=? AND  GNUM_HOSPITAL_CODE=?  AND GNUM_ISVALID=1
+	 </QRY>
+	 </BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="13">
+	 INSERT INTO ACTPAY_GPF_VOUCHER_DTL(STR_EMP_CODE,STR_GPF_AC_NO,STR_SANC_ODR_NO,DT_SANC_ODR_DATE,NUM_SANC_AMT,STR_VOU_NUMBER,STR_VOU_DT,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,GDT_ENTRY_DATE,GSTR_REMARKS,STR_REQ_APP_NO) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>

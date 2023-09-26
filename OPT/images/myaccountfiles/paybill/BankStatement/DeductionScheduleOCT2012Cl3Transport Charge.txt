@@ -1,0 +1,36 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl3                                               
+Demand No  :10120018641  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000040 041032 Veena   Agnihotri        Other                 Parasitology           750
+
+PGIPER00000051 041047 Manju  Rani Sharma       Clerk                 Administration         750
+
+PGIPER00000064 041141 Manjeet   kaur           Clerk                 Accounts               750
+
+PGIPER00000075 041128 Yashoda  Devi            Other                 Accounts               750
+
+PGIPER00000154 041126 Sunita   Rani            Other                 Biochemistry           750
+
+PGIPER00000175 041101 Santosh   Gupta          Clerk                 Deptt Of Gynaec        750
+
+PGIPER00000176 041098 Raj   Rani               Clerk                 Establishment          750
+
+PGIPER00000202 041259 Sudesh   Rani            Clerk                 M.S.Office             750
+
+PGIPER00000438 041084 Amrit    Kaur            Clerk                 Ophthalmology          750
+
+PGIPER00008686 041302 Kamalamma   P            Other                 Nursing Cell           750
+
+                                                                          Grand Total      7500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

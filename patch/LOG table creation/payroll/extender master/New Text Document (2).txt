@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_extded_mst
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_allowance_mst
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_extded_mst_log(num_extded_id,str_exded_name,num_exded_code,gnum_slno,gdt_effective_frm,gdt_effective_to,gnum_isvalid,gnum_seat_id,
+gdt_entry_date,gdt_lstmod_date,gnum_lstmod_seatid,gstr_remarks,gnum_hospital_code) 
+ select :old.num_extded_id,:old.str_exded_name,:old.num_exded_code,:old.gnum_slno,:old.gdt_effective_frm,:old.gdt_effective_to,:old.gnum_isvalid,:old.gnum_seat_id,
+:old.gdt_entry_date,:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.gnum_hospital_code from actpay.actpay_extded_mst
+where str_allow_code=:new.str_allow_code and str_allow_name=:new.str_allow_name ;
+END;

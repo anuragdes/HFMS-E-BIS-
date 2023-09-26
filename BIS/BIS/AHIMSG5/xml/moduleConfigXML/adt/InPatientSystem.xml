@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ipdConfig xmlns="http://www.cdacnoida.in/his/IpdConfig">
+    <ipdGeneralConfig>
+        <genWardAdmission>1</genWardAdmission>
+        <genWardApproval>
+            <authorityId>E050003100</authorityId>
+        </genWardApproval>
+        <privateWardAdmission>0</privateWardAdmission>
+        <privateWardApproval>
+            <authorityId>0</authorityId>
+        </privateWardApproval>
+        <bookBed>0</bookBed>
+        <billing>0</billing>
+        <negativeBilling>0</negativeBilling>
+        <patientCategory>12^1</patientCategory>
+        <govtEmpBasicPayLimit>1000.00</govtEmpBasicPayLimit>
+        <pvtEmpMonIncomeLimit>1000.00</pvtEmpMonIncomeLimit>
+        <admissionAdviceValidityFrom>10</admissionAdviceValidityFrom>
+        <admissionChargeTakenAtAdmissionCounter>0</admissionChargeTakenAtAdmissionCounter>
+        <newBornBabyRegistrationCharge>0</newBornBabyRegistrationCharge>
+        <newBornBabyAdmissionCharge>0</newBornBabyAdmissionCharge>
+        <admissionAdviceValidityTo>3</admissionAdviceValidityTo>
+        <modificationTime>250</modificationTime>
+        <dischargeCancellationTime>999</dischargeCancellationTime>
+        <advanceAmountTakenFromNewBornBaby>0</advanceAmountTakenFromNewBornBaby>
+        <blockBedExpiryTime>12</blockBedExpiryTime>
+        <admissionReprintCharge>50.00</admissionReprintCharge>
+        <dischargeReprintCharge>20.00</dischargeReprintCharge>
+        <noOfLineAmissionSlip>0</noOfLineAmissionSlip>
+        <noOfLineVisitorPassSlip>0</noOfLineVisitorPassSlip>
+        <admissionProcessOnline>2</admissionProcessOnline>
+        <privateWardType>12</privateWardType>
+        <icuWardType>11</icuWardType>
+        <daysForPurgingRecordFromCurrentlyAdmissionDetails>34</daysForPurgingRecordFromCurrentlyAdmissionDetails>
+        <purgeTimeForNotReported>12</purgeTimeForNotReported>
+        <msApprovalFormNoRequired>1</msApprovalFormNoRequired>
+        <dischargeProcessType>2</dischargeProcessType>
+        <newBornBabyProcess>2</newBornBabyProcess>
+        <minAgeToBeMother>1</minAgeToBeMother>
+        <maxNoOfBabyMotherCanBorn>9</maxNoOfBabyMotherCanBorn>
+        <diagnosisType>1</diagnosisType>
+    </ipdGeneralConfig>
+    <ipdPassDetails>
+        <noOfFreePass>2</noOfFreePass>
+        <noOfPaidPass>1</noOfPaidPass>
+        <newFreePassValidity>3</newFreePassValidity>
+        <newPaidPassValidity>5</newPaidPassValidity>
+        <renewFreePassValidity>3</renewFreePassValidity>
+        <renewPaidPassValidity>2</renewPaidPassValidity>
+        <summerMorningFromTime>10:00</summerMorningFromTime>
+        <summerMorningToTime>12:30</summerMorningToTime>
+        <summerEveningFromTime>22:20</summerEveningFromTime>
+        <summerEveningToTime>23:10</summerEveningToTime>
+        <winterMorningFromTime>12:00</winterMorningFromTime>
+        <winterMorningToTime>16:15</winterMorningToTime>
+        <winterEveningFromTime>17:00</winterEveningFromTime>
+        <winterEveningToTime>19:10</winterEveningToTime>
+        <printRequest>1</printRequest>
+        <noOfFreePassAtTimeOfAdmission>1</noOfFreePassAtTimeOfAdmission>
+        <paidPassCharges>10.00</paidPassCharges>
+        <paidPassRenewCharges>25.00</paidPassRenewCharges>
+        <passReprintCharges>30.00</passReprintCharges>
+        <attendentPassRequired>1</attendentPassRequired>
+        <attendentPassGenerateAtAdmissionTime>0</attendentPassGenerateAtAdmissionTime>
+    </ipdPassDetails>
+    <ipdReportDetails>
+        <dischargeSummaryReportAdvice>Hospital emergency services are open 24 hours a day.In case of emergency,you may come to hospital at any time. 
+Otherwise,you may meet your doctor in the OPD on the days specified above.
+OPD is open from 8:00am to 1:00pm from Monday to Saturday(Except holidays).
+You may contact the hospital at phone number: 011-284341 to 284355.</dischargeSummaryReportAdvice>
+        <dischargeSummaryReportFooter>This Discharge Summary has been electronically validated.</dischargeSummaryReportFooter>
+    </ipdReportDetails>
+    <ipdBillDetails>
+        <advanceRequestAdmissionAdvice>0</advanceRequestAdmissionAdvice>
+        <advanceamountAdmission>0</advanceamountAdmission>
+        <patientAdjustedFinalBillAtAdmission>0</patientAdjustedFinalBillAtAdmission>
+        <bedChange>0</bedChange>
+        <advanceRefundRequestAtAdmissionCancellation>0</advanceRefundRequestAtAdmissionCancellation>
+        <integrationWithBilling>0</integrationWithBilling>
+    </ipdBillDetails>
+    <ipdPrintDetails>
+        <noOfLinesAdmission>15</noOfLinesAdmission>
+        <noOfLineNewBornBay>15</noOfLineNewBornBay>
+        <noOfLinesVisitorPass>15</noOfLinesVisitorPass>
+    </ipdPrintDetails>
+</ipdConfig>
+

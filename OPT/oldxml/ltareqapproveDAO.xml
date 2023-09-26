@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="branchMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO ACTTDA_LTA_REQ_TRN(STR_REQ_APP_NO,DT_REQ_APP_DATE,STR_EMPLOYEE_CODE,STR_CATEGORY_CODE,NUM_NET_AMOUNT_REQUESTED,STR_BILL_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 INSERT INTO ACTTDA_LTA_REQ_DTL(STR_REQ_APP_NO,DT_REQ_APP_DATE,DT_LTA_CA_DATE,STR_DAY,STR_FROM_PLACE,STR_TO_PLACE,STR_TIME_FROM,STR_TIME_TO,STR_MODE_OF_CONVEYANCE_CODE,NUM_DISTANCE_IN_KMS,STR_PURPOSE,NUM_ADMISSIBLE_AMOUNT,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="2" NAME="Update" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	 update acttda_lta_req_trn t set t.STR_BILL_STATUS=?,t.str_name_of_hod=?,t.str_advance_status=?,t.dt_approval_date=?,t.str_remarks_for_approval=?,t.str_bill_number=?,t.dt_bill_date=? where t.str_req_app_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	
+	
+	
+</OPR>
+
+<OPR ID="3" NAME="Update" BLOCK_SIZE="3" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 update acttda_lta_req_trn t set t.STR_CATEGORY_CODE=?,t.GDT_LSTMOD_DATE=?,t.GNUM_LSTMOD_SEATID=?,t.NUM_NET_AMOUNT_REQUESTED=? where t.STR_REQ_APP_NO=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 delete from ACTTDA_LTA_REQ_DTL t where t.STR_REQ_APP_NO=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 INSERT INTO ACTTDA_LTA_REQ_DTL(STR_REQ_APP_NO,DT_REQ_APP_DATE,DT_LTA_CA_DATE,STR_DAY,STR_FROM_PLACE,STR_TO_PLACE,STR_TIME_FROM,STR_TIME_TO,STR_MODE_OF_CONVEYANCE_CODE,NUM_DISTANCE_IN_KMS,STR_PURPOSE,NUM_ADMISSIBLE_AMOUNT,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="4" NAME="DELETE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="4">
+	  UPDATE acttda_lta_req_trn T  SET T.GNUM_ISVALID=0,T.GDT_LSTMOD_DATE=?,T.GNUM_LSTMOD_SEATID=? WHERE  T.STR_REQ_APP_NO=? AND T.GNUM_HOSPITAL_CODE=?
+     </QRY>
+   </BLOCK>
+   <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE ACTTDA_LTA_REQ_DTL T  SET T.GNUM_ISVALID=0 WHERE  T.STR_REQ_APP_NO=? AND T.GNUM_HOSPITAL_CODE=?
+     </QRY>
+   </BLOCK>
+</OPR>
+
+<OPR ID="5" NAME="Update" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	 update acttda_lta_req_trn t set t.STR_BILL_STATUS=?,t.STR_INTERNAL_AUDIT_EMP_NAME=?,t.STR_INTERNAL_AUDIT_STATUS=?,t.DT_INTERNAL_AUDIT=?,t.STR_INTERNAL_AUDIT_REMARKS=? where t.str_req_app_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="6" NAME="Update" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 update acttda_lta_req_trn t set t.STR_INTERNAL_AUDIT_EMP_NAME=?,t.STR_INTERNAL_AUDIT_STATUS=?,t.DT_INTERNAL_AUDIT=?,t.STR_INTERNAL_AUDIT_REMARKS=? where t.str_req_app_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="7" NAME="Update" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	 update acttda_lta_req_trn t set t.STR_BILL_STATUS=?,t.STR_ESTABLISHMENT_STATUS=?,t.STR_ESTABLISHMENT_EMP_NAME=?,t.STR_ESTABLISH_SANCTION_ORDER=?,t.DT_ESTABLISHMENT=?,t.STR_ESTABLISHMENT_REMARKS=?,t.DT_SANCTION_ORDER_DATE=? where t.str_req_app_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="8" NAME="Update" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	 update acttda_lta_req_trn t set t.STR_ESTABLISHMENT_STATUS=?,t.STR_ESTABLISHMENT_EMP_NAME=?,t.STR_ESTABLISH_SANCTION_ORDER=?,t.DT_ESTABLISHMENT=?,t.STR_ESTABLISHMENT_REMARKS=? where t.str_req_app_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>

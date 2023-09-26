@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="CASH" PROCESS_NAME="Bank Deposit Form" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	update  actcas_chal_acc_trn t  set  t.STR_PREPBNKDEP_FORM=?, t.STR_BANK_VOUCHER_NUMBER=?, t.DT_BANK_VOUCHER_DATE=?,t.GNUM_DEPOSIT_SEAT_ID=?  where t.DT_CHALLAN_DATE=?  and t.STR_DEPOSIT_INTO_CODE=? and t.GNUM_HOSPITAL_CODE=? and t.STR_PREPBNKDEP_FORM is null
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+		 <QRY ID="1" COL_SIZE="5">
+		update  ACTCAS_CHAL_TRN z  set  z.STR_CHALLAN_STATUS=? where z.STR_CHALLAN_STATUS=? and z.DT_CHALLAN_DATE=?  and z.STR_DEPOSIT_INTO_CODE=? and z.GNUM_HOSPITAL_CODE=?
+		</QRY>
+	</BLOCK>
+</OPR>
+
+
+
+
+</tns:Transaction>

@@ -1,0 +1,30 @@
+CREATE TABLE ahislog.actpay_gpf_emp_wdrl_rec_trn_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+    str_req_app_no character varying(11),
+  dt_req_app_date timestamp without time zone,
+  str_employee_code character varying(14),
+  str_gpf_act_number character varying(14),
+  num_withdrawal_type numeric(1,0),
+  num_arrear_sl_no numeric(2,0),
+  num_amount_requested numeric(10,2),
+  str_withdrawal_name character varying(50),
+  str_check_status numeric(2,0),
+  gdt_entry_date timestamp without time zone,
+  gnum_isvalid numeric(1,0),
+  gnum_seatid numeric(5,0),
+  gnum_hospital_code numeric(6,0),
+  str_adv_withd_purpose character varying(25),
+  num_no_installment numeric(3,0),
+  num_balance_amount numeric(10,2),
+  num_arrear_amount numeric(10,2),
+  dt_req_arrear_date character varying(15),
+  num_installment_amount numeric(10,2),
+  num_amount_remaining numeric(10,2),
+  CONSTRAINT actpay_gpf_emp_wdrl_rec_trn_pk PRIMARY KEY (slno,str_employee_code,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpay_gpf_emp_wdrl_rec_trn_log
+  OWNER TO bishfms;

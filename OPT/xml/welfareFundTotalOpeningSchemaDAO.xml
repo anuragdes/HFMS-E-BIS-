@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="Welfare Fund" PROCESS_NAME="Employee opening balance Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 INSERT INTO PISWFD_FUND_OPENING_BAL_TRN(STR_FINANCIAL_YR,NUM_OPENING_AMT,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE, GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	 DELETE FROM PISWFD_FUND_TOTAL_BAL A WHERE A.GNUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 INSERT INTO PISWFD_FUND_TOTAL_BAL(NUM_TOTAL_BAL, GNUM_SEAT_ID, GDT_ENTRY_DATE, GDT_LSTMOD_DATE, GNUM_LSTMOD_SEATID, GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>

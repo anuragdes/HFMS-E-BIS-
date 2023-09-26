@@ -1,0 +1,28 @@
+-- Function: ahistrn.gt_chk_role_mgt(character varying, numeric, numeric, numeric)
+
+-- DROP FUNCTION ahistrn.gt_chk_role_mgt(character varying, numeric, numeric, numeric);
+
+CREATE OR REPLACE FUNCTION ahistrn.gt_chk_role_mgt(
+    p_empno character varying,
+    p_rolemgttypeid numeric,
+    p_userid numeric,
+    p_hcode numeric)
+  RETURNS boolean AS
+$BODY$
+
+   exist_data   number;
+BEGIN
+
+select 1 into exist_data from dual where p_empNo in (SELECT z.gstr_rao_emp_no FROM ahistrn.gt_role_mgt z where z.gnum_role_mgt_type_id=p_roleMgtTypeId and z.gnum_userid= p_userId and z.gnum_isvalid=1 and z.gnum_hospital_code=p_hCode);
+
+if exist_data=1 then return exist_data; else return false; end if;
+EXCEPTION when NO_DATA_FOUND then
+
+return false;
+ 
+end;
+    -- end$BODY$
+  LANGUAGE edbspl VOLATILE SECURITY DEFINER
+  COST 100;
+ALTER FUNCTION ahistrn.gt_chk_role_mgt(character varying, numeric, numeric, numeric)
+  OWNER TO cdscoadmin;

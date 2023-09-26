@@ -1,0 +1,211 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                    04 May 2013 
+                                     Schedule Report For GPF
+ 
+Month      :APR          Year          :2013                                              
+Category   :MiscellaneousSub-Category  :Cl1                                               
+Demand No  :04130018621  Demand Date   :20-Apr-2013                                       
+ 
+SlNo Employee ID    Old ID Name                       Designation    Department      Amount(Rs)
+1    PGIPER00000107 040079 Pushpinder   Kaur          Steno          Accounts             15000
+
+2    PGIPER00000109 040031 Thakur   Dass              Per.Ast.       Accounts             15000
+
+3    PGIPER00000233 040055 Santosh   Kumari           Steno          Nephrology           20000
+
+4    PGIPER00000235 040058 Brij Mohan Khurana         Steno          Anatomy               8500
+
+5    PGIPER00000236 040054 Ashok   Kumari             Steno          Haematology           8500
+
+6    PGIPER00000240 040052 Tarawati                   Steno          Psychiatry            6000
+
+7    PGIPER00000246 040064 Sandeep    kumari          OTH            Advance Eye Cen      15000
+
+8    PGIPER00000247 040068 Varinder   Kaur            Steno          Paediatric Surg       3000
+
+9    PGIPER00000249 040077 Rajni   Nagpal             Steno          Gynaecology          10000
+
+10   PGIPER00000251 040089 Raman   Kumari             Steno          Medical Educati      18000
+
+11   PGIPER00000252 040071 Rajinder  Kumar Sabbarwal  Steno          Sr. Adm. Office       8000
+
+12   PGIPER00000253 040061 Satnam  Kaur               Steno          Community Medic      15000
+
+13   PGIPER00000254 040073 Susheel   Kumari           Steno          Orthopaedics         10000
+
+14   PGIPER00000255 040078 Kuldip   Kaur              Steno          Medical Educati       8000
+
+15   PGIPER00000256 040062 Santosh   Kumari           Steno          Paediatric Surg       8000
+
+16   PGIPER00000257 040080 Ram   Karan                Steno          Anaesthesia And       4000
+
+17   PGIPER00000258 040072 Kashmiro   Devi            Steno          Deptt Of Dermat      20000
+
+18   PGIPER00000259 040063 Kiran   Kapil              Per.Ast.       Haematology          15000
+
+19   PGIPER00000260 040074 Anju   Gupta               Steno          Anaesthesia And      15000
+
+20   PGIPER00000261 040070 Ramesh Kumar Anand         Steno          Medical Microbi       5000
+
+21   PGIPER00000262 040075 Kiran    Rawat             Steno          Pharmacology         10000
+
+22   PGIPER00000263 040081 Paramjit   Singh           Steno          Bulletin Sectio      15000
+
+23   PGIPER00000264 040082 Amarjeet   Kaur            Steno          Histopathology       16000
+
+24   PGIPER00000265 040083 Ravi  Bhushan              Steno          Procurement(Imp      19000
+
+25   PGIPER00000266 040084 Jatinder   Kumar           Steno          Neurology            10000
+
+26   PGIPER00000267 040086 Jagdeep   Pathania         Steno          Oral Health Sci      10000
+
+27   PGIPER00000268 040085 Naveen Chander Bedi        Steno          Cardiology            1000
+
+28   PGIPER00000269 040087 Harvinder  Singh           Steno          Psychiatry           15000
+
+29   PGIPER00000271 040047 Raman   Verma              Per.Ast.       Radio Diagnosis      18000
+
+30   PGIPER00000276 040045 Sunil  Dutt Sharma         OS             General Surgery      15000
+
+31   PGIPER00000277 040030 Manju   Gupta              Pvt.Secy       Transplant Surg      12000
+
+32   PGIPER00000280 040035 Krishna   Kumari           Per.Ast.       Urology              20000
+
+33   PGIPER00000281 040032 Manju   Sharma             Per.Ast.       Advance Pediatr      20000
+
+34   PGIPER00000282 040033 Swarna   Devi              Per.Ast.       Sr. Adm. Office      12000
+
+35   PGIPER00000288 040037 Ravinder   Sharma          PAA            Forensic Medici      12000
+
+36   PGIPER00000311 040044 Manju   Aggarwal           Per.Ast.       Pulmonary Medic       5000
+
+37   PGIPER00000352 040091 Puran Chand Pant           Per.Ast.       Anatomy              10000
+
+38   PGIPER00000353 040101 Neelam   Sharma            OTH            Medical Superin      15000
+
+39   PGIPER00000354 040088 Satinder                   Per.Ast.       Urology              10000
+
+40   PGIPER00000355 040090 Punam   Sharma             Per.Ast.       Cardiology           16000
+
+41   PGIPER00000356 040130 Ajay   Abrol               Steno          Security              7000
+
+42   PGIPER00000357 040127 Naresh   Kumar             Steno          Vigilance Cell        6000
+
+43   PGIPER00000358 040124 Saroj   Bala               OTH            Psychiatry            5000
+
+44   PGIPER00000359 040125 Fateh   Singh              Steno          Procurement(Imp       7500
+
+45   PGIPER00000360 040133 Sanjay   Kumar             Steno          Other                 8000
+
+46   PGIPER00000362 040129 Satinder Kumar Jassal      Steno          Vigilance Cell       13000
+
+47   PGIPER00000363 040134 Rakesh   Kumar             Steno          Plastic Surgery      15000
+
+48   PGIPER00000364 040137 Man   Singh                Steno          Estate Branch -      10000
+
+49   PGIPER00000365 040136 Rajinder   Kumar           Steno          Accounts             10000
+
+50   PGIPER00000366 040093 Sudhir Kumar Sharma        OTH            Cardiology           15700
+
+51   PGIPER00000368 040126 Harcharan Singh Rana       Steno          Hepatology           10000
+
+52   PGIPER00000369 040135 Lalita   Khurana           Steno          Psychiatry            3000
+
+53   PGIPER00000370 040098 Sushila  Kumari            Per.Ast.       Gastroenterolog      15000
+
+54   PGIPER00000371 040099 Ominder   Kumar            Per.Ast.       Director Office      15000
+
+55   PGIPER00000372 040103 Parveen  kumar Singh       Steno          Establishment        15000
+
+56   PGIPER00000373 040102 Ishwar   Kumari            OTH            Advance Pediatr      17000
+
+57   PGIPER00000374 040115 Dhiraj                     OTH            Radiotherapy          3000
+
+58   PGIPER00000375 040117 Kiran   Jyoti              Per.Ast.       Histopathology       11000
+
+59   PGIPER00000376 040132 Anil  Kumar                Steno          Radio Diagnosis      10000
+
+60   PGIPER00000377 040123 Aneeta   Kanwal            OTH            Immunopathology       6000
+
+61   PGIPER00000378 040131 Sanjeev   Kumar            OTH            Nuclear Medicin       5000
+
+62   PGIPER00000379 040128 Paramjit   Kaur            Steno          Virology             16000
+
+63   PGIPER00000380 040141 Deepak  Mehta              StrKeepr       Procurement(Imp      10000
+
+64   PGIPER00000381 040152 Deep   Mala                Per.Ast.       Public Relation       5000
+
+65   PGIPER00000382 040138 Baljeet  Kaur Kamboj       Steno          Medical Superin       7000
+
+66   PGIPER00000383 040140 Baljeet   Kaur             Steno          Gynaecology          10000
+
+67   PGIPER00000384 040143 Harish   Ahuja             Per.Ast.       Other                 1500
+
+68   PGIPER00000385 040144 Harmeet  Kaur              Per.Ast.       Anaesthesia And       1500
+
+69   PGIPER00000387 040163 Sonu                       Steno          Training Branch       3000
+
+70   PGIPER00000388 040158 Sanjay   Kumar             OTH            Advance Eye Cen       7000
+
+71   PGIPER00000389 040149 Sanjay   Abrol             Steno          Director Office       6000
+
+72   PGIPER00000390 040155 Suman                      OTH            Biochemistry         15000
+
+73   PGIPER00000392 040154 Vineet  Malhotra           OTH            Other                 2500
+
+74   PGIPER00000393 040148 Bhupinder   Kaur           OTH            Neurosurgery          4000
+
+75   PGIPER00000395 040150 Sonia                      Sec.Grd2       Nursing Cell          2000
+
+76   PGIPER00000396 040153 Jitender  Kumar            Per.Ast.       Gastroenterolog       7000
+
+77   PGIPER00000397 040156 Navneet   Bansal           OTH            Medical Microbi       4000
+
+78   PGIPER00000398 040165 Deepak   Jugran            Jr.Steno       Advance Eye Cen       1000
+
+79   PGIPER00000445 040113 Surinder   Kumar           Per.Ast.       E N T1               14000
+
+80   PGIPER00000446 040121 Parwinder   Singh          OTH            Radio Diagnosis      13000
+
+81   PGIPER00000447 040107 Harmesh Kumari Sharma      Steno          General Other1       10000
+
+82   PGIPER00000448 040106 Jasbir    Kaur             Steno          Nephrology           12000
+
+83   PGIPER00000449 040108 Sunita   Devi              Steno          General Surgery      10000
+
+84   PGIPER00000450 040112 Alka                       Steno          Oral Health Sci      10000
+
+85   PGIPER00000451 040110 Rajni   Bala               OTH            Neurosurgery          8500
+
+86   PGIPER00000452 040114 Neelam   Sharma            Steno          Advance Pediatr      15000
+
+87   PGIPER00000453 040116 Anu   Monga                Per.Ast.       Medical Superin      16000
+
+88   PGIPER00000454 040109 Anita   Rani               Steno          Pulmonary Medic      16000
+
+89   PGIPER00000455 040111 Ranjna   Sharma            Steno          Physiotherapy1       10000
+
+90   PGIPER00000456 040105 Parminder   Singh          OTH            Biochemistry         10000
+
+91   PGIPER00001620 040146 Vijay   Kumar              Steno          Other                 4000
+
+92   PGIPER00008040 040122 Rohit                      Steno          Training Branch       7000
+
+93   PGIPER00008087 040160 Amit  Rawat                Per.Ast.       Other                 2000
+
+94   PGIPER00008103 040119 Manoj    Kumar             Per.Ast.       Director Office       8000
+
+95   PGIPER00008692 040164 Amritpal   Singh           Clerk          Paediatric Orth       2500
+
+96   PGIPER00008698 040051 Jasbir  Kaur               Hi.Steno       Hindi Section         8000
+
+                                                                          Grand Total    973700
+
+
+                               ( RUPEES NINE LAC SEVENTY-THREE THOUSAND SEVEN HUNDRED  ONLY)
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,480 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                              Schedule Report For INCOME TAX
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu8                                               
+Demand No  :1012001181   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Pan No          Amount(Rs)
+PGIPER00000006 030321 Kamni   Kundal           Sister Gr. II         ACQPT6070R            1500
+
+PGIPER00002423 030484 Rupinderjit   Kaur       Sister Gr. II         BBYPK1418G            1500
+
+PGIPER00002464 030181 Nisha   Chauhan          Sister Gr. II         AGJPC3217A            1500
+
+PGIPER00002468 030182 Sonika   Sharma          Sister Gr. II         BBLPS0826B            1500
+
+PGIPER00002474 030187 Rajwinder   Kaur         Sister Gr. II         ARVPK8882G            1500
+
+PGIPER00002476 030188 Neena   Kumari           Sister Gr. II         ARQPK0742C            1500
+
+PGIPER00002477 030183 Sunita   Kumari          Sister Gr. II         AOUPK2839K            1500
+
+PGIPER00002479 030190 Neelam    Kumari         Sister Gr. II         ARRPK3860E            1500
+
+PGIPER00002481 030192 Patras                   Sister Gr. II         AMRPP7262Q            1500
+
+PGIPER00002483 030193 Harwinder   Kaur         Sister Gr. II         ATLPK6491K            1500
+
+PGIPER00002484 030195 Kamal Jit Kaur           Sister Gr. II         ARIPK5600K            1500
+
+PGIPER00002485 030210 Kiran   Bala             Sister Gr. II         AKTPB8755C            1500
+
+PGIPER00002488 030199 Parminder   Kaur         Sister Gr. II         AQEPK6760B            1500
+
+PGIPER00002489 030206 Harninder   Kaur         Sister Gr. II         AREPK1527F            1500
+
+PGIPER00002490 030212 Karamjeet   Kaur         Sister Gr. II         ASTPK6913D            1500
+
+PGIPER00002491 030196 Harpreet   Kaur          Sister Gr. II         ATJPK0820A            1500
+
+PGIPER00002492 030205 Hardeep   Kaur           Sister Gr. II         ATHPK7360B            1500
+
+PGIPER00002493 030220 Sheetal                  Sister Gr. II         BIPPS2311Q            1500
+
+PGIPER00002494 030213 Priya   Mohan            Sister Gr. II         ARVPP0123H            1500
+
+PGIPER00002496 030222 Raj   Kumari             Sister Gr. II         AUXPK5337M            1500
+
+PGIPER00002497 030209 Savita    Kumari         Sister Gr. II         ARDPK6739N            1500
+
+PGIPER00002498 030214 Pinki                    Sister Gr. II         ALOPR2790M            1500
+
+PGIPER00002499 030208 Kalpana   Chouhan        Sister Gr. II         PHHPC2530K            1500
+
+PGIPER00002500 030202 Samson                   Sister Gr. II         BGWPS6690H            1500
+
+PGIPER00002501 030219 Sushma   Devi            Sister Gr. II         AJSPD6227Q            1500
+
+PGIPER00002502 030207 Deepika                  Sister Gr. II         ALMPD3996R            1500
+
+PGIPER00002503 030224 Geeta                    Sister Gr. II         AKGPG9180K            1500
+
+PGIPER00002504 030216 Amanpreet   Kaur         Sister Gr. II         ATKPK1354J            1500
+
+PGIPER00002505 030227 Hemant   Kumar           Sister Gr. II         ATHPK7254J            1500
+
+PGIPER00002506 030211 Meena                    Sister Gr. II         AMOPM3986H            1500
+
+PGIPER00002507 030226 Mandip   Kaur            Sister Gr. II         ATDPK1683P            1500
+
+PGIPER00002508 030225 Satinder Pal Kaur        Sister Gr. II         AWSPK8226A            1500
+
+PGIPER00002509 030284 Gitika                   Sister Gr. II         AJOPG7105P            1500
+
+PGIPER00002510 030229 Jatinder   Kaur          Sister Gr. II         AQDPK0136E            1500
+
+PGIPER00002512 030238 Meena   Kumari           Sister Gr. II         ATPPK2576F            1500
+
+PGIPER00002513 030230 Shehnaz   Justin         Sister Gr. II         AIEPJ0771B            1500
+
+PGIPER00002514 030245 Manju                    Sister Gr. II         APZPM4516R            1500
+
+PGIPER00002515 030236 Sharanjit   Kaur         Sister Gr. II         AXXPK6701C            1000
+
+PGIPER00002516 030244 Shama                    Sister Gr. II         BIGPS9689N            1500
+
+PGIPER00002517 030246 Sangeeta   Rani          Sister Gr. II         ANFPR9781H            1500
+
+PGIPER00002518 030237 Anju   Bala              Sister Gr. II         AKSPB4800F            1500
+
+PGIPER00002519 030252 Pooja                    Sister Gr. II         AVXPP6810H            1500
+
+PGIPER00002520 030241 Vandana                  Sister Gr. II         AIGPJ8708A            1500
+
+PGIPER00002523 030233 Baljeet   Kaur           Sister Gr. II         AVIPK7813J            1500
+
+PGIPER00002524 030247 Jagriti                  Sister Gr. II         AFZPJ5275N            1500
+
+PGIPER00002525 030261 Meena                    Sister Gr. II         APXPM2321J            1500
+
+PGIPER00002526 030266 Mahendra   Kumar         Sister Gr. II         ATUPK8899G            1500
+
+PGIPER00002527 030259 Harjinder   Kaur         Sister Gr. II         ATKPK1353R            1500
+
+PGIPER00002528 030260 Jasdeep   Kaur           Sister Gr. II         ATLPK8452E            1500
+
+PGIPER00002529 030263 Rekha                    Sister Gr. II         AJZPR4745D            1500
+
+PGIPER00002530 030242 Jaspreet   Kaur          Sister Gr. II         ATPPK0894C            1500
+
+PGIPER00002531 030255 Simranjit   Kaur         Sister Gr. II         AWXPK6371K            1500
+
+PGIPER00002532 030243 Parminder   Kaur         Sister Gr. II         ATPPK0776K            1500
+
+PGIPER00002533 030256 Seena   Varghese         Sister Gr. II         AKUPV6575J            1500
+
+PGIPER00002534 030248 Palwinder   Kaur         Sister Gr. II         AOXPK2042P            1500
+
+PGIPER00002536 030235 Navdeep   Kaur           Sister Gr. II         AULPK9805G            1500
+
+PGIPER00002537 030254 Seema   Rani             Sister Gr. II         AIOPR7068R            2000
+
+PGIPER00002538 030231 Renu   Bala              Sister Gr. II         AMDPB9680L            1500
+
+PGIPER00002540 030257 Balwinder   Kaur         Sister Gr. II         ALBPG0676N            1500
+
+PGIPER00002541 030264 Baljit   Kaur            Sister Gr. II         ARSPK5275G            1500
+
+PGIPER00002543 030282 Mamta   Shori            Sister Gr. II         AZFPS7750M            1500
+
+PGIPER00002546 030258 Sarabjit   Kaur          Sister Gr. II         ASTPK1447J            1500
+
+PGIPER00002547 030273 Neelam   Devi            Sister Gr. II         AKKPD2043A            1500
+
+PGIPER00002548 030268 Jitender Kumar Verma     Sister Gr. II         AFFPV8293N            1500
+
+PGIPER00002549 030278 Rajwinder   Kaur         Sister Gr. II         BCGPK2796G            1500
+
+PGIPER00002550 030280 Adarshpreet Kaur Sian    Sister Gr. II         BCHPS9350R            1500
+
+PGIPER00002551 030269 Manjit   Kaur            Sister Gr. II         ATPPK9230N            1000
+
+PGIPER00002552 030287 Narendra Nath   Nath     Sister Gr. II         AFFPN7827L            1500
+
+PGIPER00002554 030272 Alka   Massey            Sister Gr. II         AQFPM4195D            2000
+
+PGIPER00002555 030279 Kamlesh   Rani           Sister Gr. II         ALXPR7977H            1500
+
+PGIPER00002556 030270 Manju   Ladharh          Sister Gr. II         ACHPL4212E            1500
+
+PGIPER00002557 030291 Shiwali                  Sister Gr. II         BECPS6054M            1500
+
+PGIPER00002558 030286 Balwinder   Kaur         Sister Gr. II         AVSPK4191K            1500
+
+PGIPER00002559 030200 Shalini   Kapoor         Sister Gr. II         AUTPK5988Q            1000
+
+PGIPER00002562 030296 Amit   Samuel            Sister Gr. II         BMOPS9556C            1500
+
+PGIPER00002563 030302 Raman   Lal              Sister Gr. II         ACXPL3672Q            1500
+
+PGIPER00002564 030306 Minakshi                 Sister Gr. II         AUUPM1106F            1500
+
+PGIPER00002565 030297 Jyotsna   Arya           Sister Gr. II         AJWPA4638H            1500
+
+PGIPER00002566 030300 Subhash                  Sister Gr. II         BEMPS4836K            1500
+
+PGIPER00002567 030299 Shakuntla   Gunjha       Sister Gr. II         BFFPS9374J            1500
+
+PGIPER00002568 030298 Suman   Bura             Sister Gr. II         AKGPB5532Q            1500
+
+PGIPER00002570 030283 Gayatri   Devi           Sister Gr. II         ALKPO7303A            1500
+
+PGIPER00002571 030271 Suleman                  Sister Gr. II         BJPPS3984L            1500
+
+PGIPER00002572 030276 Radhe Shyam Suredia      Sister Gr. II         BMTPS3671P            1500
+
+PGIPER00002574 030290 Rajeev   Kumar           Sister Gr. II         AYXPK8965H            1500
+
+PGIPER00002575 030295 Ranjeet   Kaur           Sister Gr. II         AOHPK2048B            1500
+
+PGIPER00002576 030292 preeti Rebekah Chaodhar  Sister Gr. II         AHY9C3155H            1500
+
+PGIPER00002579 030293 Victor                   Sister Gr. II         AFGPV1949A            1500
+
+PGIPER00002581 030301 Richa   Srivastava       Sister Gr. II         BMKPS8761D            1500
+
+PGIPER00002582 030303 Kavita   Rani            Sister Gr. II         ALBPR5619L            1500
+
+PGIPER00002583 030405 Ravinder   Kaur          Sister Gr. II         AWXPK6021A            1500
+
+PGIPER00002585 030404 Amandeep   Kaur          Sister Gr. II         AWYPK9896L            1500
+
+PGIPER00002586 030406 Neelam   Chopra          Sister Gr. II         AIWPC9486A            1500
+
+PGIPER00002587 030378 Preetika   Katiyar       Sister Gr. II         AXNPK9591N            1500
+
+PGIPER00002589 030401 Gurminder   Kaur         Sister Gr. II         AYPPK1936A            1500
+
+PGIPER00002591 030403 Rajwinder   Ladharh      Sister Gr. II         ACHPL4213F            1500
+
+PGIPER00002592 030402 Banshee   Lal            Sister Gr. II         ADGPL5041F            1500
+
+PGIPER00002595 030310 Sheetal   Bhalla         Sister Gr. II         AWSPK8262C            1500
+
+PGIPER00002596 030311 Kapil   Nayar            Sister Gr. II         AFSPN6480N            1000
+
+PGIPER00002599 030397 Dharmendra   Sharma      Sister Gr. II         BMSPS7921M            1500
+
+PGIPER00002601 030395 Sandeep   Kumar          Sister Gr. II         APUPK9145D            1500
+
+PGIPER00002602 030316 Ramesh   Kumar           Sister Gr. II         AQSPK4627P            1500
+
+PGIPER00002605 030391 Sonia                    Sister Gr. II         BSJPS2739A            1500
+
+PGIPER00002606 030320 Neeru   Bala             Sister Gr. II         AOEPB3788A            1500
+
+PGIPER00002607 030390 Navjot   Kaur            Sister Gr. II         AWYPK9296J            1500
+
+PGIPER00002608 030319 Sonika   Kumari          Sister Gr. II         BAFPK8322R            1500
+
+PGIPER00002609 030392 Ashok   Kumar            Sister Gr. II         AWSPK8297P            1500
+
+PGIPER00002611 030326 Chanan   Ram             Sister Gr. II         ANPPR7495A            1000
+
+PGIPER00002613 030339 Hardev Singh Nimbiwal    Sister Gr. II         BSXPS4022C            2000
+
+PGIPER00002615 030335 Mona   Sharma            Sister Gr. II         BQXPS1340F            1500
+
+PGIPER00002617 030379 Suman                    Sister Gr. II         BNFPS0999R            1500
+
+PGIPER00002618 030331 Poonam                   Sister Gr. II         ATPPP7114A            1500
+
+PGIPER00002620 030400 Kajal   Gupta            Sister Gr. II         AMTPG1517H            1500
+
+PGIPER00002621 030342 Priyanka   Thakur        Sister Gr. II         AGYPT2013J            1500
+
+PGIPER00002623 030333 Geeta   Verma            Sister Gr. II         ADWPV7527Q            1500
+
+PGIPER00002624 030328 Manoj   Kumar            Sister Gr. II         AYPPK9158G            1500
+
+PGIPER00002626 030344 Mandeep   Kaur           Sister Gr. II         AWXPK6383K            1500
+
+PGIPER00002627 030337 Meena                    Sister Gr. II         AMTPM8801A            1500
+
+PGIPER00002629 030336 Devinder   Kaur          Sister Gr. II         BBTPK8925P            1500
+
+PGIPER00002631 030372 Ram   Niwas              Sister Gr. II         ALEPR6682C            1500
+
+PGIPER00002633 030325 Manoj   Kumar            Sister Gr. II         AYXPK9591R            1500
+
+PGIPER00002634 030377 Preeti   Gupta           Sister Gr. II         ANAPG3880D            1500
+
+PGIPER00002635 030399 Munni                    Sister Gr. II         ATFPM3796F            1500
+
+PGIPER00002636 030357 Satyaveer   Singh        Sister Gr. II         AKFPD2204C            1500
+
+PGIPER00002637 030396 Atar Singh Yadav         Sister Gr. II         ACDPY3111H            1500
+
+PGIPER00002639 030361 Pargati                  Sister Gr. II         ATPPP7877C            1500
+
+PGIPER00002641 030394 Seema   Rani             Sister Gr. II         BMKPS8987H            1500
+
+PGIPER00002642 030362 Sarabjit   Kaur          Sister Gr. II         AXXPK6626J            1500
+
+PGIPER00002643 030322 Kalpana                  Sister Gr. II         AUMPK7629P            1500
+
+PGIPER00002644 030374 Daya   Rani              Sister Gr. II         AMGPR4715H            1500
+
+PGIPER00002646 030338 Mandeep   Kaur           Sister Gr. II         AXNPK3443P            1500
+
+PGIPER00002647 030355 Kanwaljt   Kaur          Sister Gr. II         AWYPK9609B            1500
+
+PGIPER00002648 030332 Laishram Sunibala Devi   Sister Gr. II         AMQPD2845L            1500
+
+PGIPER00002649 030323 Nirmala   Rani           Sister Gr. II         ALEPR3057R            1500
+
+PGIPER00002651 030327 Nisha   Nanda            Sister Gr. II         AFSPN8796B            1500
+
+PGIPER00002652 030350 Karamjeet   Kaur         Sister Gr. II         AWSPK7855R            1500
+
+PGIPER00002653 030347 Sarabjeet   Kaur         Sister Gr. II         AWXPK6384Q            1500
+
+PGIPER00002656 030387 Bharati   Sharma         Sister Gr. II         BRQPS6794H            1500
+
+PGIPER00002657 030386 Tripta   Banga           Sister Gr. II         ANTPB1897J            2000
+
+PGIPER00002658 030353 Jai Prakash Sharma       Sister Gr. II         BORPS3314D            1500
+
+PGIPER00002663 030368 Nisha   Rani             Sister Gr. II         AMKPR7909M            1500
+
+PGIPER00002667 030365 Rajbir   Kaur            Sister Gr. II         AWXPK6018R            1500
+
+PGIPER00002669 030416 Shiny   Philip           Sister Gr. II         AUZPP3300M            1500
+
+PGIPER00002671 030414 Shobha   Thakur          Sister Gr. II         AGPPT3893F            1500
+
+PGIPER00002672 030409 William                  Sister Gr. II         ABCPW1010F            1500
+
+PGIPER00002673 030412 Sukhjit    Kaur          Sister Gr. II         AVMPK0605N            1500
+
+PGIPER00002674 030413 Franciss                 Sister Gr. II         AASPF1307K            1500
+
+PGIPER00002675 030408 Sujeet   Kumar           Sister Gr. II         AYPPK9781M            1500
+
+PGIPER00002676 030429 Parvin   Yadav           Sister Gr. II         AXJPK2429F            1500
+
+PGIPER00002677 030411 Seema                    Sister Gr. II         BRQPS7009R            1500
+
+PGIPER00002678 030419 Jyoti   Rani             Sister Gr. II         AMLPR6205P            1500
+
+PGIPER00002679 030430 Ranveer   Verma          Sister Gr. II         AMNPR3385A            1500
+
+PGIPER00002680 030424 Ranjit                   Sister Gr. II         AIMPR5798Q            1500
+
+PGIPER00002681 030431 Murli   Dhar             Sister Gr. II         AINPD6958M            1500
+
+PGIPER00002682 030425 Ved Parkash Verma        Sister Gr. II         ASQPP6267L            1500
+
+PGIPER00002684 030428 Rita   Devi              Sister Gr. II         BROPS4613R            1000
+
+PGIPER00002685 030427 Kusum   Lata             Sister Gr. II         ARBPK5656L            1500
+
+PGIPER00002688 030432 Maria                    Sister Gr. II         BDBPS4008M            1500
+
+PGIPER00002690 030439 Satyapal Singh Godara    Sister Gr. II         AMCPG660L             1500
+
+PGIPER00002692 030435 Rimpi   Rani             Sister Gr. II         AQPPR5613K            1500
+
+PGIPER00002693 030437 Kamalpreet   Kaur        Sister Gr. II         APJPK0049M            1500
+
+PGIPER00002694 030446 Anshu                    Sister Gr. II         AKXPA7263N            1500
+
+PGIPER00002696 030449 Sonia   Vashist          Sister Gr. II         AGJPY1222E            1500
+
+PGIPER00002697 030443 Prahlad Ray Geel         Sister Gr. II         AMQPG7105G            1500
+
+PGIPER00002699 030441 Ranjeet  Singh Yadav     Sister Gr. II         ACHPY5787D            1500
+
+PGIPER00002702 030453 Kusum   Sharma           Sister Gr. II         BRQPS6975N            1500
+
+PGIPER00002704 030456 Saroj   Vij              Sister Gr. II         APGPB5747N            1500
+
+PGIPER00002706 030461 Manpreet Kaur Rekhi      Sister Gr. II         ATPPK4895F            1500
+
+PGIPER00002708 030464 Ritu   Rani              Sister Gr. II         ANHPR0992C            1500
+
+PGIPER00002709 030468 Manjit   Kaur            Sister Gr. II         BBBPS2630B            1500
+
+PGIPER00002710 030440 Rekha   Rani             Sister Gr. II         AMQPR6622P            1500
+
+PGIPER00002711 030469 Tejinder   Dhindsa       Sister Gr. II         ANWPD3303Q            1500
+
+PGIPER00002712 030470 Hitendra   Sharma        Sister Gr. II         BPRPS0171K            1500
+
+PGIPER00002713 030465 Mandeep   Kaur           Sister Gr. II         AMAPR7550A            1500
+
+PGIPER00002715 030481 Jaspreet   Kaur          Sister Gr. II         AYYPK4524B            1500
+
+PGIPER00002716 030476 Sudha   Suman            Sister Gr. II         BYKPS4082F            1500
+
+PGIPER00002717 030473 Santosh   Tiwari         Sister Gr. II         AHOPT4726D            1500
+
+PGIPER00002718 030463 Rajni   Devi             Sister Gr. II         AMDPD8352P            1500
+
+PGIPER00002719 030482 Gagandeep   Kaur         Sister Gr. II         BEQPK0642P            1500
+
+PGIPER00002721 030478 Tenzin   Dheydhen        Sister Gr. II         AOQPD9298F            1500
+
+PGIPER00002722 030467 Merry   Puri             Sister Gr. II         AOZPP8670C            1500
+
+PGIPER00002723 030486 Simranjeet   Kaur        Sister Gr. II         BFSPK7820Q            1500
+
+PGIPER00002724 030483 Rima   Gupta             Sister Gr. II         AOZPG4952Q            1500
+
+PGIPER00002725 030488 Kanwal Deep Kaur         Sister Gr. II         BFUPK0496J            1500
+
+PGIPER00002726 030474 Neha   Bakshi            Sister Gr. II         AQMPB9536E            1500
+
+PGIPER00002727 030475 Regina Sonia             Sister Gr. II         AJFPT0350C            1500
+
+PGIPER00002730 030508 Vandana   Sharma         Sister Gr. II         CBQPS2076B            1500
+
+PGIPER00002731 030512 Inderpreet   Kaur        Sister Gr. II         BEEPK9318E            1500
+
+PGIPER00002732 030492 Gyan   Negi              Sister Gr. II         APTPD1267J            1500
+
+PGIPER00002733 030511 Varanpal   Kaur          Sister Gr. II         BDZPK3994C            1500
+
+PGIPER00002735 030509 Lata   Kumari            Sister Gr. II         BEEPK9319F            1500
+
+PGIPER00002736 030504 Neha R.k Kalia           Sister Gr. II         BEBPK3244L            1500
+
+PGIPER00002737 030494 Harpreet   Kaur          Sister Gr. II         BEBPK2759C            1500
+
+PGIPER00002738 030505 Neeru   Thakur           Sister Gr. II         AICPT2247G            1500
+
+PGIPER00002739 030496 Ramandeep   Kaur         Sister Gr. II         BEDPK9733C            1500
+
+PGIPER00002741 030495 Sangeeta   Singh         Sister Gr. II         CATPS9173D            1500
+
+PGIPER00002742 030507 Gagandeep   Kaur         Sister Gr. II         BERPK1588K            1500
+
+PGIPER00002743 030489 Khushpreet   Kaur        Sister Gr. II         BEBPK2763L            1500
+
+PGIPER00002745 030503 Anjali   Chauhan         Sister Gr. II         ANPPA1333G            1500
+
+PGIPER00002746 030502 Neeraj   Rani            Sister Gr. II         APPPR4922Q            1500
+
+PGIPER00002747 030501 Amandeep   Kaur          Sister Gr. II         BEEPK0050B            1500
+
+PGIPER00002748 030499 Manpreet   Kaur          Sister Gr. II         CBCPS4383P            1500
+
+PGIPER00002749 030490 Sandeep   Kaur           Sister Gr. II         BEBPK2762M            1500
+
+PGIPER00002758 030517 Shweta   Saini           Sister Gr. II         CBDPS6306R            1500
+
+PGIPER00002759 030515 Landai Sinliu Gonmei     Sister Gr. II         AQBPG0945K            1500
+
+PGIPER00002760 030498 Jaspreet Kaur Minhas     Sister Gr. II         AWGPM4308M            1500
+
+PGIPER00002761 030519 Kulwant    Kaur          Sister Gr. II         BEQPK7905F            1500
+
+PGIPER00008014 030487 Amrit   Kaur             Sister Gr. II         ANMPB2837P            1500
+
+PGIPER00008017 030415 Rapinder   Singh         Sister Gr. II         BMKPS9047L            1500
+
+PGIPER00008043 030341 Shari   Ram              Sister Gr. II         AMGPR0987B            1500
+
+PGIPER00008052 030485 Bharti   Sharma          Sister Gr. I          CEHPS7536C            1500
+
+PGIPER00008061 030194 Sonia                    Sister Gr. II         BGBPK4851K            1500
+
+PGIPER00008067 030500 Shikha   Thakur          Sister Gr. II         AHZPT7279A            1500
+
+PGIPER00008084 030417 Anu   Balan              Sister Gr. II         AMYPB0055A            1500
+
+PGIPER00008085 030480 Arash   Sharma           Sister Gr. II         CFBPS3944D            1500
+
+PGIPER00008094 030472 Pooja   Chetal           Sister Gr. II         AKDPC6397D            1500
+
+PGIPER00008100 030388 Kumari   Baby            Sister Gr. II         AXEPK0786G            1500
+
+PGIPER00008102 030447 Rubina Bhatti Kumar      Sister Gr. II         AOGPB9917H            1500
+
+PGIPER00008109 030442 Samay Singh Yadav        Sister Gr. II         ACBPY6939M            1500
+
+PGIPER00008111 030422 Geeta                    Sister Gr. II         ARGPK7943P            1500
+
+PGIPER00008133 030383 Anu   Bala               Sister Gr. II         AJLPB2555P            1500
+
+PGIPER00008148 030421 Dhapu  Bai Rathore       Sister Gr. II         AOAPR0868P            1500
+
+PGIPER00008149 030514 Deepti  Grover           Sister Gr. II         AQAPG0420C            1500
+
+PGIPER00008150 030479 Disha   Rani             Sister Gr. II         AOPPR5381G            1500
+
+PGIPER00008156 030234 Sushil   Matoria         Sister Gr. II         ANUPM1460D            1500
+
+PGIPER00008159 030343 Gurbinder   Kaur         Sister Gr. II         AYVPK5469Q            1500
+
+PGIPER00008160 030228 Pushpa   Pal             Sister Gr. II         APTPP2152E            1500
+
+PGIPER00008167 030459 Jagdish  Prasad          Sister Gr. II         AOQPP2391R            1500
+
+PGIPER00008349 030420 Khan Gembam   Nomita     Sister Gr. II         AMQPD2846K            1500
+
+PGIPER00008350 030423 Bharti                   Sister Gr. II         AOTPB1174R            1500
+
+PGIPER00008351 030444 Amit Kumar Gauttam       Sister Gr. II         AMBPG7729B            1500
+
+PGIPER00008352 030455 Ant  Kaur                Sister Gr. II         AXFPK2250G            1500
+
+                                                                          Grand Total    347000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

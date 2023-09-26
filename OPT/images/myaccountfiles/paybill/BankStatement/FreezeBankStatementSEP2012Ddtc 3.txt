@@ -1,0 +1,20 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                23 October 2012 
+                                Employee Wise Bank Statement
+                                  Month  :September 2012
+ 
+Category  :Ddtc                                                                                
+Sub-Category  :Ddtc 3                                                                          
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00002282 028720 Vandana   Kapur          Sister Gr. II         10413673112      35561
+
+2   PGIPER00008056 029648 John    Paul             Sister Gr. II         10413635439      45472
+
+                                                                          Grand Total     81033
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

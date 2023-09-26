@@ -1,0 +1,21 @@
+<ftpPath>
+	<WINDOWS>
+		<FTP_HOST>localhost</FTP_HOST>
+		<FTP_USER>neha</FTP_USER>
+		<FTP_PWD>neha123</FTP_PWD>
+		<FTP_PORT>21</FTP_PORT>
+		<FTP_PIS_DIR>/PIS</FTP_PIS_DIR>
+		<FTP_INV_DIR>/PIS</FTP_INV_DIR>
+				
+	</WINDOWS>
+	<LINUX>
+		<FTP_HOST>localhost</FTP_HOST>
+		<FTP_USER>8080</FTP_USER>
+		<FTP_PWD>astha:123456@10.226.17.71/ftpserver</FTP_PWD>
+		<FTP_PORT>astha</FTP_PORT>
+		<FTP_PIS_DIR>/PIS</FTP_PIS_DIR>
+		<FTP_INV_DIR>/PIS</FTP_INV_DIR>
+		
+	</LINUX>
+		
+</ftpPath>

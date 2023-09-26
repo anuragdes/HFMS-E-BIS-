@@ -1,0 +1,208 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                              Schedule Report For INCOME TAX
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu1                                               
+Demand No  :1012001111   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Pan No          Amount(Rs)
+PGIPER00001639 027131 Vinod   Jolly            DNS                   ABVPJ4389B            2500
+
+PGIPER00001643 027125 Bimla    Verma           DNS                   AAIPV5220F            1500
+
+PGIPER00001645 027111 Gagan Bala Sharma        DNS                   AMGPS5089K            1500
+
+PGIPER00001646 027130 Tripta    Sharma         DNS                   AHOPS4332E            1500
+
+PGIPER00001649 027127 Sudershan   Bansal       DNS                   ACMPB9876B            4000
+
+PGIPER00001650 027142 Daya    Sharma           ANS                   AMIPS3770K            3000
+
+PGIPER00001652 027150 Kiran   Behal            ANS                   AAVPB8918L           10000
+
+PGIPER00001653 027152 Evelyn Manorma Thorpe    ANS                   AALPN7625F            1500
+
+PGIPER00001657 027156 Shobha   Mohini          ANS                   ABTPM2388N            1500
+
+PGIPER00001659 027148 Urmil Kanta Sharma       ANS                   ABZPS7541L            1500
+
+PGIPER00001668 027161 Lakhwinder   Kaur        ANS                   ABZPD6922G            1500
+
+PGIPER00001677 027162 Rajinder Kaur Walia      ANS                   aaid006316r           1500
+
+PGIPER00001699 027171 Santosh   Kumari         Sister Gr. I          ACWPS2250E            3500
+
+PGIPER00001706 027172 Uma   Rani               Sister Gr. I          ACHPA3794J            2000
+
+PGIPER00001728 027174 Manjeet   Kaur           Sister Gr. I          AGGPK8801R            1500
+
+PGIPER00001796 027167 Clotilda   Minz          DNS                   AGNPM7614D            3000
+
+PGIPER00001798 027165 Shobha   Kujur           DNS                   ABUDK9287G            1500
+
+PGIPER00002200 028696 Manju   Bala             Sister Gr. II         AELPB8393Q            1500
+
+PGIPER00002201 028613 Devika   Rani            Sister Gr. II         AARPR6802Q            3000
+
+PGIPER00002202 028615 Bindhya   Sharma         Sister Gr. II         ACNPS8048M            2000
+
+PGIPER00002203 028669 Daisy K.B Shan           Sister Gr. II         AOIPS4289R            1000
+
+PGIPER00002205 028628 Dalbir   Kaur            Sister Gr. II         ACWPSI947G            1500
+
+PGIPER00002207 028634 Amarjit   Kaur           Sister Gr. I          ABLPK9766D            1500
+
+PGIPER00002210 028695 Santosh   Devi           Sister Gr. II         AATPD2562R            1500
+
+PGIPER00002212 028645 Promila   George         Sister Gr. II         AAPPF6084N            1500
+
+PGIPER00002213 028642 Manshinder   Jit         Sister Gr. II         AADPH4835M            1500
+
+PGIPER00002214 028655 Florence   Nayyer        Sister Gr. II         AHMPM5735F            1500
+
+PGIPER00002215 028692 Agnes                    Sister Gr. II         ADEPA3939M            1500
+
+PGIPER00002216 028652 Promila                  Sister Gr. II         AEPPP3451H            1000
+
+PGIPER00002218 028665 Jatinder   Kaur          Sister Gr. II         ABUPK8773D            1500
+
+PGIPER00002219 028631 Ramandeep   Kaur         Sister Gr. II         AAYPD3865A            1500
+
+PGIPER00002220 028664 Kiran                    Sister Gr. II         ABTPK1660J            1500
+
+PGIPER00002221 028663 Jyoti                    Sister Gr. II         AAUPJ0093N            1500
+
+PGIPER00002222 028650 Alka   Mehta             Sister Gr. II         ABDPM8076A            1000
+
+PGIPER00002224 028636 Kulbir   Kaur            Sister Gr. II         ABYPK3455A            1500
+
+PGIPER00002225 028658 Asha    Verma            Sister Gr. II         ADAPV3813B            1500
+
+PGIPER00002226 028648 Harinder   Jit           Sister Gr. II         ABHPJ7642R            1000
+
+PGIPER00002227 028656 Anju   Robert            Sister Gr. II         ACLRR8365G            1500
+
+PGIPER00002228 028690 Neelam   Bhatti          Sister Gr. II         ABBPB3652M            1500
+
+PGIPER00002229 028644 Sangeeta                 Sister Gr. II         AKRPS1529B            1500
+
+PGIPER00002230 028667 Nisha   Rani             Sister Gr. II         AERPS8940N            1500
+
+PGIPER00002231 028707 Simar Jit Kaur           Sister Gr. II         AGGPK8727J            1500
+
+PGIPER00002233 028718 Davinder Kaur Kaur       Sister Gr. II         BMGPK4563D            1500
+
+PGIPER00002234 028657 Balwinder Kaur Nahar     Sister Gr. II         AAKPN5364N            1500
+
+PGIPER00002236 028688 Sanju   Kaushal          Sister Gr. II         ABOPK0298F            1500
+
+PGIPER00002237 028706 Kuljit   Kaur            Sister Gr. II         AHDPB3604M            1500
+
+PGIPER00002238 028630 Jaswinder   Kaur         Sister Gr. II         ABYPK4782G            1000
+
+PGIPER00002239 028728 Rajinder Kaur Walia      Sister Gr. II         AAFPW3194C            1500
+
+PGIPER00002240 028678 Sonia   Puri             Sister Gr. II         ABDPP4932A            1500
+
+PGIPER00002241 028675 Ranjit   Kaur            Sister Gr. II         ABAPK3020B            1500
+
+PGIPER00002242 028672 Rupinder   Jeet          Sister Gr. I          AAQPC6856J            2000
+
+PGIPER00002243 028708 Jagroop   Kaur           Sister Gr. II         AFMPK5021J            2000
+
+PGIPER00002244 028673 Kamaljit   Kaur          Sister Gr. II         ACRPS7254F            1000
+
+PGIPER00002245 028710 Navdeep   Kaur           Sister Gr. II         ABBPK4271F            1500
+
+PGIPER00002246 028711 Amrit Pal Kaur           Sister Gr. II         ABOPK6050H            1000
+
+PGIPER00002247 028689 Sophia                   Sister Gr. II         ACCPS3372H            1000
+
+PGIPER00002248 028702 Manpreet   Kaur          Sister Gr. II         AGHPK2914J            1000
+
+PGIPER00002249 028735 Usha   Rani              Sister Gr. II         AARPR6889D            1000
+
+PGIPER00002252 028704 Jasbir   Kaur            Sister Gr. II         AGGPK8937N            1500
+
+PGIPER00002253 028703 Kanwaljeet   Kaur        Sister Gr. II         ABUPN3693D            1500
+
+PGIPER00002254 028691 Saroj   Massey           Sister Gr. II         AELPB850H             2000
+
+PGIPER00002255 028719 Rajwinder    Kaur        Sister Gr. II         AJCPK0858M            1000
+
+PGIPER00002256 028693 Chandana    Kaur         Sister Gr. II         ABBPG2825M            1500
+
+PGIPER00002257 028694 Venus   Bhatti           Sister Gr. II         ABOPV8877F            2500
+
+PGIPER00002258 028641 Manjit   Kaur            Sister Gr. II         AATPR8067K            1500
+
+PGIPER00002259 028725 Harbhajan   Kaur         Sister Gr. II         ABYPK4740L            1500
+
+PGIPER00002260 028701 Veena   Samuel           Sister Gr. II         AAQPV0032M            1500
+
+PGIPER00002261 028730 Poonam   Lata            Sister Gr. II         ABCPL3417H            1500
+
+PGIPER00002262 028680 Satya   Devi             Sister Gr. I          AVEPS5471P            1500
+
+PGIPER00002263 028682 Karamjit  kaur Grewal    Sister Gr. II         ABUPK9583B            1000
+
+PGIPER00002264 028685 Laviza                   Sister Gr. II         AAQPL4633E            1500
+
+PGIPER00002265 028732 Margaret                 Sister Gr. II         ABDPM2556M            1500
+
+PGIPER00002266 028722 Surinder   Devi          Sister Gr. II         AARPD0301J            3000
+
+PGIPER00002267 028737 Umesh   Kumari           Sister Gr. II         ACJPD4378D            1500
+
+PGIPER00002268 028716 Harjit   Kaur            Sister Gr. II         ABAPK3099E            2000
+
+PGIPER00002269 028697 Meena   Dutta            Sister Gr. II         ACSPD0876F            1500
+
+PGIPER00002270 028739 Sukhvir   Kaur           Sister Gr. II         AELPB5916P            1500
+
+PGIPER00002271 028681 Renu   Bala              Sister Gr. II         ACUPB9672R            1500
+
+PGIPER00002272 028740 Newton                   Sister Gr. II         ABMPN3143Q            1500
+
+PGIPER00002273 028734 Sushila   Rohilla        Sister Gr. II         ADMPR5461M            1500
+
+PGIPER00002274 028705 Avninder   Kaur          Sister Gr. II         ABJPK3580H            1500
+
+PGIPER00002275 028712 Ravinder   Kaur          Sister Gr. II         AJQPK7806B            1500
+
+PGIPER00002280 028743 Paramjeet   Kaur         Sister Gr. II         AGFPK8856K            1500
+
+PGIPER00002281 028698 Amanat   Masih           Sister Gr. II         ABAPM0774E            1500
+
+PGIPER00002283 028723 Rajan                    Sister Gr. II         ABDPR2978J            2000
+
+PGIPER00002284 028738 Sandeep   Gill           Sister Gr. II         AAYPG0367Q            2000
+
+PGIPER00002315 028731 Urmila   Dass            Sister Gr. II         ADYPD2442C            1500
+
+PGIPER00007851 027129 Vinod   Sethi            DNS                   ACNPS8877N            2000
+
+PGIPER00008013 028671 Kulwinder                Sister Gr. I          AARPD0196D            1500
+
+PGIPER00008021 028654 Raibka   Singh           Sister Gr. II         ADMPR5534P            1500
+
+PGIPER00008069 028622 Mehar    Kaur            Sister Gr. II         AEIPK2741J            2000
+
+PGIPER00008083 027071 Gurmit K Bagi            DNS                   AAXPB4515E            2500
+
+PGIPER00008112 028717 Gasten    Masih          Sister Gr. II         AFHPM5732R            1000
+
+PGIPER00008131 028721 Anu   Radha              Sister Gr. II         AEOPR4279E            1500
+
+PGIPER00008134 028627 Archana    Bansal        Sister Gr. II         ABXPG7194D            1500
+
+PGIPER00008161 028670 Seema   Rani             Sister Gr. II         AAVPR1815R            1500
+
+                                                                          Grand Total    164500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

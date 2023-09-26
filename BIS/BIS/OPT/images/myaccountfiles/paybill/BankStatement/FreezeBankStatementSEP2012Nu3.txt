@@ -1,0 +1,382 @@
+                       Post Graduate Institute of Medical Education And Research 
+                                 Sector, 12, Chandigarh 
+                                                                                22 October 2012 
+                                Employee Wise Bank Statement
+                                  Month  :September 2012
+ 
+Category  :Nursing                                                                             
+Sub-Category  :Nu3                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00001727 028337 Seema                    Sister GD 1           10413642050      39256
+
+2   PGIPER00001732 028321 Rupinder Kaur Saini      Sister GD 2           10413645404      43640
+
+3   PGIPER00001733 028332 Harkamal                 Sister GD 1           10413656062      31824
+
+4   PGIPER00001734 028344 Rajwant   Kaur           Sister GD 1           10413656506      41574
+
+5   PGIPER00001735 028331 Kanwal Jeet Kaur         Sister GD 1           10413637232      35150
+
+6   PGIPER00001736 028328 Vandana                  Sister GD 2           10413656528      31584
+
+7   PGIPER00001737 028322 Baljinder   Kaur         Sister GD 2           10413656255      27704
+
+8   PGIPER00001740 028343 Surinder   Kaur          Sister GD 2           10413636715      36584
+
+9   PGIPER00001818 028394 Elvina    Vij            Sister GD 1           10413624529      30754
+
+10  PGIPER00002009 028204 Kansi                    Sister GD 1           10413648960      35754
+
+11  PGIPER00002015 028194 Daya   Rani              Sister GD 1           10413648777      34247
+
+12  PGIPER00002017 028219 Kamaljit   Kaur          Sister GD 2           10413648824      20862
+
+13  PGIPER00002018 028216 Anita   Malik            Sister GD 1           10413648165      38923
+
+14  PGIPER00002019 028189 Kulwant   Kaur           Sister GD 2           10413648700      36247
+
+15  PGIPER00002022 028207 Raj  Kumari Chalania     Sister GD 2           10413648664      31487
+
+16  PGIPER00002023 028195 Baljeet   Kaur           Sister GD 2           10413648494      31571
+
+17  PGIPER00002024 028190 Neelam   Verma           Sister GD 2           10413648358      36247
+
+18  PGIPER00002025 028199 Vimaljeet   Kaur         Sister GD 1           10413648619      32564
+
+19  PGIPER00002026 028192 Rajinder   Kaur          Sister GD 2           10413648347      35603
+
+20  PGIPER00002027 028191 Victoria                 Sister GD 2           10413648904      38747
+
+21  PGIPER00002028 028205 Nirmal Jit Kaur          Sister GD 1           10413648653      31797
+
+22  PGIPER00002029 028196 Agnes                    Sister GD 2           10413648007      32987
+
+23  PGIPER00002030 028203 Paramjeet   Kaur         Sister GD 1           10413648631      37131
+
+24  PGIPER00002031 028202 Sunita   Kumari          Sister GD 2           10413648937      29103
+
+25  PGIPER00002032 028211 Rita                     Sister GD 2           10413649384      42176
+
+26  PGIPER00002033 028223 Sweety Sneh Lata         Sister GD 2           10413648755      36219
+
+27  PGIPER00002034 028234 Surinder                 Sister GD 2           10413649850      30803
+
+28  PGIPER00002035 028238 Gurwinder   Kaur         Sister GD 2           10413649124      37949
+
+29  PGIPER00002036 028220 Sangeeta   Singal        Sister GD 1           10413648868      26247
+
+30  PGIPER00002037 028245 Hardeep   Kaur           Sister GD 2           10413649769      41497
+
+31  PGIPER00002038 028243 Santosh   Kumari         Sister GD 2           10413649963      35813
+
+32  PGIPER00002039 028229 Diljeet   Rani           Sister GD 2           10413649566      31612
+
+33  PGIPER00002041 028228 Navneet                  Sister GD 2           10413649758      27313
+
+34  PGIPER00002042 028248 Paramjit   Kaur          Sister GD 1           10413649985      32349
+
+35  PGIPER00002043 028256 Geeta   Rani             Sister GD 1           10413649373      25581
+
+36  PGIPER00002044 028247 Sarabjeet   Kaur         Sister GD 1           10413649941      25061
+
+37  PGIPER00002045 028246 Sushma                   Sister GD 1           10413649690      36247
+
+38  PGIPER00002046 028259 Kamlesh   Kaur           Sister GD 1           10413649714      30936
+
+39  PGIPER00002047 028257 Arshpreet   Kaur         Sister GD 2           10413650162      38505
+
+40  PGIPER00002048 028235 Tripta   Devi            Sister GD 1           10413649328      32108
+
+41  PGIPER00002049 028255 Naresh   Kumari          Sister GD 1           10413650082      37677
+
+42  PGIPER00002056 028254 Martha                   Sister GD 1           10413650117      35747
+
+43  PGIPER00002057 028232 Bindu  Bala Gupta        Sister GD 1           10413649805      31247
+
+44  PGIPER00002058 028253 Krishna Devi             Sister GD 1           10413649792      43687
+
+45  PGIPER00002059 028252 Sukhwinderjeet   Kaur    Sister GD 1           10413649827      30635
+
+46  PGIPER00002060 028266 Jabsang   Dolma          Sister GD 2           10413633373      37643
+
+47  PGIPER00002061 028277 Sukhchain   Kaur         Sister GD 1           10413632937      36370
+
+48  PGIPER00002063 028312 Harwant    Kaur          Sister GD 1           10413632948      39918
+
+49  PGIPER00002064 028293 Anita   Sharma           Sister GD 2           10413651564      31713
+
+50  PGIPER00002065 028275 Kanwal Jeet Kaur         Sister GD 1           10413632982      32377
+
+51  PGIPER00002066 028301 Parminder   Kaur         Sister GD 2           10413652024      37027
+
+52  PGIPER00002067 028286 Anupam                   Sister GD 1           10413651188      37317
+
+53  PGIPER00002068 028296 Jasbir Kaur Saini        Sister GD 1           10413651382      34600
+
+54  PGIPER00002069 028294 Rajinder   Kaur          Sister GD 2           10413651406      39103
+
+55  PGIPER00002070 028298 Manpreet   Kaur          Sister GD 1           10413651701      23741
+
+56  PGIPER00002071 028261 Gurpreet   kaur          Sister GD 1           10413651348      39673
+
+57  PGIPER00002072 028292 Sunita   Rani            Sister GD 2           10413651246      43237
+
+58  PGIPER00002073 028303 Sukhvinder   Kaur        Sister GD 1           10413651224      35497
+
+59  PGIPER00002074 028281 Nandini   Shelley        Sister GD 2           10413651371      38052
+
+60  PGIPER00002075 028302 Kulwinder   Kaur         Sister GD 1           10413651360      33411
+
+61  PGIPER00002077 028274 Neelam   Bhardwaj        Sister GD 1           10413648289      32643
+
+62  PGIPER00002081 028287 Santosh   Kumari         Sister GD 2           10413651315      30587
+
+63  PGIPER00002083 028215 Suman   Lata             Sister GD 2           10413649420      32683
+
+64  PGIPER00002084 028320 Swaran   Kaur            Sister GD 1           10413651520      30737
+
+65  PGIPER00002086 028315 Sarla   Devi             Sister GD 1           10413651280      38757
+
+66  PGIPER00002088 028288 Usha   Devi              Sister GD 1           10413651268      31603
+
+67  PGIPER00002091 028362 Maninder   Kaur          Sister GD 1           10413643610      32482
+
+68  PGIPER00002092 028353 Sukhtej   Kaur           Sister GD 1           10413657022      37566
+
+69  PGIPER00002093 028366 Ravinder    Kaur         Sister GD 2           10413645108      29504
+
+70  PGIPER00002094 028377 Arvinder   Kaur          Sister GD 2           10413642049      38565
+
+71  PGIPER00002095 028387 Meena                    Sister GD 1           10413659494      35305
+
+72  PGIPER00002098 028427 Sulinder   Kaur          Sister GD 2           10413664551      39065
+
+73  PGIPER00002100 028383 Santosh   Kumari         Sister GD 2           10413642141      34881
+
+74  PGIPER00002101 028418 Kanchan   Bala           Sister GD 2           10413664629      40525
+
+75  PGIPER00002102 028441 Reeni   Chrispin         Sister GD 1           10413625931      32159
+
+76  PGIPER00002104 028419 Sukhjinder Pal Kaur      Sister GD 2           10413664493      39369
+
+77  PGIPER00002105 028415 Mamta                    Sister GD 2           10413664618      31199
+
+78  PGIPER00002107 028358 Sarika   Sharma          Sister GD 2           10413659234      26565
+
+79  PGIPER00002108 028471 Sunaina   Sharma         Sister GD 2           10413665146      37514
+
+80  PGIPER00002109 028423 Neelam   Jung            Sister GD 2           10413664969      29097
+
+81  PGIPER00002110 028444 Paramjit   Kaur          Sister GD 2           10413664889      35244
+
+82  PGIPER00002111 028420 Sukhdeep   Kaur          Sister GD 2           10413664528      41525
+
+83  PGIPER00002113 028384 Deepinder    Kaur        Sister GD 1           10413659450      37065
+
+84  PGIPER00002114 028460 Mohita   Goyal           Sister GD 2           10413645255      44305
+
+85  PGIPER00002116 028396 Baljit   Kaur            Sister GD 1           10413675096      30265
+
+86  PGIPER00002117 028376 Bindu  Mol  Jacob        Sister GD 2           10413639772      41997
+
+87  PGIPER00002118 028447 Jyoti   Sahni            Sister GD 2           10413647864      36305
+
+88  PGIPER00002119 028439 Asha   Rani              Sister GD 2           10413664812      43765
+
+89  PGIPER00002120 028476 Jyoti                    Sister GD 2           10413644239      40069
+
+90  PGIPER00002121 028481 Swinder   Jit            Sister GD 2           10413667449      42775
+
+91  PGIPER00002122 028477 Monika   Dhingra         Sister GD 2           10413667766      42265
+
+92  PGIPER00002123 028483 Lakhwinder   Kaur        Sister GD 2           10413667290      37884
+
+93  PGIPER00002124 028484 Lakhwinder   Kaur        Sister GD 2           10413667438      37527
+
+94  PGIPER00002125 028482 Sushila   Rani           Sister GD 2           10413667347      37565
+
+95  PGIPER00002126 028487 Zeenat                   Sister GD 1           10413661957      37465
+
+96  PGIPER00002127 028497 Anu   Bala               Sister GD 2           10413668023      29275
+
+97  PGIPER00002128 028494 Meenakshi   Kohali       Sister GD 2           10413667358      33591
+
+98  PGIPER00002129 028451 Manju   Sharma           Sister GD 2           10413665102      36954
+
+99  PGIPER00002130 028479 Asha                     Sister GD 2           10413667620      39025
+
+100 PGIPER00002131 028492 Elizabeth   Nayyar       Sister GD 2           10413667494      34965
+
+101 PGIPER00002132 028493 Anita    Rani            Sister GD 1           10413667777      40968
+
+102 PGIPER00002133 028499 Sunita   Kumari          Sister GD 2           10413667234      39566
+
+103 PGIPER00002134 028498 Shahnaz   Massey         Sister GD 2           10413667563      41815
+
+104 PGIPER00002135 028490 Kiran    Bala            Sister GD 2           10413667325      36265
+
+105 PGIPER00002136 028496 Minakshi   Choudhary     Sister GD 1           10413661991      33688
+
+106 PGIPER00002137 028495 Hans   Rani              Sister GD 2           10413667959      27684
+
+107 PGIPER00002138 028430 Sudesh   Kumari          Sister GD 1           10413664663      32655
+
+108 PGIPER00002139 028478 Asha    Alfred           Sister GD 2           10413662292      28569
+
+109 PGIPER00002140 028502 Kanwaljit                Sister GD 2           10413667245      37186
+
+110 PGIPER00002141 028500 Renu    Bala             Sister GD 1           10413662178      33275
+
+111 PGIPER00002142 028503 Amrit  Pal Kaur          Sister GD 2           10413667904      38215
+
+112 PGIPER00002143 028431 Neelam                   Sister GD 2           10413664674      33341
+
+113 PGIPER00002144 028506 Kusum E Singh            Sister GD 2           10413662327      42275
+
+114 PGIPER00002145 028533 Jagroop   Kaur           Sister GD 2           10413668330      29796
+
+115 PGIPER00002146 028509 Kiran                    Sister GD 2           10413668012      36593
+
+116 PGIPER00002147 028485 Anjleen                  Sister GD 2           10413667336      33681
+
+117 PGIPER00002148 028532 Meena   Kumari           Sister GD 2           30365015601      39433
+
+118 PGIPER00002149 028516 Satnam    Kaur           Sister GD 2           10413668465      37915
+
+119 PGIPER00002150 028534 Asha Devi Bhardwaj       Sister GD 2           10413668249      39305
+
+120 PGIPER00002151 028514 Harbir    Kaur           Sister GD 2           10413668216      39115
+
+121 PGIPER00002152 028522 Inderjeet   Kaur         Sister GD 2           10413668169          0
+
+122 PGIPER00002153 028530 Ranjeet    Kaur          Sister GD 2           10413668078      35525
+
+123 PGIPER00002154 028575 Jaswinder   Kaur         Sister GD 2           10413670610      36065
+
+124 PGIPER00002155 028540 Kawal  Jit  Ahuja        Sister GD 2           10413668759      25025
+
+125 PGIPER00002156 028518 Manjeet   Kaur           Sister GD 2           10413668385      37758
+
+126 PGIPER00002157 028517 Rita    Ahuja            Sister GD 2           10413668748      33654
+
+127 PGIPER00002158 028510 Shukhjinder    Kaur      Sister GD 1           10413667370      26531
+
+128 PGIPER00002159 028542 Josvin   Sodhi           Sister GD 2           10413668227      36439
+
+129 PGIPER00002160 028426 Veenu    Malik           Sister GD 1           10413641465      22232
+
+130 PGIPER00002161 028511 Beena  Kumari Bansal     Sister GD 2           10413667552      40265
+
+131 PGIPER00002162 028536 Meenakashi               Sister GD 2           10413668657      31697
+
+132 PGIPER00002163 028454 Monika   Dutta           Sister GD 2           10413646655      26565
+
+133 PGIPER00002165 028560 Seema    Bhatti          Sister GD 2           10413669128      36525
+
+134 PGIPER00002166 028537 Harbans   Kaur           Sister GD 2           10413667700      36139
+
+135 PGIPER00002167 028557 Ritika    Gill           Sister GD 2           10413661968      39260
+
+136 PGIPER00002168 028553 Karamjeet   Kaur         Sister GD 2           10413668997      35265
+
+137 PGIPER00002169 028555 Hemlata                  Sister GD 2           10413668919      34265
+
+138 PGIPER00002170 028521 Kuljit   Johal           Sister GD 2           10413668205      37317
+
+139 PGIPER00002171 028568 Manjeet    Kaur          Sister GD 2           10413669333      37525
+
+140 PGIPER00002172 028561 Charanjeet   Kaur        Sister GD 2           10413668668      38543
+
+141 PGIPER00002174 028548 Rajni                    Sister GD 2           10413668294      40975
+
+142 PGIPER00002175 028573 Rupinder   Kaur          Sister GD 2           10413668884      38525
+
+143 PGIPER00002177 028546 Jagjit    Kaur           Sister GD 2           10413668953      42162
+
+144 PGIPER00002178 028565 Rachna    Rani           Sister GD 2           10413669059      40331
+
+145 PGIPER00002180 028549 Rajwinder    Kaur        Sister GD 2           10413668964      38172
+
+146 PGIPER00002182 028528 Raj    Kumari            Sister GD 2           10413661866      37804
+
+147 PGIPER00002183 028570 Veena F   Chand          Sister GD 2           10413669366      30429
+
+148 PGIPER00002184 028571 Sunita   Rani  Sharma    Sister GD 2           10413668410      35525
+
+149 PGIPER00002185 028572 Sukhvinder               Sister GD 2           10413669491      32983
+
+150 PGIPER00002186 028527 Rajni                    Sister GD 2           10413668261      29301
+
+151 PGIPER00002187 028547 Onila Kiran Lata         Sister GD 2           10413668523      36831
+
+152 PGIPER00002189 028440 Sweety    Katoch         Sister GD 2           10413665191      36215
+
+153 PGIPER00002190 028417 Suman   Lata             Sister GD 2           10413664562      35765
+
+154 PGIPER00002191 028582 Taj   John               Sister GD 2           10413670949      35948
+
+155 PGIPER00002192 028425 Parvesh                  Sister GD 1           10413664925      28588
+
+156 PGIPER00002193 028574 Rajwant                  Sister GD 2           10413670712      31177
+
+157 PGIPER00002194 028586 Smeen    Akhtar          Sister GD 2           10413671251      22515
+
+158 PGIPER00002196 028580 Shanta                   Sister GD 2           10413671319      30737
+
+159 PGIPER00002198 028576 Harjeet   Kaur           Sister GD 2           10413670291      31425
+
+160 PGIPER00002199 028590 Reena                    Sister GD 2           10413671386      31860
+
+161 PGIPER00007848 028550 Nishi   Shyalla          Sister GD 2           10413668975      32025
+
+162 PGIPER00007849 028535 Amarjeet    Kaur         Sister GD 2           10413667971      40878
+
+163 PGIPER00008019 028552 Kulwinder   Kaur         Sister GD 2           10413668421      43708
+
+164 PGIPER00008029 028523 Sukhjit   Kaur           Sister GD 2           10413668283      33719
+
+165 PGIPER00008031 028569 Gurjeet   Kaur           Sister GD 2           10413668578      32481
+
+166 PGIPER00008041 028593 Reena    Rani            Sister GD 2           10413671400      32069
+
+167 PGIPER00008048 028558 Saroj   Bala             Sister GD 2           10413668545      32801
+
+168 PGIPER00008051 028221 Susham   Kamini          Sister GD 1           10413648879      34247
+
+169 PGIPER00008072 028470 Preet   Kamal            Sister GD 2           10413666150      33942
+
+170 PGIPER00008075 028519 Jaswinder   Kaur         Sister GD 1           10413668272      39931
+
+171 PGIPER00008081 028589 Palwinder    Kaur        Sister GD 2           10413670676      33775
+
+172 PGIPER00008091 028564 Meena   Puri             Sister GD 2           10413668067      36879
+
+173 PGIPER00008093 028424 Bindu   Piwal            Sister GD 1           10413664743      39570
+
+174 PGIPER00008097 028531 Neelam                   Sister GD 1           10413668646      33027
+
+175 PGIPER00008104 028504 Kuljit    Kaur           Sister GD 2           10413667574      29584
+
+176 PGIPER00008108 028507 Sipjeet   Kaur           Sister GD 1           10413667733      35224
+
+177 PGIPER00008128 028313 Milan                    Sister GD 2           10413651291      33573
+
+178 PGIPER00008130 028213 Mariam                   Sister GD 1           10413649395      35747
+
+179 PGIPER00008143 028491 Shinder Pal Kaur         Sister GD 2           10413667541      35625
+
+180 PGIPER00008144 028472 Amarjeet   Kaur          Sister GD 2           10413666025      36025
+
+181 PGIPER00008157 028581 Surinder   Kaur          Sister GD 2           10413671342      36065
+
+182 PGIPER00008345 028239 Sarabjit  Kaur           Sister GD 2           10413649408      31491
+
+183 PGIPER00008347 028317 Kiran   Bala             Sister GD 2           10413632802      28967
+
+                                                                          Grand Total   6367621
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

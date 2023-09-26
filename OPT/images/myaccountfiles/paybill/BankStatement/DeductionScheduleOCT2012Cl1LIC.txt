@@ -1,0 +1,104 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl1                                               
+Demand No  :10120018621  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00000246 040064 Sandeep    kumari        OTH       Advance Eye Ce 161615831           573
+
+PGIPER00000246 040064 Sandeep    kumari        OTH       Advance Eye Ce 162470454           302
+
+PGIPER00000246 040064 Sandeep    kumari        OTH       Advance Eye Ce 162688832           319
+
+PGIPER00000247 040068 Varinder   Kaur          Steno     Paediatric Sur 161733193           334
+
+PGIPER00000247 040068 Varinder   Kaur          Steno     Paediatric Sur 162054753           359
+
+PGIPER00000252 040071 Rajinder  Kumar Sabbarwa Steno     Procurement Br 160889965           257
+
+PGIPER00000253 040061 Satnam  Kaur             Steno     Community Medi 162839906          1767
+
+PGIPER00000259 040063 Kiran   Kapil            Per.Ast.  Haematology    160801957           275
+
+PGIPER00000263 040081 Paramjit   Singh         Steno     Bulletin Secti 160392167           225
+
+PGIPER00000263 040081 Paramjit   Singh         Steno     Bulletin Secti 162688161           757
+
+PGIPER00000263 040081 Paramjit   Singh         Steno     Bulletin Secti 163729683          1252
+
+PGIPER00000264 040082 Amarjeet   Kaur          Steno     Histopathology 161808909           306
+
+PGIPER00000269 040087 Harvinder  Singh         Steno     Psychiatry     163505619           523
+
+PGIPER00000288 040037 Ravinder   Sharma        PAA       Forensic Medic 160861192           332
+
+PGIPER00000288 040037 Ravinder   Sharma        PAA       Forensic Medic 163037475          2064
+
+PGIPER00000353 040101 Neelam   Sharma          OTH       M.S.Office     170619389           143
+
+PGIPER00000359 040125 Fateh   Singh            Steno     Procurement Br 161832179           272
+
+PGIPER00000364 040137 Man   Singh              Steno     Estate Branch  162470430           292
+
+PGIPER00000368 040126 Harcharan Singh Rana     Steno     Hepatology     161557062           800
+
+PGIPER00000371 040099 Ominder   Kumar          Per.Ast.  Director Offic 162713445           314
+
+PGIPER00000371 040099 Ominder   Kumar          Per.Ast.  Director Offic 163549580           510
+
+PGIPER00000377 040123 Aneeta   Kanwal          Clerk     Immunopatholog 161832627           346
+
+PGIPER00000377 040123 Aneeta   Kanwal          Clerk     Immunopatholog 162295166           374
+
+PGIPER00000377 040123 Aneeta   Kanwal          Clerk     Immunopatholog 162470590           736
+
+PGIPER00000384 040143 Harish   Ahuja           Per.Ast.  Other          162800450           965
+
+PGIPER00000390 040155 Suman                    OTH       Biochemistry   161504423           535
+
+PGIPER00000390 040155 Suman                    OTH       Biochemistry   162505417           217
+
+PGIPER00000396 040153 Jitender  Kumar          StrKeepr  Gastroenterolo 162048290           535
+
+PGIPER00000397 040156 Navneet   Bansal         OTH       Medical Microb 163013708           325
+
+PGIPER00000398 040165 Deepak   Jugran          Jr.Steno  Advance Eye Ce 162868533           273
+
+PGIPER00000446 040121 Parwinder   Singh        OTH       Radio Diagnosi 161811005           463
+
+PGIPER00000446 040121 Parwinder   Singh        OTH       Radio Diagnosi 162297178           293
+
+PGIPER00000446 040121 Parwinder   Singh        OTH       Radio Diagnosi 162299268           763
+
+PGIPER00000448 040106 Jasbir    Kaur           Steno     Nephrology     161616412           209
+
+PGIPER00000449 040108 Sunita   Devi            Steno     General Surger 160659415           136
+
+PGIPER00000450 040112 Alka                     Steno     Oral Health Sc 163035836          1066
+
+PGIPER00000453 040116 Anu   Monga              Per.Ast.  M.S.Office     162470376           461
+
+PGIPER00000456 040105 Parminder   Singh        OTH       Biochemistry   162299661           454
+
+PGIPER00001620 040146 Vijay   Kumar            Steno     Other          160589923           222
+
+PGIPER00001620 040146 Vijay   Kumar            Steno     Other          161754945           539
+
+PGIPER00001620 040146 Vijay   Kumar            Steno     Other          162800785          1022
+
+PGIPER00008087 040160 Amit  Rawat              Per.Ast.  Other          153227827          1885
+
+PGIPER00008087 040160 Amit  Rawat              Per.Ast.  Other          154603921          1153
+
+PGIPER00008692 040164 Amritpal   Singh         Clerk     Paediatric Ort 62164933             55
+
+                                                                          Grand Total     25003
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

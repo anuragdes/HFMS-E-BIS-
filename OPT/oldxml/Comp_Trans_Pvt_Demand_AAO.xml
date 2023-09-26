@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="COMPILATION" PROCESS_NAME="act_catMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="8" QRY_TOT_SIZE="8" TRN_MGMT="N">
+  
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="1">
+	delete  from actcom_d_rcev_trn where STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+  
+  <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="1">
+	delete  from actcom_d_recv_lp_dtl where STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="1">
+	delete  from actcom_d_recv_lp_dtl where STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="21">
+	 INSERT INTO  actcom_d_pvt_rcev_trn (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_RECEIVED_THROUGH,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,STR_DEMAND_RECEIVED,DT_DEMAND_RECEIVING_DATE,STR_DEMAND_RECEIVED_BY,STR_DEMAND_REMAKRS,STR_STATUS_CODE,STR_DEMAND_STATUS,STR_DEMAND_PASSING,DT_DEMAND_PASSING_DATE,NUM_TOTAL_AMOUNT,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+
+<BLOCK ID="5" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	  INSERT INTO   actcom_d_pvt_recv_lp_dtl (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_TYP_LED_HED_CODE,STR_LED_HED_CODE,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="6" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+	INSERT INTO   actcom_d_pvt_r_exp_bo_dtl  (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code,
+ str_to_minor_head_code, str_to_sub_minor_head_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+		
+
+<BLOCK ID="6" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+	INSERT INTO   actcom_d_pvt_r_exp_bo_dtl  (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code,
+ str_to_minor_head_code, str_to_sub_minor_head_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	 <BLOCK ID="7" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE  actpay_pvt_pbr_freeze_dtl SET STR_PBR_TYPE=? WHERE STR_DEMAND_NO=?
+	</QRY>
+	</BLOCK>
+
+
+	
+	
+</OPR>
+ 
+ 
+ 
+ 
+<OPR ID="2" NAME="INSERT" BLOCK_SIZE="11" QRY_TOT_SIZE="10" TRN_MGMT="N">
+	
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="21">
+	 INSERT INTO  actcom_d_pvt_rcev_log_trn (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_RECEIVED_THROUGH,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,STR_DEMAND_RECEIVED,DT_DEMAND_RECEIVING_DATE,STR_DEMAND_RECEIVED_BY,STR_DEMAND_REMAKRS,STR_STATUS_CODE,STR_DEMAND_STATUS,STR_DEMAND_PASSING,DT_DEMAND_PASSING_DATE,NUM_TOTAL_AMOUNT,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	
+	</QRY>
+	</BLOCK>
+	
+	
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 Update   actcom_d_pvt_rcev_trn set STR_DEMAND_NUMBER=?,DT_DEMAND_DATE=?,STR_RECEIVED_THROUGH=?,
+     STR_GRANT_TYPE_CODE=?,NUM_DEPT_CODE=?,STR_SCHEME_CODE=?,STR_PROJECT_CODE=?,STR_DEMAND_RECEIVED=?,DT_DEMAND_RECEIVING_DATE=?,
+     STR_DEMAND_RECEIVED_BY=?,STR_DEMAND_REMAKRS=?,STR_STATUS_CODE=?,STR_DEMAND_STATUS=?,STR_DEMAND_PASSING=?,
+  DT_DEMAND_PASSING_DATE=?,NUM_TOTAL_AMOUNT=?  where STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+
+
+<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	  INSERT INTO   actcom_d_pvt_recv_lp_log_dtl (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_TYP_LED_HED_CODE,STR_LED_HED_CODE,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,
+	  GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	  
+	</QRY>
+	</BLOCK>
+
+
+
+<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 update  actcom_d_pvt_recv_lp_dtl set   
+	 STR_DEMAND_NUMBER=?,DT_DEMAND_DATE=?,STR_TYP_LED_HED_CODE=?,STR_LED_HED_CODE=?,STR_STATUS_CODE=?,STR_DEMAND_STATUS=?,
+	 GDT_EFFECT_DATE=?,GDT_ENTRY_DATE=?,GNUM_ISVALID=?,GNUM_SEAT_ID=?,GNUM_HOSPITAL_CODE=? where STR_DEMAND_NUMBER=?
+	</QRY>
+	</BLOCK>
+	
+	
+	<BLOCK ID="5" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+	INSERT INTO   actcom_d_pvt_r_exp_bo_log_dtl   (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code,
+ str_to_minor_head_code, str_to_sub_minor_head_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	
+	</QRY>
+	</BLOCK>
+	
+	
+	
+	
+	<BLOCK ID="6" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	Delete from  actcom_d_pvt_r_exp_bo_dtl where STR_DEMAND_NUMBER=? and STR_AMOUNT_HEAD='D'
+	</QRY>
+	</BLOCK>
+	
+	
+	
+	<BLOCK ID="7" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+		INSERT INTO   actcom_d_pvt_r_exp_bo_dtl   (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code,
+ str_to_minor_head_code, str_to_sub_minor_head_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+		
+		
+		<BLOCK ID="8" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+	INSERT INTO   actcom_d_pvt_r_exp_bo_dtl   (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code,
+ str_to_minor_head_code, str_to_sub_minor_head_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+		
+		
+		
+	<BLOCK ID="9" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	Delete from  actcom_d_pvt_r_exp_bo_dtl where STR_DEMAND_NUMBER=? and STR_AMOUNT_HEAD='U'
+	</QRY>
+	</BLOCK>
+		
+		
+	
+     <BLOCK ID="10" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="30">
+	INSERT INTO   actcom_d_pvt_r_exp_bo_dtl   (STR_DEMAND_NUMBER,DT_DEMAND_DATE,STR_GRANT_TYPE_CODE,NUM_DEPT_CODE,STR_SCHEME_CODE,STR_PROJECT_CODE,NUM_PAYMENT_SLNO,STR_PAYMENT_CHK,STR_SALARY_HEAD,NUM_SALARY_AMOUNT,STR_MAJOR_HEAD_CODE,STR_SUB_MAJOR_HEAD_CODE,STR_MINOR_HEAD_CODE,STR_SUB_MINOR_HEAD_CODE,STR_AMOUNT_HEAD,STR_STATUS_CODE,STR_DEMAND_STATUS,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,
+ str_to_grant_type_code,num_to_dept_code, str_to_scheme_code, str_to_project_code, str_to_major_head_code,str_to_sub_major_head_code, str_to_minor_head_code, str_to_sub_minor_head_code) 
+ VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	
+	</QRY>
+	</BLOCK>
+	 
+	 <BLOCK ID="11" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	  UPDATE actpay_pvt_pbr_freeze_dtl SET STR_PBR_TYPE=? WHERE STR_DEMAND_NO=?
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+
+ 
+</tns:Transaction>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:Transaction MODULE_NAME="WelfareFund" PROCESS_NAME="ExpMoney" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="15">
+	 insert into PISWFD_EXPEND_TRN (STR_EMPLOYEE_CODE,REMARKS, PURPOSE, GNUM_SEAT_ID, GNUM_LSTMOD_SEATID, GNUM_ISVALID, GNUM_HOSPITAL_CODE, GDT_LSTMOD_DATE, GDT_ENTRY_DATE, GDT_EFFECT_DATE, EXP_ID, DT_OF_EXPEND,AMOUNT,STR_OTHER_DTL,STR_PAYMENT_FLAG) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+   </BLOCK>
+   
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+    <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+    <QRY ID="1" COL_SIZE="11">
+      UPDATE piswfd_expend_trn c SET c.REMARKS=?, c.PURPOSE=?,c.GNUM_SEAT_ID=?,c.GNUM_LSTMOD_SEATID=?,c.GDT_LSTMOD_DATE=? ,c.DT_OF_EXPEND=? ,c.AMOUNT=?, c.STR_OTHER_DTL=?, STR_PAYMENT_FLAG=? WHERE c.EXP_ID=? AND GNUM_HOSPITAL_CODE=?
+
+    </QRY>
+    </BLOCK>
+   
+</OPR>
+<OPR ID="3" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="Y">
+  <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+    <QRY ID="1" COL_SIZE="2">
+   UPDATE piswfd_expend_trn c SET c.GNUM_ISVALID=0 WHERE c.EXP_ID=? AND c.GNUM_ISVALID=1 AND GNUM_HOSPITAL_CODE=?
+    </QRY>
+  </BLOCK>
+  </OPR>
+
+</tns:Transaction>

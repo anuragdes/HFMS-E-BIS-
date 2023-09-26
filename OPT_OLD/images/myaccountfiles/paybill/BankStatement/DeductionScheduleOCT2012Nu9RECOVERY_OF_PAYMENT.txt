@@ -1,0 +1,78 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                     Schedule Report For RECOVERY OF PAYMENT
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu9                                               
+Demand No  :1012001191   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001589 030996 Seema                    Medical Social Worker Other                 6880
+
+PGIPER00002770 030600 Yumkhaibam Sanatombi De  Sister Gr. II         Advance Cardiac       6880
+
+PGIPER00002772 030604 Ruth   Babu              Sister Gr. II         Nursing Cell           480
+
+PGIPER00002776 030578 Nancy   Negi             Sister Gr. II         Nursing Cell           480
+
+PGIPER00002799 030557 Ningthoujam Purnamala D  Sister Gr. II         Nursing Cell           480
+
+PGIPER00002846 030602 Simerdeep  Kaur          Sister Gr. II         Nursing Cell          1894
+
+PGIPER00002848 030601 Neelam   Rani            Sister Gr. II         Nursing Cell           480
+
+PGIPER00002851 030603 Ravneet   Kaur           Sister Gr. II         Main I C U            1421
+
+PGIPER00002877 030689 Birbal   Ram             Sister Gr. II         Nursing Cell          2269
+
+PGIPER00002882 030696 Kanchan   Kumari         Sister Gr. II         Nursing Cell         20000
+
+PGIPER00002888 030694 Deepa   Kumari           Sister Gr. II         Nursing Cell          8288
+
+PGIPER00002890 030681 Richa   Thakur           Sister Gr. II         Nursing Cell           480
+
+PGIPER00002899 030678 Victoria                 Sister Gr. II         Nursing Cell          1889
+
+PGIPER00002900 030724 Ranjit Kaur Nagi         Sister Gr. II         Nursing Cell          1208
+
+PGIPER00002903 030721 Harpreet Kaur Saini      Sister Gr. II         Nursing Cell          3960
+
+PGIPER00002906 030729 Neena                    Sister Gr. II         Main I C U            1703
+
+PGIPER00002907 030576 Sukhjinder    Kaur       Sister Gr. II         Nursing Cell          6824
+
+PGIPER00002909 030638 Shaffalica   Kalra       Sister Gr. II         Nursing Cell           480
+
+PGIPER00002917 030703 Jaspreet   Kaur          Sister Gr. II         Nursing Cell           240
+
+PGIPER00002933 030757 Rajni   Sharma           Sister Gr. II         Nursing Cell          6320
+
+PGIPER00003045 030752 Satinder   Kaur          Sister Gr. II         Nursing Cell          3000
+
+PGIPER00003046 030780 Amita    Agarwal         Sister Gr. II         Nursing Cell          2000
+
+PGIPER00007845 030954 Rajwanti                 Sister Gr. II         Nursing Cell          3880
+
+PGIPER00007892 030827 Rosy  Bangar             Sister Gr. II         Nursing Cell          8830
+
+PGIPER00007903 030915 Suman   Bishnoi          Sister Gr. II         Nursing Cell          1600
+
+PGIPER00007920 030857 Navjot  Kumari           Sister Gr. II         N I C U               1343
+
+PGIPER00007937 030953 Rajbala                  Sister Gr. II         Main I C U            6880
+
+PGIPER00008121 030628 Ester                    Sister Gr. II         Nursing Cell           480
+
+PGIPER00008141 030595 Promila                  Sister Gr. II         Nursing Cell          1369
+
+PGIPER00008153 030559 Sunita   Rani            Sister Gr. II         Nursing Cell           728
+
+PGIPER00008363 030976 Jiwan  Rita              Sister Gr. II         Nursing Cell          1872
+
+                                                                          Grand Total    104638
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,22 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl5                                               
+Demand No  :10120018661  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000301 051078 Santosh   Kumari         OTHER (B)             Anaesthesia And        750
+
+PGIPER00000345 051370 Parminder   Kaur         Data Entry Operator   Computer Sectio        750
+
+PGIPER00001008 051352 Jyotsana   Sharma        OTHER (C)             Advance Pediatr        750
+
+                                                                          Grand Total      2250
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/transactionSchema"
+	xmlns:tns="http://www.example.org/transactionSchema">
+	<annotation>
+		<documentation xml:lang="en">
+			Department schema Copyright 2000 Example.com. All rights
+			reserved.
+		</documentation>
+	</annotation>
+	<element name="Transaction" type="tns:transactionType"></element>
+	<complexType name="transactionType">
+		<sequence>
+			<element name="OPR" type="tns:oprType"
+				maxOccurs="unbounded">
+			</element>
+		</sequence>
+		
+		<attribute name="MODULE_NAME" type="string"></attribute>
+		<attribute name="PROCESS_NAME" type="string"></attribute>
+	</complexType>
+	<complexType name="oprType">
+		<sequence>
+			<element name="BLOCK" type="tns:blockType"
+				maxOccurs="unbounded">
+			</element>
+		</sequence>
+		<attribute name="ID" type="string"></attribute>
+		<attribute name="NAME" type="string"></attribute>
+		<attribute name="BLOCK_SIZE" type="string"></attribute>
+		<attribute name="QRY_TOT_SIZE" type="string"></attribute>
+		<attribute name="TRN_MGMT" type="string"></attribute>
+	</complexType>
+	<complexType name="blockType">
+		<sequence>
+			<element name="QRY" maxOccurs="unbounded">	
+			<complexType>
+				<simpleContent>
+					<extension base="string">
+						<attribute name="ID" type="string"></attribute>
+						<attribute name="COL_SIZE" type="string"></attribute>
+					</extension>	
+				</simpleContent>
+			</complexType>		
+			</element>
+		</sequence>
+		<attribute name="ID" type="string"></attribute>
+		<attribute name="QRY_SIZE" type="string"></attribute>
+		<attribute name="MANDATORY" type="string"></attribute>
+		<attribute name="ROWS_INS" type="string"></attribute>
+	</complexType>
+	
+</schema>

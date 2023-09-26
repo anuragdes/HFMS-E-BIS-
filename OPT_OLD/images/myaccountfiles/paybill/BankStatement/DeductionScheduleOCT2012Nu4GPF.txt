@@ -1,0 +1,222 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For GPF
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu4                                               
+Demand No  :1012001141   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001663 029031 Anita   Berry            ANS                   Nursing Cell         10000
+
+PGIPER00001664 029006 Iqbal    Kaur            ANS                   Nursing Cell          8500
+
+PGIPER00001665 029013 Parvesh Maggo Johar      ANS                   Nursing Cell         15000
+
+PGIPER00001666 029011 Jitamber   Kaur          Sister Gr. I          Nursing Cell         20000
+
+PGIPER00001669 029019 Surinder Pal Kaur        ANS                   Advance Cardiac       3000
+
+PGIPER00001670 029005 Saroj Kumari Sharma      ANS                   Nursing Cell         25000
+
+PGIPER00001671 029027 Inderjit   Kaur          ANS                   Nursing Cell          8000
+
+PGIPER00001672 029004 Paramjit Kaur Battu      ANS                   Nursing Cell         25000
+
+PGIPER00001675 029029 Shiva   Bhatnagar        ANS                   Nursing Cell         10000
+
+PGIPER00001679 029042 Shashi   Kaushik         Sister Gr. II         Nursing Cell          9000
+
+PGIPER00001683 029014 Jasbir   Khubber         ANS                   Nursing Cell         10000
+
+PGIPER00001686 029049 Urmil   Kapula           ANS                   Advance Cardiac      20000
+
+PGIPER00001689 029035 Ranjit   Sehgal          ANS                   Nursing Cell         27000
+
+PGIPER00001691 029052 Usha   Rani              ANS                   Nursing Cell         28000
+
+PGIPER00001693 029034 Shobha Attar Singh       ANS                   Nursing Cell          2500
+
+PGIPER00001694 029038 Neeta  Fazal Masih       ANS                   Nursing Cell         28000
+
+PGIPER00001695 029037 Josephine   Iver         ANS                   Paediatric Surg      20000
+
+PGIPER00001697 029051 Grace Bachan Dass        Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001698 029050 Gladys Rani Chand        ANS                   Nursing Cell         10000
+
+PGIPER00001700 029061 Kalyan Shobhna Sharma    ANS                   Main I C U           11000
+
+PGIPER00001705 029043 Maya   Dean  Aziz        Sister Gr. I          Nursing Cell         30000
+
+PGIPER00001707 029059 Jagjit   Malhotra        Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001710 029046 Kesang   Jamwal          ANS                   Nursing Cell         30000
+
+PGIPER00001711 029060 Charanjit  kaur Toor     ANS                   Nursing Cell         25000
+
+PGIPER00001714 029075 Sudesh   Kumari          Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001716 029056 Tsering   Dolkar         Sister Gr. I          Nursing Cell         25000
+
+PGIPER00001717 029067 Geeta   Bedi             Sister Gr. II         Nursing Cell         15000
+
+PGIPER00001719 029069 Joginder   Kaur          Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001720 029073 Usha   Kapoor            OTHER (A)             Nursing Cell         15000
+
+PGIPER00001721 029070 Avtar   Kaur             Sister Gr. II         Nursing Cell         15000
+
+PGIPER00001722 029101 Harmeet   Kaur           Sister Gr. I          Nursing Cell          2000
+
+PGIPER00001723 029109 Esther   Augustine       Sister Gr. I          Nursing Cell          5000
+
+PGIPER00001725 029104 Prem Lata Arora          Sister Gr. I          Nursing Cell          6000
+
+PGIPER00001726 029097 Agnes Gulam Masih        Sister Gr. I          Nursing Cell         12000
+
+PGIPER00001729 029102 Usha   Francis           Sister Gr. I          Nursing Cell         12000
+
+PGIPER00001731 029108 Jasmeet   Thakur         Sister Gr. I          Nursing Cell          2000
+
+PGIPER00001738 029081 Kuldip   Kaur            Sister Gr. I          Nursing Cell         20000
+
+PGIPER00001743 029086 Amrita    Edwin          Sister Gr. I          Nursing Cell         20000
+
+PGIPER00001744 029087 Savita    Gulati         Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001745 029099 Gurdeep   Kaur           Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001746 029088 Pushpa   Devi            Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001747 029092 Krishana    Saini        Sister Gr. I          Nursing Cell         20000
+
+PGIPER00001748 029095 Sarita   Khanna          Sister Gr. I          Nursing Cell         24000
+
+PGIPER00001749 029026 Kaushalya   Sharma       Sister Gr. I          Advance Cardiac       8500
+
+PGIPER00001750 029103 Salina   K Chauhan       Sister Gr. I          Advance Eye Cen      12000
+
+PGIPER00001751 029098 Vina   Dass              Sister Gr. II         Nursing Cell          6000
+
+PGIPER00001752 029094 Saroj Bala Goel          Sister Gr. II         Nursing Cell         10000
+
+PGIPER00001753 029113 Olive    Chand           Sister Gr. I          Nursing Cell          8000
+
+PGIPER00001754 029110 Madhu   Bala             Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001755 029106 Shakun   Oberoi          Sister Gr. I          Nursing Cell         25000
+
+PGIPER00001756 029111 Ram  Kumari Rajput       Sister Gr. I          Nursing Cell         23000
+
+PGIPER00001767 029058 Ravinder  Kaur Kaur      ANS                   Nursing Cell         15000
+
+PGIPER00001768 029066 Narinder Kaur Anand      Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001769 029082 Usha   Sharma            Sister Gr. I          Nursing Cell         20000
+
+PGIPER00001770 029062 Prem  Lata  Verma        Sister Gr. I          Nursing Cell          9000
+
+PGIPER00001771 029076 Agnes   Masih            Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001772 029080 Inderjit    Saini        Sister Gr. I          Emergency            15000
+
+PGIPER00001773 029084 Bhupinder    Batta       Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001774 029090 Kaushalya  Kapila  /Ala  ANS                   Nursing Cell         10000
+
+PGIPER00001777 029114 Satwinder  Kaur  Bhinde  Sister Gr. I          Nursing Cell         17000
+
+PGIPER00001778 029121 Veena    William         Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001779 029128 Tejpal   Kaur            Sister Gr. I          Nursing Cell          4000
+
+PGIPER00001781 029122 Kamla    Rajpoot         Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001782 029123 Nutan    James           Sister Gr. I          Nursing Cell         12000
+
+PGIPER00001783 029135 Saroj   Bala             Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001784 029083 Mohini  H Khan           Sister Gr. I          Nursing Cell          2500
+
+PGIPER00001785 029120 Soma    Gill             Sister Gr. I          Nursing Cell         12000
+
+PGIPER00001786 029125 Salamti N Masih          Sister Gr. I          Nursing Cell          2000
+
+PGIPER00001787 029118 Bhupinder   kaur Tiwana  Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001788 029116 Surria   Rajpoot         Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001789 029129 Agnesh  Amar  Nath       Sister Gr. I          Nursing Cell          8000
+
+PGIPER00001791 029131 Shakuntala  B Masih      Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001792 029138 Zeenat    Marcus         Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001793 029145 Kamlesh   Bhatia         Sister Gr. I          Nursing Cell         25000
+
+PGIPER00001794 029140 Punita   Kansal          Sister Gr. I          Nursing Cell         23000
+
+PGIPER00001795 029115 Jaswinder    Kaur        Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001797 029124 Gurmail    Kaur          Sister Gr. I          Nursing Cell         16000
+
+PGIPER00001799 029119 Usha    Kiran            Sister Gr. I          Nursing Cell          4000
+
+PGIPER00001800 029148 Tejinder    Arora        Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001803 029157 Purnima    Verma         Sister Gr. I          Nursing Cell          3000
+
+PGIPER00001804 029152 Balet   Victor           Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001805 029150 Kamlesh                  Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001808 029155 Madhu   Bala             Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001809 029154 Zeenat    Bhatti         Sister Gr. I          Nursing Cell          2000
+
+PGIPER00001810 029177 Nirmal   phlips Jabcob   Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001811 029158 Rajinder    Kaur         Sister Gr. I          Nursing Cell          6000
+
+PGIPER00001812 029173 Rajinder Pal Kaur        Sister Gr. I          Nursing Cell         23000
+
+PGIPER00001813 029166 Rani  Atma Ram           Sister Gr. I          Nursing Cell         25000
+
+PGIPER00001814 029167 Darshan K Cheema         Sister Gr. I          Nursing Cell         15000
+
+PGIPER00001816 029146 Rama    Trikha           Sister Gr. I          Nursing Cell         18000
+
+PGIPER00001817 029172 Deepika   Singh          Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001819 029175 Amilia                   Sister Gr. I          Advance Cardiac      15000
+
+PGIPER00001820 029176 Veena   Sobte            Sister Gr. I          Nursing Cell          8000
+
+PGIPER00001828 029178 Sweet Nevidita James     Sister Gr. I          Nursing Cell          6000
+
+PGIPER00001830 029153 Veena    Chhabra         Sister Gr. I          Nursing Cell          8000
+
+PGIPER00001834 029169 Susheela   Dass          Sister Gr. I          Nursing Cell          6000
+
+PGIPER00001835 029159 Elizabeth   Emerson      Sister Gr. I          Nursing Cell         10000
+
+PGIPER00001836 029171 Kamlesh Rani Saini       Sister Gr. I          Nursing Cell         22000
+
+PGIPER00001837 029174 Joyce   Anugrah          Sister Gr. I          Nursing Cell          6000
+
+PGIPER00008063 029079 Sharja    Vasodev        Sister Gr. I          Nursing Cell         12000
+
+PGIPER00008070 029143 Manjit Kaur Arora        Sister Gr. I          Nursing Cell         15000
+
+PGIPER00008079 029055 Pyari   Singh            Sister Gr. I          Nursing Cell         10000
+
+PGIPER00008088 029142 Manjeet Kaur Semplay     DNS                   Nursing Cell         20000
+
+                                                                          Grand Total   1375000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

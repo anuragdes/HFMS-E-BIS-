@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="HR OTHER" PROCESS_NAME="Payment Order Generation Found" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="Y">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="14">
+	INSERT INTO PISWFD_PO_GEN_TRN (STR_PO_NUMBER,STR_EMPLOYEE_CODE,STP_ID,FRM_DATE,TO_DATE,AMOUNT,STR_PO_ORDER_NO,DT_PO_ORDER,STR_PO_ORDER_PLACE_BY,GDT_ENTRY_DATE ,GNUM_ISVALID,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE,STP_DTL_ID) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+    <QRY ID="1" COL_SIZE="2">
+    UPDATE PISWFD_STIPEND_DTL a SET a.STR_STATUS=3 WHERE a.STP_DTL_ID=? AND A.GNUM_ISVALID=1 AND A.GNUM_HOSPITAL_CODE=?
+  	</QRY>
+	</BLOCK>
+	
+</OPR>    
+
+</tns:Transaction>

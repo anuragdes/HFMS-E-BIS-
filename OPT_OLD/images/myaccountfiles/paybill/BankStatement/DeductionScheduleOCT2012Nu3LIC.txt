@@ -1,0 +1,418 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu3                                               
+Demand No  :1012001131   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00001737 028322 Baljinder   Kaur         SG2       Nursing Cell   163549284          1946
+
+PGIPER00001818 028394 Elvina    Vij            SG1       Nursing Cell   161624382           237
+
+PGIPER00001818 028394 Elvina    Vij            SG1       Nursing Cell   162164117           289
+
+PGIPER00001818 028394 Elvina    Vij            SG1       Nursing Cell   162839901           624
+
+PGIPER00001818 028394 Elvina    Vij            SG1       Nursing Cell   163013134           383
+
+PGIPER00002017 028219 Kamaljit   Kaur          SG2       Nursing Cell   162384827           981
+
+PGIPER00002018 028216 Anita   Malik            SG1       Nursing Cell   160588563           220
+
+PGIPER00002023 028195 Baljeet   Kaur           SG2       Nursing Cell   160861114           272
+
+PGIPER00002025 028199 Vimaljeet   Kaur         SG1       Nursing Cell   161731267           557
+
+PGIPER00002026 028192 Rajinder   Kaur          SG2       Nursing Cell   161809927          1071
+
+PGIPER00002026 028192 Rajinder   Kaur          SG2       Nursing Cell   162713970           313
+
+PGIPER00002028 028205 Nirmal Jit Kaur          SG1       Nursing Cell   162295858           806
+
+PGIPER00002029 028196 Agnes                    SG2       Advance Cardia 160940123           273
+
+PGIPER00002029 028196 Agnes                    SG2       Advance Cardia 161594596           942
+
+PGIPER00002029 028196 Agnes                    SG2       Advance Cardia 164565726          1021
+
+PGIPER00002030 028203 Paramjeet   Kaur         SG1       Nursing Cell   161731276           806
+
+PGIPER00002032 028211 Rita                     SG2       Nursing Cell   163589538          1021
+
+PGIPER00002033 028223 Sweety Sneh Lata         SG2       Nursing Cell   161731556           593
+
+PGIPER00002033 028223 Sweety Sneh Lata         SG2       Nursing Cell   162296899           707
+
+PGIPER00002033 028223 Sweety Sneh Lata         SG2       Nursing Cell   163032303           603
+
+PGIPER00002033 028223 Sweety Sneh Lata         SG2       Nursing Cell   163034351           604
+
+PGIPER00002033 028223 Sweety Sneh Lata         SG2       Nursing Cell   164565159          1021
+
+PGIPER00002034 028234 Surinder                 SG2       Other          163014933          1076
+
+PGIPER00002034 028234 Surinder                 SG2       Other          163589352           524
+
+PGIPER00002034 028234 Surinder                 SG2       Other          163589884           588
+
+PGIPER00002034 028234 Surinder                 SG2       Other          164565269           612
+
+PGIPER00002035 028238 Gurwinder   Kaur         SG2       Nursing Cell   161594831           299
+
+PGIPER00002035 028238 Gurwinder   Kaur         SG2       Nursing Cell   162298448           552
+
+PGIPER00002035 028238 Gurwinder   Kaur         SG2       Nursing Cell   175249758           677
+
+PGIPER00002039 028229 Diljeet   Rani           SG2       Nursing Cell   161594961           231
+
+PGIPER00002041 028228 Navneet                  SG2       Nursing Cell   163589684          4674
+
+PGIPER00002042 028248 Paramjit   Kaur          SG1       Nursing Cell   161811870          1612
+
+PGIPER00002042 028248 Paramjit   Kaur          SG1       Nursing Cell   161811878          1652
+
+PGIPER00002042 028248 Paramjit   Kaur          SG1       Nursing Cell   163030477          1164
+
+PGIPER00002043 028256 Geeta   Rani             SG1       Nursing Cell   161615061           277
+
+PGIPER00002043 028256 Geeta   Rani             SG1       Nursing Cell   163037812           985
+
+PGIPER00002044 028247 Sarabjeet   Kaur         SG1       Nursing Cell   163014964           562
+
+PGIPER00002044 028247 Sarabjeet   Kaur         SG1       Nursing Cell   163548739          2852
+
+PGIPER00002044 028247 Sarabjeet   Kaur         SG1       Nursing Cell   163549437          6125
+
+PGIPER00002044 028247 Sarabjeet   Kaur         SG1       Nursing Cell   16548116           1147
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   160890811           204
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   161615656           544
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   161810013           917
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   162296610           203
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   162641001           612
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   162641026           612
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   162839169           208
+
+PGIPER00002046 028259 Kamlesh   Kaur           SG1       Nursing Cell   164565754           817
+
+PGIPER00002048 028235 Tripta   Devi            SG1       Nursing Cell   161594407           546
+
+PGIPER00002048 028235 Tripta   Devi            SG1       Nursing Cell   162215882           139
+
+PGIPER00002049 028255 Naresh   Kumari          SG1       Nursing Cell   163032936           206
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    SG1       Nursing Cell   161594635           279
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    SG1       Nursing Cell   161731887           823
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    SG1       Nursing Cell   162581319           306
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    SG1       Nursing Cell   162581320           309
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    SG1       Nursing Cell   163548699          2061
+
+PGIPER00002061 028277 Sukhchain   Kaur         SG1       Nursing Cell   160861335           503
+
+PGIPER00002061 028277 Sukhchain   Kaur         SG1       Nursing Cell   162296884           914
+
+PGIPER00002063 028312 Harwant    Kaur          SG1       Advance Cardia 30045061            559
+
+PGIPER00002064 028293 Anita   Sharma           SG2       Advance Cardia 161615795           600
+
+PGIPER00002064 028293 Anita   Sharma           SG2       Advance Cardia 162641974           570
+
+PGIPER00002065 028275 Kanwal Jeet Kaur         SG1       Advance Cardia 160861334           504
+
+PGIPER00002067 028286 Anupam                   SG1       Nursing Cell   160889998           380
+
+PGIPER00002070 028298 Manpreet   Kaur          SG1       Nursing Cell   162296111          1612
+
+PGIPER00002074 028281 Nandini   Shelley        SG2       Other          163589408          1824
+
+PGIPER00002074 028281 Nandini   Shelley        SG2       Other          163589486          1225
+
+PGIPER00002081 028287 Santosh   Kumari         SG2       Nursing Cell   160960883           445
+
+PGIPER00002081 028287 Santosh   Kumari         SG2       Nursing Cell   163589553          1021
+
+PGIPER00002083 028215 Suman   Lata             SG2       Nursing Cell   163589141           593
+
+PGIPER00002083 028215 Suman   Lata             SG2       Nursing Cell   163589146           597
+
+PGIPER00002083 028215 Suman   Lata             SG2       Nursing Cell   163589192          2175
+
+PGIPER00002083 028215 Suman   Lata             SG2       Nursing Cell   163589353           300
+
+PGIPER00002083 028215 Suman   Lata             SG2       Nursing Cell   163589636           255
+
+PGIPER00002086 028315 Sarla   Devi             SG1       Nursing Cell   160861185           270
+
+PGIPER00002086 028315 Sarla   Devi             SG1       Nursing Cell   163033811           581
+
+PGIPER00002086 028315 Sarla   Devi             SG1       Nursing Cell   163035875           396
+
+PGIPER00002086 028315 Sarla   Devi             SG1       Nursing Cell   163037772           771
+
+PGIPER00002086 028315 Sarla   Devi             SG1       Nursing Cell   164564367          1222
+
+PGIPER00002091 028362 Maninder   Kaur          SG1       Nursing Cell   164870259          4083
+
+PGIPER00002092 028353 Sukhtej   Kaur           SG1       Nursing Cell   162704518           690
+
+PGIPER00002092 028353 Sukhtej   Kaur           SG1       Nursing Cell   163549374          3062
+
+PGIPER00002092 028353 Sukhtej   Kaur           SG1       Nursing Cell   163549376          2266
+
+PGIPER00002093 028366 Ravinder    Kaur         SG2       Nursing Cell   161594246           537
+
+PGIPER00002093 028366 Ravinder    Kaur         SG2       Nursing Cell   162296146           503
+
+PGIPER00002093 028366 Ravinder    Kaur         SG2       Nursing Cell   163039471          1021
+
+PGIPER00002102 028441 Reeni   Chrispin         SG1       Nursing Cell   162164189           603
+
+PGIPER00002102 028441 Reeni   Chrispin         SG1       Nursing Cell   162164731           303
+
+PGIPER00002108 028471 Sunaina   Sharma         SG2       Nursing Cell   163729344           551
+
+PGIPER00002109 028423 Neelam   Jung            SG2       Advance Eye Ce 160969853           564
+
+PGIPER00002109 028423 Neelam   Jung            SG2       Advance Eye Ce 163037596          2378
+
+PGIPER00002109 028423 Neelam   Jung            SG2       Advance Eye Ce 163628143          3230
+
+PGIPER00002110 028444 Paramjit   Kaur          SG2       Nursing Cell   163589248          1531
+
+PGIPER00002123 028483 Lakhwinder   Kaur        SG2       Nursing Cell   163589681          1225
+
+PGIPER00002123 028483 Lakhwinder   Kaur        SG2       Nursing Cell   163589682          1384
+
+PGIPER00002123 028483 Lakhwinder   Kaur        SG2       Nursing Cell   163589737          1532
+
+PGIPER00002129 028451 Manju   Sharma           SG2       Nursing Cell   161616518           610
+
+PGIPER00002129 028451 Manju   Sharma           SG2       Nursing Cell   163589665          2894
+
+PGIPER00002129 028451 Manju   Sharma           SG2       Nursing Cell   171653723           147
+
+PGIPER00002132 028493 Anita    Rani            SG1       Nursing Cell   162689173           497
+
+PGIPER00002136 028496 Minakshi   Choudhary     SG1       Nursing Cell   160889647           544
+
+PGIPER00002136 028496 Minakshi   Choudhary     SG1       Nursing Cell   162384996           493
+
+PGIPER00002136 028496 Minakshi   Choudhary     SG1       Nursing Cell   163549558           892
+
+PGIPER00002136 028496 Minakshi   Choudhary     SG1       Nursing Cell   164870099           408
+
+PGIPER00002137 028495 Hans   Rani              SG2       Nursing Cell   161809000           331
+
+PGIPER00002137 028495 Hans   Rani              SG2       Nursing Cell   164309241          1514
+
+PGIPER00002138 028430 Sudesh   Kumari          SG1       Nursing Cell   164566463          1474
+
+PGIPER00002140 028502 Kanwaljit                SG2       Advance Cardia 162229320           564
+
+PGIPER00002140 028502 Kanwaljit                SG2       Advance Cardia 162688396           275
+
+PGIPER00002145 028533 Jagroop   Kaur           SG2       Other          162470608           729
+
+PGIPER00002146 028509 Kiran                    SG2       Nursing Cell   160890189           926
+
+PGIPER00002146 028509 Kiran                    SG2       Nursing Cell   161615416           223
+
+PGIPER00002146 028509 Kiran                    SG2       Nursing Cell   161615522           272
+
+PGIPER00002146 028509 Kiran                    SG2       Nursing Cell   164564495          1015
+
+PGIPER00002147 028485 Anjleen                  SG2       Nursing Cell   160889967           275
+
+PGIPER00002148 028532 Meena   Kumari           SG2       Advance Cardia 162384226          1842
+
+PGIPER00002149 028516 Satnam    Kaur           SG2       Nursing Cell   161832509           398
+
+PGIPER00002149 028516 Satnam    Kaur           SG2       Nursing Cell   164563728          6952
+
+PGIPER00002151 028514 Harbir    Kaur           SG2       Nursing Cell   163548877          1002
+
+PGIPER00002151 028514 Harbir    Kaur           SG2       Nursing Cell   164870100           408
+
+PGIPER00002156 028518 Manjeet   Kaur           SG2       Nursing Cell   161615588           539
+
+PGIPER00002156 028518 Manjeet   Kaur           SG2       Nursing Cell   163030555           585
+
+PGIPER00002156 028518 Manjeet   Kaur           SG2       Nursing Cell   163030556           323
+
+PGIPER00002157 028517 Rita    Ahuja            SG2       Nursing Cell   162296100           515
+
+PGIPER00002158 028510 Shukhjinder    Kaur      SG1       Nursing Cell   163589815          2042
+
+PGIPER00002159 028542 Josvin   Sodhi           SG2       Nursing Cell   163030553           543
+
+PGIPER00002159 028542 Josvin   Sodhi           SG2       Nursing Cell   163030554           543
+
+PGIPER00002160 028426 Veenu    Malik           SG1       Emergency      161615583           564
+
+PGIPER00002160 028426 Veenu    Malik           SG1       Emergency      162164450           527
+
+PGIPER00002160 028426 Veenu    Malik           SG1       Emergency      163039451          3000
+
+PGIPER00002162 028536 Meenakashi               SG2       Nursing Cell   163589687          3828
+
+PGIPER00002166 028537 Harbans   Kaur           SG2       Nursing Cell   163589651          1326
+
+PGIPER00002166 028537 Harbans   Kaur           SG2       Nursing Cell   163589971          3060
+
+PGIPER00002167 028557 Ritika    Gill           SG2       Nursing Cell   161594884           765
+
+PGIPER00002170 028521 Kuljit   Johal           SG2       Nursing Cell   161615389           448
+
+PGIPER00002172 028561 Charanjeet   Kaur        SG2       Nursing Cell   161811412          1389
+
+PGIPER00002172 028561 Charanjeet   Kaur        SG2       Nursing Cell   161913136           583
+
+PGIPER00002177 028546 Jagjit    Kaur           SG2       Nursing Cell   161615410           580
+
+PGIPER00002177 028546 Jagjit    Kaur           SG2       Nursing Cell   161615516           245
+
+PGIPER00002177 028546 Jagjit    Kaur           SG2       Nursing Cell   163031681           507
+
+PGIPER00002177 028546 Jagjit    Kaur           SG2       Nursing Cell   500714728          1531
+
+PGIPER00002178 028565 Rachna    Rani           SG2       Nursing Cell   163013651           541
+
+PGIPER00002178 028565 Rachna    Rani           SG2       Nursing Cell   163033026           635
+
+PGIPER00002178 028565 Rachna    Rani           SG2       Nursing Cell   163035109           473
+
+PGIPER00002178 028565 Rachna    Rani           SG2       Nursing Cell   163589162           377
+
+PGIPER00002178 028565 Rachna    Rani           SG2       Nursing Cell   164565270           408
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   161731844           542
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   16225519            207
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   162295471           814
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   163014029           899
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   163548733          1117
+
+PGIPER00002180 028549 Rajwinder    Kaur        SG2       Nursing Cell   163549267           510
+
+PGIPER00002182 028528 Raj    Kumari            SG2       Nursing Cell   163039921          1971
+
+PGIPER00002185 028572 Sukhvinder               SG2       Nursing Cell   163589464          2042
+
+PGIPER00002186 028527 Rajni                    SG2       Nursing Cell   161615575           542
+
+PGIPER00002186 028527 Rajni                    SG2       Nursing Cell   162470802           682
+
+PGIPER00002187 028547 Onila Kiran Lata         SG2       Other          16                  460
+
+PGIPER00002187 028547 Onila Kiran Lata         SG2       Other          161615308           271
+
+PGIPER00002187 028547 Onila Kiran Lata         SG2       Other          163013677           560
+
+PGIPER00002187 028547 Onila Kiran Lata         SG2       Other          163589363           323
+
+PGIPER00002191 028582 Taj   John               SG2       Nursing Cell   161811743           785
+
+PGIPER00002191 028582 Taj   John               SG2       Nursing Cell   161811780           792
+
+PGIPER00002192 028425 Parvesh                  SG1       Nursing Cell   162384933          1108
+
+PGIPER00002192 028425 Parvesh                  SG1       Nursing Cell   162740895          1331
+
+PGIPER00002193 028574 Rajwant                  SG2       Nursing Cell   161811258           931
+
+PGIPER00002193 028574 Rajwant                  SG2       Nursing Cell   163589780          1021
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   160889588          1156
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   160889589           271
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   162298278           528
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   163509580          1021
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   163509640          1020
+
+PGIPER00002196 028580 Shanta                   SG2       Nursing Cell   163589429          2042
+
+PGIPER00002199 028590 Reena                    SG2       Nursing Cell   162215115           917
+
+PGIPER00002199 028590 Reena                    SG2       Nursing Cell   163038783          2998
+
+PGIPER00007849 028535 Amarjeet    Kaur         SG2       Nursing Cell   163013683           647
+
+PGIPER00008019 028552 Kulwinder   Kaur         SG2       Nursing Cell   163038433          2007
+
+PGIPER00008029 028523 Sukhjit   Kaur           SG2       Nursing Cell   162295673           547
+
+PGIPER00008029 028523 Sukhjit   Kaur           SG2       Nursing Cell   162740177           842
+
+PGIPER00008029 028523 Sukhjit   Kaur           SG2       Nursing Cell   163589561          2552
+
+PGIPER00008029 028523 Sukhjit   Kaur           SG2       Nursing Cell   163589562          1876
+
+PGIPER00008029 028523 Sukhjit   Kaur           SG2       Nursing Cell   163589564          1989
+
+PGIPER00008031 028569 Gurjeet   Kaur           SG2       Nursing Cell   161807734           148
+
+PGIPER00008031 028569 Gurjeet   Kaur           SG2       Nursing Cell   163548653           727
+
+PGIPER00008031 028569 Gurjeet   Kaur           SG2       Nursing Cell   163589720          1169
+
+PGIPER00008048 028558 Saroj   Bala             SG2       Nursing Cell   163548696          1341
+
+PGIPER00008048 028558 Saroj   Bala             SG2       Nursing Cell   163549082          2042
+
+PGIPER00008048 028558 Saroj   Bala             SG2       Nursing Cell   171654803           295
+
+PGIPER00008075 028519 Jaswinder   Kaur         SG1       Nursing Cell   161594879           774
+
+PGIPER00008075 028519 Jaswinder   Kaur         SG1       Nursing Cell   161913175          1320
+
+PGIPER00008081 028589 Palwinder    Kaur        SG2       Nursing Cell   163038321          1990
+
+PGIPER00008091 028564 Meena   Puri             SG2       Nursing Cell   161811966           514
+
+PGIPER00008091 028564 Meena   Puri             SG2       Nursing Cell   163673752           832
+
+PGIPER00008093 028424 Bindu   Piwal            SG1       Nursing Cell   161615558           271
+
+PGIPER00008108 028507 Sipjeet   Kaur           SG1       Nursing Cell   16                  551
+
+PGIPER00008143 028491 Shinder Pal Kaur         SG2       Nursing Cell   162839934          1166
+
+PGIPER00008143 028491 Shinder Pal Kaur         SG2       Nursing Cell   164587155          2033
+
+PGIPER00008345 028239 Sarabjit  Kaur           SG2       Nursing Cell   160861210           352
+
+PGIPER00008345 028239 Sarabjit  Kaur           SG2       Nursing Cell   164593268          4178
+
+PGIPER00008347 028317 Kiran   Bala             SG2       Nursing Cell   162259626           517
+
+PGIPER00008347 028317 Kiran   Bala             SG2       Nursing Cell   162297949           549
+
+PGIPER00008347 028317 Kiran   Bala             SG2       Nursing Cell   163549345          3352
+
+PGIPER00008347 028317 Kiran   Bala             SG2       Nursing Cell   164870329          4033
+
+                                                                          Grand Total    208502
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

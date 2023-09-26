@@ -1,0 +1,2545 @@
+<dashboardWidgetMain>
+   <maxRptId>37</maxRptId>
+   <dashboardWidgetLst class="java.util.ArrayList">
+      <dashboardWidgetMstVO>
+         <rptId>17</rptId>
+         <rptName>General No.</rptName>
+         <reportType>2</reportType>
+         <reportViewed>News_Ticker</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   helplinename ||&apos;  =  &apos;||pno1 as &quot;Department Name &amp; No.&quot;,
+    &apos;normal&apos; newstype
+    FROM pgi_helpline_no
+   WHERE deleted IS NULL and EMERGENCY=0
+ORDER BY helplinename   
+</mainQuery>
+               <queryLabel></queryLabel>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>General No.</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>18</rptId>
+         <rptName>Emergency Nos.</rptName>
+         <reportType>2</reportType>
+         <reportViewed>News_Ticker</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   helplinename ||&apos;  =  &apos;||pno1 as &quot;Department Name &amp; No.&quot;,
+    &apos;breaking&apos; newstype
+    FROM pgi_helpline_no
+   WHERE deleted IS NULL and EMERGENCY=1
+ORDER BY helplinename   
+</mainQuery>
+               <queryLabel></queryLabel>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Emergency Nos.</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>5</rptId>
+         <rptName>Consultant Detail</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   (SELECT    str_first_name
+                 || &apos; &apos;
+                 || str_middle_name
+                 || &apos; &apos;
+                 || str_last_name
+            FROM pist_emp_personnel_dtl
+           WHERE str_emp_no = a.hgstr_emp_code
+             AND gnum_hospital_code = a.gnum_hospital_code) AS &quot;Doctor&quot;,         
+         (SELECT STR_DESIG_NAME
+            FROM pist_designation_mst
+           WHERE num_desig_id = b.num_desig_id
+             AND gnum_isvalid = b.gnum_isvalid
+             AND gnum_hospital_code = b.gnum_hospital_code) designation         
+    FROM hgbt_unit_consultant_mst a, pist_emp_cur_detail_dtl b
+   WHERE hgnum_deptunitcode = #PK0#
+     AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND hgstr_emp_code = b.str_emp_no
+     AND a.gnum_isvalid = b.gnum_isvalid
+     AND a.gnum_hospital_code = b.gnum_hospital_code
+ORDER BY hgnum_is_hou DESC, hgnum_hierarchy_level ASC
+</mainQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Consultant Detail</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>20</rptId>
+         <rptName>Helpline Nos.</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   helplinename as &quot;Department&quot;,   pno1 &quot;Phone No.&quot;
+    FROM HDBT_HELPLINE_NO
+   WHERE deleted IS NULL and EMERGENCY=0
+and REGEXP_LIKE (UPPER (helplinename), &apos;(#PARA#35#PARA#)+&apos;) 
+ORDER BY helplinename   
+</mainQuery>
+               <totalRecordCountQuery>SELECT   count(helplinename) 
+      FROM  HDBT_HELPLINE_NO
+   WHERE deleted IS NULL and EMERGENCY=0
+and REGEXP_LIKE (UPPER (helplinename), &apos;(#PARA#35#PARA#)+&apos;) </totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery> SELECT   helplinename as &quot;Department&quot;,   pno1 &quot;Phone No.&quot;
+    FROM  HDBT_HELPLINE_NO
+   WHERE deleted IS NULL and EMERGENCY=1
+and REGEXP_LIKE (UPPER (helplinename), &apos;(#PARA#35#PARA#)+&apos;) 
+ORDER BY helplinename   
+</mainQuery>
+               <totalRecordCountQuery> SELECT   count(helplinename) 
+      FROM  HDBT_HELPLINE_NO
+   WHERE deleted IS NULL and EMERGENCY=1
+and REGEXP_LIKE (UPPER (helplinename), &apos;(#PARA#35#PARA#)+&apos;) </totalRecordCountQuery>
+               <queryLabel>Emergency Nos.</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Helpline Nos.</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>300000</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>19</rptId>
+         <rptName>Kiosk Menu Usage log</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT 
+H.HDBNUM_KIOSK_NAME,H.HDBNUM_MENU_NAME MenuName, count(H.HDBNUM_MENU_NAME) as &quot;use count&quot;  
+FROM HDBT_KIOSK_MENU_LOG_MST H
+where H.HDBNUM_KIOSK_ID like &apos;#PARA#31#PARA#&apos;
+and trunc(HDBDT_CLICK_DT) &gt;= to_date(&apos;#PARA#32#PARA#&apos;,&apos;dd-mm-yy&apos;)
+and  trunc(HDBDT_CLICK_DT) &lt; to_date(&apos;#PARA#33#PARA#&apos;,&apos;dd-mm-yy&apos;)+1
+group by H.HDBNUM_KIOSK_NAME, H.HDBNUM_MENU_NAME
+</mainQuery>
+               <totalRecordCountQuery>SELECT COUNT(*) FROM(
+SELECT 
+H.HDBNUM_KIOSK_NAME,H.HDBNUM_MENU_NAME MenuName, count(H.HDBNUM_MENU_NAME) as &quot;use count&quot;  
+FROM HDBT_KIOSK_MENU_LOG_MST H
+where H.HDBNUM_KIOSK_ID like &apos;#PARA#31#PARA#&apos;
+and trunc(HDBDT_CLICK_DT) &gt;= to_date(&apos;#PARA#32#PARA#&apos;,&apos;dd-mm-yy&apos;)
+and  trunc(HDBDT_CLICK_DT) &lt; to_date(&apos;#PARA#33#PARA#&apos;,&apos;dd-mm-yy&apos;)+1
+group by H.HDBNUM_KIOSK_NAME, H.HDBNUM_MENU_NAME
+
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Kiosk Menu Usage log</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>3</rptId>
+         <rptName>Special Clinic</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>2</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   hgstr_unitname Unit,
+ahis_appointment.apt_get_token(unitdays (b.hgnum_deptunitcode, b.gnum_hospital_code),1,&apos;#&apos;) &quot;DAYS&quot;,
+NVL(      
+(SELECT  x.hgstr_room_name
+           FROM hopt_dept_unit_roster_mst a,hgbt_room_mst x
+          WHERE a.gnum_isvalid = 1
+            AND a.gnum_hospital_code = b.gnum_hospital_code
+            AND a.hgnum_deptunitcode = b.hgnum_deptunitcode
+            and x.hgnum_room_code = a.hgnum_room_code
+            AND x.gnum_hospital_code = a.gnum_hospital_code
+            AND x.gnum_isvalid = a.gnum_isvalid
+            and rownum=1           
+            ) ,&apos;-&apos;)Room,
+         NVL(
+         (SELECT (SELECT    str_first_name
+                         || &apos; &apos;
+                         || str_middle_name
+                         || &apos; &apos;
+                         || str_last_name
+                    FROM pist_emp_personnel_dtl
+                   WHERE str_emp_no = d.hgstr_emp_code
+                     AND gnum_hospital_code = d.gnum_hospital_code
+                     AND gnum_isvalid = 1)
+            FROM hgbt_unit_consultant_mst d
+           WHERE hgnum_deptunitcode = B.hgnum_deptunitcode
+             AND gnum_isvalid = 1
+             AND hgnum_is_hou = 1
+             AND gnum_hospital_code = b.gnum_hospital_code),&apos;-&apos;) AS &quot;Head of Unit&quot; ,
+    &apos;View&apos;||&apos;##&apos;||b.hgnum_deptunitcode||&apos;##1&apos; as &quot;Consultant&quot;          
+    FROM hgbt_unit_mst b
+   WHERE b.gnum_isvalid IN (1, 2)
+     AND hgnum_isgeneral = 2
+     AND b.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND TO_DATE (b.gdt_effective_frm, &apos;dd-Mon-yyyy&apos;) &lt;= SYSDATE
+     AND NVL (TO_DATE (b.gdt_effective_to, &apos;dd-Mon-yyyy&apos;), SYSDATE) &gt;=
+                                                               TRUNC (SYSDATE)
+     AND b.hgnum_dept_code=#PARA#1#PARA#
+ORDER BY hgstr_unitname
+</mainQuery>
+               <totalRecordCountQuery>SELECT   count(*)   
+    FROM hgbt_unit_mst b
+   WHERE b.gnum_isvalid IN (1, 2)
+     AND hgnum_isgeneral = 2
+     AND b.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND TO_DATE (b.gdt_effective_frm, &apos;dd-Mon-yyyy&apos;) &lt;= SYSDATE
+     AND NVL (TO_DATE (b.gdt_effective_to, &apos;dd-Mon-yyyy&apos;), SYSDATE) &gt;=
+                                                               TRUNC (SYSDATE)
+     AND b.hgnum_dept_code=#PARA#1#PARA#
+
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Special Clinic</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>5</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>28</rptId>
+         <rptName>OPD Schedule Portal</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>select distinct DEPARTMENT_NAME as &quot;DEPARTMENT&quot; , decode(DEPARMENT_CATEGORY_ID,&apos;1&apos;, &apos;General&apos;,&apos;2&apos;,&apos;Special&apos;) &quot;OPD_Type&quot; from HDBPGI_OPD_MST
+where DEPARTMENT_ID=#PARA#38#PARA# and DEPARMENT_CATEGORY_ID=#PARA#39#PARA#
+</mainQuery>
+               <queryLabel>-</queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>select OPD_NAME, CONSULTANT as &quot;CONSULTANT NAME(S)&quot;,LOCATION ,OPD_DAYS 
+from
+(
+SELECT  NVL (om.department_category_name, &apos;-&apos;) &quot;OPD_NAME&quot;,
+         REPLACE(NVL (om.consultant_name, &apos; &apos;),&apos;,&apos;,&apos;&lt;br&gt;&apos;)  AS &quot;CONSULTANT&quot;,       
+         NVL (om.locinfo, &apos;-&apos;) as  &quot;LOCATION&quot; , 
+         NVL (om.working_days, &apos;-&apos;) AS &quot;OPD_DAYS&quot; ,
+         DECODE (UPPER (SUBSTR (NVL (om.working_days, &apos;---&apos;), 1, 3)),
+                 &apos;MON&apos;, 1,
+                 &apos;TUE&apos;, 2,
+                 &apos;WED&apos;, 3,
+                 &apos;THU&apos;, 4,
+                 &apos;FRI&apos;, 5,
+                 &apos;SAT&apos;, 6,
+                 &apos;SUN&apos;, 7,
+                 8
+                ) as days
+    FROM HDBPGI_OPD_MST om
+   WHERE om.department_id = #PARA#38#PARA#
+     AND deparment_category_id =#PARA#39#PARA#     
+ORDER BY  om.department_category_name ,days 
+)</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>-</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>OPD Schedule</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>29</rptId>
+         <rptName>Test Count</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Graph</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>BAR_GRAPH</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery> SELECT glm.gstr_lab_short AS labname, COUNT (hivtnum_req_dno) test_count
+    FROM hivt_requisition_dtl hrd, gblt_laboratory_mst glm
+   WHERE     gbnum_status_code IN (9, 16, 17, 18)
+         AND SUBSTR (hivtnum_req_dno, 1, 3) = glm.gnum_hospital_code
+         AND hrd.gnum_current_lab_code = glm.gnum_lab_code
+         AND TO_DATE (TO_CHAR (glm.gdt_effective_frm, &apos;DD-Mon-YYYY&apos;),
+                      &apos;dd-mm-yyyy&apos;) &lt;= TO_DATE (SYSDATE)
+         AND TO_DATE (NVL (glm.gdt_effective_to, SYSDATE)) &gt;= TO_DATE (SYSDATE)
+         AND glm.gbl_isvalid != 2
+          AND glm.gnum_lab_code =#PARA#27#PARA#
+         AND glm.gnum_hospital_code =&lt;HOSPITALCODE&gt;
+GROUP BY glm.gstr_lab_short</mainQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>27</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Test Count</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <xAxisLabel>Lab Name</xAxisLabel>
+         <yAxisLabel>Count</yAxisLabel>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>12</rptId>
+         <rptName>Staff Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>Yes</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   A.STR_EMP_NO &quot;Emp.No.&quot;, STR_EMP_FULL_NAME as &quot;Name&quot;,
+(SELECT GSTR_DEPT_NAME FROM gblt_department_mst WHERE gnum_dept_code=A.gnum_dept_code AND GNUM_ISVALID = 1 AND gnum_hospital_code = A.gnum_hospital_code) as &quot;Department&quot;,
+(SELECT GSTR_DESIG_NAME FROM GBLT_DESIGNATION_MST WHERE GNUM_DESIG_CODE = A.gnum_desig_code AND GNUM_ISVALID = 1 AND gnum_hospital_code =A.gnum_hospital_code) AS Designation, 
+/*(SELECT INITCAP(GSTR_GENDER_NAME) FROM GBLT_GENDER_MST WHERE GSTR_GENDER_CODE=A.gstr_gender_code AND GNUM_ISVALID=1) ||&apos;/&apos;||ahis_util.DOB_AGE_ON (DT_BIRTH_DATE, SYSDATE) &quot;Gender/Age&quot;,*/
+CASE WHEN (LENGTH(A.GNUM_DEPT_CODE)&gt;=3) THEN  (SELECT HGSTR_DESCRIPTION  FROM HGBT_LOCATION_MST WHERE HGNUM_LOCATION_CODE = (SELECT gnum_location_code FROM gblt_department_mst WHERE gnum_dept_code=A.gnum_dept_code AND GNUM_ISVALID = 1 AND GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE) AND GNUM_ISVALID = 1 AND gnum_hospital_code = A.gnum_hospital_code) ELSE &apos;--&apos; END &quot;Location&quot; 
+FROM PIST_EMP_REGISTRATION_DTL A WHERE 
+A.GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt;  
+AND UPPER (str_emp_full_name) ~ &apos;#PARA#25#PARA#&apos; 
+AND A.gnum_desig_code=#PARA#24#PARA#
+/*and A.gstr_gender_code=#PARA#10#PARA#*/
+and A.gnum_dept_code=#PARA#23#PARA#
+AND A.GNUM_ISVALID = 1 
+order by  str_emp_full_name
+</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT   A.STR_EMP_NO  FROM PIST_EMP_REGISTRATION_DTL A WHERE A.GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt;  
+AND UPPER (str_emp_full_name)~&apos;#PARA#25#PARA#&apos; 
+AND A.gnum_desig_code=#PARA#24#PARA#
+and A.gstr_gender_code=#PARA#10#PARA#
+and A.gnum_dept_code=#PARA#23#PARA#
+AND A.GNUM_ISVALID = 1   
+)
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>25,24,23</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Staff Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONGOBUTTONCLICK</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>22</rptId>
+         <rptName>Consultant Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT distinct NVL (str_emp_full_name, &apos;&apos;)|| &apos;##&apos;|| a.str_emp_no||&apos;##1&apos; consultant_Name,
+(select GSTR_DESIG_ST_NAME from GBLT_DESIGNATION_MST where GNUM_DESIG_CODE=a.gnum_desig_code AND gnum_isvalid = a.gnum_isvalid AND gnum_hospital_code = a.gnum_hospital_code)designation,(SELECT gstr_dept_name FROM gblt_department_mst WHERE gnum_dept_code = SUBSTR (c.hgnum_deptunitcode, 1, 3) AND gnum_isvalid = a.gnum_isvalid AND gnum_hospital_code = a.gnum_hospital_code ) department FROM pist_emp_registration_dtl a,HGBT_UNIT_CONSULTANT_MST c WHERE 
+/*gnum_desig_code IN (SELECT num_desig_id FROM hgbt_doctor_desig_mapping WHERE gnum_isvalid=a.gnum_isvalid and hgnum_process_type = 2 AND gnum_hospital_code =a.gnum_hospital_code) AND*/
+ a.str_emp_no = c.hgstr_emp_code AND a.gnum_isvalid = 1 AND a.gnum_isvalid = c.gnum_isvalid AND a.gnum_hospital_code =&lt;HOSPITALCODE&gt;
+AND upper(STR_EMP_FULL_NAME) ~ &apos;#PARA#36#PARA#&apos;
+AND SUBSTR (c.hgnum_deptunitcode, 1, 3)=#PARA#18#PARA#
+AND c.gnum_hospital_code = a.gnum_hospital_code 
+order by str_emp_full_name,department</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT distinct a.str_emp_no FROM pist_emp_registration_dtl a,HGBT_UNIT_CONSULTANT_MST c WHERE 
+/*gnum_desig_code IN (SELECT num_desig_id FROM hgbt_doctor_desig_mapping WHERE gnum_isvalid=a.gnum_isvalid and hgnum_process_type = 2 AND gnum_hospital_code =a.gnum_hospital_code) AND*/
+ a.str_emp_no = c.hgstr_emp_code AND a.gnum_isvalid = 1 AND a.gnum_isvalid = c.gnum_isvalid AND a.gnum_hospital_code =&lt;HOSPITALCODE&gt;
+AND upper(STR_EMP_FULL_NAME) ~ &apos;#PARA#36#PARA#&apos;
+AND SUBSTR (c.hgnum_deptunitcode, 1, 3)=#PARA#18#PARA#
+AND c.gnum_hospital_code = a.gnum_hospital_code 
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>36,18</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Consultant Details</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>23</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONGOBUTTONCLICK</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>9</rptId>
+         <rptName>Holiday Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>4</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT  TO_CHAR (dt_holiday, &apos;dd-Mon-yyyy&apos;) &quot;Date &quot;, INITCAP (TO_CHAR (dt_holiday, &apos;day&apos;)) &quot;DAY&quot;,
+  str_holiday_name &quot;Holiday Name&quot;,         
+(SELECT  str_holiday_type_name        
+  FROM pist_holiday_type_sys b
+  where b.num_holiday_type_id=a.num_holiday_type_id)
+ as  Holiday_Type
+    FROM pist_holiday_mst a
+   WHERE gnum_hospital_code =&lt;HOSPITALCODE&gt;
+     AND gnum_isvalid = 1     
+     AND TO_CHAR (DT_HOLIDAY, &apos;YYYY&apos;) =#PARA#19#PARA#    
+     AND a.num_holiday_type_id= &apos;#PARA#20#PARA#&apos;
+ORDER BY dt_holiday
+</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT  dt_holiday
+    FROM pist_holiday_mst a
+   WHERE gnum_hospital_code =&lt;HOSPITALCODE&gt;
+     AND gnum_isvalid = 1     
+     AND TO_CHAR (DT_HOLIDAY, &apos;YYYY&apos;) =#PARA#19#PARA#  
+     AND a.num_holiday_type_id= &apos;#PARA#20#PARA#&apos;
+)
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>19,20</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Holiday Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>30</rptId>
+         <rptName>Telephone Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>Yes</showRecordCount>
+         <recordPerPage>4</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   STR_EMP_FULL_NAME AS &quot;NAME&quot;,
+(SELECT GSTR_DEPT_NAME FROM GBLT_DEPARTMENT_MST WHERE GNUM_DEPT_CODE=A.GNUM_DEPT_CODE AND GNUM_ISVALID = 1 AND GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE) AS &quot;DEPARTMENT&quot;,
+num_mobile_no &quot;telephone/mobile no.&quot; 
+FROM PIST_EMP_REGISTRATION_DTL A WHERE 
+A.GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt;  
+AND UPPER (str_emp_full_name) ~ &apos;#PARA#25#PARA#&apos; 
+and A.gnum_dept_code=#PARA#23#PARA#
+AND A.GNUM_ISVALID = 1 
+ORDER BY  STR_EMP_FULL_NAME
+</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT   STR_EMP_FULL_NAME 
+FROM PIST_EMP_REGISTRATION_DTL A WHERE 
+A.GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt;  
+AND UPPER (str_emp_full_name) ~ &apos;#PARA#25#PARA#&apos; 
+and A.gnum_dept_code=#PARA#23#PARA#
+AND A.GNUM_ISVALID = 1 
+)
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>25,23</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Telephone Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>23</rptId>
+         <rptName>Consultant Enquiry Details</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT DISTINCT NVL (STR_EMP_FULL_NAME, &apos;&apos;) CONSULTANT_NAME,
+(SELECT GSTR_DESIG_ST_NAME FROM GBLT_DESIGNATION_MST WHERE GNUM_DESIG_CODE=A.GNUM_DESIG_CODE AND GNUM_ISVALID = A.GNUM_ISVALID AND GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE)DESIGNATION FROM PIST_EMP_REGISTRATION_DTL A,HGBT_UNIT_CONSULTANT_MST C WHERE 
+/*GNUM_DESIG_CODE IN (SELECT NUM_DESIG_ID FROM HGBT_DOCTOR_DESIG_MAPPING WHERE GNUM_ISVALID=A.GNUM_ISVALID AND HGNUM_PROCESS_TYPE = 2 AND GNUM_HOSPITAL_CODE =A.GNUM_HOSPITAL_CODE) AND*/
+ A.STR_EMP_NO = C.HGSTR_EMP_CODE AND A.GNUM_ISVALID = 1 AND A.GNUM_ISVALID = C.GNUM_ISVALID AND A.GNUM_HOSPITAL_CODE =101
+AND C.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE 
+AND A.STR_EMP_NO=&apos;#PK0#&apos;
+</mainQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>SELECT DEPARTMENT,UNIT,DAYS, LOCATION
+FROM (
+SELECT   distinct GSTR_DEPT_NAME DEPARTMENT,  HGSTR_UNITNAME AS UNIT,
+NVL(AHIS_APPOINTMENT.APT_GET_TOKEN(pkg_reg_util.unit_room_time_display (A.GNUM_HOSPITAL_CODE::character varying,A.HGNUM_DEPTUNITCODE::character varying),1,&apos;#&apos;),&apos;-&apos;) AS DAYS,
+(select hgstr_description || &apos; &apos; || hgstr_landmark from HGBT_LOCATION_MST where 
+gnum_isvalid=1
+and gnum_hospital_code=A.GNUM_HOSPITAL_CODE
+and hgnum_location_code= A.HGNUM_LOCATION_CODE
+) As location
+--pkg_reg_util.unit_room_time_display
+FROM HGBT_UNIT_MST A, HGBT_UNIT_CONSULTANT_MST D, GBLT_DEPARTMENT_MST B,HGBT_LOCATION_MST L
+WHERE (D.HGNUM_DEPTUNITCODE = A.HGNUM_DEPTUNITCODE)
+AND A.GNUM_DEPT_CODE = B.GNUM_DEPT_CODE
+AND D.HGSTR_EMP_CODE =&apos;#PK0#&apos;
+AND A.GNUM_ISVALID = 1
+AND B.GNUM_ISVALID = A.GNUM_ISVALID
+AND D.GNUM_ISVALID = A.GNUM_ISVALID
+AND A.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt;
+AND B.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE
+)
+
+
+</mainQuery>
+               <totalRecordCountQuery>SELECT count(*) FROM (
+SELECT   distinct GSTR_DEPT_NAME DEPARTMENT,  HGSTR_UNITNAME AS UNIT,
+NVL(AHIS_APPOINTMENT.APT_GET_TOKEN(pkg_reg_util.unit_room_time_display (A.GNUM_HOSPITAL_CODE::character varying,A.HGNUM_DEPTUNITCODE::character varying),1,&apos;#&apos;),&apos;-&apos;) AS DAYS,
+(select hgstr_description || &apos; &apos; || hgstr_landmark from HGBT_LOCATION_MST where 
+gnum_isvalid=1
+and gnum_hospital_code=A.GNUM_HOSPITAL_CODE
+and hgnum_location_code= A.HGNUM_LOCATION_CODE
+) As location
+--pkg_reg_util.unit_room_time_display
+FROM HGBT_UNIT_MST A, HGBT_UNIT_CONSULTANT_MST D, GBLT_DEPARTMENT_MST B,HGBT_LOCATION_MST L
+WHERE (D.HGNUM_DEPTUNITCODE = A.HGNUM_DEPTUNITCODE)
+AND A.GNUM_DEPT_CODE = B.GNUM_DEPT_CODE
+AND D.HGSTR_EMP_CODE =&apos;#PK0#&apos;
+AND A.GNUM_ISVALID = 1
+AND B.GNUM_ISVALID = A.GNUM_ISVALID
+AND D.GNUM_ISVALID = A.GNUM_ISVALID
+AND A.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt;
+AND B.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE
+)
+
+
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Consultant Details</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>10</rptId>
+         <rptName>Billing Charges In Hospital</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   hblstr_tariff_name||&apos;##&apos;||hblnum_tariff_id||&apos;##1&apos; as &quot;Tariff Name&quot;         
+    FROM hblt_tariff_mst a
+   WHERE gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND gnum_isvalid = 1
+     AND hblnum_group_id =#PARA#21#PARA#
+     AND UPPER (hblstr_tariff_name)~ &apos;#PARA#22#PARA#&apos;
+     AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+ORDER BY hblstr_tariff_name</mainQuery>
+               <totalRecordCountQuery>SELECT   count(*)    FROM hblt_tariff_mst a
+   WHERE gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND gnum_isvalid = 1
+     AND hblnum_group_id =#PARA#21#PARA#
+     AND UPPER (hblstr_tariff_name)~ &apos;#PARA#22#PARA#&apos;
+     AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>21,22</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Billing Charges In Hospital</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>11</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>26</rptId>
+         <rptName>Test Wise Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery> SELECT  DISTINCT  
+gstr_test_name || &apos;##&apos; || gnum_test_code || &apos;##1&apos; as  TEST_NAME
+ FROM hivt_laboratory_test_dtl a,gblt_test_mst b
+ WHERE a.gnum_isvalid = 1    
+and UPPER (gstr_test_name)~ &apos;#PARA#26#PARA#&apos;
+ and SUBSTR (a.gnum_lab_test_code, 1, 5)= #PARA#27#PARA#
+and SUBSTR (a.gnum_lab_test_code, 6, 10)=gnum_test_code
+ AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND b.gnum_hospital_code = a.gnum_hospital_code     AND b.gdt_effective_frm &lt;= SYSDATE
+     AND (TO_DATE (NVL (b.gdt_effective_to, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))
+     AND b.gnum_isvalid = a.gnum_isvalid
+and exists (select 1 from   gblt_department_mst d , gblt_laboratory_mst l where l.GNUM_DEPT_CODE=d.GNUM_DEPT_CODE and l.GBL_ISVALID= 1   and d.GNUM_ISVALID=1 and l.gnum_hospital_code=d.gnum_hospital_code and a.gnum_hospital_code=l.gnum_hospital_code and substr(a.GNUM_LAB_TEST_CODE,1,5)=l.GNUM_LAB_CODE )
+ORDER BY TEST_NAME</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+  SELECT  DISTINCT  
+gstr_test_name || &apos;##&apos; || gnum_test_code || &apos;##1&apos; as  TEST_NAME
+ FROM hivt_laboratory_test_dtl a,gblt_test_mst b
+ WHERE a.gnum_isvalid = 1    
+and UPPER (gstr_test_name)~ &apos;#PARA#26#PARA#&apos;
+ and SUBSTR (a.gnum_lab_test_code, 1, 5)= #PARA#27#PARA#
+and SUBSTR (a.gnum_lab_test_code, 6, 10)=gnum_test_code
+ AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND b.gnum_hospital_code = a.gnum_hospital_code     AND b.gdt_effective_frm &lt;= SYSDATE
+     AND (TO_DATE (NVL (b.gdt_effective_to, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))
+     AND b.gnum_isvalid = a.gnum_isvalid
+and exists (select 1 from   gblt_department_mst d , gblt_laboratory_mst l where l.GNUM_DEPT_CODE=d.GNUM_DEPT_CODE and l.GBL_ISVALID= 1   and d.GNUM_ISVALID=1 and l.gnum_hospital_code=d.gnum_hospital_code and a.gnum_hospital_code=l.gnum_hospital_code and substr(a.GNUM_LAB_TEST_CODE,1,5)=l.GNUM_LAB_CODE )
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>26,27</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Test Wise Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>27</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>14</rptId>
+         <rptName>Test Details</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT  DISTINCT
+ (SELECT GSTR_DEPT_NAME
+            FROM GBLT_DEPARTMENT_MST
+           WHERE GNUM_ISVALID = C.GBL_ISVALID
+             AND GNUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+             AND GNUM_DEPT_CODE = C.GNUM_DEPT_CODE
+             AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+             AND (TO_DATE (NVL (GDT_EFFECTIVE_TO, SYSDATE), &apos;DD-MM-YY&apos;) &gt;=
+                                                 TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;)
+                 )) &quot;DEPARTMENT&quot;,
+         GSTR_LAB_NAME &quot;LAB_NAME&quot;,
+          nvl((SELECT nvl(STR_BUILDING_NAME,&apos;-&apos;) 
+                 FROM EST_BUILDING_MST
+                WHERE GNUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1
+                  AND NUM_BUILDING_CODE = C.NUM_BUILDING_CODE) , &apos;&apos;) as building,
+              
+              
+         NVL ((SELECT STR_BLOCK_NAME
+                 FROM EST_BLOCK_MST
+                WHERE NUM_BLOCK_ID = C.NUM_BLOCK_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             ) as Block, 
+                      
+
+NVL ((SELECT STR_FLOOR_NAME
+                 FROM EST_FLOOR_MST
+                WHERE NUM_FLOOR_ID = C.NUM_FLOOR_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             ) as Floor,
+NVL ((SELECT STR_ROOM_NAME
+                 FROM EST_ROOM_MST
+                WHERE NUM_ROOM_ID = C.NUM_ROOM_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             ) as Room 
+        
+        
+    FROM  GBLT_LABORATORY_MST C
+   WHERE 
+   SUBSTR (c.GNUM_LAB_CODE, 1, 5) = #PK0#
+   AND C.GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt;   
+   AND C.GBL_ISVALID = 1</mainQuery>
+               <queryLabel>Laboratory Test Detail</queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>select COLLECTION_AREA AS &quot;COLLECTION AREA&quot;, decode(ROOM,null,&apos; &apos;, &apos;ROOM NO:-&apos;||ROOM ||&apos;,&apos; ) || decode(FLOOR,null,&apos; &apos;, FLOOR ||&apos;,&apos; )  || decode(BLOCK,null,&apos; &apos;, BLOCK ||&apos;,&apos; )   || decode(BUILDING,null,&apos; &apos;, BUILDING  )  AS &quot;LOCATION&quot; from
+   ( SELECT   HSCAM.GSTR_AREA_NAME AS COLLECTION_AREA,            
+   (SELECT STR_ROOM_NAME
+                       FROM EST_ROOM_MST
+                      WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                        AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                        AND GNUM_ISVALID = 1
+                        AND NUM_ROOM_ID = HSCAM.NUM_ROOM_ID
+                        AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS ROOM,
+                      (SELECT STR_FLOOR_NAME
+                       FROM EST_FLOOR_MST
+                      WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                        AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                        AND GNUM_ISVALID = 1
+                        AND NUM_FLOOR_ID = HSCAM.NUM_FLOOR_ID
+                        AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS FLOOR,         
+                   (SELECT STR_BLOCK_NAME
+                       FROM EST_BLOCK_MST
+                      WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                        AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                        AND GNUM_ISVALID = 1
+                        AND NUM_BLOCK_ID = HSCAM.NUM_BLOCK_ID
+                        AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS BLOCK,
+             nvl((SELECT nvl(STR_BUILDING_NAME,&apos;-&apos;) 
+                    FROM EST_BUILDING_MST
+                   WHERE GNUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE                  
+                     AND GNUM_ISVALID = 1
+                     AND NUM_BUILDING_CODE = HSCAM.NUM_BUILDING_CODE) , &apos;&apos;)  AS BUILDING
+       FROM HIVT_LAB_COLLECTION_AREA_MST HLCAM, HIVT_SAM_COL_AREA_MST HSCAM
+      WHERE hlcam.gnum_area_code = hscam.gnum_area_code
+        AND hlcam.gnum_lab_code = SUBSTR(#PK0#,1,5)
+        AND hlcam.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+        AND hlcam.gnum_isvalid = 1
+        AND hscam.gnum_isvalid = 1)
+   ORDER BY COLLECTION_AREA</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>Laboratory Collection Area List</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>SELECT   gstr_test_name &quot;Test Name&quot;,
+ decode(substr(gchar_test_day,1,1),&apos;1&apos;,&apos;Sun&apos;,&apos;&apos;)  || 
+ decode(substr(gchar_test_day,2,1),&apos;1&apos;,&apos;Mon,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,3,1),&apos;1&apos;,&apos;Tue,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,4,1),&apos;1&apos;,&apos;Wed,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,5,1),&apos;1&apos;,&apos;Thu,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,6,1),&apos;1&apos;,&apos;Fri,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,7,1),&apos;1&apos;,&apos;Sat,&apos;,&apos;&apos;) 
+
+
+ &quot;Test Day&quot;,         
+ b.gstr_remarks &quot;Pre-Requisite&quot;, gstr_turnaround_time &quot;Time&quot;
+        
+    FROM hivt_laboratory_test_dtl a,gblt_test_mst b
+   WHERE    gnum_test_code = SUBSTR (a.gnum_lab_test_code, 6, 10)
+    AND SUBSTR (a.gnum_lab_test_code, 1, 5) = #PK0#
+    AND a.gnum_hospital_code =  &lt;HOSPITALCODE&gt;
+     AND a.gnum_isvalid = 1          
+     AND b.gnum_hospital_code = a.gnum_hospital_code
+     AND b.gnum_isvalid = a.gnum_isvalid
+     AND b.gdt_effective_frm &lt;= SYSDATE
+     AND (TO_DATE (NVL (b.gdt_effective_to, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))
+ORDER BY gstr_test_name</mainQuery>
+               <totalRecordCountQuery>SELECT   count(*)
+    FROM hivt_laboratory_test_dtl a,gblt_test_mst b
+   WHERE    gnum_test_code = SUBSTR (a.gnum_lab_test_code, 6, 10)
+    AND SUBSTR (a.gnum_lab_test_code, 1, 5) = #PK0#
+    AND a.gnum_hospital_code =  &lt;HOSPITALCODE&gt;
+     AND a.gnum_isvalid = 1          
+     AND b.gnum_hospital_code = a.gnum_hospital_code
+     AND b.gnum_isvalid = a.gnum_isvalid
+     AND b.gdt_effective_frm &lt;= SYSDATE
+     AND (TO_DATE (NVL (b.gdt_effective_to, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))
+</totalRecordCountQuery>
+               <queryLabel>Test List</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Test Details</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>27</rptId>
+         <rptName>Test Wise Lab Details</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>
+SELECT  DISTINCT
+ (SELECT GSTR_DEPT_NAME
+            FROM GBLT_DEPARTMENT_MST
+           WHERE GNUM_ISVALID = C.GBL_ISVALID
+             AND GNUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+             AND GNUM_DEPT_CODE = C.GNUM_DEPT_CODE
+                 ) &quot;DEPARTMENT&quot;,
+         GSTR_LAB_NAME &quot;LAB_NAME&quot;,
+          NVL ((SELECT STR_BUILDING_NAME
+                 FROM EST_BUILDING_MST
+                WHERE GNUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE                  
+                  AND GNUM_ISVALID = 1
+                  AND NUM_BUILDING_CODE = C.NUM_BUILDING_CODE),
+              &apos; &apos;
+             ) as building,
+              NVL ((SELECT STR_BLOCK_NAME
+                 FROM EST_BLOCK_MST
+                WHERE NUM_BLOCK_ID = C.NUM_BLOCK_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             ) as block,
+             
+NVL ((SELECT STR_FLOOR_NAME
+                 FROM EST_FLOOR_MST
+                WHERE NUM_FLOOR_ID = C.NUM_FLOOR_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             ) as floor,
+         
+NVL ((SELECT STR_ROOM_NAME
+                 FROM EST_ROOM_MST
+                WHERE NUM_ROOM_ID = C.NUM_ROOM_ID
+                  AND NUM_HOSPITAL_CODE = c.GNUM_HOSPITAL_CODE
+                  AND GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                  AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                  AND GNUM_ISVALID = 1),
+              &apos;&apos;
+             )  as room,
+        
+             
+ GSTR_TEST_NAME &quot;TEST_NAME&quot;,
+ decode(substr(gchar_test_day,1,1),&apos;1&apos;,&apos;Sun&apos;,&apos;&apos;)  || 
+ decode(substr(gchar_test_day,2,1),&apos;1&apos;,&apos;Mon,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,3,1),&apos;1&apos;,&apos;Tue,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,4,1),&apos;1&apos;,&apos;Wed,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,5,1),&apos;1&apos;,&apos;Thu,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,6,1),&apos;1&apos;,&apos;Fri,&apos;,&apos;&apos;) ||
+ decode(substr(gchar_test_day,7,1),&apos;1&apos;,&apos;Sat,&apos;,&apos;&apos;) AS
+ &quot;TEST_DAYS&quot;  
+    FROM  GBLT_LABORATORY_MST C,HIVT_LABORATORY_TEST_DTL A,GBLT_TEST_MST B
+   WHERE SUBSTR (A.GNUM_LAB_TEST_CODE, 6, 10)= GNUM_TEST_CODE
+   and c.GNUM_LAB_CODE=  SUBSTR (A.GNUM_LAB_TEST_CODE, 1, 5)
+    
+   and  GNUM_TEST_CODE=  #PK0#
+     AND A.GNUM_HOSPITAL_CODE =  &lt;HOSPITALCODE&gt;
+     AND A.GNUM_ISVALID = 1          
+     AND B.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE
+     AND B.GNUM_ISVALID = A.GNUM_ISVALID
+     AND c.GNUM_HOSPITAL_CODE =  A.GNUM_HOSPITAL_CODE
+     AND c.GBL_ISVALID = 1        
+     
+     AND B.GDT_EFFECTIVE_FRM &lt;= SYSDATE
+     AND (TO_DATE (NVL (B.GDT_EFFECTIVE_TO, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))</mainQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>SELECT LAB_NAME,COLLECTION_AREA, decode(ROOM,null,&apos; &apos;, &apos;ROOM NO:-&apos;|| ROOM ||&apos;,&apos; ) || decode(FLOOR,null,&apos; &apos;, FLOOR ||&apos;,&apos; )  || decode(BLOCK,null,&apos; &apos;, BLOCK ||&apos;,&apos; )   || decode(BUILDING,null,&apos; &apos;, BUILDING  )  AS &quot;LOCATION&quot; FROM
+(SELECT  (SELECT INITCAP(GSTR_LAB_NAME) FROM GBLT_LABORATORY_MST WHERE GBL_ISVALID=1 AND  GNUM_LAB_CODE=HLCAM.GNUM_LAB_CODE)  AS LAB_NAME,
+ HSCAM.GSTR_AREA_NAME AS COLLECTION_AREA,
+    (SELECT STR_ROOM_NAME
+                    FROM EST_ROOM_MST
+                   WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                     AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                     AND GNUM_ISVALID = 1
+                     AND NUM_ROOM_ID = HSCAM.NUM_ROOM_ID
+                     AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS ROOM,
+    
+          (SELECT STR_FLOOR_NAME
+                    FROM EST_FLOOR_MST
+                   WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                     AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                     AND GNUM_ISVALID = 1
+                     AND NUM_FLOOR_ID = HSCAM.NUM_FLOOR_ID
+                     AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS FLOOR,
+          (SELECT STR_BLOCK_NAME
+                    FROM EST_BLOCK_MST
+                   WHERE GDT_EFFECTIVE_FRM &lt;= SYSDATE
+                     AND NVL (GDT_EFFECTIVE_TO, SYSDATE) &gt;= SYSDATE
+                     AND GNUM_ISVALID = 1
+                     AND NUM_BLOCK_ID = HSCAM.NUM_BLOCK_ID
+                     AND NUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE) AS BLOCK,
+               (SELECT STR_BUILDING_NAME
+                    FROM EST_BUILDING_MST
+                   WHERE GNUM_ISVALID = 1
+                     AND NUM_BUILDING_CODE = HSCAM.NUM_BUILDING_CODE
+                     AND GNUM_HOSPITAL_CODE = HSCAM.GNUM_HOSPITAL_CODE
+                     ) AS BUILDING
+    FROM HIVT_LAB_COLLECTION_AREA_MST HLCAM, HIVT_SAM_COL_AREA_MST HSCAM    WHERE hlcam.gnum_area_code = hscam.gnum_area_code     
+     AND hlcam.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND hlcam.gnum_isvalid = 1
+     AND hscam.gnum_isvalid = 1
+     AND hlcam.gnum_lab_code IN (
+            SELECT DISTINCT gnum_lab_code
+                       FROM gblt_laboratory_mst c, hivt_laboratory_test_dtl a
+                      WHERE 
+                      SUBSTR (a.gnum_lab_test_code, 6, 10) = #PK0# AND 
+                      c.gnum_lab_code =SUBSTR (a.gnum_lab_test_code, 1, 5)
+                        AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+                        AND a.gnum_isvalid = 1
+                        AND c.gnum_hospital_code = a.gnum_hospital_code
+                        AND c.gbl_isvalid = 1))
+ORDER BY LAB_NAME</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>Lab Collection Area Details</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Test Details</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>1</rptId>
+         <rptName>Department Details</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>3</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT DISTINCT  gstr_dept_name AS Department,
+gstr_dept_short &quot;Department Short Name&quot;,         
+                   NVL (a.hgstr_description, &apos;-&apos;)
+         || &apos;&apos;
+         || (SELECT str_building_name
+               FROM est_building_mst
+              WHERE gnum_hospital_code = a.gnum_hospital_code
+                AND num_building_code = a.hgstr_building
+                
+                    
+                AND gnum_isvalid &gt; 0) AS &quot;Location&quot;         
+    FROM hgbt_location_mst a, gblt_department_mst b
+   WHERE    b.gnum_dept_code =#PK0#
+    AND b.gnum_hospital_code = &lt;HOSPITALCODE&gt;  AND 
+     b.gnum_hospital_code = a.gnum_hospital_code
+     AND (b.gnum_isvalid = 1 OR b.gnum_isvalid = 2)
+     AND a.hgnum_location_code = b.gnum_location_code
+     AND a.gnum_isvalid = 1</mainQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>select DISTINCT  
+  (select HGSTR_UNITNAME from HGBT_UNIT_MST where HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1) as UNIT_NAME, 
+  (SELECT    STR_EMP_FULL_NAME FROM pist_emp_registration_dtl WHERE STR_EMP_NO = d.hgstr_emp_code and GNUM_HOSPITAL_CODE =a.GNUM_HOSPITAL_CODE) as &quot;HEAD OF UNIT&quot;,
+  decode(b.HOPNUM_DAY_OF_WEEK,1,&apos;Sunday&apos;,2,&apos;Monday&apos;,3,&apos;Tuesday&apos;,4,&apos;Wednessday&apos;,5,&apos;Thursday&apos;,6 ,&apos;Friday&apos;,7,&apos;Satarday&apos;) &quot;day&quot;,
+  (select HOPSTR_START_TIME from GBLT_SHIFT_MST where HGNUM_SHIFT_CODE=b.HGNUM_SHIFT_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)
+  ||&apos;-&apos;||
+  (select HOPSTR_END_TIME from GBLT_SHIFT_MST where HGNUM_SHIFT_CODE=b.HGNUM_SHIFT_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)as UNIT_TIME,
+  (select HGSTR_ROOM_NAME from HGBT_ROOM_MST where HGNUM_ROOM_CODE=c.HGNUM_ROOM_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)as ROOM
+  
+   from HGBT_UNIT_MST a,HOPT_DEPT_UNIT_ROSTER_MST b , HRGT_DEPT_UNIT_ROOM_MST c, HGBT_UNIT_CONSULTANT_MST d where   (b.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (c.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (d.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and  HGNUM_IS_HOU=1 and a.gnum_isvalid=1 
+   and a.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and b.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and c.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and d.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   --AND hgnum_isgeneral = 2
+   AND hgnum_isgeneral NOT IN (2, 3)   
+   and hopnum_week_of_month=1 AND a.gnum_dept_code =#PK0# order by HGSTR_UNITNAME,b.HOPNUM_DAY_OF_WEEK</mainQuery>
+               <totalRecordCountQuery>SELECT COUNT(*) FROM 
+(select DISTINCT  a.HGNUM_DEPTUNITCODE,B.HOPNUM_DAY_OF_WEEK
+    from HGBT_UNIT_MST a,HOPT_DEPT_UNIT_ROSTER_MST b , HRGT_DEPT_UNIT_ROOM_MST c, HGBT_UNIT_CONSULTANT_MST d where   (b.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (c.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (d.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and  HGNUM_IS_HOU=1 and a.gnum_isvalid=1 
+   and a.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and b.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and c.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and d.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   --AND hgnum_isgeneral = 2
+   AND hgnum_isgeneral NOT IN (2, 3)   
+   and hopnum_week_of_month=1 AND a.gnum_dept_code =#PK0#)</totalRecordCountQuery>
+               <queryLabel>OPD UNITS</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Department Details</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>6</rptId>
+         <rptName>Special Clinic Detail</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>select DISTINCT  
+  (select HGSTR_UNITNAME from HGBT_UNIT_MST where HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1) as UNIT_NAME, 
+  (SELECT    STR_EMP_FULL_NAME FROM pist_emp_registration_dtl WHERE STR_EMP_NO = d.hgstr_emp_code and GNUM_HOSPITAL_CODE =a.GNUM_HOSPITAL_CODE) as &quot;HEAD OF UNIT&quot;,
+  decode(b.HOPNUM_DAY_OF_WEEK,1,&apos;Sunday&apos;,2,&apos;Monday&apos;,3,&apos;Tuesday&apos;,4,&apos;Wednessday&apos;,5,&apos;Thursday&apos;,6 ,&apos;Friday&apos;,7,&apos;Satarday&apos;) &quot;day&quot;,
+  (select HOPSTR_START_TIME from GBLT_SHIFT_MST where HGNUM_SHIFT_CODE=b.HGNUM_SHIFT_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)
+  ||&apos;-&apos;||
+  (select HOPSTR_END_TIME from GBLT_SHIFT_MST where HGNUM_SHIFT_CODE=b.HGNUM_SHIFT_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)as UNIT_TIME,
+  (select HGSTR_ROOM_NAME from HGBT_ROOM_MST where HGNUM_ROOM_CODE=c.HGNUM_ROOM_CODE and GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; and GNUM_ISVALID=1)as ROOM
+  
+   from HGBT_UNIT_MST a,HOPT_DEPT_UNIT_ROSTER_MST b , HRGT_DEPT_UNIT_ROOM_MST c, HGBT_UNIT_CONSULTANT_MST d where   (b.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (c.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (d.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and  HGNUM_IS_HOU=1 and a.gnum_isvalid=1 
+   and a.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and b.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and c.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and d.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   AND hgnum_isgeneral = 2   
+   and hopnum_week_of_month=1 AND a.gnum_dept_code =#PK0# order by HGSTR_UNITNAME,b.HOPNUM_DAY_OF_WEEK</mainQuery>
+               <totalRecordCountQuery>SELECT COUNT(*) FROM 
+(select DISTINCT   a.HGNUM_DEPTUNITCODE,B.HOPNUM_DAY_OF_WEEK
+  
+   from HGBT_UNIT_MST a,HOPT_DEPT_UNIT_ROSTER_MST b , HRGT_DEPT_UNIT_ROOM_MST c, HGBT_UNIT_CONSULTANT_MST d where   (b.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (c.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and (d.HGNUM_DEPTUNITCODE=a.HGNUM_DEPTUNITCODE) and  HGNUM_IS_HOU=1 and a.gnum_isvalid=1 
+   and a.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and b.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and c.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   and d.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt; 
+   AND hgnum_isgeneral = 2   
+   and hopnum_week_of_month=1 AND a.gnum_dept_code =#PK0#)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Special Clinic Detail</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>31</rptId>
+         <rptName>Clinical Department Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT INITCAP(GSTR_DEPT_NAME)||&apos;##&apos;||  GNUM_DEPT_CODE ||&apos;##1&apos; DEPARTMENT  ,
+(SELECT DISTINCT &apos;VIEW SPECIAL CLINIC &apos;||&apos;##&apos;||w.GNUM_DEPT_CODE||&apos;##2&apos; 
+FROM HGBT_UNIT_MST w,HOPT_DEPT_UNIT_ROSTER_MST x , HRGT_DEPT_UNIT_ROOM_MST y, HGBT_UNIT_CONSULTANT_MST z 
+WHERE   (x.HGNUM_DEPTUNITCODE=w.HGNUM_DEPTUNITCODE) AND (y.HGNUM_DEPTUNITCODE=w.HGNUM_DEPTUNITCODE) AND (z.HGNUM_DEPTUNITCODE=w.HGNUM_DEPTUNITCODE) 
+AND  HGNUM_IS_HOU=1 AND w.GNUM_ISVALID=1 
+   AND w.GNUM_HOSPITAL_CODE =A.GNUM_HOSPITAL_CODE
+   AND x.GNUM_HOSPITAL_CODE =A.GNUM_HOSPITAL_CODE
+   AND y.GNUM_HOSPITAL_CODE =A.GNUM_HOSPITAL_CODE 
+   AND z.GNUM_HOSPITAL_CODE =A.GNUM_HOSPITAL_CODE
+   AND HGNUM_ISGENERAL = 2   
+   AND HOPNUM_WEEK_OF_MONTH=1 AND w.GNUM_DEPT_CODE =A.GNUM_DEPT_CODE
+LIMIT 1
+ ) AS &quot;-&quot;
+FROM GBLT_DEPARTMENT_MST A
+WHERE gnum_dept_type = 1
+AND a.gnum_isvalid IN (1,2)
+and upper(gstr_dept_name) ~ &apos;#PARA#34#PARA#&apos;
+AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+order by  gstr_dept_name</mainQuery>
+               <totalRecordCountQuery>SELECT  COUNT(*)
+FROM gblt_department_mst a
+WHERE gnum_dept_type = 1
+AND a.gnum_isvalid IN (1,2)
+and upper(gstr_dept_name) ~ &apos;#PARA#34#PARA#&apos;
+AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>34</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Clinical Department Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>2</string>
+               <dashboardWidgetMstVO>
+                  <rptId>6</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>1</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>13</rptId>
+         <rptName>Lab Wise Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT gstr_lab_name || &apos;##&apos; || gnum_lab_code || &apos;##1&apos; &quot;LABORATORY NAME&quot;,
+ b.gstr_dept_name &quot;DEPARTMENT&quot;
+  FROM gblt_laboratory_mst a, gblt_department_mst b
+ WHERE a.gnum_dept_code = b.gnum_dept_code     
+   AND a.gnum_hospital_code = b.gnum_hospital_code   
+   AND b.gnum_isvalid = 1
+   AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+   and b.GNUM_DEPT_CODE=#PARA#28#PARA#
+and UPPER (gstr_lab_name) ~ &apos;#PARA#29#PARA#&apos;
+   AND a.gbl_isvalid = 1
+order by gstr_lab_name</mainQuery>
+               <totalRecordCountQuery>SELECT count(*)
+  FROM gblt_laboratory_mst a, gblt_department_mst b
+ WHERE a.gnum_dept_code = b.gnum_dept_code     
+   AND a.gnum_hospital_code = b.gnum_hospital_code   
+   AND b.gnum_isvalid = 1
+   AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+   and b.GNUM_DEPT_CODE=#PARA#28#PARA#
+and UPPER (gstr_lab_name) ~ &apos;#PARA#29#PARA#&apos;
+   AND a.gbl_isvalid = 1</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>29,28</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Lab wise Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>14</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>7</rptId>
+         <rptName>OPD Patient Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT distinct hrgnum_puk &quot;cr no.&quot;, initcap(hrgstr_fname) ||decode(hrgstr_mname,null,&apos;&apos;, &apos; &apos;|| initcap(hrgstr_mname)) ||decode(hrgstr_lname,null,&apos;&apos;, &apos; &apos;|| initcap(hrgstr_lname)) || &apos;##&apos;|| hrgnum_puk ||&apos;##1&apos;   as Patient_Name,  TO_CHAR (a.hrgdt_episode_start_date, &apos;dd-Mon-yyyy&apos;) AS Visit_Date , initcap(a.gstr_dept_name)  AS Department,
+ gstr_gender_name ||&apos;/&apos;||hrgstr_age as &quot;Gender/Age&quot;,         
+--a.hgnum_pat_status_code,DECODE (a.hgnum_pat_status_code, 11, &apos;Admitted&apos;, 12, &apos;Not Admitted&apos;, 13, &apos;Dead&apos;, 14, &apos;Not Dead&apos; ) AS Status,
+hrgstr_father_name||&apos;/&apos;||hrgstr_spousename as &quot;Father/Spouse&quot;,   
+initcap(a.hrgstr_father_name) ||&apos;/&apos;|| initcap(a.hrgstr_spousename) as &quot;Father/Spouse&quot;,
+decode( a.hrgstr_address_line1, null ,&apos;&apos;, a.hrgstr_address_line1||&apos;,&apos;) || 
+decode( a.hrgstr_sub_locality1, null ,&apos;&apos;, a.hrgstr_sub_locality1||&apos;,&apos;) ||
+decode( a.hrgstr_city_location, null ,&apos;&apos;, a.hrgstr_city_location||&apos;,&apos;) ||
+decode( a.hrgstr_city, null ,&apos;&apos;, a.hrgstr_city||&apos;,&apos;) ||
+decode( a.hrgstr_district, null ,&apos;&apos;, a.hrgstr_district||&apos;,&apos;) ||
+decode( a.hrgstr_state_name, null ,&apos;&apos;, a.hrgstr_state_name||&apos;,&apos;) ||
+decode( a.gstr_country_name, null ,&apos;&apos;, a.gstr_country_name||&apos;,&apos;) ||
+decode( a.hrgnum_pincode, null ,&apos;&apos;, &apos;-&apos;||a.hrgnum_pincode) Address,
+gstr_hospital_name Hospital 
+  FROM hrgt_daily_patient_dtl a
+where gnum_isvalid=1
+  and a.gstr_country_code=&apos;#PARA#14#PARA#&apos;
+  and a.gnum_state_code =#PARA#15#PARA#
+  and a.gnum_district_code=#PARA#16#PARA#
+  and a.gstr_gender_code=#PARA#10#PARA#
+  and a.hrgnum_is_mlc=#PARA#13#PARA#
+  and a.hrgnum_is_broughtdead=#PARA#12#PARA#
+  and a.hrgnum_isunknown=#PARA#11#PARA#
+  AND gnum_dept_code = #PARA#18#PARA#   
+  and UPPER(a.hrgstr_father_name)~  &apos;#PARA#6#PARA#&apos;
+  and UPPER(a.hrgstr_spousename)~ &apos;#PARA#7#PARA#&apos;
+  and hrgstr_mobile_no =#PARA#17#PARA#
+  AND UPPER (trim(hrgstr_fname)) || UPPER (trim(hrgstr_mname))  || UPPER (trim(hrgstr_lname))   ~ &apos;#PARA#3#PARA#&apos; 
+  AND a.hrgnum_puk=#PARA#5#PARA# 
+  AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+ORDER BY a.hrgdt_episode_start_date Desc ,Patient_Name  </mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT distinct hrgnum_puk   
+  FROM hrgt_daily_patient_dtl a
+where gnum_isvalid=1
+  and a.gstr_country_code=&apos;#PARA#14#PARA#&apos;
+  and a.gnum_state_code =#PARA#15#PARA#
+  and a.gnum_district_code=#PARA#16#PARA#
+  and a.gstr_gender_code=#PARA#10#PARA#
+  and a.hrgnum_is_mlc=#PARA#13#PARA#
+  and a.hrgnum_is_broughtdead=#PARA#12#PARA#
+  and a.hrgnum_isunknown=#PARA#11#PARA#
+  AND gnum_dept_code = #PARA#18#PARA#   
+  and UPPER(a.hrgstr_father_name)~  &apos;#PARA#6#PARA#&apos;
+  and UPPER(a.hrgstr_spousename)~ &apos;#PARA#7#PARA#&apos;
+  and hrgstr_mobile_no =#PARA#17#PARA#
+  AND UPPER (trim(hrgstr_fname)) || UPPER (trim(hrgstr_mname))  || UPPER (trim(hrgstr_lname))   ~ &apos;#PARA#3#PARA#&apos; 
+  AND a.hrgnum_puk=#PARA#5#PARA# 
+  AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>3,5,6,17,7,10,18,11,13,12,14,15,16,46</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>OPD Patient Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>24</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>1</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONGOBUTTONCLICK</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>21</rptId>
+         <rptName>In Patient Detail</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>10</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT  A.HRGNUM_PUK &quot;CR No.&quot;, HRGNUM_NAME AS &quot;PATIENT NAME&quot;,
+    DECODE(HRGSTR_SEX,1,&apos;M&apos;,2,&apos;F&apos;,&apos;U&apos;) ||&apos;/&apos;|| HRGNUM_AGE || &apos; &apos; || HRGSTR_AGEUNIT AS &quot;GENDER /AGE&quot;,
+    TO_CHAR(A.HIPDT_ADMDATETIME,&apos;DD-MM-YYYY HH24:MI&apos;) AS &quot;ADMISSION DATE&quot;,    
+    pkg_clinical_gbl_fun.get_dept_name(A.GNUM_HOSPITAL_CODE::character varying,A.GNUM_DEPT_CODE::character varying) AS &quot;DEPARTMENT&quot;,    
+    pkg_clinical_gbl_fun.get_ward_name(A.GNUM_HOSPITAL_CODE::character varying,HIPNUM_WARD_CODE::character varying) ||&apos; /&apos;||
+    ipd_mst.GETBEDNAME(HIPNUM_BED_CODE,GNUM_HOSPITAL_CODE) as &quot;ward/bed&quot;,
+     HRGSTR_FATHUSBNAME||&apos;/&apos;||HRGSTR_SPOUSENAME as &quot;Father/Spouse&quot;,
+    HRGSTR_CITY AS CITY    ,
+   &apos;VIEW##&apos;||A.HRGNUM_PUK||&apos;##1&apos; AS &quot;DETAILS&quot;   
+    FROM HIPT_PATADMDISC_DTL A
+    WHERE A.GNUM_ISVALID = 1
+    AND HIPDT_ADMSTATUS_CODE NOT IN (13,14)
+    AND HIPDT_BEDALLOC_DATETIME IS NOT NULL  
+   and HIPDT_DISDATETIME is null  
+    AND A.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt;
+    and A.HIPNUM_ADMNO=#PARA#4#PARA#
+    and A.HRGNUM_PUK=#PARA#5#PARA#
+    and  UPPER (HRGNUM_NAME) ~ &apos;#PARA#3#PARA#&apos;
+    and a.HRGSTR_SEX=#PARA#10#PARA#
+    and UPPER (HRGSTR_FATHUSBNAME) ~ &apos;#PARA#6#PARA#&apos;
+ UPPER (HRGSTR_SPOUSENAME) ~ &apos;#PARA#7#PARA#&apos;
+    AND UPPER (HRGSTR_CITY)~ &apos;#PARA#37#PARA#&apos;
+    and a.GNUM_DEPT_CODE=#PARA#18#PARA#
+    order by HIPDT_DISDATETIME desc</mainQuery>
+               <totalRecordCountQuery>SELECT  count(*)
+    FROM HIPT_PATADMDISC_DTL A
+    WHERE A.GNUM_ISVALID = 1
+    AND HIPDT_ADMSTATUS_CODE NOT IN (13,14)
+    AND HIPDT_BEDALLOC_DATETIME IS NOT NULL  
+   and HIPDT_DISDATETIME is null  
+    AND A.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt;
+    and A.HIPNUM_ADMNO=#PARA#4#PARA#
+    and A.HRGNUM_PUK=#PARA#5#PARA#
+    and  UPPER (HRGNUM_NAME) ~ &apos;#PARA#3#PARA#&apos;
+    and a.HRGSTR_SEX=#PARA#10#PARA#
+    and UPPER (HRGSTR_FATHUSBNAME) ~ &apos;#PARA#6#PARA#&apos;
+ UPPER (HRGSTR_SPOUSENAME) ~ &apos;#PARA#7#PARA#&apos;
+    AND UPPER (HRGSTR_CITY)~ &apos;#PARA#37#PARA#&apos;
+    and a.GNUM_DEPT_CODE=#PARA#18#PARA#
+    order by HIPDT_DISDATETIME desc
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>3,5,4,10,6,7,18,37</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>In Patient Detail</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>8</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONGOBUTTONCLICK</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>24</rptId>
+         <rptName>Patient Detail Pop up OPD</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT DISTINCT a.hrgnum_puk &quot;CR No.&quot;,
+                   INITCAP (a.hrgstr_fname)
+                || &apos; &apos;
+                || INITCAP (a.hrgstr_mname)
+                || &apos; &apos;
+                || INITCAP (a.hrgstr_lname) AS &quot;Patient Name&quot;
+           FROM hrgt_patient_dtl a
+          WHERE a.hrgnum_puk = #PK0#
+            AND gnum_hospital_code = &lt;HOSPITALCODE&gt;
+            AND gnum_isvalid = 1</mainQuery>
+               <queryLabel>Patient Details</queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery> SELECT  (SELECT gstr_dept_name
+          FROM gblt_department_mst
+         WHERE gnum_dept_code = a.gnum_dept_code
+           AND gnum_isvalid = 1
+           AND gnum_hospital_code = a.gnum_hospital_code           
+                AND gnum_hospital_code = a.gnum_hospital_code
+               ) &quot;Department&quot;,
+       (SELECT DISTINCT hgstr_unitname
+                   FROM hgbt_unit_mst
+                  WHERE hgnum_deptunitcode = a.hgnum_deptunitcode
+                    AND gnum_isvalid = 1
+                    AND gnum_hospital_code = a.gnum_hospital_code                    
+                         AND gnum_hospital_code = a.gnum_hospital_code
+                        ) Unit,
+                        (SELECT hgstr_room_name
+          FROM hgbt_room_mst
+         WHERE hgnum_room_code = a.hgnum_room_code
+           AND gnum_isvalid = 1
+           AND gnum_hospital_code = a.gnum_hospital_code) Room,
+to_char(nvl(hrgdt_episode_lastvisit_date,hrgdt_episode_start_date),&apos;dd-Mon-yyyy&apos;)   &quot;Last Visit Date&quot;        FROM hrgt_episode_dtl a
+ WHERE a.gnum_isvalid = 1
+   AND a.hrgnum_puk = #PK0#
+   AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+   AND hrgnum_visit_no =
+          (SELECT MAX (hrgnum_visit_no)
+             FROM hrgt_episode_dtl
+            WHERE hrgnum_puk = #PK0#
+              AND gnum_isvalid = 1
+              AND hrgnum_episode_code = a.hrgnum_episode_code
+              AND gnum_hospital_code = a.gnum_hospital_code)
+order by nvl(hrgdt_episode_lastvisit_date,hrgdt_episode_start_date) desc</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>Visited Department</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Patient Detail</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>32</rptId>
+         <rptName>Todays OPD</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery> SELECT (
+SELECT initcap(gstr_dept_name) department         
+FROM gblt_department_mst b
+WHERE gnum_dept_type = 1
+AND a.gnum_isvalid =1
+AND b.gnum_hospital_code = a.gnum_hospital_code and b.gnum_dept_code=a.gnum_dept_code
+ ) Department_Name, ( SELECT INITCAP (g.hgstr_unitname) FROM hgbt_unit_mst g WHERE gnum_isvalid = 1 AND gnum_hospital_code = a.gnum_hospital_code 
+and g.hgnum_deptunitcode = a.HOPNUM_DEPTUNITCODE ) unit , ( SELECT hgstr_room_name FROM hgbt_room_mst WHERE gnum_isvalid = a.gnum_isvalid 
+AND gnum_hospital_code = a.gnum_hospital_code AND hgnum_room_code = a.hgnum_room_code ) room , 
+to_char(HOPDT_START_DT,&apos;hh:mi:am&apos;) ||&apos;-&apos;|| to_char(HOPDT_END_DT,&apos;hh:mi:am&apos;) Duration FROM HOPT_DEPT_UNIT_ROSTER_DTL a 
+WHERE gnum_isvalid = 1 
+AND gnum_hospital_code = &lt;HOSPITALCODE&gt; 
+AND trunc(HOPDT_START_DT) = trunc(sysdate) 
+AND GNUM_DEPT_CODE = &apos;#PARA#18#PARA#&apos; 
+order by Department_Name,unit</mainQuery>
+               <totalRecordCountQuery>SELECT COUNT(*) 
+FROM HOPT_DEPT_UNIT_ROSTER_DTL a 
+WHERE gnum_isvalid = 1 
+AND gnum_hospital_code = &lt;HOSPITALCODE&gt; 
+AND trunc(HOPDT_START_DT) = trunc(sysdate) 
+AND GNUM_DEPT_CODE = &apos;#PARA#18#PARA#&apos; 
+</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>18</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Todays OPD</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>33</rptId>
+         <rptName>Ward Bed Availability</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT IPD_MST.GETWARDNAME(A.HIPNUM_WARD_CODE,A.GNUM_HOSPITAL_CODE) wardName,
+--DECODE(B.HGNUM_BED_STATUS_CODE,10,&apos;Vacant&apos;,12,&apos;Occupied&apos;,13,&apos;Blocked&apos;) bed_Status,
+COUNT(B.HGNUM_BED_CODE) bedCount
+FROM HIPT_DUWRBED_MST A,HIPT_WARD_ROOM_BED_MST B WHERE A.GNUM_ISVALID=1 AND A.GNUM_HOSPITAL_CODE=101 
+AND A.GNUM_HOSPITAL_CODE = B.GNUM_HOSPITAL_CODE
+AND A.HGNUM_BED_CODE = B.HGNUM_BED_CODE
+AND A.HIPNUM_ROOM_NO = B.HIPNUM_ROOM_NO
+and A.HIPNUM_WARD_CODE=#PARA#50#PARA#
+and B.HGNUM_BED_STATUS_CODE=#PARA#49#PARA#
+AND A.GNUM_HOSPITAL_CODE=&lt;HOSPITALCODE&gt;
+GROUP BY A.GNUM_HOSPITAL_CODE,A.HIPNUM_WARD_CODE,B.HGNUM_BED_STATUS_CODE 
+ORDER BY A.HIPNUM_WARD_CODE,B.HGNUM_BED_STATUS_CODE</mainQuery>
+               <totalRecordCountQuery>select count(*) from(
+SELECT A.HIPNUM_WARD_CODE FROM HIPT_DUWRBED_MST A,HIPT_WARD_ROOM_BED_MST B WHERE A.GNUM_ISVALID=1 AND A.GNUM_HOSPITAL_CODE=101 
+AND A.GNUM_HOSPITAL_CODE = B.GNUM_HOSPITAL_CODE
+AND A.HGNUM_BED_CODE = B.HGNUM_BED_CODE
+AND A.HIPNUM_ROOM_NO = B.HIPNUM_ROOM_NO
+and A.HIPNUM_WARD_CODE=#PARA#50#PARA#
+and B.HGNUM_BED_STATUS_CODE=#PARA#49#PARA#
+AND A.GNUM_HOSPITAL_CODE=&lt;HOSPITALCODE&gt;
+GROUP BY A.GNUM_HOSPITAL_CODE,A.HIPNUM_WARD_CODE,B.HGNUM_BED_STATUS_CODE 
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>50,49</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Ward Bed Availability</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>300000</widgetRefreshTime>
+         <widgetRefreshDelayTime>120000</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>34</rptId>
+         <rptName>Today Lab Test</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>
+SELECT  DISTINCT 
+ GSTR_TEST_NAME ||&apos;##&apos;||GNUM_TEST_CODE||&apos;##1&apos; &quot;TEST_NAME&quot;
+    FROM  GBLT_LABORATORY_MST C,HIVT_LABORATORY_TEST_DTL A,GBLT_TEST_MST B
+   WHERE SUBSTR (A.GNUM_LAB_TEST_CODE, 6, 10)= GNUM_TEST_CODE
+   AND C.GNUM_LAB_CODE=  SUBSTR (A.GNUM_LAB_TEST_CODE, 1, 5)
+     AND A.GNUM_HOSPITAL_CODE =  101 --&lt;HOSPITALCODE&gt;
+     AND A.GNUM_ISVALID = 1          
+     AND B.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE
+     AND B.GNUM_ISVALID = A.GNUM_ISVALID
+     AND C.GNUM_HOSPITAL_CODE =  A.GNUM_HOSPITAL_CODE
+     AND C.GBL_ISVALID = 1                  
+     AND B.GDT_EFFECTIVE_FRM &lt;= SYSDATE
+     AND (TO_DATE (NVL (B.GDT_EFFECTIVE_TO, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))    
+     and UPPER (gstr_test_name)~ &apos;#PARA#26#PARA#&apos;
+     and SUBSTR (a.gnum_lab_test_code, 1, 5)= #PARA#27#PARA#          
+    and DECODE(SUBSTR(GCHAR_TEST_DAY,(extract(dow from sysdate)+1)::numeric,1),&apos;1&apos;,extract(dow from sysdate),0)=    extract(dow from sysdate)   
+    ORDER BY GSTR_TEST_NAME</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+SELECT  DISTINCT 
+ GSTR_TEST_NAME ||&apos;##&apos;||GNUM_TEST_CODE||&apos;##1&apos; &quot;TEST_NAME&quot;
+    FROM  GBLT_LABORATORY_MST C,HIVT_LABORATORY_TEST_DTL A,GBLT_TEST_MST B
+   WHERE SUBSTR (A.GNUM_LAB_TEST_CODE, 6, 10)= GNUM_TEST_CODE
+   AND C.GNUM_LAB_CODE=  SUBSTR (A.GNUM_LAB_TEST_CODE, 1, 5)
+     AND A.GNUM_HOSPITAL_CODE =  101 --&lt;HOSPITALCODE&gt;
+     AND A.GNUM_ISVALID = 1          
+     AND B.GNUM_HOSPITAL_CODE = A.GNUM_HOSPITAL_CODE
+     AND B.GNUM_ISVALID = A.GNUM_ISVALID
+     AND C.GNUM_HOSPITAL_CODE =  A.GNUM_HOSPITAL_CODE
+     AND C.GBL_ISVALID = 1                  
+     AND B.GDT_EFFECTIVE_FRM &lt;= SYSDATE
+     AND (TO_DATE (NVL (B.GDT_EFFECTIVE_TO, SYSDATE), &apos;DD-MM-YY&apos;) &gt;= TO_DATE (SYSDATE, &apos;DD-MM-YY&apos;))    
+     and UPPER (gstr_test_name)~ &apos;#PARA#26#PARA#&apos;
+     and SUBSTR (a.gnum_lab_test_code, 1, 5)= #PARA#27#PARA#          
+    and DECODE(SUBSTR(GCHAR_TEST_DAY,(extract(dow from sysdate)+1)::numeric,1),&apos;1&apos;,extract(dow from sysdate),0)=    extract(dow from sysdate)   
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>26,27</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Today Lab Test</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>Yes</isPopupBasedOnDataClickRequired>
+         <mpPopupWidget class="java.util.HashMap">
+            <entry>
+               <string>1</string>
+               <dashboardWidgetMstVO>
+                  <rptId>27</rptId>
+               </dashboardWidgetMstVO>
+            </entry>
+         </mpPopupWidget>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>35</rptId>
+         <rptName>OT Today</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>select DISTINCT
+ (SELECT gstr_dept_name
+                   FROM gblt_department_mst
+                  WHERE gnum_dept_code = a.gnum_dept_code
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1) AS department,                                                                   
+                (SELECT hgstr_unitname
+                   FROM hgbt_unit_mst
+                  WHERE hgnum_deptunitcode = a.gnum_deptunit_code                  
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1 ) unit,
+                                                               
+(
+select STR_EMP_FULL_NAME from  pist_emp_registration_dtl 
+where STR_EMP_NO=A.pstr_emp_no and  GNUM_ISVALID!=2 LIMIT 1
+)  Surgeon                                                             
+from hott_surgeon_roster_mst  A                                                             
+WHERE  extract(dow from sysdate)=hotnum_dow
+and a.gnum_deptunit_code=#PARA#18#PARA#
+and A.GNUM_ISVALID&lt;&gt;2 
+ORDER BY department,unit</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+select DISTINCT
+ (SELECT gstr_dept_name
+                   FROM gblt_department_mst
+                  WHERE gnum_dept_code = a.gnum_dept_code
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1) AS department,                                                                   
+                (SELECT hgstr_unitname
+                   FROM hgbt_unit_mst
+                  WHERE hgnum_deptunitcode = a.gnum_deptunit_code                  
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1 ) unit,
+                                                               
+(
+select STR_EMP_FULL_NAME from  pist_emp_registration_dtl 
+where STR_EMP_NO=A.pstr_emp_no and  GNUM_ISVALID!=2 LIMIT 1
+)  Surgeon                                                             
+from hott_surgeon_roster_mst  A                                                             
+WHERE  extract(dow from sysdate)=hotnum_dow
+and a.gnum_deptunit_code=#PARA#18#PARA#
+and A.GNUM_ISVALID&lt;&gt;2 
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>18</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>OT Today</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>36</rptId>
+         <rptName>OT Schedule</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>Yes</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <recordPerPage>5</recordPerPage>
+         <pagePerBlock>5</pagePerBlock>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>select DISTINCT
+DECODE (hotnum_dow,
+                 1, &apos;Mon&apos;,
+                 2, &apos;Tue&apos;,
+                 3, &apos;Wed&apos;,
+                 4, &apos;Thu&apos;,
+                 5, &apos;Fri&apos;,
+                 6, &apos;Sat&apos;,
+                 7, &apos;Sun&apos;
+                ) DAY_OF_WEEK,
+ (SELECT gstr_dept_name
+                   FROM gblt_department_mst
+                  WHERE gnum_dept_code = a.gnum_dept_code
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1) AS department,                                                                   
+                (SELECT hgstr_unitname
+                   FROM hgbt_unit_mst
+                  WHERE hgnum_deptunitcode = a.gnum_deptunit_code                  
+                    AND gnum_isvalid = a.gnum_isvalid                    
+                   LIMIT 1 ) unit,
+                                                               
+(
+select STR_EMP_FULL_NAME from  pist_emp_registration_dtl 
+where STR_EMP_NO=A.pstr_emp_no and  GNUM_ISVALID!=2 LIMIT 1
+)  Surgeon                                                             
+from hott_surgeon_roster_mst  A                                                             
+WHERE  a.GNUM_ISVALID&lt;&gt;2 
+and a.gnum_deptunit_code=#PARA#18#PARA#
+and hotnum_dow=#PARA#51#PARA#
+ORDER BY department,unit</mainQuery>
+               <totalRecordCountQuery>select count(*) from (
+select DISTINCT
+DECODE (hotnum_dow,
+                 1, &apos;Mon&apos;,
+                 2, &apos;Tue&apos;,
+                 3, &apos;Wed&apos;,
+                 4, &apos;Thu&apos;,
+                 5, &apos;Fri&apos;,
+                 6, &apos;Sat&apos;,
+                 7, &apos;Sun&apos;
+                ) DAY_OF_WEEK,a.gnum_dept_code, a.gnum_deptunit_code, A.pstr_emp_no                                  
+from hott_surgeon_roster_mst  A                                                             
+WHERE  a.GNUM_ISVALID&lt;&gt;2 
+and a.gnum_deptunit_code=#PARA#18#PARA#
+and hotnum_dow=#PARA#51#PARA#
+)</totalRecordCountQuery>
+               <queryLabel></queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>18,51</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>OT Schedule</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>2</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONGOBUTTONCLICK</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>11</rptId>
+         <rptName>Charge Enquiry</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT   hblstr_tariff_name &quot;Tariff Name&quot;,
+         (SELECT hblstr_group_name
+            FROM hblt_group_mst
+           WHERE hblnum_group_id = a.hblnum_group_id
+             AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+             AND gnum_isvalid = a.gnum_isvalid
+             AND gnum_hospital_code = a.gnum_hospital_code) &quot;Group Name&quot;
+    FROM hblt_tariff_mst a
+   WHERE 
+   gnum_hospital_code = &lt;HOSPITALCODE&gt;  AND 
+   gnum_isvalid = 1     
+     AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+    and hblnum_tariff_id=#PK0#     
+   </mainQuery>
+               <queryLabel>Charges Detail</queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>SELECT PATCAT as &quot;Patient Category&quot;, CHARGETYPE ||&apos; &apos; ||IPDCHARGETYPE AS &quot;CHARGE TYPE&quot;, CHARGE &quot;CHARGE IN RS.&quot; from(
+SELECT hblnum_tariff_id||sblnum_chargetype_id||sblnum_ipd_chargetype_id as pk,   hblnum_tariff_id tariffid,
+         (SELECT hblstr_tariff_name
+            FROM hblt_tariff_mst
+           WHERE hblnum_tariff_id = a.hblnum_tariff_id limit 1) tariffname,
+         gnum_patient_cat_code patcatcode,
+         sblnum_chargetype_id || &apos;|&apos; || sblnum_ipd_chargetype_id chargetypeid,
+         (SELECT sblstr_chargetype_name
+            FROM sblt_chargetype_mst
+           WHERE sblnum_chargetype_id = a.sblnum_chargetype_id
+             AND gnum_isvalid = a.gnum_isvalid limit 1) chargetype,
+         hblnum_cost::CHARACTER VARYING charge,
+         (SELECT    gstr_patient_cat_name                
+            FROM gblt_patient_cat_mst
+           WHERE gnum_patient_cat_code = a.gnum_patient_cat_code
+             AND gnum_hospital_code = a.gnum_hospital_code
+             AND gnum_isvalid = a.gnum_isvalid
+             AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+             AND TRUNC (NVL (gdt_effective_to, SYSDATE)) &gt;= TRUNC (SYSDATE) limit 1)
+                                                                       patcat,
+         sblnum_ipd_chargetype_id ipdchargetypeid,
+         (SELECT sblstr_ipd_chargetype_name
+            FROM sblt_ipd_chargetype_mst
+           WHERE sblnum_ipd_chargetype_id =
+                                     a.sblnum_ipd_chargetype_id
+             AND gnum_isvalid = a.gnum_isvalid
+             AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE) limit 1) ipdchargetype,
+         DECODE (sblnum_chargetype_id || &apos;|&apos; || sblnum_ipd_chargetype_id,
+                 &apos;1|0&apos;, 0,
+                 &apos;2|1&apos;, 1,
+                 &apos;2|2&apos;, 2,
+                 3
+                ) indexid
+    FROM hblt_charge_mst a
+   WHERE 
+   gnum_hospital_code = &lt;HOSPITALCODE&gt;   AND gnum_isvalid = 1
+     AND hblnum_tariff_id =#PK0#    
+-- and   gnum_patient_cat_code=11
+union --aLL
+SELECT  hblnum_tariff_id||&apos;21&apos; as pk, hblnum_tariff_id tariffid,
+         (SELECT hblstr_tariff_name
+            FROM hblt_tariff_mst
+           WHERE hblnum_tariff_id = a.hblnum_tariff_id limit 1) tariffname,
+         gnum_patient_cat_code patcatcode,
+          &apos;2|1&apos;  chargetypeid,
+         &apos;IPD&apos; chargetype,
+         decode(to_number(BILL_MST.GETCHARGEDETAILS(9::NUMERIC,GNUM_HOSPITAL_CODE::NUMERIC,1::NUMERIC,A.GNUM_PATIENT_CAT_CODE::NUMERIC,2::NUMERIC,HBLNUM_TARIFF_ID,GDT_EFFECTIVE_FRM::CHARACTER VARYING)),0,hblnum_cost,
+         to_number(BILL_MST.GETCHARGEDETAILS(9::NUMERIC,GNUM_HOSPITAL_CODE,1::NUMERIC,A.GNUM_PATIENT_CAT_CODE,2::NUMERIC,HBLNUM_TARIFF_ID,GDT_EFFECTIVE_FRM::CHARACTER VARYING))) AS charge,
+         (SELECT    gstr_patient_cat_name                 
+            FROM gblt_patient_cat_mst
+           WHERE gnum_patient_cat_code = a.gnum_patient_cat_code
+             AND gnum_hospital_code = a.gnum_hospital_code
+             AND gnum_isvalid = a.gnum_isvalid
+             AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+             AND TRUNC (NVL (gdt_effective_to, SYSDATE)) &gt;= TRUNC (SYSDATE) limit 1)
+                                                                       patcat,
+         1 ipdchargetypeid,
+         &apos;GENERAL&apos; ipdchargetype,
+         DECODE (&apos;2|1&apos; ,
+                 &apos;1|0&apos;, 0,
+                 &apos;2|1&apos;, 1,
+                 &apos;2|2&apos;, 2,
+                 3
+                ) indexid
+    FROM hblt_charge_mst a
+   WHERE 
+    gnum_hospital_code = &lt;HOSPITALCODE&gt;    AND gnum_isvalid = 1
+     AND hblnum_tariff_id =  #PK0#    and 
+    sblnum_chargetype_id=1
+     and sblnum_ipd_chargetype_id=0
+     AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+     AND TRUNC (NVL (gdt_effective_to, SYSDATE)) &gt;= TRUNC (SYSDATE)
+--     and gnum_patient_cat_code=11
+)  where CHARGE&lt;&gt;0
+order by patcatcode,indexid</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>-</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Charge Enquiry</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>8</rptId>
+         <rptName>Patient Detail POPUP</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Tabular</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>-1</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>No</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT DISTINCT a.hrgnum_puk &quot;CR No.&quot;,
+                   INITCAP (a.hrgstr_fname)
+                || &apos; &apos;
+                || INITCAP (a.hrgstr_mname)
+                || &apos; &apos;
+                || INITCAP (a.hrgstr_lname) AS &quot;Patient Name&quot;
+           FROM hrgt_patient_dtl a
+          WHERE a.hrgnum_puk = #PK0#
+            AND gnum_hospital_code = &lt;HOSPITALCODE&gt;
+            AND gnum_isvalid = 1
+</mainQuery>
+               <queryLabel>Patient Detail</queryLabel>
+               <tableDataDisplay>vertical</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery>          
+          
+ SELECT  (SELECT gstr_dept_name
+          FROM gblt_department_mst
+         WHERE gnum_dept_code = a.gnum_dept_code
+           AND gnum_isvalid = 1
+           AND gnum_hospital_code = a.gnum_hospital_code
+         ) &quot;Department&quot;,
+       (SELECT DISTINCT hgstr_unitname
+                   FROM hgbt_unit_mst
+                  WHERE hgnum_deptunitcode = a.hgnum_deptunitcode
+                    AND gnum_isvalid = 1
+                    AND gnum_hospital_code = a.gnum_hospital_code
+                    ) Unit,
+                        (SELECT hgstr_room_name
+          FROM hgbt_room_mst
+         WHERE hgnum_room_code = a.hgnum_room_code
+           AND gnum_isvalid = 1
+           AND gnum_hospital_code = a.gnum_hospital_code) Room,
+           to_char(nvl(hrgdt_episode_lastvisit_date,hrgdt_episode_start_date),&apos;dd-Mon-yyyy&apos;)   &quot;Last Visit Date&quot;      
+  FROM hrgt_episode_dtl a
+ WHERE a.gnum_isvalid = 1
+   AND a.hrgnum_puk = #PK0#
+   AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+   AND hrgnum_visit_no =
+          (SELECT MAX (hrgnum_visit_no)
+             FROM hrgt_episode_dtl
+            WHERE 
+            hrgnum_puk = #PK0#  AND 
+            gnum_isvalid = 1
+              AND hrgnum_episode_code = a.hrgnum_episode_code
+              AND gnum_hospital_code = a.gnum_hospital_code)          
+            </mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>OPD</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+            <queryVO>
+               <mainQuery> SELECT a.hipnum_admno as &quot;Admission No.&quot;, TO_CHAR (a.hipdt_admdatetime, &apos;dd-Mon-yyyy&apos;) &quot; Admission Date&quot;,
+	           (SELECT gstr_dept_name
+	              FROM gblt_department_mst
+	             WHERE gnum_dept_code = a.gnum_dept_code
+	               AND gnum_isvalid = 1
+	               AND gnum_hospital_code = a.gnum_hospital_code
+	               )
+	                                                                             as Department,
+	           (SELECT DISTINCT hgstr_unitname
+	                       FROM hgbt_unit_mst
+	                      WHERE hgnum_deptunitcode = a.gnum_deptunit_code
+	                        AND gnum_isvalid = 1
+	                        AND gnum_hospital_code = a.gnum_hospital_code
+	                      )
+	                                                                             &quot;Unit&quot;,
+	           (SELECT hipstr_ward_name
+	              FROM hipt_ward_mst
+	             WHERE hipnum_ward_code = a.hipnum_ward_code
+	               AND gnum_isvalid = 1
+	               AND gnum_hospital_code = a.gnum_hospital_code) ||&apos;/&apos;||
+	                (SELECT hgnum_bed_name
+	              FROM hipt_ward_room_bed_mst
+	             WHERE hgnum_bed_code = a.hipnum_bed_code
+	               AND hipnum_room_no = a.hipnum_room_code
+	               AND hgnum_ward_code = a.hipnum_ward_code
+	               AND gnum_isvalid = 1
+	               AND gnum_hospital_code = a.gnum_hospital_code) 
+	               &quot;Ward/Bed&quot;,
+	           DECODE (a.hipdt_admstatus_code,
+	                   12, &apos;Admitted&apos;,
+	                   13, &apos;LAMA&apos;,
+	                   14, &apos;Admission Cancelled&apos;,
+	                   15, &apos;On leave&apos;,
+	                   16, &apos;Discharged&apos;
+	                  ) &quot;Status&quot;,
+	           TO_CHAR (b.hipdt_disdatetime, &apos;dd-Mon-yyyy&apos;) &quot;Discharged Date&quot;      
+	      FROM hipt_patadmission_dtl a, hipt_patadmdisc_dtl b
+	     WHERE a.hipnum_admno = b.hipnum_admno
+	       AND a.hrgnum_puk = #PK0#
+	       AND a.gnum_isvalid = 1
+	       AND a.gnum_isvalid = b.gnum_isvalid
+	       AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+   AND a.gnum_hospital_code = b.gnum_hospital_code</mainQuery>
+               <totalRecordCountQuery> </totalRecordCountQuery>
+               <queryLabel>IPD</queryLabel>
+               <tableDataDisplay>horizontal</tableDataDisplay>
+            </queryVO>
+         </queryVO>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Patient Detail</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>0</widgetRefreshTime>
+         <widgetRefreshDelayTime>0</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+      <dashboardWidgetMstVO>
+         <rptId>37</rptId>
+         <rptName>Ward Bed Availability graphical</rptName>
+         <reportType>2</reportType>
+         <reportViewed>Graph</reportViewed>
+         <isCriteriaWise>Yes</isCriteriaWise>
+         <defaultgraphType>BAR_GRAPH</defaultgraphType>
+         <isPaginationReq>No</isPaginationReq>
+         <showRecordCount>No</showRecordCount>
+         <autoRefreshTime>0</autoRefreshTime>
+         <parentReport>0</parentReport>
+         <isZoomRequired>Yes</isZoomRequired>
+         <isActive>1</isActive>
+         <isChildBasedOnPK>No</isChildBasedOnPK>
+         <queryVO class="java.util.ArrayList">
+            <queryVO>
+               <mainQuery>SELECT IPD_MST.GETWARDNAME(A.HIPNUM_WARD_CODE,A.GNUM_HOSPITAL_CODE) wardName,
+--DECODE(B.HGNUM_BED_STATUS_CODE,10,&apos;Vacant&apos;,12,&apos;Occupied&apos;,13,&apos;Blocked&apos;) Bed Count,
+COUNT(B.HGNUM_BED_CODE) bedCount
+FROM HIPT_DUWRBED_MST A,HIPT_WARD_ROOM_BED_MST B WHERE A.GNUM_ISVALID=1 AND A.GNUM_HOSPITAL_CODE=101 
+AND A.GNUM_HOSPITAL_CODE = B.GNUM_HOSPITAL_CODE
+AND A.HGNUM_BED_CODE = B.HGNUM_BED_CODE
+AND A.HIPNUM_ROOM_NO = B.HIPNUM_ROOM_NO
+and A.HIPNUM_WARD_CODE=#PARA#50#PARA#
+and B.HGNUM_BED_STATUS_CODE=#PARA#49#PARA#
+AND A.GNUM_HOSPITAL_CODE=&lt;HOSPITALCODE&gt;
+GROUP BY A.GNUM_HOSPITAL_CODE,A.HIPNUM_WARD_CODE,B.HGNUM_BED_STATUS_CODE
+ORDER BY A.HIPNUM_WARD_CODE,B.HGNUM_BED_STATUS_CODE</mainQuery>
+               <queryLabel></queryLabel>
+            </queryVO>
+         </queryVO>
+         <selFilterIds>50,49</selFilterIds>
+         <isFullReportRequired>No</isFullReportRequired>
+         <isHideParent>No</isHideParent>
+         <rptDisplayName>Ward Bed Availability</rptDisplayName>
+         <isOneTimeLoad>Yes</isOneTimeLoad>
+         <isFirstRowColumnName>No</isFirstRowColumnName>
+         <xAxisLabel>Ward Name</xAxisLabel>
+         <yAxisLabel>Bed Count</yAxisLabel>
+         <newsVisible>5</newsVisible>
+         <newsSpeed>normal</newsSpeed>
+         <newsTimeInterval>5000</newsTimeInterval>
+         <isPopupBasedOnDataClickRequired>No</isPopupBasedOnDataClickRequired>
+         <widgetRefreshTime>300000</widgetRefreshTime>
+         <widgetRefreshDelayTime>300000</widgetRefreshDelayTime>
+         <modeOfQuery>Query</modeOfQuery>
+         <procedureMode></procedureMode>
+         <parameterOptions>1</parameterOptions>
+         <isSpeechRequired>0</isSpeechRequired>
+         <isOptimizedQueryRequired>Yes</isOptimizedQueryRequired>
+         <widgetLoadOption>ONWINDOWLOAD</widgetLoadOption>
+      </dashboardWidgetMstVO>
+   </dashboardWidgetLst>
+</dashboardWidgetMain>

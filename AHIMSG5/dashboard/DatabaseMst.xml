@@ -1,0 +1,18 @@
+<databaseConfigVO>
+   <serverName>WEBSPHERE</serverName>
+   <serviceLocatorName>AHIS</serviceLocatorName>
+   <isDbConnectionReq>0</isDbConnectionReq>
+   <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+   <url>jdbc:oracle:thin:@172.16.13.93:1521:ahis1</url>
+   <userName>ahis</userName>
+   <password>ahismanager</password>
+   <isSpeechRequired>0</isSpeechRequired>
+   <speechText></speechText>
+   <soundAmplitude></soundAmplitude>
+   <soundPitch></soundPitch>
+   <soundSpeed></soundSpeed>
+   <wordGap></wordGap>
+   <kioskReInitTimeOnIdle>600000</kioskReInitTimeOnIdle>
+   <themeName>theme2</themeName>
+   <dataFrameHeight>100</dataFrameHeight>
+</databaseConfigVO>

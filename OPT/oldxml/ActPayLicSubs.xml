@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYROLL" PROCESS_NAME="Lic Subscription" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 INSERT INTO ACTPAY_LIC_SUBS_TRNS(str_employee_number,dt_date_of_subscription,num_lic_premium,str_lic_policy_no,str_policy_no, dt_maturity_date, num_policy_amount, num_payment_type, gnum_slno, gnum_isvalid, gnum_seat_id, gdt_entry_date, gdt_lstmod_date, gnum_lstmod_seatid, gstr_remarks,gnum_hospital_code) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 INSERT INTO ACTPAY_LIC_SUBS_TRNS_LOG(str_employee_number,dt_date_of_subscription,num_lic_premium,str_lic_policy_no,str_policy_no, dt_maturity_date, num_policy_amount, num_payment_type,NUM_NUMBER_OF_PREMIUM,NUM_NUMBER_OF_PREMIUM_PAID,NUM_ACTIVE_STATUS, gnum_slno, gnum_isvalid, gnum_seat_id, gdt_entry_date, gdt_lstmod_date, gnum_lstmod_seatid, gstr_remarks,gnum_hospital_code) SELECT str_employee_number,dt_date_of_subscription,num_lic_premium,str_lic_policy_no,str_policy_no, dt_maturity_date, num_policy_amount, num_payment_type,NUM_NUMBER_OF_PREMIUM,NUM_NUMBER_OF_PREMIUM_PAID,NUM_ACTIVE_STATUS, ?, gnum_isvalid, gnum_seat_id, gdt_entry_date, ?, ?, gstr_remarks,gnum_hospital_code FROM  ACTPAY_LIC_SUBS_TRNS M WHERE  M.str_employee_number =? AND M.STR_LIC_POLICY_NO=? AND M.GNUM_HOSPITAL_CODE=?  
+	 </QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="15">
+	 UPDATE actpay_lic_subs_trns SET DT_DATE_OF_SUBSCRIPTION=TO_DATE(?,'DD-MON-YYYY'), NUM_LIC_PREMIUM=?,STR_LIC_POLICY_NO=?,STR_POLICY_NO=?, DT_MATURITY_DATE=TO_DATE(?,'DD-MON-YYYY'),NUM_POLICY_AMOUNT=?,NUM_PAYMENT_TYPE=?,GNUM_SLNO=?,GNUM_ISVALID=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=?,GNUM_HOSPITAL_CODE=? WHERE  str_employee_number =? AND STR_LIC_POLICY_NO=? AND GNUM_HOSPITAL_CODE=? 
+	 </QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="3" NAME="DELETE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	  INSERT INTO ACTPAY_LIC_SUBS_TRNS_LOG(str_employee_number,dt_date_of_subscription,num_lic_premium,str_lic_policy_no,str_policy_no, dt_maturity_date, num_policy_amount, num_payment_type,NUM_NUMBER_OF_PREMIUM,NUM_NUMBER_OF_PREMIUM_PAID,NUM_ACTIVE_STATUS, gnum_slno, gnum_isvalid, gnum_seat_id, gdt_entry_date, gdt_lstmod_date, gnum_lstmod_seatid, gstr_remarks,gnum_hospital_code) SELECT str_employee_number,dt_date_of_subscription,num_lic_premium,str_lic_policy_no,str_policy_no, dt_maturity_date, num_policy_amount, num_payment_type,NUM_NUMBER_OF_PREMIUM,NUM_NUMBER_OF_PREMIUM_PAID,NUM_ACTIVE_STATUS, ?, '0', gnum_seat_id, gdt_entry_date, ?, ?, gstr_remarks,gnum_hospital_code FROM  ACTPAY_LIC_SUBS_TRNS M WHERE  M.str_employee_number =? AND M.STR_LIC_POLICY_NO=? AND M.GNUM_HOSPITAL_CODE=?  
+    	 </QRY>
+   	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="3">
+	  delete actpay_lic_subs_trns T   WHERE  T.STR_EMPLOYEE_NUMBER=? AND T.STR_LIC_POLICY_NO=? AND T.GNUM_HOSPITAL_CODE=?
+     </QRY>
+   </BLOCK>
+</OPR>
+
+
+
+</tns:Transaction>

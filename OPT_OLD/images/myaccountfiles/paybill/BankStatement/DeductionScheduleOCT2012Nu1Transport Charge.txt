@@ -1,0 +1,38 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu1                                               
+Demand No  :1012001111   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00002208 028640 Rakhel                   Sister Gr. II         Nursing Cell           750
+
+PGIPER00002229 028644 Sangeeta                 Sister Gr. II         Nursing Cell           750
+
+PGIPER00002238 028630 Jaswinder   Kaur         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002252 028704 Jasbir   Kaur            Sister Gr. II         Nursing Cell           750
+
+PGIPER00002266 028722 Surinder   Devi          Sister Gr. II         Other                  750
+
+PGIPER00002268 028716 Harjit   Kaur            Sister Gr. II         Nursing Cell           750
+
+PGIPER00002274 028705 Avninder   Kaur          Sister Gr. II         Nursing Cell           750
+
+PGIPER00007851 027129 Vinod   Sethi            DNS                   Nursing Cell          1000
+
+PGIPER00008013 028671 Kulwinder                Sister Gr. I          Nursing Cell           750
+
+PGIPER00008069 028622 Mehar    Kaur            Sister Gr. II         RTI                    750
+
+PGIPER00008131 028721 Anu   Radha              Sister Gr. II         Nursing Cell           750
+
+                                                                          Grand Total      8500
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

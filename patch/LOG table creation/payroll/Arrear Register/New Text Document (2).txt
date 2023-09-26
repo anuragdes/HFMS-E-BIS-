@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_arrear_register_dtl
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_arrear_register_dtl
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_arrear_register_dtl_log(str_employee_number,dt_arrear_gent_date,str_parameter_code,num_parameter_amount,dt_applicable_month,gnum_isvalid,gnum_seat_id,gdt_entry_date,
+gdt_lstmod_date,gnum_lstmod_seatid,gnum_hospital_code,str_arrear_type,str_parameter_type,str_demand_no,num_sec_code) 
+ select :old.str_employee_number,:old.dt_arrear_gent_date,:old.str_parameter_code,:old.num_parameter_amount,:old.dt_applicable_month,:old.gnum_isvalid,:old.gnum_seat_id,sysdate,
+:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gnum_hospital_code,:old.str_arrear_type,Old.str_parameter_type,:old.str_demand_no,:old.num_sec_code from actpay.actpay_arrear_register_dtl
+where str_employee_number=:new.str_employee_number and dt_applicable_month=:new.dt_applicable_month ;
+END;

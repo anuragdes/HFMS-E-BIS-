@@ -1,0 +1,54 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu1                                               
+Demand No  :1012001111   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001643 027125 Bimla    Verma           DNS                   Nursing Cell           302
+
+PGIPER00001645 027111 Gagan Bala Sharma        DNS                   Nursing Cell           302
+
+PGIPER00001649 027127 Sudershan   Bansal       DNS                   Nursing Cell           211
+
+PGIPER00001653 027152 Evelyn Manorma Thorpe    ANS                   Nursing Cell           200
+
+PGIPER00001657 027156 Shobha   Mohini          ANS                   Nursing Cell           211
+
+PGIPER00001728 027174 Manjeet   Kaur           Sister Gr. I          Other                  200
+
+PGIPER00001741 027188 Sarita                   Jr. House Keeper      Nursing Cell           152
+
+PGIPER00001796 027167 Clotilda   Minz          DNS                   Nursing Cell           170
+
+PGIPER00001798 027165 Shobha   Kujur           DNS                   Nursing Cell           170
+
+PGIPER00002200 028696 Manju   Bala             Sister Gr. II         Advance Eye Cen        102
+
+PGIPER00002211 028674 Anjali                   Sister Gr. II         Nursing Cell           102
+
+PGIPER00002212 028645 Promila   George         Sister Gr. II         Advance Cardiac        102
+
+PGIPER00002224 028636 Kulbir   Kaur            Sister Gr. II         Nursing Cell           102
+
+PGIPER00002228 028690 Neelam   Bhatti          Sister Gr. II         Nursing Cell           102
+
+PGIPER00002256 028693 Chandana    Kaur         Sister Gr. II         Nursing Cell           100
+
+PGIPER00002280 028743 Paramjeet   Kaur         Sister Gr. II         Nursing Cell           102
+
+PGIPER00002285 028726 Samrat Pal    Kaur       Sister Gr. II         Nursing Cell           102
+
+PGIPER00007851 027129 Vinod   Sethi            DNS                   Nursing Cell           302
+
+PGIPER00008353 027170 Suman  Lata              Sister Gr. II         Nursing Cell           170
+
+                                                                          Grand Total      3204
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

@@ -1,0 +1,13 @@
+
+
+CREATE OR REPLACE TRIGGER actpay_gpf_rate_mst
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_gpf_rate_mst
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_gpf_rate_mst_log(str_fin_year,num_gpf_rt,dt_date_of_applicability,gnum_slno,gdt_effective_frm,gdt_effective_to,gnum_isvalid,gnum_seat_id,
+gdt_entry_date,gdt_lstmod_date,gnum_lstmod_seatid,gstr_remarks,num_gpf_id,gnum_hospital_code) 
+ select :old.str_fin_year,:old.num_gpf_rt,:old.dt_date_of_applicability,:old.gnum_slno,:old.gdt_effective_frm,:old.gdt_effective_to,:old.gnum_isvalid,:old.gnum_seat_id,
+ :old.gdt_entry_date,:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.num_gpf_id,:old.gnum_hospital_code from actpay.actpay_gpf_rate_mst
+where str_fin_year=:new.str_fin_year ;
+END;

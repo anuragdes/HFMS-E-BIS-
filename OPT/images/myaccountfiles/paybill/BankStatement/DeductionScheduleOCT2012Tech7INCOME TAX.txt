@@ -1,0 +1,86 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                              Schedule Report For INCOME TAX
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Pan No          Amount(Rs)
+PGIPER00002951 045376 Suresh    Kumar          Other                 AETPK9972N            1000
+
+PGIPER00002972 045307 Sandeep  Kumar Sharma    Clerk                 AEEPS8963C            1000
+
+PGIPER00003006 045403 Sikander   Singh         Other                 AGKPR3099J            1000
+
+PGIPER00003023 045421 Parvinder   Singh        Other                 BAHPS9065D             600
+
+PGIPER00003026 045412 Sandeep   Singh          Other                 AIGPB5515M            1000
+
+PGIPER00003032 045402 Bindia   Verma           OTHER (C)             ADHPV6354N            1000
+
+PGIPER00003047 045210 Shamsher  Singh Hooda    Other                 AAGPH0044A            1000
+
+PGIPER00003049 045373 Rajinder   Singh         Clerk                 ALDPS3379N            1000
+
+PGIPER00003051 045413 Arjinder   Pal           Other                 ALTPP9633L            1000
+
+PGIPER00003052 045313 Gurdeep   Singh          Clerk                 AAXPB4494J            1000
+
+PGIPER00003056 045362 Kulwant   Kaur           Jr. Engineer Electric ACEPK6799E            1000
+
+PGIPER00003059 045219 Parveen Kumar Wadela     OTHER (A)             AAMPW7490A            7000
+
+PGIPER00003062 045370 Anita   Kiran            Clerk                 ACEPK4487F            1000
+
+PGIPER00003066 045319 Sham   Sunder            Clerk                 ADHPS6260Q            1000
+
+PGIPER00003078 045397 Rajnish   Mittal         Tech. Gr.1 Laundry    AIGPM6284J            1000
+
+PGIPER00003081 045334 Nachhatar   Singh        Clerk                 AAVPD3409P            1000
+
+PGIPER00003105 045408 Swaran   Singh           Other                 ATEPS0344J            1000
+
+PGIPER00003109 045406 Surya   Bhushan          Other                 AHGPB1424N            1000
+
+PGIPER00003110 045235 Sushil   Kumar           Other                 ABLPM6470A            1000
+
+PGIPER00003114 045261 Dinesh Kumar Sapra       Other                 ADCPS4050P            2000
+
+PGIPER00003116 045375 Suba   Singh             Other                 ABZPS5319N            1000
+
+PGIPER00003119 045202 Sanjiv   Kalia           OTHER (C)             AFDPK8334H            1000
+
+PGIPER00003730 045240 Sanjeev   Sharma         Other                 AFKPS9426F            1000
+
+PGIPER00003741 045242 Rajeev   Bassi           Other                 AAQPV1618K            1000
+
+PGIPER00003746 045216 Jasmer   Singh           Other                 AIEPS9101J            1000
+
+PGIPER00003751 045215 Gurnam   Singh           Other                 ACWPS3487M            1000
+
+PGIPER00003765 045214 Sanjeev   Sharma         Other                 ABDPS9404L            1000
+
+PGIPER00003769 045203 Guna Nand  Semwal        Other                 AERPS9513D            3000
+
+PGIPER00003776 045206 Avtar   Singh            OTHER (B)             ADHPS7172D            1000
+
+PGIPER00003778 045224 Prem     Chandera        Other                 AAOPC9422C            1000
+
+PGIPER00003779 045231 Narinder   Malik         Other                 ACMPM1454C            1000
+
+PGIPER00003783 045221 Kishori Lal CHAUDHARY    Other                 ACEPC1304M            2000
+
+PGIPER00003785 045230 Vinod   Chopra           OTHER (B)             AAXPC4661N            2500
+
+PGIPER00003787 045232 ABDUAL   Rehman          Other                 ABVPR3273L            2000
+
+PGIPER00003790 045226 Rajan   Aggarwal         Other                 ADEPA8836H            1000
+
+                                                                          Grand Total     47100
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

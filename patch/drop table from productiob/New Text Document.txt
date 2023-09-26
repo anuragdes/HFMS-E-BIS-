@@ -1,0 +1,114 @@
+drop table acttda_gn_ta_adv_trn;
+drop table acttda_gn_ta_req_dtl;
+drop table acttda_gn_ta_req_sanc_trn;
+drop table acttda_gn_ta_req_trn;
+ 
+drop table acttda_gn_ta_set_dtl ;
+
+drop table acttda_gn_ta_set_trn ;
+
+drop table acttda_lta_req_dtl ;
+
+drop table acttda_lta_req_trn ;
+drop table  acttda_ta_adv_trn ;
+
+drop table  acttda_ta_req_dtl ;
+
+drop table acttda_ta_req_sanc_trn ;
+
+drop table acttda_ta_req_trn ;
+
+drop table acttda_ta_set_dtl ;
+
+drop table acttda_ta_set_trn ;
+
+drop table pisleg_gblt_district_mst;
+
+drop table  pisleg_gblt_state_mst ;
+
+drop table  pist_caste_mst ;
+
+drop table pist_gn_ltc_adv_trn ;
+
+drop table  pist_gn_ltc_block_mst ;
+
+drop table pist_gn_ltc_req_family_dtl ;
+
+drop table pist_gn_ltc_req_leave_dtl ;
+
+drop table pist_gn_ltc_req_trn ;
+
+drop table pist_gn_ltc_settle_dtl ;
+
+drop table pist_gn_ltc_settle_trn;
+
+drop table pist_ltc_adv_trn ;
+
+drop table pist_ltc_block_mst ;
+
+drop table pist_ltc_req_family_dtl ;
+
+drop table pist_ltc_req_leave_dtl ;
+
+drop table pist_ltc_req_trn ;
+
+drop table pist_ltc_settle_dtl ;
+
+drop table pist_ltc_settle_trn ;
+
+drop table tada_city_grade_mst ;
+
+drop table tada_city_to_grade_map_mst ;
+
+drop table tada_upload_doc_trn ;
+ 
+drop table tada_da_config_mst ;
+
+drop table  tada_hotel_comp_config_mst ;
+
+drop table tada_lta_ca_config_mst ;
+
+drop table  tada_ta_catg_mst ;
+
+-----------------------------------
+drop table ACTPAY_BONUS_FREEZE_DTL;
+drop table PISSRT_OT_CLM_TADA_TRN;
+drop table PIST_GN_TADA_CITYGRADE_MST;
+
+drop table PIST_GN_TADA_DATIMESLAB_MST;
+
+ 
+drop table PIST_GN_TADA_DA_CONFIG_MST ;
+
+drop table PIST_GN_TADA_DEPT_TREAT_MST ;
+
+drop table PIST_GN_TADA_JOURNEYMODE_MST ;
+
+drop table PIST_GN_TADA_LTA_CONFIG_MST ;
+drop table  PIST_GN_TADA_PAY_CONFIG_MST ;
+
+drop table  PIST_GN_TADA_TACATG_MST ;
+
+drop table TADA_CITY_GRADE_MST ;
+
+drop table TADA_CITY_TO_GRADE_MAP_MST ;
+
+drop table TADA_CONFIG_MST ;
+
+drop table TADA_DA_CONFIG_MST ;
+
+drop table TADA_DA_TIME_SLAB_MST;
+
+drop table  TADA_HOTEL_COMP_CONFIG_MST ;
+
+drop table  TADA_JOUR_MODE_CLASS_MST ;
+
+drop table TADA_JOUR_MODE_MST ;
+
+drop table  TADA_LTA_CA_CONFIG_MST ;
+
+drop table TADA_TA_CATG_MST ;
+
+drop table TADA_UPLOAD_DOC_TRN ;
+
+

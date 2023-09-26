@@ -1,0 +1,446 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                                     Schedule Report For GPF
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl3                                               
+Demand No  :10120018641  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000002 041079 Neelam   Kumari          OTHER (B)             Nursing Cell         15000
+
+PGIPER00000003 041025 Piar  Chand              Other                 Virology             10000
+
+PGIPER00000004 041001 Veena   Dogra            Office Superintendent Administration       12000
+
+PGIPER00000005 041024 Madan   Lal              Other                 Establishment        10000
+
+PGIPER00000008 041012 Madhu  Verma             Other                 Radiology             9000
+
+PGIPER00000012 041113 Rekha  Rani              A L I O               Administration        5000
+
+PGIPER00000013 041056 Arun Kumar Verma         Office Superintendent Administration       10000
+
+PGIPER00000015 041095 Suresh   Kumar           Clerk                 Estate Branch -       7000
+
+PGIPER00000016 041014 Swarna   Rani            Other                 Transfusion Med      10000
+
+PGIPER00000018 041039 Anita   Sachdeva         Other                 Administration       10000
+
+PGIPER00000020 041151 Dhirendra  Singh Negi    Other                 Medical Microbi      15000
+
+PGIPER00000021 041020 Bhagwati   Devi          Other                 Administration       10000
+
+PGIPER00000022 041021 Devi Bai Malhotra        Clerk                 National Instit      20000
+
+PGIPER00000023 041027 Santosh  Arora           Other                 Administration       10000
+
+PGIPER00000024 041031 Manju Bala Paul          Other                 Estate Branch -      20000
+
+PGIPER00000026 041017 Sunil Dutt Sharma        Office Superintendent Administration        7000
+
+PGIPER00000029 041015 Angelina    Gill         Office Superintendent Administration        8000
+
+PGIPER00000030 041010 Ratna   Barua            Office Superintendent Administration       20000
+
+PGIPER00000032 041009 Dilbagh  Singh           Clerk                 Administration       10000
+
+PGIPER00000033 041011 Ved    Parkash           Office Superintendent Training Branch      20000
+
+PGIPER00000034 041033 Reeta   Kumari           Other                 Accounts             18000
+
+PGIPER00000039 041053 Mahesh   Kumari          Other                 Accounts              7000
+
+PGIPER00000040 041032 Veena   Agnihotri        Other                 Parasitology         10000
+
+PGIPER00000042 041038 Sunita   Kumari          Other                 X R A Y              10000
+
+PGIPER00000045 041049 Dharam  Vir              Other                 Administration       17000
+
+PGIPER00000046 041045 Ram   Pal                Clerk                 Cytology             15000
+
+PGIPER00000047 041003 Saroj Bala Thakur        Office Superintendent Administration       20000
+
+PGIPER00000049 041037 Amarjit  Singh           Clerk                 Administration       15000
+
+PGIPER00000050 041046 Suman    Patyal          Other                 Psychiatry           12000
+
+PGIPER00000051 041047 Manju  Rani Sharma       Clerk                 Administration       15000
+
+PGIPER00000052 041036 Neelam   Bakshi          Other                 M.S.Office            5000
+
+PGIPER00000054 041040 Sudesh    Kumari         Other                 Accounts             16000
+
+PGIPER00000055 041041 Hans   Raj               Other                 Histopathology       10000
+
+PGIPER00000056 041043 Prem Kumari Baweja       Other                 Parasitology         10000
+
+PGIPER00000057 041051 Kanchan    Bala          Other                 National Instit      10000
+
+PGIPER00000058 041052 Om   Parkash             Other                 Accounts             10000
+
+PGIPER00000059 041066 Anita   Kumari           Other                 Radio Diagnosis       2000
+
+PGIPER00000060 041067 Rameshawar   Yadava      Other                 Nursing Cell         11000
+
+PGIPER00000061 041058 Gopalakrishna   Pillai   OTHER (B)             Administration        8000
+
+PGIPER00000062 041060 Suri  Lal                Other                 Procurement Bra      12000
+
+PGIPER00000063 041142 Veena   Rani             Other                 Accounts             13000
+
+PGIPER00000064 041141 Manjeet   kaur           Clerk                 Accounts             12000
+
+PGIPER00000065 041119 Dil Bahadur Thapa        Clerk                 Accounts              5000
+
+PGIPER00000066 041174 Dharam   Singh           Clerk                 Accounts              1000
+
+PGIPER00000067 041162 Sunita Mahajan Rana      Clerk                 Accounts             10000
+
+PGIPER00000068 041165 Manorama   Bhatt         Clerk                 Accounts              7000
+
+PGIPER00000069 041161 Alka   Kansal            Clerk                 Accounts              1000
+
+PGIPER00000070 041261 Bimla   Sharma           Lower Division Clerk  Accounts              6000
+
+PGIPER00000071 041260 Pawan  Kumar             OTHER (C)             Accounts              1000
+
+PGIPER00000072 041139 Satish   Kumar           Clerk                 Accounts              8000
+
+PGIPER00000073 041213 Daljit   kaur            Lower Division Clerk  Accounts             12000
+
+PGIPER00000074 041097 Bhupinder Pal Singh      Clerk                 Accounts             18000
+
+PGIPER00000075 041128 Yashoda  Devi            Other                 Accounts             10000
+
+PGIPER00000076 041127 Kulwant  Kaur            Asst.Cashier          Accounts              5000
+
+PGIPER00000077 041283 Manju   Sharma           Lower Division Clerk  Accounts              1000
+
+PGIPER00000078 041185 Sulakshan   Ram          Clerk                 Accounts              8000
+
+PGIPER00000079 041237 Reena   Datta            Lower Division Clerk  Accounts              5000
+
+PGIPER00000080 041093 Bajrang   Bali           Clerk                 Accounts             11000
+
+PGIPER00000081 041168 Anju   Bala              Clerk                 Accounts              8000
+
+PGIPER00000082 041214 Chanchal  Sharma         Lower Division Clerk  Accounts             10000
+
+PGIPER00000084 041209 Rakesh   Kumar           Lower Division Clerk  Accounts              7000
+
+PGIPER00000085 041191 Dharminder               Asst.Cashier          Accounts              1000
+
+PGIPER00000086 041172 Rakesh   Sharma          Clerk                 Accounts              1000
+
+PGIPER00000087 041286 Harwinder  Singh         Lower Division Clerk  Transport             1000
+
+PGIPER00000090 041236 Bharti   Malhotra        Lower Division Clerk  Accounts              5000
+
+PGIPER00000091 041241 Rajinder   Singh         Lower Division Clerk  Accounts              6000
+
+PGIPER00000092 041109 Virender  Kumar          Jr. Auditor           Accounts              8000
+
+PGIPER00000093 041112 Ramesh   Bhatia          Jr. Auditor           Accounts              5000
+
+PGIPER00000094 041107 Sanjay  Sharma           Jr. Auditor           Accounts              1000
+
+PGIPER00000096 041271 Rajender  Singh          Jr. Auditor           Accounts              1000
+
+PGIPER00000097 041143 Kulwinder   Kaur         Auditor               Accounts             10000
+
+PGIPER00000098 041216 Balram                   Lower Division Clerk  Accounts              8000
+
+PGIPER00000099 041063 Bilo   Devi              Other                 Accounts             12000
+
+PGIPER00000100 041076 Pawan Kumar Sharma       Other                 Accounts              3000
+
+PGIPER00000101 041055 Anup  Kumar              Toxi Cologist         Accounts             18000
+
+PGIPER00000103 041221 Ashish   Sehgal          Jr. Auditor           Accounts              3000
+
+PGIPER00000104 041086 Krishna  Madan           Jr. Auditor           Accounts             15000
+
+PGIPER00000105 041270 Manvinder   Kaur         Jr. Auditor           Accounts              5000
+
+PGIPER00000110 041274 Yogesh   Tiwari          Jr. Auditor           Estate Branch -       2500
+
+PGIPER00000111 041116 Kaushalya   Devi         Clerk                 Accounts             12000
+
+PGIPER00000112 041263 Kulwant  Singh           Lower Division Clerk  Accounts              7000
+
+PGIPER00000116 041133 Kuljinder    Kaur        OTHER (B)             Advance Pediatr      12000
+
+PGIPER00000117 041131 Aruna   Sharma           Other                 Advance Pediatr      12000
+
+PGIPER00000118 041134 Anu   Sharma             Other                 Paediatric Surg       8000
+
+PGIPER00000119 041183 Piar Chand Soni          Clerk                 Administration        6000
+
+PGIPER00000120 041194 Jagtar   Kaur            Clerk                 Oral Health Sci      16000
+
+PGIPER00000121 041154 Jagmohan   Singh         Clerk                 Bio Statistics       10000
+
+PGIPER00000122 041175 Harjeet   Singh          Clerk                 Radiotherapy          5000
+
+PGIPER00000123 041176 Rajni   Chandna          Clerk                 Cytology              2000
+
+PGIPER00000124 041177 Savita  Rani             Clerk                 Gastroenterolog       6000
+
+PGIPER00000125 041198 Parveen  Kumar           Clerk                 Administration       12000
+
+PGIPER00000126 041178 Saroj   Bala             Clerk                 Radio Diagnosis       8500
+
+PGIPER00000127 041153 Bhupinder   Singh        Clerk                 Other                12000
+
+PGIPER00000128 041149 Kiran   Amritsar         Clerk                 Administration        6000
+
+PGIPER00000129 041150 Ram Yash Yadav           Clerk                 Radiology             6000
+
+PGIPER00000130 041164 Hoshiar   Singh          Clerk                 Accounts             10000
+
+PGIPER00000131 041195 Dev   Singh              Clerk                 Hindi Section        10000
+
+PGIPER00000132 041159 Paramjit  Singh          Clerk                 Nursing Cell          1000
+
+PGIPER00000133 041157 Jasbir  Singh            Clerk                 Cardiology            5000
+
+PGIPER00000134 041166 Jaswant   Singh          Clerk                 Administration        8000
+
+PGIPER00000135 041155 Subash   Parwana         Clerk                 Ophthalmology        18000
+
+PGIPER00000136 041170 Krishan Kumar Sharma     Clerk                 Nursing Cell         11000
+
+PGIPER00000137 041167 Sat   Pal                Clerk                 Other                 2000
+
+PGIPER00000139 041189 Sukhwinder   Kaur        Asst.Cashier          Accounts              5000
+
+PGIPER00000140 041190 Desh Raj Rana            Clerk                 Other                 5000
+
+PGIPER00000141 041192 Naresh   Kumar           Clerk                 Radio Diagnosis       6000
+
+PGIPER00000142 041193 Roop   Singh             Clerk                 Pulmonary Medic      10000
+
+PGIPER00000143 041201 Vipan   Kumar            Clerk                 Establishment        12000
+
+PGIPER00000144 041202 Ranbir   Singh           Clerk                 Estate Branch -       3000
+
+PGIPER00000145 041188 Rekha                    Clerk                 Neurosurgery         13000
+
+PGIPER00000146 041199 Rachna   Ram             Clerk                 Library              13000
+
+PGIPER00000147 041197 Seema   Magon            Clerk                 Radiotherapy          8000
+
+PGIPER00000148 041181 Balwant  Singh Rawat     Clerk                 Other                10000
+
+PGIPER00000149 041179 Ravinder  Singh          Clerk                 Radiology             6000
+
+PGIPER00000150 041180 Sarvjeet   Kaur          Clerk                 Dermatology           5000
+
+PGIPER00000151 041186 Kali    Dass             Clerk                 Legal Cell            8000
+
+PGIPER00000152 041140 Rameshwar Dass Saini     Asst.Cashier          Accounts             14500
+
+PGIPER00000153 041137 Kashmir   Chand          Other                 Radio Diagnosis      10000
+
+PGIPER00000154 041126 Sunita   Rani            Other                 Biochemistry         10000
+
+PGIPER00000155 041132 Urmil   Prasher          Other                 Hepatology           10000
+
+PGIPER00000156 041124 Bhupinder Singh Brar     Stenographer          Advance Eye Cen      13000
+
+PGIPER00000157 041136 Madan Lal Pant           Other                 Other                15000
+
+PGIPER00000159 041122 Shakuntla   Saini        Other                 Physiotherapy1       12000
+
+PGIPER00000160 041091 Janak  Raj               Asst.Cashier          Accounts              5000
+
+PGIPER00000161 041120 Randeep   Sood           Auditor CumStrockVeri Accounts             16000
+
+PGIPER00000162 041090 Taruna   Sehgal          Clerk                 Procurement Bra       9000
+
+PGIPER00000163 041089 Jagan   Nath             Clerk                 Director Office       7500
+
+PGIPER00000166 041081 Roshan   Lal             Auditor CumStrockVeri Accounts             10000
+
+PGIPER00000167 041099 Daya Dhar Pant           Asst.Cashier          Accounts             10000
+
+PGIPER00000168 041092 Onkar  Chand             Other                 Radio Diagnosis      10000
+
+PGIPER00000170 041100 Karam   Chand            Other                 Radiology            12000
+
+PGIPER00000171 041105 Baljit   Kaur            Clerk                 Histopathology       15000
+
+PGIPER00000172 041103 Sukhdev Singh Rana       Other                 Advance Pediatr      18500
+
+PGIPER00000173 041096 Parveen   Gupta          Clerk                 Photography          10000
+
+PGIPER00000174 041094 Anil   Kumar             Clerk                 Accounts              5000
+
+PGIPER00000175 041101 Santosh   Gupta          Clerk                 Deptt Of Gynaec      15000
+
+PGIPER00000176 041098 Raj   Rani               Clerk                 Establishment        18000
+
+PGIPER00000177 041108 Subhash   Chander        Clerk                 Medical Educati      10000
+
+PGIPER00000179 041251 Jaswinder   Singh        Lower Division Clerk  Neurosurgery          5000
+
+PGIPER00000180 041250 Jyoti   Parkash          Lower Division Clerk  Other                10000
+
+PGIPER00000181 041246 Jasbir   Singh           Clerk                 Histopathology        1000
+
+PGIPER00000182 041222 Ranjit Singh Bisht       Clerk                 Training Branch       9000
+
+PGIPER00000183 041230 Sneh   Singh             Clerk                 Other                 4000
+
+PGIPER00000184 041229 Rajesh   Prasad          Lower Division Clerk  Establishment         5000
+
+PGIPER00000185 041215 Ram   Pyara              Lower Division Clerk  Procurement Bra       7000
+
+PGIPER00000186 041253 Ujagar   Singh           Clerk                 Other                 4000
+
+PGIPER00000187 041249 Rajesh   Sexena          Lower Division Clerk  Accounts             10000
+
+PGIPER00000188 041248 Raj   Kumar              Upper Division Clerk  Estate Branch -       4000
+
+PGIPER00000189 041208 Surekha   Sharma         Clerk                 RTI                   4000
+
+PGIPER00000190 041207 Saroj   Bala             Lower Division Clerk  Nursing Cell          6000
+
+PGIPER00000191 041205 Ashwani   Kumar          Lower Division Clerk  General Branch        5000
+
+PGIPER00000192 041225 Pawan   Kumar            Clerk                 Accounts              7000
+
+PGIPER00000193 041223 Rajinder   Kumar         Lower Division Clerk  Recruitment cel       6000
+
+PGIPER00000194 041228 Atma   Ram               Lower Division Clerk  Procurement Bra       9000
+
+PGIPER00000195 041226 Vinod    Kumar           Upper Division Clerk  Procurement Bra       5000
+
+PGIPER00000196 041206 Asha   Gulati            Upper Division Clerk  Nursing Cell          7000
+
+PGIPER00000197 041212 Neena    Nanda           Lower Division Clerk  Recruitment cel       2000
+
+PGIPER00000198 041220 Rajwinder  Kaur          Upper Division Clerk  Other                10000
+
+PGIPER00000199 041243 Harbhajan Singh Bhatti   Upper Division Clerk  M.S.Office            1500
+
+PGIPER00000200 041242 Sunita   Rani            Upper Division Clerk  Estate Branch -       3000
+
+PGIPER00000201 041244 Gurdeep   Singh          Lower Division Clerk  Other                 2000
+
+PGIPER00000202 041259 Sudesh   Rani            Clerk                 M.S.Office           10000
+
+PGIPER00000203 041239 Tejinder   Kumar         Lower Division Clerk  Radiology             4000
+
+PGIPER00000204 041235 Awant   Kumari           Lower Division Clerk  Training Branch       6500
+
+PGIPER00000205 041232 Rajesh   Kumar           Lower Division Clerk  Radio Diagnosis       5000
+
+PGIPER00000208 041264 Tarandeep  Singh         Lower Division Clerk  Other                 1000
+
+PGIPER00000209 041269 Ram Rattan Yadav         Lower Division Clerk  Procurement Bra       7000
+
+PGIPER00000210 041280 Prabha   Rani            Lower Division Clerk  General Surgery       2000
+
+PGIPER00000220 041262 Ajay   Kumar             Lower Division Clerk  Vigilance Cell        6000
+
+PGIPER00000222 041257 Ram   Karan              Lower Division Clerk  N I N E               5000
+
+PGIPER00000223 041256 Maninder Paul Gulati     Lower Division Clerk  Immunopathology       7000
+
+PGIPER00000224 041258 Sushil   Kumar           Lower Division Clerk  Estate Branch -      11000
+
+PGIPER00000225 041255 Ashok   Kumar            Upper Division Clerk  Establishment        10000
+
+PGIPER00000227 041267 Sanjay   Kumar           Lower Division Clerk  Estate Branch -       8000
+
+PGIPER00000228 041265 Vishal                   Lower Division Clerk  Accounts              3000
+
+PGIPER00000229 041266 Kailash   Kumar          Lower Division Clerk  Anatomy               1000
+
+PGIPER00000231 041275 Prem   Singh             Lower Division Clerk  Accounts              4000
+
+PGIPER00000234 041284 Vivek   Kumar            Lower Division Clerk  Other                 6000
+
+PGIPER00000237 041285 Lajwanti                 Lower Division Clerk  Radio Diagnosis       8000
+
+PGIPER00000239 041287 Jeevan   Kumar           Lower Division Clerk  Biochemistry          2000
+
+PGIPER00000242 041290 Ashok   Kumar            Lower Division Clerk  Training Branch       3000
+
+PGIPER00000344 041272 Shareshtha   Rani        Lower Division Clerk  Diet & Kitchen        9400
+
+PGIPER00000394 041057 Shanta   Kapoor          Other                 Other                18000
+
+PGIPER00000401 041082 Ranjit  Singh Badhan     Other                 Pharmacology         15000
+
+PGIPER00000405 041069 Baljit   Rai             Clerk                 Forensic Medici      10000
+
+PGIPER00000434 041163 Veena                    Clerk                 Accounts              1000
+
+PGIPER00000435 041088 Sushma   Bhalla          Other                 Chief Nursing O      12000
+
+PGIPER00000436 041130 Harish Chander Bhatia    Clerk                 Director Office       8000
+
+PGIPER00000437 041110 Usha   Sharma            Clerk                 Endocrinology         8000
+
+PGIPER00000438 041084 Amrit    Kaur            Clerk                 Ophthalmology        18000
+
+PGIPER00000441 041203 Charanjit   Kaur         Clerk                 Immunopathology       3000
+
+PGIPER00000442 041080 Harjit   Kaur            Other                 Psychiatry            5000
+
+PGIPER00000443 041075 Lalit  Mohan Sharma      Other                 Biophysics            7000
+
+PGIPER00000444 041068 Balram Dutt Sharma       Other                 N I N E               7000
+
+PGIPER00000461 041018 Nirmal   Mohlla          Other                 Nursing Cell         18000
+
+PGIPER00001054 041196 Tilak  Raj               Other                 Other                 5000
+
+PGIPER00001055 041123 Harinder   Singh         Clerk                 Training Branch       4000
+
+PGIPER00001056 041147 Gian   Chand             Clerk                 Other                 8000
+
+PGIPER00001057 041077 Hari Ram Sharma          Other                 Procurement Bra      15000
+
+PGIPER00001058 041245 Jeet   Singh             Lower Division Clerk  Other                 4000
+
+PGIPER00001059 041111 Hardeep   Kumar          Other                 M.S.Office            9000
+
+PGIPER00001061 041204 Balwant   Singh          Other                 Estate Branch -       4000
+
+PGIPER00001062 041156 Kiran  Sharma            Clerk                 Radiology            12000
+
+PGIPER00001063 041054 Ashok   Kumar            Other                 Haematology          12000
+
+PGIPER00001064 041200 Madan Mohan Verma        Other                 Sanitation            1000
+
+PGIPER00001065 041144 Anita   Rani             Other                 Estate Branch -      10000
+
+PGIPER00001067 041184 Sulekha Rani Sharma      Asst.Cashier          Accounts             14000
+
+PGIPER00001069 041059 Rajinder  Kumar          Other                 Other                 2000
+
+PGIPER00001070 041129 Vaneet   Jagotta         Clerk                 Neurology             5000
+
+PGIPER00001071 041062 Rattan Singh Verma       Clerk                 Training Branch      15000
+
+PGIPER00001131 041078 Swarn   Singh            Asstt.Admn.Officer    Other                10000
+
+PGIPER00001596 041104 Yash Pal Attri           Office Superintendent Other                12000
+
+PGIPER00008179 041029 Anjna                    Other                 Telemedicine         20000
+
+PGIPER00008682 041247 Malkeet   Singh          Lower Division Clerk  Procurement Bra      10000
+
+PGIPER00008686 041302 Kamalamma   P            Other                 Nursing Cell         10000
+
+                                                                          Grand Total   1857900
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

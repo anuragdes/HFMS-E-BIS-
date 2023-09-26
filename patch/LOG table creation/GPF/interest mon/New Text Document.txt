@@ -1,0 +1,9 @@
+CREATE OR REPLACE TRIGGER actpay_gpf_intrest_mon
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_gpf_intrest_mon
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_gpf_intrest_mon_log(str_employee_no,str_financial_yr,str_month,num_gpf_opening_bal,gnum_isvalid,gdt_entry_date,num_gpf_interest) 
+ select :old.str_employee_no,:old.str_financial_yr,:old.str_month,:old.num_gpf_opening_bal,:old.gnum_isvalid,:old.gdt_entry_date,:old.num_gpf_interest from actpay.actpay_gpf_intrest_mon
+where str_employee_no=:new.str_employee_no and str_financial_yr=:new.str_financial_yr ;
+END;

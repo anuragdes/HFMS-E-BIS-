@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="VIGILANCE" PROCESS_NAME="Registration" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="18">
+	 INSERT INTO pisvig_case_inv_trn2(gnum_hospital_code,str_complaint_number,dt_date_of_complant,CHARGSHEET_ISSUE_TO,str_invest_officer_name,str_present_officer_name,dt_report_sub,brief_of_report,dt_of_delivry_chargd_officer,name_of_doc,subject,document_inspected,dt_of_inspection,remarks,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 UPDATE PISVIG_CHARGESHEET_ARTICLEWISE SET  STR_COMMENT=?,CHARGES_REPLY=? where gnum_hospital_code=? and STR_COMPLAINT_NUMBER=?  and ARTICLENUM_PARANUM=? and CHARGSHEET_ISSUE_TO=?
+    </QRY>
+	</BLOCK>
+</OPR>
+
+  
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 UPDATE pisvig_case_inv_trn2 SET str_invest_officer_name=?,str_present_officer_name=?,dt_report_sub=?,brief_of_report=?,dt_of_delivry_chargd_officer=?,name_of_doc=?,subject=?,document_inspected=?,dt_of_inspection=?,REMARKS=?,GNUM_ISVALID=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? where gnum_hospital_code=? and chargsheet_issue_to=? and STR_COMPLAINT_NUMBER=? 
+    </QRY>
+	</BLOCK>
+ 	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 UPDATE PISVIG_CHARGESHEET_ARTICLEWISE SET  STR_COMMENT=? ,CHARGES_REPLY=? where gnum_hospital_code=? and STR_COMPLAINT_NUMBER=?  and ARTICLENUM_PARANUM=? and CHARGSHEET_ISSUE_TO=?
+    </QRY>
+	</BLOCK>
+</OPR> 
+
+  
+<OPR ID="4" NAME="UPDATE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">  
+  	<QRY ID="1" COL_SIZE="3">
+	 UPDATE pisvig_case_inv_trn2 A SET GNUM_ISVALID=0 WHERE A.gnum_hospital_code=? and A.STR_COMPLAINT_NUMBER=? and A.CHARGSHEET_ISSUE_TO=?
+	</QRY>
+ 	</BLOCK>
+ 	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">  
+  	<QRY ID="1" COL_SIZE="3">
+	 UPDATE PISVIG_CHARGESHEET_ARTICLEWISE A SET GNUM_ISVALID=0 WHERE A.gnum_hospital_code=? and A.STR_COMPLAINT_NUMBER=? and CHARGSHEET_ISSUE_TO=?
+	</QRY>
+ 	</BLOCK>
+</OPR>
+</tns:Transaction> 

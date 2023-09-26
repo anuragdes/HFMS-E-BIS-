@@ -1,0 +1,41 @@
+<masterTabMain>
+   <maxTabId>7</maxTabId>
+   <tabLst class="java.util.ArrayList">
+      <masterTabVO>
+         <tabId>1</tabId>
+         <tabName>Widget Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=DASHBOARDWIDGETMSTACTION</tabURL>
+         <tabdisplayOrder>1</tabdisplayOrder>
+      </masterTabVO>
+      <masterTabVO>
+         <tabId>2</tabId>
+         <tabName>Tab Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=DASHBOARDMSTACTION</tabURL>
+         <tabdisplayOrder>2</tabdisplayOrder>
+      </masterTabVO>
+      <masterTabVO>
+         <tabId>3</tabId>
+         <tabName>Tab-Widget Mapping Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=DASHBOARDWIDGETMAPPINGMSTACTION</tabURL>
+         <tabdisplayOrder>3</tabdisplayOrder>
+      </masterTabVO>
+      <masterTabVO>
+         <tabId>4</tabId>
+         <tabName>Dashboard Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=DASHBOARDGROUPINGMSTACTION</tabURL>
+         <tabdisplayOrder>4</tabdisplayOrder>
+      </masterTabVO>
+      <masterTabVO>
+         <tabId>5</tabId>
+         <tabName>Parameter Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=PARAMETERMSTACTION</tabURL>
+         <tabdisplayOrder>5</tabdisplayOrder>
+      </masterTabVO>      
+      <masterTabVO>
+         <tabId>6</tabId>
+         <tabName>Configuration Master</tabName>
+         <tabURL>/dashboard/CommonDashBoardMastersAction.cnt?mode=DATABASECONFIGMST</tabURL>
+         <tabdisplayOrder>6</tabdisplayOrder>
+      </masterTabVO>
+   </tabLst>
+</masterTabMain>

@@ -1,0 +1,228 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu9                                               
+Demand No  :1012001191   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00002753 030539 Deepa   Singh            SG2       Nursing Cell   164565824          2042
+
+PGIPER00002754 030548 Vandana   Dhiman         SG2       Nursing Cell   162801155          5371
+
+PGIPER00002754 030548 Vandana   Dhiman         SG2       Nursing Cell   162801410          2042
+
+PGIPER00002762 030596 Harmeet   Kaur           SG2       Other          163729908          1797
+
+PGIPER00002765 030581 Sunil   Kumar            SG2       Nursing Cell   163038357          3079
+
+PGIPER00002765 030581 Sunil   Kumar            SG2       Nursing Cell   163549077          2742
+
+PGIPER00002765 030581 Sunil   Kumar            SG2       Nursing Cell   164566204          2104
+
+PGIPER00002771 030568 Rajveer   Kaur           SG2       Neurology      164564487          2099
+
+PGIPER00002771 030568 Rajveer   Kaur           SG2       Neurology      164567035          3213
+
+PGIPER00002772 030604 Ruth   Babu              SG2       Nursing Cell   163039398          4003
+
+PGIPER00002777 030520 Pavitra                  SG2       Other          162801017          2456
+
+PGIPER00002778 030616 Navdeep   Kaur           SG2       Nursing Cell   163589629          3062
+
+PGIPER00002779 030599 Seema   Sharma           SG2       Nursing Cell   163589306           510
+
+PGIPER00002780 030554 Kuldeep   Kaur           SG2       Other          163549518          5458
+
+PGIPER00002781 030637 Parminder   Kaur         SG2       Other          164567036          3165
+
+PGIPER00002782 030670 Manjeet   Kaur           SG2       Nursing Cell   163589426          6050
+
+PGIPER00002783 030532 Sunder Lal Chahar        SG2       Nursing Cell   163549412          1637
+
+PGIPER00002790 030544 Deepak Kumar Sharma      SG2       Nursing Cell   164339406          5379
+
+PGIPER00002792 030606 Manjeet   Kaur           SG2       Nursing Cell   163549252           953
+
+PGIPER00002794 030538 Kamlesh   Devi           SG2       X R A Y        163729890          2162
+
+PGIPER00002797 030630 Ritu   David             SG2       Main I C U     163037973          8009
+
+PGIPER00002806 030560 Gurmeet   Kaur           SG2       Nursing Cell   163549346          2115
+
+PGIPER00002808 030577 Suman                    SG2       Advance Eye Ce 163037969          3098
+
+PGIPER00002808 030577 Suman                    SG2       Advance Eye Ce 164564457          2185
+
+PGIPER00002810 030644 Ravinder   Kaur          SG2       Nursing Cell   163037860          2009
+
+PGIPER00002813 030523 Sonika   Malhan          SG2       Nursing Cell   163038043          3006
+
+PGIPER00002813 030523 Sonika   Malhan          SG2       Nursing Cell   163589494          2552
+
+PGIPER00002819 030529 Suman   Kumari           SG2       Emergency      163039735          2005
+
+PGIPER00002819 030529 Suman   Kumari           SG2       Emergency      164567276          2977
+
+PGIPER00002823 030525 Sonia                    SG2       Nursing Cell   164567212          1406
+
+PGIPER00002823 030525 Sonia                    SG2       Nursing Cell   164567213          1021
+
+PGIPER00002828 030585 Karamjeet   Kaur         SG2       Nursing Cell   164567267          2042
+
+PGIPER00002829 030558 Jasmine   Rahi           SG2       Advance Cardia 164550080           913
+
+PGIPER00002835 030567 Raj   Kumari             SG2       Nursing Cell   163549287          2754
+
+PGIPER00002835 030567 Raj   Kumari             SG2       Nursing Cell   164870472          3062
+
+PGIPER00002842 030643 Chand   Ram              SG2       Nursing Cell   162801082          2435
+
+PGIPER00002848 030601 Neelam   Rani            SG2       Nursing Cell   163865261          2042
+
+PGIPER00002848 030601 Neelam   Rani            SG2       Nursing Cell   164564324          2175
+
+PGIPER00002855 030641 Hitesh   Kumar           SG2       Nursing Cell   163589512          1076
+
+PGIPER00002855 030641 Hitesh   Kumar           SG2       Nursing Cell   163589513           970
+
+PGIPER00002872 030713 Tamanna   Verma          SG2       Advance Cardia 163549254          2742
+
+PGIPER00002873 030717 Seema   Devi             SG2       Nursing Cell   163549262          2583
+
+PGIPER00002882 030696 Kanchan   Kumari         SG2       Nursing Cell   164870595          5508
+
+PGIPER00002883 030691 Sunita   Rani            SG2       Nursing Cell   164563088          2992
+
+PGIPER00002886 030683 Seema   Kumari           SG2       Nursing Cell   164565708          6085
+
+PGIPER00002889 030615 Mahavir Prashad Saini    SG2       Nursing Cell   163039265          1264
+
+PGIPER00002895 030676 Alishba                  SG2       Nursing Cell   164550243          2908
+
+PGIPER00002899 030678 Victoria                 SG2       Nursing Cell   163549150          3894
+
+PGIPER00002901 030722 Shareen   Raichal        SG2       Nursing Cell   163549359          2042
+
+PGIPER00002904 030720 Subhash Chand Yadav      SG2       Transfusion Me 163589912          3732
+
+PGIPER00002910 030622 Rashi   Sharma           SG2       Nursing Cell   130125469          5104
+
+PGIPER00002912 030726 Jyoti   Paul             SG2       Advance Eye Ce 163037616          4171
+
+PGIPER00002916 030702 Prem   Partap            SG2       Neurosurgery   163038765          5000
+
+PGIPER00002920 030706 Om   Parkash             SG2       Nursing Cell                      3097
+
+PGIPER00002922 030725 Anuradha                 SG2       Neurosurgery   164563739          4835
+
+PGIPER00002933 030757 Rajni   Sharma           SG2       Nursing Cell   130125468          5104
+
+PGIPER00002948 030808 Narendra    Tyagi        SG2       Nursing Cell   163589521           874
+
+PGIPER00002950 030747 Sunil   Kumar            SG2       Nursing Cell   163038764          5000
+
+PGIPER00002954 030767 Pallavi    Bhanot        SG2       Nursing Cell   164587069          1021
+
+PGIPER00002970 030794 Pawandeep kaur  Saini    SG2       Nursing Cell   164583547          2152
+
+PGIPER00002981 030765 Anuradha                 SG2       Nursing Cell   163589487          4083
+
+PGIPER00002997 030802 Annie    Sharma          SG2       Nursing Cell   2435               2435
+
+PGIPER00003019 030760 Baninder    Kaur         SG2       Nursing Cell   163589557          4083
+
+PGIPER00004891 030967 Prahlad    Meena         SG2       Nursing Cell   163589829          2552
+
+PGIPER00004897 030936 Manjit  Kaur             SG2       Advance Cardia 164567401          4229
+
+PGIPER00004903 030987 Vijay Kumar Meena        SG2       Advance Cardia 163589828          2552
+
+PGIPER00007852 030605 Jasvir    Kaur           SG2       Nursing Cell   30032665           6650
+
+PGIPER00007867 030930 Neelam                   SG2       Nursing Cell   163589979          2552
+
+PGIPER00007876 030957 Subash   Chander         SG2       Nursing Cell   164565652          1531
+
+PGIPER00007880 030960 Ken P Mani               SG2       Nursing Cell   163589871          2702
+
+PGIPER00007885 030940 Naresh Kumar Swami       SG2       Nursing Cell   164583369          1021
+
+PGIPER00007889 030921 Shish  Ram Kumawat       SG2       Nursing Cell   164583402          2042
+
+PGIPER00007896 030650 Sofia  Malik             SG2       Nursing Cell   163549900           510
+
+PGIPER00007903 030915 Suman   Bishnoi          SG2       Nursing Cell   163589969          2042
+
+PGIPER00007903 030915 Suman   Bishnoi          SG2       Nursing Cell   163589970          1081
+
+PGIPER00007914 030973 Sumandeep Kaur Brar      SG2       Nursing Cell   164559834          4083
+
+PGIPER00007914 030973 Sumandeep Kaur Brar      SG2       Nursing Cell   164587165          1896
+
+PGIPER00007935 030860 Kiranjot  Kaur           SG2       Main I C U     165952718          1222
+
+PGIPER00007955 030935 Manpreet  Kaur           SG2       Nursing Cell   163865588          2696
+
+PGIPER00007959 030912 Sukhvir   Kaur           SG2       Nursing Cell   164566094          2992
+
+PGIPER00007960 030923 Anju  Kumari             SG2       Nursing Cell   164565698          6010
+
+PGIPER00007962 030653 Harpreet   Kaur          SG2       Nursing Cell   1645583031         1021
+
+PGIPER00007967 030952 Parmod Kumar Nagar       SG2       Renal Transpla 163589813          1021
+
+PGIPER00007967 030952 Parmod Kumar Nagar       SG2       Renal Transpla 163589825          1148
+
+PGIPER00007968 030919 Teenamol  Sebastion      SG2       Nursing Cell   164566914          4755
+
+PGIPER00007974 030926 Navreet  Kaur            SG2       Nursing Cell                      3062
+
+PGIPER00008025 030521 Shashi                   SG2       Nursing Cell   163038408          3008
+
+PGIPER00008121 030628 Ester                    SG2       Nursing Cell   163038410          2037
+
+PGIPER00008138 030711 Harpreet   Kaur          SG1       Nursing Cell   163038091          2992
+
+PGIPER00008141 030595 Promila                  SG2       Nursing Cell   163040000          3079
+
+PGIPER00008154 030610 Rupinder   Kaur          SG2       Nursing Cell   163729907          1802
+
+PGIPER00008154 030610 Rupinder   Kaur          SG2       Nursing Cell   164339345          5379
+
+PGIPER00008202 030906 Harjot   Kaur            SG2       Nursing Cell   163589978          5104
+
+PGIPER00008236 30575  Harpreet   Kaur          SG2       Nursing Cell   163729906          1389
+
+PGIPER00008238 030562 Navjot   Kaur            SG2       Nursing Cell   163509543          2042
+
+PGIPER00008251 030898 Manpreet   Kaur          SG2       Nursing Cell   163583368          1021
+
+PGIPER00008254 030900 Praveen    Rani          SG2       Nursing Cell   164565721          3000
+
+PGIPER00008256 030893 Surya   Prakash          SG2       Nursing Cell   163509906          1021
+
+PGIPER00008264 030990 Ashok Kumar Meena        SG2       Nursing Cell   163509907          3062
+
+PGIPER00008272 030868 Bharat Kumar Sain        SG2       Nursing Cell   163589814          2042
+
+PGIPER00008276 030992 Ramesh  Chand Gurtar     SG2       Nursing Cell   164566623          2190
+
+PGIPER00008278 031000 Meenu   Dhiman           SG2       Nursing Cell   164566262          3563
+
+PGIPER00008278 031000 Meenu   Dhiman           SG2       Nursing Cell   164570567          5425
+
+PGIPER00008360 030938 Neeraj Kumar Sain        SG2       Nursing Cell   164583378          2042
+
+PGIPER00008361 030942 Deepika  Soni            SG2       Nursing Cell   164583403          2042
+
+PGIPER00008362 030955 Mamta  Rani              SG2       Nursing Cell   164565651          3000
+
+                                                                          Grand Total    302495
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

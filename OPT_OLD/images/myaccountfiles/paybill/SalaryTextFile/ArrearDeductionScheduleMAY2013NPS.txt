@@ -1,0 +1,1523 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                    08 May 2013 
+                              Arrear Schedule Report For NPS
+ 
+Month      :MAY          Year          :2013                                              
+Category   :Nursing      Sub-Category  :                                                  
+Demand No  :101051300319 Demand Date   :20-May-2013                                       
+ 
+SlNo Employee ID    Old ID Name                       Designation    Department      Amount(Rs)
+1    PGIPER00000668 030832 Rupinderjit   Kaur         SG2            Radio Diagnosis        435
+
+2    PGIPER00000984 030858 Raminder  Kaur             SG1            Other                  423
+
+3    PGIPER00001589 030996 Seema                      SG2            Nursing Cell           423
+
+4    PGIPER00002752 030536 Raj   Bala                 SG2            Other                  465
+
+5    PGIPER00002753 030539 Deepa   Singh              SG2            Nursing Cell           465
+
+6    PGIPER00002754 030548 Vandana   Dhiman           SG2            Nursing Cell           465
+
+7    PGIPER00002755 030535 Surendra   Kumar           SG2            Nursing Cell           465
+
+8    PGIPER00002762 030596 Harmeet   Kaur             SG2            Other                  465
+
+9    PGIPER00002765 030581 Sunil   Kumar              SG2            Nursing Cell           465
+
+10   PGIPER00002766 030580 Manoj   Kumar              SG2            Nursing Cell           465
+
+11   PGIPER00002767 030589 Geeta    Rani              SG2            Advance Cardiac        465
+
+12   PGIPER00002768 030593 Mahesh   Chand             SG2            Nursing Cell           465
+
+13   PGIPER00002769 030527 Gagandeep   Kaur           SG2            Nursing Cell           465
+
+14   PGIPER00002770 030600 Yumkhaibam Sanatombi Devi  SG2            Advance Cardiac        465
+
+15   PGIPER00002771 030568 Rajveer   Kaur             SG2            Neurology              465
+
+16   PGIPER00002772 030604 Ruth   Babu                SG2            Nursing Cell           465
+
+17   PGIPER00002773 030598 Anita   Rani               SG2            Nursing Cell           465
+
+18   PGIPER00002774 030594 Vijay   Kumar              SG2            Nursing Cell           465
+
+19   PGIPER00002775 030609 Charanjit   Kaur           SG2            Other                  465
+
+20   PGIPER00002776 030578 Nancy   Negi               SG2            Nursing Cell           465
+
+21   PGIPER00002777 030520 Pavitra                    SG2            Other                  465
+
+22   PGIPER00002778 030616 Navdeep   Kaur             SG2            Nursing Cell           465
+
+23   PGIPER00002779 030599 Seema   Sharma             SG2            Nursing Cell           759
+
+24   PGIPER00002780 030554 Kuldeep   Kaur             SG2            Other                  465
+
+25   PGIPER00002781 030637 Parminder   Kaur           SG2            Other                  465
+
+26   PGIPER00002782 030670 Manjeet   Kaur             SG2            Nursing Cell           465
+
+27   PGIPER00002783 030532 Sunder Lal Chahar          SG2            Nursing Cell           465
+
+28   PGIPER00002785 030545 Satvir   Kaur              SG2            Nursing Cell           465
+
+29   PGIPER00002786 030621 Sonia   Barpaga            SG2            Other                  465
+
+30   PGIPER00002787 030611 Kuljit   Kaur              SG2            Nursing Cell           465
+
+31   PGIPER00002788 030573 Amanpreet    Kaur          SG2            Nursing Cell           465
+
+32   PGIPER00002789 030587 Gurpreet   Kaur            SG2            Other                  465
+
+33   PGIPER00002790 030544 Deepak Kumar Sharma        SG2            Nursing Cell           465
+
+34   PGIPER00002791 030649 Harminder   Kaur           SG2            Nursing Cell           465
+
+35   PGIPER00002792 030606 Manjeet   Kaur             SG2            Nursing Cell           465
+
+36   PGIPER00002794 030538 Kamlesh   Devi             SG2            X R A Y                465
+
+37   PGIPER00002795 030597 Jaiveer                    SG2            Nursing Cell           465
+
+38   PGIPER00002796 030631 Konthoujam  Gunishankar    SG2            Nursing Cell           465
+
+39   PGIPER00002797 030630 Ritu   David               SG2            Main I C U             465
+
+40   PGIPER00002798 030607 Rakesh Kumar Yadav         SG2            Advance Cardiac        465
+
+41   PGIPER00002799 030557 Ningthoujam Purnamala Devi SG2            Nursing Cell           465
+
+42   PGIPER00002800 030540 Chhotu Ram Ogra            SG2            Nursing Cell           465
+
+43   PGIPER00002801 030658 Arvinder   Kaur            SG2            Nursing Cell           465
+
+44   PGIPER00002802 030542 Vishnu Kumar Goyal         SG2            Nursing Cell           465
+
+45   PGIPER00002803 030664 Gaitry                     SG2            Nursing Cell           465
+
+46   PGIPER00002804 030646 Navita                     SG2            Nursing Cell           465
+
+47   PGIPER00002805 030553 Kanwaljeet   Kaur          SG2            Emergency              465
+
+48   PGIPER00002806 030560 Gurmeet   Kaur             SG2            Nursing Cell           465
+
+49   PGIPER00002807 030642 Sandeep   Kumar            SG2            Nursing Cell           465
+
+50   PGIPER00002808 030577 Suman                      SG2            Advance Eye Cen        435
+
+51   PGIPER00002809 030570 Davinder   Kaur            SG2            Nursing Cell           465
+
+52   PGIPER00002810 030644 Ravinder   Kaur            SG2            Nursing Cell           465
+
+53   PGIPER00002811 030549 Kavita   Devi              SG2            Nursing Cell           465
+
+54   PGIPER00002812 030614 Rajneesh   Sood            SG2            Other                  465
+
+55   PGIPER00002813 030523 Sonika   Malhan            SG2            Nursing Cell           465
+
+56   PGIPER00002814 030612 Sunil  Kumar               SG2            Advance Cardiac        465
+
+57   PGIPER00002815 030533 Vikas                      SG2            Advance Cardiac        465
+
+58   PGIPER00002816 030524 Pramod   Kumar             SG2            Nursing Cell           465
+
+59   PGIPER00002817 030617 Chandra Pal Singh          SG2            Nursing Cell           465
+
+60   PGIPER00002818 030528 Tejinder   Kaur            SG2            Nursing Cell           465
+
+61   PGIPER00002819 030529 Suman   Kumari             SG2            Emergency              465
+
+62   PGIPER00002820 030531 Subhash   Chander          SG2            Nursing Cell           465
+
+63   PGIPER00002821 030673 Amandeep  Kaur             SG2            Nursing Cell           465
+
+64   PGIPER00002822 030534 Khema   Ram                SG2            Nursing Cell           465
+
+65   PGIPER00002823 030525 Sonia                      SG2            Nursing Cell           465
+
+66   PGIPER00002824 030636 Shyam   Sunder             SG2            Nursing Cell           465
+
+67   PGIPER00002825 030537 Krishan Kumar Poonia       SG2            Nursing Cell           465
+
+68   PGIPER00002826 030586 Harpreet   Kaur            SG2            Nursing Cell           465
+
+69   PGIPER00002827 030582 Werchin   Soni             SG2            Gastroenterolog        465
+
+70   PGIPER00002828 030585 Karamjeet   Kaur           SG2            Nursing Cell           465
+
+71   PGIPER00002829 030558 Jasmine   Rahi             SG2            Advance Cardiac        465
+
+72   PGIPER00002830 030556 Lavjeet   Kaur             SG2            Nursing Cell           465
+
+73   PGIPER00002831 030564 Mahesh   Singh             SG2            Nursing Cell           465
+
+74   PGIPER00002832 030632 Vinod Kumar Malav          SG2            Nursing Cell           465
+
+75   PGIPER00002834 030563 Shalley   Khokher          SG2            Nursing Cell           465
+
+76   PGIPER00002835 030567 Raj   Kumari               SG2            Nursing Cell           465
+
+77   PGIPER00002836 030565 Veenu   Saini              SG2            Other                  759
+
+78   PGIPER00002837 030626 Manish Kumar  Nechu        SG2            Nursing Cell           465
+
+79   PGIPER00002838 030648 Nainaram                   SG2            Nursing Cell           465
+
+80   PGIPER00002839 030640 Amita   Pal                SG2            Paediatric Surg        465
+
+81   PGIPER00002840 030571 Gurmeet   Singh            SG2            Nursing Cell           465
+
+82   PGIPER00002841 030552 Kirandeep   Kaur           SG2            Nursing Cell           465
+
+83   PGIPER00002842 030643 Chand   Ram                SG2            Nursing Cell           465
+
+84   PGIPER00002843 030635 Gagan   Deep               SG2            Nursing Cell           465
+
+85   PGIPER00002844 030661 Mukesh   Kumar             SG2            Nursing Cell           465
+
+86   PGIPER00002845 030698 Harpreet   Kaur            SG2            Nursing Cell           465
+
+87   PGIPER00002846 030602 Simerdeep  Kaur            SG2            Nursing Cell           465
+
+88   PGIPER00002847 030588 Ashok   Kumar              SG2            Nursing Cell           465
+
+89   PGIPER00002848 030601 Neelam   Rani              SG2            Nursing Cell           465
+
+90   PGIPER00002849 030592 Pardhan   Singh            SG2            Nursing Cell           465
+
+91   PGIPER00002850 030584 Roshan Lal Saini           SG2            Advance Cardiac        465
+
+92   PGIPER00002851 030603 Ravneet   Kaur             SG2            Main I C U             450
+
+93   PGIPER00002852 030645 Manju   Dhaka              SG2            Nursing Cell           465
+
+94   PGIPER00002853 030660 Dheerendra   Kumar         SG2            Nursing Cell           465
+
+95   PGIPER00002854 030659 Garima   Gupta             SG2            Nursing Cell           465
+
+96   PGIPER00002855 030641 Hitesh   Kumar             SG2            Nursing Cell           465
+
+97   PGIPER00002856 030651 Manoj   Sharma             SG2            Nursing Cell           465
+
+98   PGIPER00002857 030674 Anuvinder   Kaur           SG2            Nursing Cell           465
+
+99   PGIPER00002858 030652 Smitha   Chandran          SG2            Nursing Cell           465
+
+100  PGIPER00002860 030656 Sonia   Raphael            SG2            Advance Cardiac        465
+
+101  PGIPER00002861 030663 Mahender Singh Tetarwal    SG2            Emergency              465
+
+102  PGIPER00002863 030709 Manjit   Kaur              SG2            Other                  465
+
+103  PGIPER00002864 030668 Narshi   Ram               SG2            Nursing Cell           465
+
+104  PGIPER00002865 030665 Suman                      SG2            Emergency              465
+
+105  PGIPER00002866 030672 Suman   Sharma             SG2            Nursing Cell           465
+
+106  PGIPER00002867 030695 Loveleen   Sandal          SG2            Nursing Cell           465
+
+107  PGIPER00002868 030669 Surendra Singh Khokhar     SG2            Nursing Cell           465
+
+108  PGIPER00002869 030666 Harjinder   Kaur           SG2            Nursing Cell           465
+
+109  PGIPER00002870 030688 Mary   Daisy               SG2            Other                  465
+
+110  PGIPER00002871 030712 Mukesh   Bhatra            SG2            Nursing Cell           465
+
+111  PGIPER00002872 030713 Tamanna   Verma            SG2            Advance Cardiac        465
+
+112  PGIPER00002873 030717 Seema   Devi               SG2            Nursing Cell           465
+
+113  PGIPER00002874 030714 Jennifer                   SG2            Nursing Cell           465
+
+114  PGIPER00002876 030716 Lakshmi   Devi             SG2            Nursing Cell           465
+
+115  PGIPER00002877 030689 Birbal   Ram               SG2            Nursing Cell           465
+
+116  PGIPER00002878 030715 Reena   Rani               SG2            Other                  465
+
+117  PGIPER00002879 030690 Gopal Singh Jat            SG2            Nursing Cell           465
+
+118  PGIPER00002880 030718 Sapna   Bhardwaj           SG2            Nursing Cell           465
+
+119  PGIPER00002881 030736 Bindu                      SG2            Nursing Cell           465
+
+120  PGIPER00002882 030696 Kanchan   Kumari           SG2            Nursing Cell           465
+
+121  PGIPER00002883 030691 Sunita   Rani              SG2            Nursing Cell           465
+
+122  PGIPER00002884 030679 Sunil   Kumar              SG2            Nursing Cell           465
+
+123  PGIPER00002885 030686 Sofia   Masih              SG2            Nursing Cell           465
+
+124  PGIPER00002886 030683 Seema   Kumari             SG2            Nursing Cell           465
+
+125  PGIPER00002887 030687 Prem   Chand               SG2            Other                  465
+
+126  PGIPER00002888 030694 Deepa   Kumari             SG2            Nursing Cell           465
+
+127  PGIPER00002889 030615 Mahavir Prashad Saini      SG2            Nursing Cell           465
+
+128  PGIPER00002890 030681 Richa   Thakur             SG2            Nursing Cell           465
+
+129  PGIPER00002891 030680 Krishna   Kumar            SG2            Advance Cardiac        465
+
+130  PGIPER00002893 030675 Vijay Kumar Sharma         SG2            Nursing Cell           465
+
+131  PGIPER00002894 030685 Davinder   Kaur            SG2            Nursing Cell           465
+
+132  PGIPER00002895 030676 Alishba                    SG2            Nursing Cell           450
+
+133  PGIPER00002896 030710 Siyaram   Sharma           SG2            Nursing Cell           465
+
+134  PGIPER00002897 030708 Tejkaran   Kumawat         SG2            Nursing Cell           465
+
+135  PGIPER00002898 030677 Basil   George             SG2            Nursing Cell           465
+
+136  PGIPER00002899 030678 Victoria                   SG2            Nursing Cell           465
+
+137  PGIPER00002900 030724 Ranjit Kaur Nagi           SG2            Nursing Cell           465
+
+138  PGIPER00002901 030722 Shareen   Raichal          SG2            Nursing Cell           465
+
+139  PGIPER00002903 030721 Harpreet Kaur Saini        SG2            Nursing Cell           465
+
+140  PGIPER00002904 030720 Subhash Chand Yadav        SG2            Transfusion Med        465
+
+141  PGIPER00002905 030719 Ajay   Kumar               SG2            Nursing Cell           465
+
+142  PGIPER00002906 030729 Neena                      SG2            Main I C U             450
+
+143  PGIPER00002907 030576 Sukhjinder    Kaur         SG2            Nursing Cell           450
+
+144  PGIPER00002908 030728 Vijender  Kumar Jakhar     SG2            Nursing Cell           465
+
+145  PGIPER00002909 030638 Shaffalica   Kalra         SG2            Nursing Cell           465
+
+146  PGIPER00002910 030622 Rashi   Sharma             SG2            Nursing Cell           465
+
+147  PGIPER00002911 030530 Balwinder    Kaur          SG2            Nursing Cell           465
+
+148  PGIPER00002912 030726 Jyoti   Paul               SG2            Advance Eye Cen        465
+
+149  PGIPER00002913 030699 Ashwinder   Kaur           SG2            Nursing Cell           465
+
+150  PGIPER00002915 030701 Vijay   Kumar              SG2            Advance Cardiac        465
+
+151  PGIPER00002916 030702 Prem   Partap              SG2            Neurosurgery           465
+
+152  PGIPER00002917 030703 Jaspreet   Kaur            SG2            Nursing Cell           465
+
+153  PGIPER00002918 030704 Trilok Chand Tailor        SG2            Nephrology             465
+
+154  PGIPER00002919 030705 Vinod   Kumar              SG2            Nursing Cell           465
+
+155  PGIPER00002920 030706 Om   Parkash               SG2            Nursing Cell           465
+
+156  PGIPER00002921 030697 Jai Parkash Sharma         SG2            Nursing Cell           465
+
+157  PGIPER00002922 030725 Anuradha                   SG2            Neurosurgery           465
+
+158  PGIPER00002925 030743 Sudha  Rani Patra          SG2            Advance Cardiac        465
+
+159  PGIPER00002926 030744 Shikha   Pandey            SG2            Nursing Cell           465
+
+160  PGIPER00002928 030793 Upma   Sharma              SG2            Nursing Cell           450
+
+161  PGIPER00002930 030731 Basant   Lal               SG2            Nursing Cell           450
+
+162  PGIPER00002931 030792 Rajbir   Kaur              SG2            Nursing Cell           450
+
+163  PGIPER00002933 030757 Rajni   Sharma             SG2            Nursing Cell           450
+
+164  PGIPER00002934 030746 Ngangbam Chandralekha Devi SG2            Nursing Cell           450
+
+165  PGIPER00002936 030733 Natasha                    SG2            Nursing Cell           450
+
+166  PGIPER00002937 030782 Isha   Sharma              SG2            Advance Eye Cen        450
+
+167  PGIPER00002938 030810 Simranjit   Kaur           SG2            Nursing Cell           450
+
+168  PGIPER00002939 030771 Renu   Kumari              SG2            Nursing Cell           450
+
+169  PGIPER00002941 030777 Vandana                    SG2            Nursing Cell           450
+
+170  PGIPER00002943 030799 Arpleen   Kaur             SG2            Nursing Cell           450
+
+171  PGIPER00002944 030772 Balwinder   Kaur           SG2            Nursing Cell           450
+
+172  PGIPER00002945 030735 Rajwant    Kaur            SG2            Nursing Cell           450
+
+173  PGIPER00002946 030768 Shivani   Verma            SG2            Nursing Cell           450
+
+174  PGIPER00002947 030809 Shikha   Mahendra          SG2            Nursing Cell           450
+
+175  PGIPER00002948 030808 Narendra    Tyagi          SG2            Nursing Cell           450
+
+176  PGIPER00002949 030737 Rajbir   Kaur              SG2            Nursing Cell           450
+
+177  PGIPER00002950 030747 Sunil   Kumar              SG2            Nursing Cell           450
+
+178  PGIPER00002954 030767 Pallavi    Bhanot          SG2            Nursing Cell           450
+
+179  PGIPER00002955 030741 Deepak Kumar Sen           SG2            Nursing Cell           450
+
+180  PGIPER00002957 030739 Edgar   Stephen            SG2            Nursing Cell           450
+
+181  PGIPER00002959 030738 Ruhy                       SG2            Nursing Cell           450
+
+182  PGIPER00002962 030811 Anna    Alex               SG2            Nursing Cell           450
+
+183  PGIPER00002963 030740 Harvinder    Singh         SG2            Nursing Cell           450
+
+184  PGIPER00002965 030633 Narendra  k Y              SG2            Nursing Cell           465
+
+185  PGIPER00002967 030732 Parvez   Aalam             SG2            Nursing Cell           450
+
+186  PGIPER00002970 030794 Pawandeep kaur  Saini      SG2            Nursing Cell           450
+
+187  PGIPER00002971 030750 Simarjeet                  SG2            Nursing Cell           450
+
+188  PGIPER00002973 030784 Poonam                     SG2            Nursing Cell           450
+
+189  PGIPER00002974 030756 Sumitra    Kumari          SG2            Nursing Cell           450
+
+190  PGIPER00002977 030783 Charanpreet   Kaur         SG2            Nursing Cell           450
+
+191  PGIPER00002979 030745 Jagvinder   Kaur           SG2            Nursing Cell           465
+
+192  PGIPER00002981 030765 Anuradha                   SG2            Nursing Cell           450
+
+193  PGIPER00002984 030781 Jyoti   Madahar            SG2            Nursing Cell           450
+
+194  PGIPER00002986 030798 Supreet    Kaur            SG2            Nursing Cell           450
+
+195  PGIPER00002987 030766 Lavkush    Agrawal         SG2            Nursing Cell           450
+
+196  PGIPER00002990 030796 Puja   Rani                SG2            Nursing Cell           450
+
+197  PGIPER00002997 030802 Annie    Sharma            SG2            Nursing Cell           450
+
+198  PGIPER00002998 030776 Jagdeep Kaur Saini         SG2            Nursing Cell           450
+
+199  PGIPER00003000 030806 Navjot    Kaur             SG2            Nursing Cell           450
+
+200  PGIPER00003002 030774 Mandeep   Kaur             SG2            Nursing Cell           450
+
+201  PGIPER00003004 030773 S.P.   Snimar              SG2            Nursing Cell           450
+
+202  PGIPER00003005 030754 Suman    Lata              SG2            Nursing Cell           450
+
+203  PGIPER00003008 030770 Deepika   Kaushal          SG2            Nursing Cell           450
+
+204  PGIPER00003009 030804 Jyotinder Kaur  Bajwa      SG2            Nursing Cell           450
+
+205  PGIPER00003013 030764 Neha   Aggarwal            SG2            Nursing Cell           450
+
+206  PGIPER00003014 030803 Amandeep   Kaur            SG2            Nursing Cell           450
+
+207  PGIPER00003016 030789 Prabhdeep   Kaur           SG2            Nursing Cell           450
+
+208  PGIPER00003019 030760 Baninder    Kaur           SG2            Nursing Cell           450
+
+209  PGIPER00003020 030762 Kulwant   Kaur             SG2            Nursing Cell           450
+
+210  PGIPER00003021 030805 Sarita                     SG2            Nursing Cell           450
+
+211  PGIPER00003022 030788 Ravneet   Kaur             SG2            Advance Eye Cen        450
+
+212  PGIPER00003025 030800 Keerthi    Mohanan         SG2            Nursing Cell           450
+
+213  PGIPER00003027 030759 Parminder   Kaur           SG2            Nursing Cell           450
+
+214  PGIPER00003028 030790 Parminder  Pal Sharma      SG2            Nursing Cell           450
+
+215  PGIPER00003030 030791 Deepshiekha                SG2            Nursing Cell           450
+
+216  PGIPER00003033 030753 Purnima   Sharma           SG2            Nursing Cell           450
+
+217  PGIPER00003034 030801 Jyotsna                    SG2            Nursing Cell           450
+
+218  PGIPER00003036 030761 Harpinderjeet   Kaur       SG2            Nursing Cell           450
+
+219  PGIPER00003037 030769 Shalika    Sharma          SG2            Nursing Cell           450
+
+220  PGIPER00003039 030751 Aarti   Kapoor             SG2            Nursing Cell           450
+
+221  PGIPER00003042 030778 Latika    Rohilla          SG2            Nursing Cell           450
+
+222  PGIPER00003043 030786 Hardeep   Kaur             SG2            Nursing Cell           450
+
+223  PGIPER00003045 030752 Satinder   Kaur            SG2            Nursing Cell           450
+
+224  PGIPER00003046 030780 Amita    Agarwal           SG2            Nursing Cell           450
+
+225  PGIPER00003129 030775 Ramandeep    Kaur          SG2            Nursing Cell           450
+
+226  PGIPER00004891 030967 Prahlad    Meena           SG2            Nursing Cell           423
+
+227  PGIPER00004893 030840 Sonia   Bhatia             SG2            Nursing Cell           435
+
+228  PGIPER00004894 030982 Navjit    Kaur             SG2            Advance Eye Cen        423
+
+229  PGIPER00004895 030823 Kiranjot    Kaur           SG2            Advance Cardiac        435
+
+230  PGIPER00004896 030830 Gagandeep  Kaur            SG2            Advance Cardiac        435
+
+231  PGIPER00004897 030936 Manjit  Kaur               SG2            Advance Cardiac        423
+
+232  PGIPER00004898 030838 Kanwal Deep Kaur           SG2            Advance Cardiac        435
+
+233  PGIPER00004899 030929 Shivnath                   SG2            Advance Cardiac        423
+
+234  PGIPER00004901 030829 Amanpreet Kaur Aneja       SG2            Advance Cardiac        435
+
+235  PGIPER00004902 030865 Reena  Begum               SG2            Advance Cardiac        435
+
+236  PGIPER00004903 030987 Vijay Kumar Meena          SG2            Advance Cardiac        423
+
+237  PGIPER00004905 030841 Pawandeep                  SG2            Advance Cardiac        435
+
+238  PGIPER00007835 030861 Geetanjali                 SG2            Advance Cardiac        435
+
+239  PGIPER00007836 030834 Namita  Bhatti             SG2            Advance Cardiac        435
+
+240  PGIPER00007837 030950 Ashok  Kumar               SG2            Advance Cardiac        423
+
+241  PGIPER00007838 030897 Shikha  Chauhan            SG2            Advance Eye Cen        423
+
+242  PGIPER00007839 030975 Manveer                    SG1            Advance Cardiac        423
+
+243  PGIPER00007845 030954 Rajwanti                   SG2            Nursing Cell           423
+
+244  PGIPER00007846 030812 Loveleen  Kaur             SG2            Nursing Cell           450
+
+245  PGIPER00007852 030605 Jasvir    Kaur             SG2            Nursing Cell           465
+
+246  PGIPER00007855 030839 Ranjot                     SG2            Nursing Cell           435
+
+247  PGIPER00007857 030882 Gajanand   Lovevanshi      SG2            Nursing Cell           423
+
+248  PGIPER00007860 030989 Harpreet Pal Kaur          SG2            Nursing Cell           423
+
+249  PGIPER00007861 030943 Rai  Singh                 SG2            Nursing Cell           423
+
+250  PGIPER00007863 030911 Dhannaram  Saini           SG2            Nursing Cell           423
+
+251  PGIPER00007864 030944 Rimpy  Rani                SG2            Nursing Cell           423
+
+252  PGIPER00007865 030852 Parul  Rana                SG2            Nursing Cell           435
+
+253  PGIPER00007867 030930 Neelam                     SG2            Nursing Cell           423
+
+254  PGIPER00007868 030946 Meenakshi                  SG2            Nursing Cell           423
+
+255  PGIPER00007869 030939 Rajnish   Acharya          SG2            Nursing Cell           423
+
+256  PGIPER00007870 030969 Smita  Das                 SG2            Nursing Cell           423
+
+257  PGIPER00007872 030819 Preet Kawal                SG2            Nursing Cell           435
+
+258  PGIPER00007873 030849 Dilpreet   Kaur            SG2            Nursing Cell           435
+
+259  PGIPER00007874 030961 Manoj Kumar Gurjar         SG2            Nursing Cell           423
+
+260  PGIPER00007876 030957 Subash   Chander           SG2            Nursing Cell           423
+
+261  PGIPER00007877 030846 Shwinder   Kaur            SG2            Nursing Cell           435
+
+262  PGIPER00007878 030962 Sushil  Kumar              SG2            Nursing Cell           423
+
+263  PGIPER00007880 030960 Ken P Mani                 SG2            Nursing Cell           423
+
+264  PGIPER00007881 030991 Omprakash  Jat             SG2            Nursing Cell           423
+
+265  PGIPER00007883 030822 Manpreet  Kaur             SG2            Nursing Cell           435
+
+266  PGIPER00007884 030958 Subhash Chand Yadav        SG2            Nursing Cell           423
+
+267  PGIPER00007885 030940 Naresh Kumar Swami         SG2            Nursing Cell           423
+
+268  PGIPER00007888 030866 Manjot    Kaur             SG2            Nursing Cell           435
+
+269  PGIPER00007889 030921 Shish  Ram Kumawat         SG2            Nursing Cell           423
+
+270  PGIPER00007891 030856 Ramandeep  Kaur            SG2            Nursing Cell           435
+
+271  PGIPER00007892 030827 Rosy  Bangar               SG2            Nursing Cell           435
+
+272  PGIPER00007896 030650 Sofia  Malik               SG2            Nursing Cell           465
+
+273  PGIPER00007897 030945 Ramneek   Kaur             SG2            Nursing Cell           423
+
+274  PGIPER00007898 030951 Arun                       SG2            Emergency              423
+
+275  PGIPER00007900 030916 Vinita  Kumari             SG2            Nursing Cell           423
+
+276  PGIPER00007901 030963 Pooja                      SG2            Nursing Cell           423
+
+277  PGIPER00007903 030915 Suman   Bishnoi            SG2            Nursing Cell           423
+
+278  PGIPER00007904 030863 Nandhi  Sharma             SG2            Nursing Cell           435
+
+279  PGIPER00007905 030901 Nalini  Nelson             SG2            Nursing Cell           423
+
+280  PGIPER00007907 030909 Inderjot   Kaur            SG2            Nursing Cell           423
+
+281  PGIPER00007908 030848 Karanbir  Kaur             SG2            Nursing Cell           435
+
+282  PGIPER00007909 030855 Mandeep Kaur Bhatti        SG2            Nursing Cell           435
+
+283  PGIPER00007911 030847 Mandeep   Kaur             SG2            Nursing Cell           435
+
+284  PGIPER00007912 030932 Shaminder   Kaur           SG2            Nursing Cell           423
+
+285  PGIPER00007914 030973 Sumandeep Kaur Brar        SG2            Nursing Cell           423
+
+286  PGIPER00007915 030908 Rajni                      SG2            Nursing Cell           423
+
+287  PGIPER00007916 030825 Napinder  Kaur             SG2            Nursing Cell           435
+
+288  PGIPER00007917 030853 Karanvir K  Malhi          SG2            Advance Pediatr        435
+
+289  PGIPER00007918 030896 Babita   Bishala           SG2            Paediatric Surg        423
+
+290  PGIPER00007919 030831 Jaspreet  Kaur             SG2            Nursing Cell           435
+
+291  PGIPER00007920 030857 Navjot  Kumari             SG2            N I C U                435
+
+292  PGIPER00007922 030837 Richa   Mehta              SG2            Nursing Cell           435
+
+293  PGIPER00007923 030888 Dinesh   Saini             SG2            Nursing Cell           423
+
+294  PGIPER00007924 030820 Himshikha                  SG2            Nursing Cell           435
+
+295  PGIPER00007925 030966 Archana   Rani             SG2            Nursing Cell           423
+
+296  PGIPER00007928 030910 Rupinder   Kaur            SG2            Nursing Cell           423
+
+297  PGIPER00007929 030862 Jyoti  Jain                SG2            Plastic Surgery        435
+
+298  PGIPER00007930 030914 Sangeeta  Kumari           SG2            Nursing Cell           423
+
+299  PGIPER00007931 030850 Gurpreet  Kaur             SG2            Nursing Cell           435
+
+300  PGIPER00007932 030864 Ruchi  Arora               SG2            Nursing Cell           435
+
+301  PGIPER00007933 030892 Deepmala   Jalarch         SG2            Nursing Cell           423
+
+302  PGIPER00007934 030821 Ravneet   Saini            SG2            Nursing Cell           435
+
+303  PGIPER00007935 030860 Kiranjot  Kaur             SG2            Main I C U             435
+
+304  PGIPER00007936 030845 Sukhmeen                   SG2            Nursing Cell           435
+
+305  PGIPER00007937 030953 Rajbala                    SG2            Main I C U             423
+
+306  PGIPER00007938 030968 Gurdeep  Kaur              SG2            Nursing Cell           423
+
+307  PGIPER00007939 030922 Pooja   Godiyal            SG2            Nursing Cell           423
+
+308  PGIPER00007940 030905 Varinder  Pal Kaur         SG2            Nursing Cell           423
+
+309  PGIPER00007943 030844 Jashandeep   Kaur          SG2            Nursing Cell           435
+
+310  PGIPER00007945 030985 Daljit  Kaur               SG2            Nursing Cell           423
+
+311  PGIPER00007946 030986 Victoria  John             SG2            Nursing Cell           423
+
+312  PGIPER00007948 030948 Rajiv K M                  SG2            Nursing Cell           423
+
+313  PGIPER00007952 030978 Ravinder  Kaur             SG2            Nursing Cell           423
+
+314  PGIPER00007953 030920 Babita                     SG2            Nursing Cell           423
+
+315  PGIPER00007955 030935 Manpreet  Kaur             SG2            Nursing Cell           423
+
+316  PGIPER00007956 030913 Sunitha M K                SG2            Nursing Cell           411
+
+317  PGIPER00007957 030933 Shehbaz Kaur Gill          SG2            Nursing Cell           423
+
+318  PGIPER00007958 030980 Mittu  Thomas              SG2            Nursing Cell           423
+
+319  PGIPER00007959 030912 Sukhvir   Kaur             SG2            Nursing Cell           423
+
+320  PGIPER00007960 030923 Anju  Kumari               SG2            Nursing Cell           423
+
+321  PGIPER00007961 030941 Gurpreet  Kaur             SG2            Renal Transplan        423
+
+322  PGIPER00007962 030653 Harpreet   Kaur            SG2            Nursing Cell           465
+
+323  PGIPER00007963 030918 Baljit  Kaur               SG2            Nursing Cell           423
+
+324  PGIPER00007966 030965 Kishor Kumar Saini         SG2            X R A Y                423
+
+325  PGIPER00007967 030952 Parmod Kumar Nagar         SG2            Renal Transplan        423
+
+326  PGIPER00007968 030919 Teenamol  Sebastion        SG2            Nursing Cell           423
+
+327  PGIPER00007969 030959 Jaison K Joy               SG2            Nursing Cell           423
+
+328  PGIPER00007970 030924 Amandeep  Kaur             SG2            Nursing Cell           423
+
+329  PGIPER00007971 030902 Irfan  Ali                 SG2            Renal Transplan        423
+
+330  PGIPER00007972 030836 Pooja  Rani                SG2            Nursing Cell           435
+
+331  PGIPER00007977 030867 Jasdeep  Kaur              SG2            Nursing Cell           423
+
+332  PGIPER00007981 030977 Archana  Bhatti            SG2            Nursing Cell           423
+
+333  PGIPER00007982 030899 Sahi   Ram                 SG2            Nursing Cell           423
+
+334  PGIPER00007984 030851 Harry  Tulani              SG2            Nursing Cell           435
+
+335  PGIPER00007985 030890 Diwan  Singh               SG2            Nursing Cell           423
+
+336  PGIPER00007987 030947 Manikantan   V             SG2            N I C U                423
+
+337  PGIPER00007988 030835 Vandana                    SG2            Nursing Cell           435
+
+338  PGIPER00007989 030956 Poonam  Kanwar             ALVTC          Nursing Cell           423
+
+339  PGIPER00007992 030970 Neelam  Rani               SG2            Nursing Cell           423
+
+340  PGIPER00007994 030842 Neha  Handa                SG2            Nursing Cell           435
+
+341  PGIPER00007995 030934 Shalu  Kumari              SG2            Nursing Cell           423
+
+342  PGIPER00008005 030818 Priyanka   Sharma          SG2            Nursing Cell           435
+
+343  PGIPER00008012 030634 Mukesh    Saini            SG2            Nursing Cell           465
+
+344  PGIPER00008015 030574 Kulwinder   Kaur           SG2            N I C U                465
+
+345  PGIPER00008020 030608 Ram   Kumar                SG2            Nursing Cell           465
+
+346  PGIPER00008025 030521 Shashi                     SG2            Nursing Cell           465
+
+347  PGIPER00008028 030522 Robin   Noyal              SG2            Nursing Cell           465
+
+348  PGIPER00008033 030547 Rajvinder   Singh          SG2            Nursing Cell           465
+
+349  PGIPER00008035 030655 Radha   Krishan            SG2            Nursing Cell           465
+
+350  PGIPER00008037 030828 Ramanpreet  Kaur           SG2            Nursing Cell           435
+
+351  PGIPER00008039 030662 Ritu   Dogra               SG2            Nursing Cell           465
+
+352  PGIPER00008042 030814 Jaspreet  Kaur             SG2            Nursing Cell           450
+
+353  PGIPER00008044 030618 Harvinder    Kaur          SG2            Nursing Cell           465
+
+354  PGIPER00008068 030546 Satish  Chand              SG2            Nursing Cell           465
+
+355  PGIPER00008071 030613 Madhu    Thakur            SG2            Nursing Cell           465
+
+356  PGIPER00008074 030779 Renu   Kumari              SG2            Nursing Cell           450
+
+357  PGIPER00008076 030629 Parvinder   Singh          SG2            Nursing Cell           465
+
+358  PGIPER00008092 030620 Harpreet  Kaur             SG2            Nursing Cell           465
+
+359  PGIPER00008095 030813 Bandana  Sharma            SG2            Nursing Cell           450
+
+360  PGIPER00008096 030624 Neelam                     SG2            Nursing Cell           465
+
+361  PGIPER00008099 030625 Monika  Bhatti             SG2            Nursing Cell           465
+
+362  PGIPER00008105 030859 Parul   Sharma             SG2            Nursing Cell           435
+
+363  PGIPER00008116 030591 Kavita   Kumari            SG2            Nursing Cell           465
+
+364  PGIPER00008121 030628 Ester                      SG2            Nursing Cell           465
+
+365  PGIPER00008123 030937 Harpreet Kaur              SG2            Emergency              423
+
+366  PGIPER00008125 030657 Th. Subadani  Devi         SG2            Nursing Cell           465
+
+367  PGIPER00008127 030824 Sumanpreet Kaur Tanda      SG2            Nursing Cell           435
+
+368  PGIPER00008137 030551 Devdtta   Tyagi            SG2            Nursing Cell           465
+
+369  PGIPER00008138 030711 Harpreet   Kaur            SG1            Nursing Cell           465
+
+370  PGIPER00008139 030671 Anita   Chander            SG2            Nursing Cell           465
+
+371  PGIPER00008140 030572 Mahender                   SG2            Nursing Cell           465
+
+372  PGIPER00008141 030595 Promila                    SG2            Nursing Cell           465
+
+373  PGIPER00008145 030579 Hem  Raj Sharma            SG2            Nursing Cell           465
+
+374  PGIPER00008153 030559 Sunita   Rani              SG2            Nursing Cell           465
+
+375  PGIPER00008154 030610 Rupinder   Kaur            SG2            Nursing Cell           465
+
+376  PGIPER00008155 030541 Sunoj  Jacob               SG2            Nursing Cell           465
+
+377  PGIPER00008188 031002 Gagan Preet  Kohli         SG2            Nursing Cell           423
+
+378  PGIPER00008189 031003 Mamta    Kumari            SG2            Nursing Cell           423
+
+379  PGIPER00008190 031004 Rajesh   O.k               SG2            Nursing Cell           423
+
+380  PGIPER00008191 031005 Gurpreet  Kaur             SG2            Nursing Cell           423
+
+381  PGIPER00008192 031006 Surekha                    SG2            Nursing Cell           423
+
+382  PGIPER00008193 031017 Anand  Kumar Ghiya         SG2            Nursing Cell           423
+
+383  PGIPER00008194 031009 Gurmail    Singh           SG2            Nursing Cell           423
+
+384  PGIPER00008196 031011 Sumandeep   Kaur           SG2            Nursing Cell           423
+
+385  PGIPER00008197 031012 Sanjeev   Shah             SG2            Nursing Cell           423
+
+386  PGIPER00008198 031013 Dipti   Moudgil            SG2            Nursing Cell           423
+
+387  PGIPER00008199 031014 Vimla                      SG2            Nursing Cell           423
+
+388  PGIPER00008200 031015 Meenakshi                  SG2            Nursing Cell           423
+
+389  PGIPER00008201 031016 Sabhpreet    Kaur          SG2            Nursing Cell           423
+
+390  PGIPER00008202 030906 Harjot   Kaur              SG2            Nursing Cell           423
+
+391  PGIPER00008203 031020 Anju   Bala                SG2            Nursing Cell           423
+
+392  PGIPER00008204 031007 Raj Kumar Verma            SG2            Nursing Cell           423
+
+393  PGIPER00008206 031018 Ripjit   Kaur              SG2            Nursing Cell           423
+
+394  PGIPER00008207 031021 Chanderprabha              SG2            Nursing Cell           423
+
+395  PGIPER00008208 031022 Rojomon   Johny            SG2            Nursing Cell           423
+
+396  PGIPER00008209 031028 Satpal   Kaur              SG2            Nursing Cell           423
+
+397  PGIPER00008210 031029 Sharwan   Kumar            SG2            Nursing Cell           423
+
+398  PGIPER00008211 031031 Harpreet   Kaur            SG2            Nursing Cell           423
+
+399  PGIPER00008212 031032 Deepinder   Kaur           SG2            Nursing Cell           423
+
+400  PGIPER00008213 031038 Nitee                      SG2            Nursing Cell           423
+
+401  PGIPER00008214 031039 Bhupinder   Kaur           SG2            Nursing Cell           423
+
+402  PGIPER00008215 031024 Santosh   Kumar            SG2            Nursing Cell           423
+
+403  PGIPER00008216 031023 Renu                       SG2            Nursing Cell           423
+
+404  PGIPER00008217 031026 Ravinder   Kaur            SG2            Nursing Cell           423
+
+405  PGIPER00008218 031027 Beant  Kaur Rai            SG2            Nursing Cell           423
+
+406  PGIPER00008219 031033 Ruchi    Kajal             SG2            Nursing Cell           423
+
+407  PGIPER00008220 031034 Pitamber    Meena          SG2            Nursing Cell           423
+
+408  PGIPER00008221 031035 Parveen                    SG2            Nursing Cell           423
+
+409  PGIPER00008222 031036 Manohar  Singh Choudhary   SG2            Nursing Cell           423
+
+410  PGIPER00008223 031037 Raju Kumar Meena           SG2            Nursing Cell           423
+
+411  PGIPER00008224 031040 Meera  Saini Rama          SG2            Nursing Cell           693
+
+412  PGIPER00008226 031042 Jeetendra    Kumar         SG2            Nursing Cell           423
+
+413  PGIPER00008227 031043 Vishnu Kumar Jangid        SG2            Nursing Cell           423
+
+414  PGIPER00008228 031052 Rajesh   Meena             SG2            Nursing Cell           423
+
+415  PGIPER00008229 031049 Shyam  Babu Sharma         SG2            Nursing Cell           423
+
+416  PGIPER00008230 031050 Nidhi   Rauthan            SG2            Nursing Cell           423
+
+417  PGIPER00008231 031045 Deepak   Sharma            SG2            Nursing Cell           423
+
+418  PGIPER00008232 031048 Dinesh  Kumar Verma        SG2            Nursing Cell           423
+
+419  PGIPER00008234 031047 Sukhmanpreet    Kaur       SG2            Nursing Cell           423
+
+420  PGIPER00008236 030575 Harpreet   Kaur            SG2            Nursing Cell           450
+
+421  PGIPER00008238 030562 Navjot   Kaur              SG2            Nursing Cell           465
+
+422  PGIPER00008240 030619 Raj   Kumari               SG2            Nursing Cell           465
+
+423  PGIPER00008241 30566  Mandeep    Kaur            SG2            Nursing Cell           465
+
+424  PGIPER00008242 030639 Ramanjit Kaur Saini        SG2            Nuclear Medicin        465
+
+425  PGIPER00008250 030889 Lalita                     SG2            Nursing Cell           423
+
+426  PGIPER00008251 030898 Manpreet   Kaur            SG2            Nursing Cell           423
+
+427  PGIPER00008253 030903 Manoj   Kumar              SG2            Nursing Cell           423
+
+428  PGIPER00008254 030900 Praveen    Rani            SG2            Nursing Cell           423
+
+429  PGIPER00008255 030904 Suman                      SG2            Nursing Cell           423
+
+430  PGIPER00008256 030893 Surya   Prakash            SG2            Nursing Cell           423
+
+431  PGIPER00008257 030891 Vinod   Kumar              SG2            Nursing Cell           423
+
+432  PGIPER00008258 030964 Vijay   Laxmi              SG2            Nursing Cell           423
+
+433  PGIPER00008259 030874 Nand Kishor Panwar         SG2            Nursing Cell           423
+
+434  PGIPER00008260 030873 Renu  Bala Dnanda          SG2            Nursing Cell           423
+
+435  PGIPER00008261 030872 Maneesh   Kumar            SG2            Nursing Cell           423
+
+436  PGIPER00008262 030981 Amandeep   Kaur            SG2            Nursing Cell           423
+
+437  PGIPER00008263 030979 Vinod   Kumar              SG2            Nursing Cell           423
+
+438  PGIPER00008264 030990 Ashok Kumar Meena          SG2            Nursing Cell           423
+
+439  PGIPER00008265 030895 Manoj Kumar Jangid         SG2            Nursing Cell           423
+
+440  PGIPER00008266 030879 Sonam   Kataria            SG2            Nursing Cell           423
+
+441  PGIPER00008267 030878 Rajnesh   Kaur             SG2            Nursing Cell           423
+
+442  PGIPER00008268 030877 Vijay   Kumar              SG2            Nursing Cell           423
+
+443  PGIPER00008269 030894 Ngoruw Kishni Moyon        SG2            Nursing Cell           423
+
+444  PGIPER00008270 030871 Mohit   Sharma             SG2            Nursing Cell           423
+
+445  PGIPER00008271 030870 Shireen   Roselein         SG2            Nursing Cell           423
+
+446  PGIPER00008272 030868 Bharat Kumar Sain          SG2            Nursing Cell           423
+
+447  PGIPER00008273 030886 Satish  Kumar  Sharma      SG2            Nursing Cell           423
+
+448  PGIPER00008274 030876 Sukhjeet    Kaur           SG2            Nursing Cell           423
+
+449  PGIPER00008275 030974 Ramandeep   Kaur           SG2            Nursing Cell           423
+
+450  PGIPER00008276 030992 Ramesh  Chand Gurjar       SG2            Nursing Cell           423
+
+451  PGIPER00008278 031000 Meenu   Dhiman             SG2            Nursing Cell           423
+
+452  PGIPER00008279 030995 Brij    Kishor             SG2            Nursing Cell           423
+
+453  PGIPER00008280 030993 Shallu   Aggarwal          SG2            Nursing Cell           423
+
+454  PGIPER00008281 030875 Gagandeep   Kaur           SG2            Nursing Cell           423
+
+455  PGIPER00008282 030999 Sunil Kumar Sharma         SG2            Nursing Cell           423
+
+456  PGIPER00008283 030997 Sarita                     SG2            Nursing Cell           423
+
+457  PGIPER00008284 030998 Nidhi   Sharma             SG2            Nursing Cell           423
+
+458  PGIPER00008285 030881 Suman                      SG2            Nursing Cell           423
+
+459  PGIPER00008286 030880 Satya Prakash Saini        SG2            Nursing Cell           423
+
+460  PGIPER00008293 031001 Manjinder   Kaur           SG2            Nursing Cell           423
+
+461  PGIPER00008294 031019 Harjinder   Kaur           SG2            Nursing Cell           423
+
+462  PGIPER00008295 031025 Arvind   Meena             SG2            Nursing Cell           423
+
+463  PGIPER00008300 030654 Kanchan  Paul              SG2            Biochemistry           465
+
+464  PGIPER00008302 030816 Pooja  Mishra              SG1            Biochemistry           435
+
+465  PGIPER00008303 030817 Damanjeet  Kaur            SG1            Biophysics             435
+
+466  PGIPER00008305 031051 Jasbir  Kaur               SG2            Nursing Cell           423
+
+467  PGIPER00008306 031053 Pooja  Pawar               SG2            General Surgery        423
+
+468  PGIPER00008307 031054 Rachna  Sharma             SG2            Neurology              423
+
+469  PGIPER00008308 031055 Simratjit   Kaur           SG2            Cardiology             423
+
+470  PGIPER00008309 031056 Poonam   Chand             SG2            Ophthalmology          423
+
+471  PGIPER00008310 031057 Mahesh Kumar Yadav         SG2            Parasitology           423
+
+472  PGIPER00008311 031058 Raj  Pal                   SG2            Ophthalmology          423
+
+473  PGIPER00008312 031059 Anshu                      SG2            Neurology              423
+
+474  PGIPER00008314 031061 Karam  Pal                 SG2            Neurology              423
+
+475  PGIPER00008315 031062 Menka  Kumari              SG2            Neurology              423
+
+476  PGIPER00008316 031063 Kavita                     SG2            Nursing Cell           423
+
+477  PGIPER00008317 031064 Monika  Bhayana            SG2            Nursing Cell           423
+
+478  PGIPER00008318 031065 Kanchan  Kanojia           SG2            Nursing Cell           423
+
+479  PGIPER00008319 031066 Ankita  Sood               SG2            Nursing Cell           423
+
+480  PGIPER00008320 031067 Deepika  Rikhi             SG2            Nursing Cell           423
+
+481  PGIPER00008321 031068 Reeta  Khuresha            SG2            Nursing Cell           423
+
+482  PGIPER00008322 031069 Sunita  Chahar             SG2            Nursing Cell           423
+
+483  PGIPER00008323 031070 Sushila   Devi             SG2            Nursing Cell           423
+
+484  PGIPER00008324 031071 Dharmendra Kumar Mahala    SG2            Nursing Cell           423
+
+485  PGIPER00008325 031072 Jaswinder   Singh          SG2            Nursing Cell           423
+
+486  PGIPER00008326 031073 Pawanpreet  Kaur           SG2            Nursing Cell           423
+
+487  PGIPER00008327 031074 Varun  Sen                 SG2            Nursing Cell           423
+
+488  PGIPER00008329 031076 Rimai  Marbaniang          SG2            Nursing Cell           423
+
+489  PGIPER00008330 031077 Antima  Kumari             SG2            Nursing Cell           423
+
+490  PGIPER00008331 031078 Navjeet Kaur Saini         SG2            Nursing Cell           423
+
+491  PGIPER00008332 031079 Navdeep   Kaur             SG2            Nursing Cell           423
+
+492  PGIPER00008333 031080 Sahil  Bhatti              SG2            Nursing Cell           423
+
+493  PGIPER00008334 031081 Rajwant  Kaur              SG2            Nursing Cell           423
+
+494  PGIPER00008335 031082 Sangita  Dalal             SG2            Nursing Cell           423
+
+495  PGIPER00008336 031083 Rajpal Kaur Mann           SG2            Nursing Cell           423
+
+496  PGIPER00008337 031084 Rashmi  Paul               SG2            Nursing Cell           423
+
+497  PGIPER00008338 031085 Ambily J. Vadakkumapadath  SG2            Nursing Cell           423
+
+498  PGIPER00008339 031086 Dhiraj  Sharma             SG2            Nursing Cell           423
+
+499  PGIPER00008355 030843 Rajbir  Kaur               SG2            Nursing Cell           435
+
+500  PGIPER00008356 030883 Aqina  Gupta               SG2            Nursing Cell           423
+
+501  PGIPER00008357 030917 Shiv Prakash Bhambhu       SG2            Nursing Cell           423
+
+502  PGIPER00008358 030925 Jyoti  Emerson             SG2            Nursing Cell           423
+
+503  PGIPER00008359 030928 Rishi  Kumar               SG2            Nursing Cell           423
+
+504  PGIPER00008360 030938 Neeraj Kumar Sain          SG2            Nursing Cell           423
+
+505  PGIPER00008361 030942 Deepika  Soni              SG2            Nursing Cell           423
+
+506  PGIPER00008362 030955 Mamta  Rani                SG2            Nursing Cell           423
+
+507  PGIPER00008363 030976 Jiwan  Rita                SG2            Nursing Cell           423
+
+508  PGIPER00008697 030627 Rimpi  Rani                A              Biophysics             465
+
+509  PGIPER00008699 031087 Sandeep  Kulhari           SG2            Anaesthesia And        423
+
+510  PGIPER00008700 031088 Monu  Mittal               SG1            Biostatistics          423
+
+511  PGIPER00008701 031089 Renu                       SG2            Biostatistics          423
+
+512  PGIPER00008849 031090 Rajwinder   Kaur           SG2            Nursing Cell           423
+
+513  PGIPER00008856 031091 Aarzoo   Kakria            SG2            Endocrinology          423
+
+514  PGIPER00008859 031092 Harmandeep                 SG2            Nuclear Medicin        423
+
+515  PGIPER00008860 031093 Navpreet  Kaur Saini       SG2            Cytology, Gynae        423
+
+516  PGIPER00008861 031094 Ravneet    Kaur            SG2            Cardiology             423
+
+517  PGIPER00008863 031095 Navjot  Kaur               SG2            Endocrinology          423
+
+518  PGIPER00008865 031096 Sukhjinder   Kaur          SG2            Cardiology             423
+
+519  PGIPER00008866 031097 Anu Radha Rani             SG2            Nephrology             423
+
+520  PGIPER00008867 031098 Manpreet   Kaur            SG2            Nuclear Medicin        423
+
+521  PGIPER00008868 031099 Manisha  Rani              SG2            Cardiology             423
+
+522  PGIPER00008869 031100 Manpreet  Kaur             SG2            Cardiology             423
+
+523  PGIPER00008870 031101 Rupinder   Kaur            SG2            Biostatistics          423
+
+524  PGIPER00008871 031102 Suman Preet                SG2            Biochemistry           423
+
+525  PGIPER00008872 031103 Preetinder  Kaur           SG2            Cardiology             423
+
+526  PGIPER00008873 031104 Ravneet   Kaur             SG2            Cytology, Gynae        423
+
+527  PGIPER00008874 031105 Rabau  Bala                SG2            Deptt Of Dermat        423
+
+528  PGIPER00008875 031106 Sonali  Surya              SG2            Biochemistry           423
+
+529  PGIPER00008876 031107 Shivani  Kalia             SG2            Nursing Office         423
+
+530  PGIPER00008877 031108 Simranjit Kaur Dhiman      SG2            Advance Cardiac        423
+
+531  PGIPER00008878 031109 Kuljeet   Kaur             SG2            Nursing Cell           423
+
+532  PGIPER00008879 031110 Amandeep  Kaur             SG2            Cardiology             423
+
+533  PGIPER00008880 031111 Neha  Thakur               SG2            Cardiology             423
+
+534  PGIPER00008882 031113 Amandeep  Kaur             SG2            Cardiology             423
+
+535  PGIPER00008883 031114 Amandeep   Kaur            SG2            Cardiology             423
+
+536  PGIPER00008884 031115 Navjot  Kaur               SG2            General Surgery        423
+
+537  PGIPER00008885 031116 Ramneet  Kaur              SG2            Cardiology             423
+
+538  PGIPER00008886 031117 Neha  Dhingra              SG2            Cardiovascular         423
+
+539  PGIPER00008887 031118 Harpreet  Kaur             SG2            Nursing Office         423
+
+540  PGIPER00008888 031119 Poonamjeet  Kaur           SG2            Endocrinology          423
+
+541  PGIPER00008889 031120 Shama  Sharma              SG2            Advance Eye Cen        423
+
+542  PGIPER00008890 031121 Harpreet  Kaur             SG2            Cardiovascular         423
+
+543  PGIPER00008891 031122 Manjit  Kaur               SG2            Cardiology             423
+
+544  PGIPER00008892 031123 Rajwinder  Kaur            SG2            Cardiology             423
+
+545  PGIPER00008893 031124 Deepika  Kanwar            SG2            Advance Pediatr        423
+
+546  PGIPER00008895 031126 Paramjeet  Kaur            SG2            Cardiology             423
+
+547  PGIPER00008896 031127 Malwinderjit  Kaur         SG2            Advance Cardiac        423
+
+548  PGIPER00008897 031128 Raman  Sharma              SG2            Cardiology             423
+
+549  PGIPER00008912 031130 Afroz                      SG2            Clinical Photog        411
+
+550  PGIPER00008913 031131 Daljit   Kaur              SG2            Biophysics             411
+
+551  PGIPER00008914 031132 Ritu                       SG2            Cytology, Gynae        411
+
+552  PGIPER00008915 031133 Sandeep   Kaur             SG2            Clinical Photog        411
+
+553  PGIPER00008916 031134 Mahipal   Patidar          SG2            Cardiology             411
+
+554  PGIPER00008917 031135 Om Prakash Dhakar          SG2            Emergency              411
+
+555  PGIPER00008918 031136 Urvinder   Kaur            SG2            Deptt Of Dermat        411
+
+556  PGIPER00008919 031137 Shyam Sundar Dholi         SG2            Cardiology             411
+
+557  PGIPER00008920 031138 Seema   Rani               SG2            Cardiology             411
+
+558  PGIPER00008921 031139 Rajwinder   Kaur           SG2            Anatomy                411
+
+559  PGIPER00008922 031140 Kuldeep   Kaur             SG2            Pulmonary Medic        411
+
+560  PGIPER00008923 031141 Sukhmanjyot   Kaur         SG2            Anaesthesia And        411
+
+561  PGIPER00008924 031142 Satish Kumar Gurjar        SG2            Anaesthesia And        411
+
+562  PGIPER00008925 031143 Raghuveer   Singh          SG2            Anaesthesia And        411
+
+563  PGIPER00008926 031144 Maninder Deep Kaur         SG2            Nursing Cell           411
+
+564  PGIPER00009024 031145 Swarn   Lata               SG2            Nursing Cell           411
+
+565  PGIPER00009025 031146 Jeena  Joseph              SG2            Nursing Cell           411
+
+566  PGIPER00009026 031147 Jasmeet Kaur Bhathal       SG2            Nursing Cell           411
+
+567  PGIPER00009027 031148 Manpreet  Kaur             SG2            Nursing Cell           411
+
+568  PGIPER00009028 031149 Manju   Rani               SG2            Nursing Cell           411
+
+569  PGIPER00009029 031150 Puneet                     SG2            Nursing Cell           411
+
+570  PGIPER00009030 031151 Bhagwandutt  Meena         SG2            Nursing Cell           411
+
+571  PGIPER00009031 031152 Sweety                     SG2            Nursing Cell           411
+
+572  PGIPER00009032 031153 Neetu                      SG2            Nursing Cell           411
+
+573  PGIPER00009033 031154 Vikas                      SG2            Nursing Cell           411
+
+574  PGIPER00009034 031155 Mary Vinita Lawrence       SG2            Nursing Cell           411
+
+575  PGIPER00009035 031156 Manju  Bala                SG2            Nursing Cell           411
+
+576  PGIPER00009036 031157 Sinoj  P.j                 SG2            Nursing Cell           411
+
+577  PGIPER00009037 031158 Meena  Rani                SG2            Nursing Cell           411
+
+578  PGIPER00009038 031159 Nisha  Rani                SG2            Nursing Cell           411
+
+579  PGIPER00009039 031160 Pooja                      SG2            Nursing Cell           411
+
+580  PGIPER00009040 031161 Nisha  Garg                SG2            Nursing Cell           411
+
+581  PGIPER00009041 031162 Perminder Kaur Saini       SG2            Nursing Cell           411
+
+582  PGIPER00009042 031163 Sukhbir Kaur Bajwa         SG2            Nursing Cell           411
+
+583  PGIPER00009043 031164 Radhika                    SG2            Nursing Cell           411
+
+584  PGIPER00009044 031165 Baljinder Kaur Bhandal     SG2            Nursing Cell           411
+
+585  PGIPER00009045 031166 Gagandeep  Kaur            SG2            Nursing Cell           411
+
+586  PGIPER00009046 031167 Nidhi   Singh              SG2            Nursing Cell           411
+
+587  PGIPER00009047 031168 Remya  T                   SG2            Nursing Cell           411
+
+588  PGIPER00009048 031169 Almus Augustine P          SG2            Nursing Cell           411
+
+589  PGIPER00009050 031171 Geetanjali                 SG2            Nursing Cell           411
+
+590  PGIPER00009051 031172 Om Parkash Chaudhari       SG2            Nursing Cell           411
+
+591  PGIPER00009052 031173 Anuradha   Kareti          SG2            Nursing Cell           411
+
+592  PGIPER00009053 031174 Meena  Kumari              SG2            Nursing Cell           411
+
+593  PGIPER00009054 031175 Nidhi  Bernard             SG2            Nursing Cell           411
+
+594  PGIPER00009055 031176 Timy Mary Thomas           SG2            Nursing Cell           411
+
+595  PGIPER00009056 031177 Sarika  Somaraj            SG2            Nursing Cell           411
+
+596  PGIPER00009057 031178 Thomas  T.d                SG2            Nursing Cell           411
+
+597  PGIPER00009059 031180 Saheedali  K               SG2            Nursing Cell           411
+
+598  PGIPER00009060 031181 Anas.  V                   SG2            Nursing Cell           411
+
+599  PGIPER00009061 031182 Pooja  Chauhan             SG2            Nursing Cell           411
+
+600  PGIPER00009062 031183 Afzal  K.a                 SG2            Nursing Cell           411
+
+601  PGIPER00009063 031184 Rijesh  V.k                SG2            Nursing Cell           411
+
+602  PGIPER00009064 031185 Manpreet  Kaur             SG2            Nursing Cell           411
+
+603  PGIPER00009065 031186 Ram  Charan Meena          SG2            Nursing Cell           411
+
+604  PGIPER00009066 031187 Praveen   E. P             SG2            Nursing Cell           411
+
+605  PGIPER00009067 031188 Meenakshi  Devi            SG2            Nursing Cell           411
+
+606  PGIPER00009068 031189 Rajneet   Kaur             SG2            Nursing Cell           411
+
+607  PGIPER00009069 031190 Ranjitha  K                SG2            Nursing Cell           411
+
+608  PGIPER00009070 031191 Jassika  Rani              SG2            Nursing Cell           411
+
+609  PGIPER00009071 031192 Vineesh  V.v               SG2            Nursing Cell           411
+
+610  PGIPER00009072 031193 Navjot   Kaur              SG2            Nursing Cell           411
+
+611  PGIPER00009073 031194 Kirna                      SG2            Nursing Cell           411
+
+612  PGIPER00009074 031195 Tanzin  Dolma              SG2            Nursing Cell           411
+
+613  PGIPER00009075 031196 Nidhin Sam Babu            SG2            Nursing Cell           411
+
+614  PGIPER00009076 031197 Anoop  Sathyan             SG2            Nursing Cell           411
+
+615  PGIPER00009077 031198 Mamta  Bhamu               SG2            Nursing Cell           411
+
+616  PGIPER00009078 031199 Ashok Kumar Meena          SG2            Nursing Cell           411
+
+617  PGIPER00009079 031200 Abhilash  A.b              SG2            Nursing Cell           411
+
+618  PGIPER00009080 031201 Amrit  Kaur                SG2            Nursing Cell           411
+
+619  PGIPER00009081 031202 Vinod  Vijayan             SG2            Nursing Cell           411
+
+620  PGIPER00009082 031203 Anok N Samual              SG2            Nursing Cell           411
+
+621  PGIPER00009083 031204 Rashmi                     SG2            Nursing Cell           411
+
+622  PGIPER00009084 031205 Aneesh Lal S.v             SG2            Nursing Cell           411
+
+623  PGIPER00009085 031206 Bhawanjeet  Kaur           SG2            Nursing Cell           411
+
+624  PGIPER00009086 031207 Vijesh Kumar P             SG2            Nursing Cell           411
+
+625  PGIPER00009087 031208 Arun  P                    SG2            Nursing Cell           411
+
+626  PGIPER00009088 031209 Pramod Kumar Khedia        SG2            Nursing Cell           411
+
+627  PGIPER00009089 031210 Sumedh Madhavrao Lemle     SG2            Nursing Cell           411
+
+628  PGIPER00009090 031211 Davinder   Kaur            SG2            Nursing Cell           411
+
+629  PGIPER00009091 031212 Sheetal                    SG2            Nursing Cell           411
+
+630  PGIPER00009092 031213 Gayathri  T.p              SG2            Nursing Cell           411
+
+631  PGIPER00009093 031214 Anu Reshma V               SG2            Nursing Cell           411
+
+632  PGIPER00009094 031215 Monita                     SG2            Nursing Cell           411
+
+633  PGIPER00009095 031216 Ajith  G.t                 SG2            Nursing Cell           411
+
+634  PGIPER00009096 031217 Anjana  Kumari             SG2            Nursing Cell           411
+
+635  PGIPER00009097 031218 Gurpreet  Kaur             SG2            Nursing Cell           411
+
+636  PGIPER00009098 031219 Manpreet  Singh            SG2            Nursing Cell           411
+
+637  PGIPER00009099 031220 Saifuddin  P.k             SG2            Nursing Cell           411
+
+638  PGIPER00009100 031221 Ahammed Anwar Sidath       SG2            Nursing Cell           411
+
+639  PGIPER00009101 031222 Parveen  Kaur              SG2            Nursing Cell           411
+
+640  PGIPER00009102 031223 Manisha  Nagi              SG2            Nursing Cell           411
+
+641  PGIPER00009103 031224 Imran  Mohammad            SG2            Nursing Cell           411
+
+642  PGIPER00009104 031225 Ashok   Kumar              SG2            Nursing Cell           411
+
+643  PGIPER00009105 031226 Renju S Varghese           SG2            Nursing Cell           411
+
+644  PGIPER00009106 031227 Ajeesh  Thomas             SG2            Nuclear Medicin        411
+
+645  PGIPER00009107 031228 Nithin  S                  SG2            Nursing Cell           411
+
+646  PGIPER00009108 031229 Nittu  Thomas              SG2            Nursing Cell           411
+
+647  PGIPER00009109 031230 Manisha  Kumari            SG2            Nursing Cell           411
+
+648  PGIPER00009110 031231 Jyoti                      SG2            Nursing Cell           411
+
+649  PGIPER00009111 031232 Archana  G                 SG2            Nursing Cell           411
+
+650  PGIPER00009112 031233 Hashmat  Khan              SG2            Nursing Cell           411
+
+651  PGIPER00009113 031234 Jayakumar  K.p             SG2            Nursing Cell           411
+
+652  PGIPER00009114 031235 Promila  Sheoran           SG2            Nursing Cell           411
+
+653  PGIPER00009115 031236 Harpreet                   SG2            Nursing Cell           411
+
+654  PGIPER00009116 031237 Silgy  Mathew              SG2            Nursing Cell           411
+
+655  PGIPER00009117 031238 Sandhya  S                 SG2            Nursing Cell           411
+
+656  PGIPER00009118 031239 Anish Antony P             SG1            Nursing Cell           411
+
+657  PGIPER00009119 031240 Tarlok  Singh              SG2            Nursing Cell           411
+
+658  PGIPER00009120 031241 Ankit Kumar Jain           SG2            Nursing Cell           411
+
+659  PGIPER00009121 031242 Jean K. Jose               SG2            Nursing Cell           411
+
+660  PGIPER00009122 031243 Muneer.  T                 SG2            Nursing Cell           411
+
+661  PGIPER00009123 031244 Bilal  M                   SG2            Nursing Cell           411
+
+662  PGIPER00009124 031245 Navjot  Kaur               SG2            Nursing Cell           411
+
+663  PGIPER00009125 031246 Anju  Antony               SG2            Nursing Cell           411
+
+664  PGIPER00009126 031247 Hima Mappalakayil Thomas   SG2            Nursing Cell           411
+
+665  PGIPER00009127 031248 Sukhninder  Kaur           SG2            Nursing Cell           411
+
+666  PGIPER00009128 031249 Thomson K Francis          SG2            Nursing Cell           411
+
+667  PGIPER00009129 031250 Biji P Varkey              SG2            Nursing Cell           411
+
+668  PGIPER00009130 031251 Ruchi  Saini               SG2            Nursing Cell           411
+
+669  PGIPER00009131 031252 Anandhi  Arumugham         SG2            Nursing Cell           411
+
+670  PGIPER00009132 031253 Vidya  Y.b                 SG2            Nursing Cell           411
+
+671  PGIPER00009133 031254 Jolly  Pathak              SG2            Nursing Cell           411
+
+672  PGIPER00009134 031255 Shemeer  Shaji             SG2            Nursing Cell           411
+
+673  PGIPER00009135 031256 Gaurav                     SG2            Nursing Cell           411
+
+674  PGIPER00009136 031257 Ching Ngaih Lian           SG2            Nursing Cell           411
+
+675  PGIPER00009137 031258 Nitasha                    SG2            Nursing Cell           411
+
+676  PGIPER00009138 031259 Arun  K                    SG2            Nursing Cell           411
+
+677  PGIPER00009139 031260 Kamal  Kumar               SG2            Nursing Cell           411
+
+678  PGIPER00009140 031261 Raman Preet Kaur           SG2            Nursing Cell           411
+
+679  PGIPER00009141 031262 Pushpinder  Kaur           SG2            Nursing Cell           411
+
+680  PGIPER00009142 031263 Jithin   Murali            SG2            Nursing Cell           411
+
+681  PGIPER00009143 031264 Sarbjeet  Kaur             SG2            Nursing Cell           411
+
+682  PGIPER00009144 031265 Kamaljeet   Kaur           SG2            Nursing Cell           411
+
+683  PGIPER00009145 031266 Lata  Bhardwaj             SG2            Nursing Cell           411
+
+684  PGIPER00009146 031267 Gagandeep  Kaur            SG2            Nursing Cell           411
+
+685  PGIPER00009147 031268 Lokesh Kumar Tiwari        SG2            Nursing Cell           411
+
+686  PGIPER00009148 031269 Meenakshi                  SG2            Nursing Cell           411
+
+687  PGIPER00009149 031270 Aparna  P.s                SG2            Nursing Cell           411
+
+688  PGIPER00009150 031271 Neha  Bhatia               SG2            Nursing Cell           411
+
+689  PGIPER00009151 031272 Parmod   Kumar             SG2            Nursing Cell           411
+
+690  PGIPER00009236 031273 V.l  Vishnupriya           SG2            Nursing Cell           411
+
+691  PGIPER00009237 031274 Shameer  P.v               SG2            Nursing Cell           411
+
+692  PGIPER00009238 031275 Rahul  Rajan               SG2            Nursing Cell           411
+
+693  PGIPER00009239 031276 Urmila                     SG2            Nursing Cell           411
+
+694  PGIPER00009240 031277 Amrutha  Thomas            SG2            Nursing Cell           411
+
+695  PGIPER00009241 031278 Sunitha  A                 SG2            Nursing Cell           411
+
+696  PGIPER00009242 031279 Aradhana  Masih            SG2            Nursing Cell           411
+
+697  PGIPER00009243 031280 Harpreet  Kaur             SG2            Nursing Cell           411
+
+698  PGIPER00009244 031281 Mukta                      SG2            Nursing Cell           411
+
+699  PGIPER00009245 031282 Simranjeet  Kaur           SG2            Nursing Cell           411
+
+700  PGIPER00009246 031283 Taranjeet  Kaur            SG2            Nursing Cell           411
+
+701  PGIPER00009247 031284 Vivek Thundathil Karunakar SG2            Nursing Cell           411
+
+702  PGIPER00009248 031285 Harish  Kumar              SG2            Nursing Cell           411
+
+703  PGIPER00009249 031286 Dupinder   Kaur            SG2            Nursing Cell           411
+
+704  PGIPER00009250 031288 Sampat Kumar Dhaka         SG2            Nursing Cell           411
+
+705  PGIPER00009252 031289 Himanshu  Rayal            SG2            Nursing Cell           411
+
+706  PGIPER00009253 031290 Pooja  Rani                SG2            Nursing Cell           411
+
+707  PGIPER00009254 031291 Riya  John                 SG2            Nursing Cell           411
+
+708  PGIPER00009255 031292 Vidya  I.s                 SG2            Nursing Cell           411
+
+709  PGIPER00009256 031293 Manju   Sagwal             SG2            Nursing Cell           411
+
+710  PGIPER00009257 031294 Deebu  Dureja              SG2            Nursing Cell           411
+
+711  PGIPER00009258 031295 Pallavi  Bhardwaj          SG2            Nursing Cell           411
+
+712  PGIPER00009259 031296 Shefeek K Mohamed          SG2            Nursing Cell           411
+
+713  PGIPER00009260 031297 Chandra Prakash Meena      SG2            Nursing Cell           411
+
+714  PGIPER00009261 031298 Florance  G                SG2            Nursing Cell           411
+
+715  PGIPER00009262 031299 Babita                     SG2            Nursing Cell           411
+
+716  PGIPER00009263 031300 Lukmanul Hakkeem M         SG2            Nursing Cell           411
+
+717  PGIPER00009264 031301 Navdeep  Bansal            SG2            Nursing Cell           411
+
+718  PGIPER00009265 031302 Rekha Rani Nar             SG2            Nursing Cell           411
+
+719  PGIPER00009266 031303 Harpreet  Kaur             SG2            Nursing Cell           411
+
+720  PGIPER00009267 031304 Blessy Elizabeth Philip    SG2            Nursing Cell           411
+
+721  PGIPER00009268 031305 Neha   Dureja              SG2            Nursing Cell           411
+
+722  PGIPER00009269 031306 Dollet  Vinod              SG2            Nursing Cell           411
+
+723  PGIPER00009308 031307 Sandeep Kaur Gill          SG2            Nursing Cell           411
+
+724  PGIPER00009309 031308 Praveena K M               SG2            Nursing Cell           411
+
+725  PGIPER00009310 031309 Indu  Kumari               SG2            Nursing Cell           411
+
+726  PGIPER00009311 031310 Indu  Bala                 SG2            Nursing Cell           411
+
+727  PGIPER00009312 031311 Manjeet  Kaur              SG2            Nursing Cell           411
+
+728  PGIPER00009313 031312 Sulakshna  Devi            SG2            Nursing Cell           411
+
+729  PGIPER00009315 031314 Keerti  Verma              SG2            Nursing Cell           411
+
+730  PGIPER00009316 031315 Vinod  Mehra               SG2            Nursing Cell           411
+
+731  PGIPER00009317 031316 Neeta Devi                 SG2            Nursing Cell           411
+
+732  PGIPER00009319 031317 Unnikrishnan V. S          SG2            Nursing Cell           411
+
+733  PGIPER00009320 031318 Roshni   Kamal             SG2            Nursing Cell           411
+
+734  PGIPER00009321 031319 Pardeep   Kumar            SG2            Nursing Cell           411
+
+735  PGIPER00009322 031320 Amandeep  Kaur             SG2            Nursing Cell           411
+
+736  PGIPER00009341 031321 Sunil  Kumar R             SG2            Nursing Cell           411
+
+737  PGIPER00009342 031322 Shaji P K                  SG2            Nursing Cell           411
+
+738  PGIPER00009343 031323 Prabhjot  Kaur             SG2            Nursing Cell           411
+
+739  PGIPER00009344 031324 Mukesh Kumar Meena         SG2            Nursing Cell           411
+
+740  PGIPER00009345 031325 Dhayananda B G             SG2            Nursing Cell           411
+
+741  PGIPER00009346 031326 Jincy  Mathew              SG2            Nursing Cell           411
+
+742  PGIPER00009347 031327 Jijomon  Antony            SG2            Nursing Cell           411
+
+743  PGIPER00009348 031328 Dharma  Ram                SG2            Nursing Cell           411
+
+744  PGIPER00009351 031329 Sakthiraj  P.              SG2            Nursing Cell           411
+
+745  PGIPER00009355 031330 Deep  Mala                 SG2            Nursing Cell           411
+
+746  PGIPER00009356 031331 Shamil Paloth Parambil     SG2            Nursing Cell           411
+
+747  PGIPER00009359 031332 Meenakshi                  SG2            Nursing Cell           411
+
+748  PGIPER00009360 031333 Sudheesh  Chandran G       SG2            Nursing Cell           411
+
+749  PGIPER00009361 031334 Rakesh  M                  SG2            Nursing Cell           411
+
+750  PGIPER00009363 031335 Linta  Thomas              SG2            Nursing Cell           411
+
+751  PGIPER00009365 031336 Sudeep  K                  SG2            Nursing Cell           411
+
+752  PGIPER00009369 031337 Rajinder   Kaur            SG2            Nursing Cell           411
+
+                                                                          Grand Total    326979
+
+
+                      ( RUPEES THREE LAC TWENTY-SIX THOUSAND NINE HUNDRED SEVENTY-NINE ONLY)
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

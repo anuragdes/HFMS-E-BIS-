@@ -1,0 +1,50 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                        Schedule Report For Transport Charge
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu8                                               
+Demand No  :1012001181   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000006 030321 Kamni   Kundal           Sister Gr. II         Nursing Cell           750
+
+PGIPER00002423 030484 Rupinderjit   Kaur       Sister Gr. II         Nursing Cell           750
+
+PGIPER00002490 030212 Karamjeet   Kaur         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002508 030225 Satinder Pal Kaur        Sister Gr. II         Nursing Cell           750
+
+PGIPER00002509 030284 Gitika                   Sister Gr. II         Nursing Cell           750
+
+PGIPER00002532 030243 Parminder   Kaur         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002533 030256 Seena   Varghese         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002534 030248 Palwinder   Kaur         Sister Gr. II         Other                  750
+
+PGIPER00002564 030306 Minakshi                 Sister Gr. II         Other                  750
+
+PGIPER00002653 030347 Sarabjeet   Kaur         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002656 030387 Bharati   Sharma         Sister Gr. II         Nursing Cell           750
+
+PGIPER00002671 030414 Shobha   Thakur          Sister Gr. II         Nursing Cell           750
+
+PGIPER00002692 030435 Rimpi   Rani             Sister Gr. II         Nursing Cell           750
+
+PGIPER00002715 030481 Jaspreet   Kaur          Sister Gr. II         Nursing Cell           750
+
+PGIPER00002732 030492 Gyan   Negi              Sister Gr. II         Nursing Cell           750
+
+PGIPER00008100 030388 Kumari   Baby            Sister Gr. II         Nursing Cell           750
+
+PGIPER00008349 030420 Khan Gembam   Nomita     Sister Gr. II         Nursing Cell           750
+
+                                                                          Grand Total     12750
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

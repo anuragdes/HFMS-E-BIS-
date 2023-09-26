@@ -1,0 +1,24 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                                 14 August 2013 
+                                Employee Wise Bank Statement
+                                   Month  :February 2013
+ 
+Category  :Faculty                                                                             
+Sub-Category  :Gra                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIDEP00000001 045096 Jarnail   Singh          Mobility Instructor   10413608904      14598
+
+2   PGIPER00001077 000784 Aditi   Kapur            Assistant Professor   10413696606      95373
+
+3   PGIPER00008293 -      Tawan                    Assistant Professor   -                19861
+
+4   PGIPER00008303 5345 fgsdfTest Aa Tgerg Tertrwe T  PPS                   -               137600
+
+                                                                          Grand Total    267432
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

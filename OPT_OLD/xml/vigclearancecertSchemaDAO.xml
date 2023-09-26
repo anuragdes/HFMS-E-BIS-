@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="VIGILANCE" PROCESS_NAME="Investigation" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+	 INSERT INTO PISVIG_CASE_CLE_TRN(gnum_hospital_code,REQ_NUM,REQ_DT,STR_EMPLOYEE_CODE,NUM_REASON_ID,STR_REASON_FOR_CLEARANCE,REQ_STATUS,NUM_SR_NUMBER,DT_CLEARANCE,STR_CLEARANCE_GIVEN_BY,STR_CLEARANCE_GIVEN_TO,REASON_HOLD,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    </QRY>
+	</BLOCK>
+  </OPR>
+ 
+  
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">  
+  	<QRY ID="1" COL_SIZE="15">
+	 UPDATE PISVIG_CASE_CLE_TRN A SET REQ_NUM=?,REQ_DT=?,STR_EMPLOYEE_CODE=?,STR_REASON_FOR_CLEARANCE=?,REQ_STATUS=?,NUM_SR_NUMBER=?,DT_CLEARANCE=?,STR_CLEARANCE_GIVEN_BY=?,STR_CLEARANCE_GIVEN_TO=?,REASON_HOLD=?,GNUM_ISVALID=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? where gnum_hospital_code=? and REQ_NUM=? and REQ_NUM is not null 
+	</QRY>
+ 	</BLOCK>
+
+</OPR>
+  
+     <OPR ID="3" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">  
+  	<QRY ID="1" COL_SIZE="2">
+	 UPDATE PISVIG_CASE_CLE_TRN A SET GNUM_ISVALID=0 WHERE A.REQ_NUM=? and gnum_hospital_code=? and REQ_NUM is not null
+	</QRY>
+ 	</BLOCK>
+   </OPR>
+</tns:Transaction> 

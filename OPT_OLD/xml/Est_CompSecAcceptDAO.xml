@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="CompSecAcceptTransaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+ 
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO ACTBUD_DEM_ACCEPT_TRNS(STR_DEMAND_NO,DT_DEMAND_DATE,NUM_DEPT_CODE,STR_HOD_CODE,STR_COMPILATION_STATUS,STR_DEMAND_STATUS_AT_COMP,STR_REMARKS,GDT_COMPIL_EFFECT_DATE,GDT_COMPIL_ENTRY_DATE,GNUM_COMPIL_ISVALID,GNUM_COMPIL_SEAT_ID) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE ACTBUD_DEM_BERE_TRNS T SET T.STR_DEMAND_STATUS=? WHERE T.STR_DEMAND_NO=? AND T.DT_DEMAND_DATE=? AND T.NUM_DEPT_CODE=? AND  T.STR_HOD_CODE=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="1">
+	 update actbud_dem_bere_dtl m set m.NUM_COMP_ACTUAL_EXP_PREV_BYR=m.num_actual_exp_prev_byr,m.NUM_COMP_BE_CURRENT_BYR=m.num_be_current_byr,m.NUM_COMP_RE_CURRENT_BYR=m.NUM_RE_CURRENT_BYR,m.NUM_COMP_ANTICIP_NEXT_BYR=m.NUM_ANTICIP_NEXT_BYR,m.NUM_CACT_EXP_UPTO_TDT=m.NUM_ACTUAL_EXP_UPTO_TDT,m.NUM_CANTI_CURR_BYR=m.NUM_ANTI_CURR_BYR,m.NUM_CBE_NEXT_BYR=m.Num_Be_Next_Byr where m.str_demand_no=?
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="2" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 INSERT INTO ACTBUD_DEM_ACCEPT_TRNS(STR_DEMAND_NO,DT_DEMAND_DATE,NUM_DEPT_CODE,STR_HOD_CODE,STR_COMPILATION_STATUS,STR_DEMAND_STATUS_AT_COMP,STR_REMARKS,GDT_COMPIL_EFFECT_DATE,GDT_COMPIL_ENTRY_DATE,GNUM_COMPIL_ISVALID,GNUM_COMPIL_SEAT_ID) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE ACTBUD_DEM_BERE_TRNS T SET T.STR_DEMAND_STATUS=? WHERE T.STR_DEMAND_NO=? AND T.DT_DEMAND_DATE=? AND T.NUM_DEPT_CODE=? AND  T.STR_HOD_CODE=?
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+
+<OPR ID="3" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="13">
+	 update ACTBUD_DEM_BERE_DTL t set t.num_comp_actual_exp_prev_byr=?,t.num_comp_be_current_byr=?,t.num_cact_exp_upto_tdt=?,t.num_canti_curr_byr=?,t.num_comp_re_current_byr=?,t.num_cbe_next_byr=? where t.str_demand_no=? and t.dt_demand_date=? and t.num_dept_code=? and t.str_major_head_code=? and t.str_sub_major_head_code=? and t.str_minor_head_code=? and t.str_sub_minor_head_code=?	
+	 </QRY>
+	</BLOCK>
+	
+</OPR>
+<OPR ID="4" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="10">
+	update ACTBUD_DEM_BERE_DTL t set t.num_comp_actual_exp_prev_byr=?,t.num_comp_be_current_byr=?,t.num_cact_exp_upto_tdt=?,t.num_canti_curr_byr=?,t.num_comp_re_current_byr=?,t.num_cbe_next_byr=? where t.str_demand_no=? and t.dt_demand_date=? and t.num_dept_code=? and t.str_major_head_code=? and t.str_sub_major_head_code is null and t.str_minor_head_code is null and t.str_sub_minor_head_code is null	
+	 </QRY>
+	</BLOCK>
+	
+</OPR>
+<OPR ID="5" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	 update ACTBUD_DEM_BERE_DTL t set t.num_comp_actual_exp_prev_byr=?,t.num_comp_be_current_byr=?,t.num_cact_exp_upto_tdt=?,t.num_canti_curr_byr=?,t.num_comp_re_current_byr=?,t.num_cbe_next_byr=? where t.str_demand_no=? and t.dt_demand_date=? and t.num_dept_code=? and t.str_major_head_code=? and t.str_sub_major_head_code=? and t.str_minor_head_code is null  and t.str_sub_minor_head_code is null	
+	 </QRY>
+	</BLOCK>
+	
+</OPR>
+<OPR ID="6" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="12">
+	 update ACTBUD_DEM_BERE_DTL t set t.num_comp_actual_exp_prev_byr=?,t.num_comp_be_current_byr=?,t.num_cact_exp_upto_tdt=?,t.num_canti_curr_byr=?,t.num_comp_re_current_byr=?,t.num_cbe_next_byr=? where t.str_demand_no=? and t.dt_demand_date=? and t.num_dept_code=? and t.str_major_head_code=? and t.str_sub_major_head_code=? and t.str_minor_head_code=? and t.str_sub_minor_head_code is null
+	 </QRY>
+	</BLOCK>
+	
+</OPR>
+
+</tns:Transaction>

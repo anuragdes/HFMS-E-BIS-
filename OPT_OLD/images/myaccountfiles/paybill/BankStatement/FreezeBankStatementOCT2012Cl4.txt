@@ -1,0 +1,152 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                                Employee Wise Bank Statement
+                                    Month  :October 2012
+ 
+Category  :Miscellaneous                                                                       
+Sub-Category  :Cl4                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000007 043104 Sukhjeet Singh Bath      Office Superintendent 10413621073      27140
+
+2   PGIPER00000009 043109 Vijay  Kumar Ahuja       Office Superintendent 10413607069      23366
+
+3   PGIPER00000014 043125 Suresh   Pal             Clerk                 10413623241      22746
+
+4   PGIPER00000025 043126 Parkash   Chand          Office Superintendent 10413614011      16780
+
+5   PGIPER00000027 043112 Satish Kumar Sharma      Other                 10413660624      26884
+
+6   PGIPER00000037 043113 Shiv Kant Gupta          Other                 10413660646      17060
+
+7   PGIPER00000038 043116 Amarjit Singh Heer       Other                 10413641476      27483
+
+8   PGIPER00000043 043114 Jit Ram Banger           Office Superintendent 10413629185      25318
+
+9   PGIPER00000102 043111 Shyam Swaroop Arora      Auditor CumStrockVeri 10413651100      33122
+
+10  PGIPER00000113 043100 Sansar   Chand           Clerk                 10413621175      24040
+
+11  PGIPER00000114 043124 Sushil Kumar Singla      Clerk                 10413628910      20889
+
+12  PGIPER00000115 043119 Neelam   Rani            Clerk                 10413634605      21444
+
+13  PGIPER00000289 043020 Sunil  Kumar Bajaj       Store-keeper          10413625782      33025
+
+14  PGIPER00000290 043023 Naresh   Kumar           Store-keeper          10413675960      34212
+
+15  PGIPER00000291 043018 Surinder Paul Singh Cho  Jr. Store Officer     10413642617      25348
+
+16  PGIPER00000293 041073 Ghanshiam   Sharma       Store-keeper          10413618695      31616
+
+17  PGIPER00000294 041085 Jeet  Ram                Store-keeper          10413641534      25168
+
+18  PGIPER00000302 043025 Ghanshayam Chander Vark  Store-keeper          10413654214      31635
+
+19  PGIPER00000304 043121 Kuldip Kumar Sharma      Legal Assistant       10413615479      21245
+
+20  PGIPER00000305 043016 Jai Bhagwan Sharma       Jr. Store Officer     10413611021      40765
+
+21  PGIPER00000306 041035 Gurcharan    Singh       Store-keeper          10413612955      25768
+
+22  PGIPER00000308 043128 Satish   Kumar           Store-keeper          10413615729      31223
+
+23  PGIPER00000309 041070 Ramesh   Lal             Store-keeper          10413619326      26786
+
+24  PGIPER00000310 041074 Rajni   Devi             Store-keeper          10413618243      21936
+
+25  PGIPER00000312 041061 Rakesh  Kumar Sangar     Store-keeper          10413617307      36616
+
+26  PGIPER00000313 041072 Jaspal  Singh            Store-keeper          10413660668      32849
+
+27  PGIPER00000314 043022 Shanti   Ram             Store-keeper          10413621936      25943
+
+28  PGIPER00000315 043017 Janak   Dulari           Other                 10413613357      36088
+
+29  PGIPER00000316 043132 Satwinder  Kumar         Store-keeper          10413674503      36794
+
+30  PGIPER00000317 043131 Yogesh   Sharma          Store-keeper          10413674536      25526
+
+31  PGIPER00000328 043130 Ram  Pukar               Store-keeper          10413713157      35772
+
+32  PGIPER00000329 043024 Dilbag Singh Jarial      Store-keeper          10413629276      26358
+
+33  PGIPER00000330 043141 Neeraj  Narula           Store-keeper          10413674886      31648
+
+34  PGIPER00000331 043140 Shriman   Singh          Store-keeper          10413643575      13244
+
+35  PGIPER00000335 043138 Ram   Kumar              Store-keeper          10413714752      20702
+
+36  PGIPER00000336 043142 Ashwani  Thakur          Store-keeper          10413733219      31727
+
+37  PGIPER00000337 043143 Monika                   Store-keeper          10413694360      31727
+
+38  PGIPER00000338 043144 Praveen  Kumar           Store-keeper          10413736572      28331
+
+39  PGIPER00000339 043145 Paramvir Singh Godray    Store-keeper          30024759161      28486
+
+40  PGIPER00000346 043146 Avtar  Singh             Store-keeper          10413704404      26207
+
+41  PGIPER00000347 043133 Rajeev   Awasthi         Store-keeper          10413705351      26019
+
+42  PGIPER00000348 043134 Virendra Pratap Singh    Store-keeper          10413705453      25604
+
+43  PGIPER00000349 043136 Sanjeev  Kumar Bhalla    Other                 10413714231      21777
+
+44  PGIPER00000350 043135 Surinder Singh Rawat     Store-keeper          10413714220      23787
+
+45  PGIPER00000351 043137 Rajender Kumar Sharma    Other                 10413714763      27400
+
+46  PGIPER00000403 043147 Virender   Kumar         Store-keeper          30408563810      28633
+
+47  PGIPER00000404 043148 Satish Kumar Gautam      Store-keeper          10413710713      27633
+
+48  PGIPER00000439 043117 Ram   Chand              Clerk                 10413606804      18753
+
+49  PGIPER00000440 043102 Mahi   Pal               Clerk                 10413631354      25694
+
+50  PGIPER00000459 041034 Gurdeep   Singh          Store-keeper          10413660329      14610
+
+51  PGIPER00000808 043150 Rohit   Sharma           Store-keeper          10413701935      28603
+
+52  PGIPER00001078 043101 Surmukh   Singh          Clerk                 10413616529      28264
+
+53  PGIPER00001459 043015 HarKrishan   Singh       Other                 10413612536      30750
+
+54  PGIPER00001566 043011 Pawan    Kumar           Store-keeper          10413608777      29476
+
+55  PGIPER00001582 043019 Surjit   Singh           Store-keeper          10413637617      20771
+
+56  PGIPER00001609 041083 Som Nath Rana            Asstt.Admn.Officer    10413630688      20594
+
+57  PGIPER00003057 043151 Gopal  krishan Madan     OTHER (B)             10413687579      25453
+
+58  PGIPER00004217 041148 Rajesh  Kumar            Clerk                 10413654292      20989
+
+59  PGIPER00004219 041125 Lakha  Singh             Clerk                 10413639057      14823
+
+60  PGIPER00004220 041114 Lakhbir   Singh          Ward Servant          10413636023      29236
+
+61  PGIPER00004222 041145 Rupan   Devi             Ward Servant          10413652502      23940
+
+62  PGIPER00004233 043127 Munish   Kumar           Ward Servant          10413638702      20776
+
+63  PGIPER00004269 041146 Vinod  Krishan  Sharma   Clerk                 10413645914      16920
+
+64  PGIPER00004285 043129 Reshma                   Clerk                 10413621368      19514
+
+65  PGIPER00007887 043149 Arvind   Kumar           Store-keeper          31101582029      27633
+
+66  PGIPER00008676 043021 Bharat    Bhusan         Store-keeper          10413609678      24324
+
+67  PGIPER00008679 043123 Hukam   Singh            Upper Division Clerk  10413625556      22106
+
+68  PGIPER00008680 043139 Vikash    Malik          Store-keeper          10413701979      33148
+
+                                                                          Grand Total   1780247
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

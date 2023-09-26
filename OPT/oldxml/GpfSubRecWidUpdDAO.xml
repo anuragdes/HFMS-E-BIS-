@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="PAYBILL" PROCESS_NAME="GPF Subcription Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+<OPR ID="1" NAME="UPDATE" BLOCK_SIZE="4" QRY_TOT_SIZE="4" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="4">
+	 UPDATE PGI_GPF_MST SET GPF_SUBSCRIPTION=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+   </QRY>
+   </BLOCK>
+   <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	 UPDATE PGI_GPF_MST SET GPF_ADVANCE=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+      </QRY>
+   </BLOCK>
+   <BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	 UPDATE PGI_GPF_MST SET GPF_WITHD=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+      </QRY>
+   </BLOCK>
+   <BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+      	 <QRY ID="1" COL_SIZE="3">
+      	 UPDATE PGI_GPF_OP_MST SET STRBALANCE=? where EMPL_CODE=? and STR_YEAR=?
+         </QRY>
+   </BLOCK>
+   
+</OPR>
+
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="4">
+	 UPDATE PGI_GPF_MST SET GPF_SUBSCRIPTION=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+   </QRY>
+   </BLOCK>
+   <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	 UPDATE PGI_GPF_MST SET GPF_ADVANCE=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+      </QRY>
+   </BLOCK>
+   <BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	 UPDATE PGI_GPF_MST SET GPF_WITHD=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+      </QRY>
+   </BLOCK>
+   
+</OPR>
+
+<OPR ID="3" NAME="INSERT" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="4">
+	 INSERT INTO PGI_GPF_MST (GPF_SUBSCRIPTION,EMPL_CODE,STR_YEAR,STR_MONTH) VALUES (?,?,?,?)
+   </QRY>
+   </BLOCK>
+   <BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	  INSERT INTO PGI_GPF_MST (GPF_ADVANCE,EMPL_CODE,STR_YEAR,STR_MONTH) VALUES (?,?,?,?)
+   	 </QRY>
+   </BLOCK>
+   <BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+   	 <QRY ID="1" COL_SIZE="4">
+   	 INSERT INTO PGI_GPF_MST (GPF_WITHD,EMPL_CODE,STR_YEAR,STR_MONTH) VALUES (?,?,?,?)
+   	</QRY>
+   </BLOCK>
+   
+</OPR>
+
+<OPR ID="4" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	
+   <BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+      	 <QRY ID="1" COL_SIZE="3">
+      	 UPDATE PGI_GPF_OP_MST SET STRBALANCE=? where EMPL_CODE=? and STR_YEAR=?
+         </QRY>
+   </BLOCK>
+   
+</OPR>
+
+
+
+<OPR ID="5" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 UPDATE PGI_GPF_MST SET GPF_SUBSCRIPTION=?,GPF_ADVANCE=?,GPF_WITHD=? where EMPL_CODE=? and STR_YEAR=? and STR_MONTH=?
+   </QRY>
+   </BLOCK>
+   
+   
+</OPR>
+
+<OPR ID="6" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="6">
+	 INSERT INTO PGI_GPF_MST (GPF_SUBSCRIPTION,GPF_ADVANCE,GPF_WITHD,EMPL_CODE,STR_YEAR,STR_MONTH) VALUES (?,?,?,?,?,?)
+   </QRY>
+   </BLOCK>
+  
+   
+</OPR>
+
+
+
+</tns:Transaction>
+

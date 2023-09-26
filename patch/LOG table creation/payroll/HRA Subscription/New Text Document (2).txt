@@ -1,0 +1,12 @@
+
+CREATE OR REPLACE TRIGGER trg1_actpay_hra_subscritpion_trn
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_hra_subscritpion_trn
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_ta_subscritpion_trn_log(str_employee_number,dt_subscription_date,str_status,gnum_slno,gnum_isvalid,gnum_seat_id,gdt_entry_date,gdt_lstmod_date,
+gnum_lstmod_seatid,gstr_remarks,gnum_hospital_code,dt_subscription_date_to,str_city_grade) 
+ select :old.str_employee_number,:old.dt_subscription_date,:old.str_status,:old.gnum_slno,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date,
+:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.gnum_hospital_code,:old.dt_subscription_date_to,:old.str_city_grade from actpay.actpay_hra_subscritpion_trn
+where str_employee_number=:new.str_employee_number and gnum_slno=:new.gnum_slno ;
+END;

@@ -1,0 +1,14 @@
+<error-log>
+<module>
+	<name>Investigation</name>
+	<path>c:\abb</path>
+</module>
+<module>
+	<name>O.P.D.</name>
+	<path>c:\opd</path>
+</module>
+<module>
+	<name>Billing</name>
+	<path>c:\opd</path>
+</module>
+</error-log>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="NPS" PROCESS_NAME="NPS opening balance Transaction" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="7">
+	 INSERT INTO ACTNPS_NPS_OPENING_BAL_TRN(STR_EMPLOYEE_NO,STR_FINANCIAL_YR,NUM_NPS_OPENING_AMT,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE, GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>

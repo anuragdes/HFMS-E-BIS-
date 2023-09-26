@@ -1,0 +1,100 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu4                                               
+Demand No  :1012001141   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001670 029005 Saroj Kumari Sharma      ANS                   Nursing Cell           170
+
+PGIPER00001676 029022 Roseline   Massey        ANS                   Nursing Cell           211
+
+PGIPER00001689 029035 Ranjit   Sehgal          ANS                   Nursing Cell           200
+
+PGIPER00001691 029052 Usha   Rani              ANS                   Nursing Cell           211
+
+PGIPER00001693 029034 Shobha Attar Singh       ANS                   Nursing Cell           211
+
+PGIPER00001695 029037 Josephine   Iver         ANS                   Paediatric Surg        211
+
+PGIPER00001710 029046 Kesang   Jamwal          ANS                   Nursing Cell           172
+
+PGIPER00001711 029060 Charanjit  kaur Toor     ANS                   Nursing Cell           211
+
+PGIPER00001716 029056 Tsering   Dolkar         Sister Gr. I          Nursing Cell           170
+
+PGIPER00001720 029073 Usha   Kapoor            OTHER (A)             Nursing Cell           170
+
+PGIPER00001725 029104 Prem Lata Arora          Sister Gr. I          Nursing Cell           200
+
+PGIPER00001729 029102 Usha   Francis           Sister Gr. I          Nursing Cell           202
+
+PGIPER00001731 029108 Jasmeet   Thakur         Sister Gr. I          Nursing Cell           211
+
+PGIPER00001744 029087 Savita    Gulati         Sister Gr. I          Nursing Cell           172
+
+PGIPER00001746 029088 Pushpa   Devi            Sister Gr. I          Nursing Cell           200
+
+PGIPER00001749 029026 Kaushalya   Sharma       Sister Gr. I          Advance Cardiac        172
+
+PGIPER00001751 029098 Vina   Dass              Sister Gr. II         Nursing Cell           202
+
+PGIPER00001753 029113 Olive    Chand           Sister Gr. I          Nursing Cell           211
+
+PGIPER00001756 029111 Ram  Kumari Rajput       Sister Gr. I          Nursing Cell           152
+
+PGIPER00001768 029066 Narinder Kaur Anand      Sister Gr. I          Nursing Cell           302
+
+PGIPER00001770 029062 Prem  Lata  Verma        Sister Gr. I          Nursing Cell           211
+
+PGIPER00001772 029080 Inderjit    Saini        Sister Gr. I          Emergency              200
+
+PGIPER00001773 029084 Bhupinder    Batta       Sister Gr. I          Nursing Cell           200
+
+PGIPER00001774 029090 Kaushalya  Kapila  /Ala  ANS                   Nursing Cell           170
+
+PGIPER00001782 029123 Nutan    James           Sister Gr. I          Nursing Cell           211
+
+PGIPER00001784 029083 Mohini  H Khan           Sister Gr. I          Nursing Cell           211
+
+PGIPER00001786 029125 Salamti N Masih          Sister Gr. I          Nursing Cell           152
+
+PGIPER00001789 029129 Agnesh  Amar  Nath       Sister Gr. I          Nursing Cell           211
+
+PGIPER00001791 029131 Shakuntala  B Masih      Sister Gr. I          Nursing Cell           152
+
+PGIPER00001794 029140 Punita   Kansal          Sister Gr. I          Nursing Cell           211
+
+PGIPER00001799 029119 Usha    Kiran            Sister Gr. I          Nursing Cell           172
+
+PGIPER00001804 029152 Balet   Victor           Sister Gr. I          Nursing Cell           152
+
+PGIPER00001809 029154 Zeenat    Bhatti         Sister Gr. I          Nursing Cell           172
+
+PGIPER00001810 029177 Nirmal   phlips Jabcob   Sister Gr. I          Nursing Cell           211
+
+PGIPER00001811 029158 Rajinder    Kaur         Sister Gr. I          Nursing Cell           152
+
+PGIPER00001812 029173 Rajinder Pal Kaur        Sister Gr. I          Nursing Cell           170
+
+PGIPER00001813 029166 Rani  Atma Ram           Sister Gr. I          Nursing Cell           211
+
+PGIPER00001817 029172 Deepika   Singh          Sister Gr. I          Nursing Cell           150
+
+PGIPER00001819 029175 Amilia                   Sister Gr. I          Advance Cardiac        209
+
+PGIPER00001828 029178 Sweet Nevidita James     Sister Gr. I          Nursing Cell           211
+
+PGIPER00001835 029159 Elizabeth   Emerson      Sister Gr. I          Nursing Cell           211
+
+PGIPER00008063 029079 Sharja    Vasodev        Sister Gr. I          Nursing Cell           200
+
+                                                                          Grand Total      8111
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

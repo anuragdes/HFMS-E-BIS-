@@ -1,0 +1,166 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                              Schedule Report For INCOME TAX
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl1                                               
+Demand No  :10120018621  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Pan No          Amount(Rs)
+PGIPER00000107 040079 Pushpinder   Kaur        Stenographer          ALOPK9222F             500
+
+PGIPER00000109 040031 Thakur   Dass            Personal Assistant    ABSPD3804C            2000
+
+PGIPER00000230 040067 Kanshi Ram Thakur        Stenographer          AAVPR6694J             500
+
+PGIPER00000233 040055 Santosh   Kumari         Stenographer          ACLPK6937B             800
+
+PGIPER00000235 040058 Brij Mohan Khurana       Stenographer          ACEPK0726D            1000
+
+PGIPER00000236 040054 Ashok   Kumari           Stenographer          AEMPK1164P            2000
+
+PGIPER00000238 040066 Kusam   Sharma           Stenographer          ABTPN5853E            1000
+
+PGIPER00000246 040064 Sandeep    kumari        Other                 ABUPG3571D             500
+
+PGIPER00000249 040077 Rajni   Nagpal           Stenographer          ABHPN8702A            1000
+
+PGIPER00000251 040089 Raman   Kumari           Stenographer          ABWPM5529M             800
+
+PGIPER00000252 040071 Rajinder  Kumar Sabbarw  Stenographer          ACTPS3669N             800
+
+PGIPER00000253 040061 Satnam  Kaur             Stenographer          ADLPK3879K             800
+
+PGIPER00000254 040073 Susheel   Kumari         Stenographer          ACKPP1941K            1000
+
+PGIPER00000256 040062 Santosh   Kumari         Stenographer          ACPPK7801C             800
+
+PGIPER00000257 040080 Ram   Karan              Stenographer          ABOPK6225A            1000
+
+PGIPER00000258 040072 Kashmiro   Devi          Stenographer          ABBPB3430F            1000
+
+PGIPER00000259 040063 Kiran   Kapil            Personal Assistant    AXHPS7832A            1000
+
+PGIPER00000260 040074 Anju   Gupta             Stenographer          ADDPG9530D            1000
+
+PGIPER00000261 040070 Ramesh Kumar Anand       Stenographer          ACKPA5602Q            1000
+
+PGIPER00000262 040075 Kiran    Rawat           Stenographer          AAMPN4603J            1000
+
+PGIPER00000263 040081 Paramjit   Singh         Stenographer          ACXPS2195R            2000
+
+PGIPER00000264 040082 Amarjeet   Kaur          Stenographer          ACEPK4496L            1000
+
+PGIPER00000265 040083 Ravi  Bhushan            Stenographer          AGPPG4025J            1000
+
+PGIPER00000266 040084 Jatinder   Kumar         Stenographer          ABBPK4262N            1000
+
+PGIPER00000268 040085 Naveen Chander Bedi      Stenographer          AEBPB9386B            1000
+
+PGIPER00000271 040047 Raman   Verma            Personal Assistant    ABNPV6728J            1000
+
+PGIPER00000276 040045 Sunil  Dutt Sharma       Office Superintendent AJDPS8998K            1000
+
+PGIPER00000277 040030 Manju   Gupta            Private Secretary     ACKPG4581G            1500
+
+PGIPER00000280 040035 Krishna   Kumari         Personal Assistant    ACSPK5769N            1000
+
+PGIPER00000281 040032 Manju   Sharma           Personal Assistant    AHDPS5326F            1000
+
+PGIPER00000282 040033 Swarna   Devi            Personal Assistant    ADMPD8547Q            2500
+
+PGIPER00000288 040037 Ravinder   Sharma        PA                    AJOPS7682K            1500
+
+PGIPER00000311 040044 Manju   Aggarwal         Personal Assistant    ACKPA5520F            1000
+
+PGIPER00000352 040091 Puran Chand Pant         Personal Assistant    ABYPP1371L            1000
+
+PGIPER00000354 040088 Satinder                 Personal Assistant    APUPS2718A            1000
+
+PGIPER00000355 040090 Punam   Sharma           Personal Assistant    AENPS5493Q            1000
+
+PGIPER00000356 040130 Ajay   Abrol             Stenographer          ACHPA3783B            1000
+
+PGIPER00000357 040127 Naresh   Kumar           Stenographer          ABBPK5633P            1000
+
+PGIPER00000358 040124 Saroj   Bala             OTHER (C)             AAXPB4576B            1000
+
+PGIPER00000360 040133 Sanjay   Kumar           Stenographer          ACWPK1268L            1000
+
+PGIPER00000362 040129 Satinder Kumar Jassal    Stenographer          AFMPJ0646L             800
+
+PGIPER00000368 040126 Harcharan Singh Rana     Stenographer          ABDPR2964C             500
+
+PGIPER00000369 040135 Lalita   Khurana         Stenographer          ABBPK3977G             500
+
+PGIPER00000370 040098 Sushila  Kumari          Personal Assistant    ABKPT7318P             800
+
+PGIPER00000371 040099 Ominder   Kumar          Personal Assistant    ABYPK3029L             800
+
+PGIPER00000372 040103 Parveen  kumar Singh     Stenographer          AQXPS3690P            1000
+
+PGIPER00000373 040102 Ishwar   Kumari          OTHER (C)             ABYPK6002D            1500
+
+PGIPER00000374 040115 Dhiraj                   OTHER (C)             AAWPD7554N            1000
+
+PGIPER00000375 040117 Kiran   Jyoti            Personal Assistant    ABWPJ6690E            1000
+
+PGIPER00000377 040123 Aneeta   Kanwal          Clerk                 ABUPK9642D            1000
+
+PGIPER00000378 040131 Sanjeev   Kumar          OTHER (C)             AGFPK8853N            1000
+
+PGIPER00000379 040128 Paramjit   Kaur          Stenographer          ACEPK6793Q            1000
+
+PGIPER00000380 040141 Deepak  Mehta            Store-keeper          AFNPM1259H             800
+
+PGIPER00000384 040143 Harish   Ahuja           Personal Assistant    ADEPA8850H            1000
+
+PGIPER00000385 040144 Harmeet  Kaur            Personal Assistant    AJDPK6916D            1000
+
+PGIPER00000387 040163 Sonu                     Stenographer          AVRPS8275K            1000
+
+PGIPER00000389 040149 Sanjay   Abrol           Stenographer          AEHPA8345R             500
+
+PGIPER00000390 040155 Suman                    OTHER (C)             AXDPS3839H            1000
+
+PGIPER00000397 040156 Navneet   Bansal         OTHER (C)             ANTPB1769K            1000
+
+PGIPER00000445 040113 Surinder   Kumar         Personal Assistant    ACTPK6116G            1000
+
+PGIPER00000447 040107 Harmesh Kumari Sharma    Stenographer          ACXPS2228M             800
+
+PGIPER00000448 040106 Jasbir    Kaur           Stenographer          AAAHJ9648H             800
+
+PGIPER00000449 040108 Sunita   Devi            Stenographer          ABZPD6883G             500
+
+PGIPER00000450 040112 Alka                     Stenographer          ADEPA3946L             500
+
+PGIPER00000451 040110 Rajni   Bala             OTHER (C)             ADCPB8109J             500
+
+PGIPER00000452 040114 Neelam   Sharma          Stenographer          AJDPS9551Q             500
+
+PGIPER00000453 040116 Anu   Monga              Personal Assistant    AARPA0602R             800
+
+PGIPER00000454 040109 Anita   Rani             Stenographer          ACYPR9548N             800
+
+PGIPER00000455 040111 Ranjna   Sharma          Stenographer          AJHPS1124P             500
+
+PGIPER00000456 040105 Parminder   Singh        OTHER (C)             ADYPS8856R            1000
+
+PGIPER00008040 040122 Rohit                    Stenographer          ABFPR2285J            1000
+
+PGIPER00008087 040160 Amit  Rawat              Personal Assistant    AEYPR2981K             800
+
+PGIPER00008103 040119 Manoj    Kumar           Personal Assistant    ACXPS2804B            1000
+
+PGIPER00008692 040164 Amritpal   Singh         Clerk                 AXXPS5641R             500
+
+PGIPER00008698 040051 Jasbir  Kaur             Hindi Steno           -                     1000
+
+                                                                          Grand Total     72200
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

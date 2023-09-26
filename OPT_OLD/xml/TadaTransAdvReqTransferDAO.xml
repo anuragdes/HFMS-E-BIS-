@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:Transaction MODULE_NAME="PIS" PROCESS_NAME="AdvReqTransfer" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="27">
+	 INSERT INTO PIST_TAT_ADV_TRN (STR_REQ_APP_NO,DT_REQ_APP_DATE,STR_EMPLOYEE_CODE,STR_CURRENT_BASIC,STR_PAY_SCALE,STR_ORDER_NO,DT_ORDER_DATE,DT_OF_JOURNEY,STR_ISS_AUTH,NUM_ADVANCE_REQ,NUM_ADVANCE_APP,STR_STATUS,STR_NAME_OF_HOD,STR_VERIFY_STATUS,DT_VERIFY_DATE,STR_REM_FOR_VERIFY,STR_BILL_NUMBER,DT_BILL_DATE,STR_SANC_AUTO,STR_SANC_ORDER_NO,DT_SANC_ORDER,STR_SANC_REMARKS,GNUM_ISVALID,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_SEAT_ID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+  </OPR>
+
+
+</tns:Transaction>

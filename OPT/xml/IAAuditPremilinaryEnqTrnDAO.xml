@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="AUDIT" PROCESS_NAME="AUDIT PROPOSE" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="3" QRY_TOT_SIZE="3" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="9">
+	insert into actia_audit_prel_enq_trn(num_audit_sch_no,str_remarks,STR_DEPT_HOD_CODE,GNUM_ISVALID,gnum_seat_id,gdt_entry_date,gdt_lstmod_date, gnum_lstmod_seatid,gnum_hospital_code) values (?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	 
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="9">
+	insert into actia_audit_prel_enq_dtl (num_audit_sch_no,NUM_DOCS_SL_NO,STR_DOCS_REQ_NAME,STR_DOCS_RECEIVED,gnum_isvalid,gnum_seat_id, gdt_entry_date, gdt_lstmod_date,gnum_lstmod_seatid,gnum_hospital_code) values (?,?,?,'N',?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	 
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="2">
+	update  actia_audit_sch_trn t set t.str_audit_status=2 where t.num_audit_sch_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+	 
+</OPR>
+
+<OPR ID="2" NAME="DELETE" BLOCK_SIZE="5" QRY_TOT_SIZE="5" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 INSERT INTO ACTIA_LOG_AUDIT_PREL_ENQ_DTL (NUM_AUDIT_SCH_NO,NUM_DOCS_SL_NO,STR_DOCS_REQ_NAME,STR_DOCS_RECEIVED,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,GNUM_HOSPITAL_CODE,STR_MODIFY_SL_NO) ( SELECT T.NUM_AUDIT_SCH_NO,T.NUM_DOCS_SL_NO,T.STR_DOCS_REQ_NAME,STR_DOCS_RECEIVED,T.GNUM_ISVALID,T.GNUM_SEAT_ID,T.GDT_ENTRY_DATE,T.GDT_LSTMOD_DATE,T.GNUM_LSTMOD_SEATID,T.GNUM_HOSPITAL_CODE,(select nvl(max(A.STR_MODIFY_SL_NO),0)+1 from ACTIA_LOG_AUDIT_PREL_ENQ_DTL A where A.NUM_AUDIT_SCH_NO=T.NUM_AUDIT_SCH_NO and A.GNUM_HOSPITAL_CODE=T.GNUM_HOSPITAL_CODE ) FROM ACTIA_AUDIT_PREL_ENQ_DTL T WHERE T.NUM_AUDIT_SCH_NO=? AND T.GNUM_HOSPITAL_CODE=?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 INSERT INTO ACTIA_LOG_AUDIT_PREL_ENQ_TRN (NUM_AUDIT_SCH_NO,STR_REMARKS,STR_DEPT_HOD_CODE,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,GNUM_HOSPITAL_CODE,STR_MODIFY_SL_NO) ( SELECT T.NUM_AUDIT_SCH_NO,T.STR_REMARKS,T.STR_DEPT_HOD_CODE,T.GNUM_ISVALID,T.GNUM_SEAT_ID,T.GDT_ENTRY_DATE,T.GDT_LSTMOD_DATE,T.GNUM_LSTMOD_SEATID,T.GNUM_HOSPITAL_CODE,(select nvl(max(A.STR_MODIFY_SL_NO),0)+1 from ACTIA_LOG_AUDIT_PREL_ENQ_TRN A where A.NUM_AUDIT_SCH_NO=T.NUM_AUDIT_SCH_NO and A.GNUM_HOSPITAL_CODE=T.GNUM_HOSPITAL_CODE ) FROM ACTIA_AUDIT_PREL_ENQ_TRN T WHERE T.NUM_AUDIT_SCH_NO=? AND T.GNUM_HOSPITAL_CODE=?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 DELETE FROM ACTIA_AUDIT_PREL_ENQ_DTL T WHERE T.NUM_AUDIT_SCH_NO=? and T.GNUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="3">
+	 UPDATE actia_audit_prel_enq_trn T SET T.STR_REMARKS=? where T.num_audit_sch_no=? and T.GNUM_HOSPITAL_CODE=? 
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="5" QRY_SIZE="1" ROWS_INS="M" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="9">
+	insert into actia_audit_prel_enq_dtl (num_audit_sch_no,NUM_DOCS_SL_NO,STR_DOCS_REQ_NAME,gnum_isvalid,gnum_seat_id, gdt_entry_date, gdt_lstmod_date,gnum_lstmod_seatid,gnum_hospital_code) values (?,?,?,?,?,?,?,?,?)
+	 </QRY>
+	 </BLOCK>
+</OPR>
+
+
+</tns:Transaction>

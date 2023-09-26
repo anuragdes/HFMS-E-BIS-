@@ -1,0 +1,124 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For LIC
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu4                                               
+Demand No  :1012001141   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation Department  Lic Policy No Amount(Rs)
+PGIPER00001682 029053 Kanwaljit Kaur  Mavi     SG1       Nursing Cell   161504075           529
+
+PGIPER00001682 029053 Kanwaljit Kaur  Mavi     SG1       Nursing Cell   161810798          1292
+
+PGIPER00001682 029053 Kanwaljit Kaur  Mavi     SG1       Nursing Cell   161811291          1307
+
+PGIPER00001682 029053 Kanwaljit Kaur  Mavi     SG1       Nursing Cell   162811375          3922
+
+PGIPER00001694 029038 Neeta  Fazal Masih       A         Nursing Cell   161912801           496
+
+PGIPER00001694 029038 Neeta  Fazal Masih       A         Nursing Cell   162384607          2230
+
+PGIPER00001695 029037 Josephine   Iver         A         Paediatric Sur 160800854           590
+
+PGIPER00001714 029075 Sudesh   Kumari          SG1       Nursing Cell   163037775          2302
+
+PGIPER00001729 029102 Usha   Francis           SG1       Nursing Cell   162713931           596
+
+PGIPER00001729 029102 Usha   Francis           SG1       Nursing Cell   163329541           625
+
+PGIPER00001729 029102 Usha   Francis           SG1       Nursing Cell   173999029           473
+
+PGIPER00001745 029099 Gurdeep   Kaur           SG1       Nursing Cell   161809774           596
+
+PGIPER00001750 029103 Salina   K Chauhan       SG1       Advance Eye Ce 161807539           869
+
+PGIPER00001750 029103 Salina   K Chauhan       SG1       Advance Eye Ce 162713662           680
+
+PGIPER00001751 029098 Vina   Dass              SG2       Nursing Cell   162215043          1016
+
+PGIPER00001753 029113 Olive    Chand           SG1       Nursing Cell   160890976           639
+
+PGIPER00001753 029113 Olive    Chand           SG1       Nursing Cell   162384280           960
+
+PGIPER00001753 029113 Olive    Chand           SG1       Nursing Cell   163013142          1069
+
+PGIPER00001753 029113 Olive    Chand           SG1       Nursing Cell   163039752           783
+
+PGIPER00001753 029113 Olive    Chand           SG1       Nursing Cell   163039999          2222
+
+PGIPER00001754 029110 Madhu   Bala             SG1       Nursing Cell   163039400          5038
+
+PGIPER00001768 029066 Narinder Kaur Anand      SG1       Nursing Cell   162801145           927
+
+PGIPER00001768 029066 Narinder Kaur Anand      SG1       Nursing Cell   163549977           510
+
+PGIPER00001768 029066 Narinder Kaur Anand      SG1       Nursing Cell   164562136          1329
+
+PGIPER00001773 029084 Bhupinder    Batta       SG1       Nursing Cell   162714888           642
+
+PGIPER00001778 029121 Veena    William         SG1       Nursing Cell   160941875           579
+
+PGIPER00001778 029121 Veena    William         SG1       Nursing Cell   162049529          1478
+
+PGIPER00001791 029131 Shakuntala  B Masih      SG1       Nursing Cell   161594677           551
+
+PGIPER00001795 029115 Jaswinder    Kaur        SG1       Nursing Cell   161616430           414
+
+PGIPER00001795 029115 Jaswinder    Kaur        SG1       Nursing Cell   162470580           596
+
+PGIPER00001795 029115 Jaswinder    Kaur        SG1       Nursing Cell   162688615          1256
+
+PGIPER00001799 029119 Usha    Kiran            SG1       Nursing Cell   163039592          2042
+
+PGIPER00001804 029152 Balet   Victor           SG1       Nursing Cell   162839544          1124
+
+PGIPER00001808 029155 Madhu   Bala             SG1       Nursing Cell   162215039          3054
+
+PGIPER00001808 029155 Madhu   Bala             SG1       Nursing Cell   162384798           590
+
+PGIPER00001809 029154 Zeenat    Bhatti         SG1       Nursing Cell   161811764          1616
+
+PGIPER00001810 029177 Nirmal   phlips Jabcob   SG1       Nursing Cell   163548917          1085
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164566065           817
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164566512           817
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164566536           817
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164566609           817
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164587104           817
+
+PGIPER00001811 029158 Rajinder    Kaur         SG1       Nursing Cell   164787026           817
+
+PGIPER00001812 029173 Rajinder Pal Kaur        SG1       Nursing Cell   013548693          2272
+
+PGIPER00001812 029173 Rajinder Pal Kaur        SG1       Nursing Cell   162800929          1144
+
+PGIPER00001812 029173 Rajinder Pal Kaur        SG1       Nursing Cell   173999130           324
+
+PGIPER00001812 029173 Rajinder Pal Kaur        SG1       Nursing Cell   173999420           255
+
+PGIPER00001828 029178 Sweet Nevidita James     SG1       Nursing Cell   161808242           607
+
+PGIPER00001828 029178 Sweet Nevidita James     SG1       Nursing Cell   161809716          2010
+
+PGIPER00001830 029153 Veena    Chhabra         SG1       Nursing Cell   160861015           554
+
+PGIPER00001830 029153 Veena    Chhabra         SG1       Nursing Cell   164593140          1500
+
+PGIPER00001830 029153 Veena    Chhabra         SG1       Nursing Cell                      6708
+
+PGIPER00001834 029169 Susheela   Dass          SG1       Nursing Cell   164870278          2509
+
+PGIPER00001836 029171 Kamlesh Rani Saini       SG1       Nursing Cell   160494548           205
+
+                                                                          Grand Total     69017
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

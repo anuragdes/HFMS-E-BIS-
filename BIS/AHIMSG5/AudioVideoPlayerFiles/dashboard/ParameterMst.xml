@@ -1,0 +1,909 @@
+<parameterMain>
+   <maxParameterId>51</maxParameterId>
+   <parameterLst class="java.util.ArrayList">
+      <parameter>
+         <parameterId>2</parameterId>
+         <parameterName>Special Clinic</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Special Clinic</parameterDisplayName>
+         <parameterQuery>SELECT   hgnum_deptunitcode ,  hgstr_unitname     
+    FROM hgbt_unit_mst b
+   WHERE b.gnum_isvalid IN (1, 2)
+     AND hgnum_isgeneral = 2
+     AND b.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND TO_DATE (b.gdt_effective_frm, &apos;dd-Mon-yyyy&apos;) &lt;= SYSDATE
+     AND NVL (TO_DATE (b.gdt_effective_to, &apos;dd-Mon-yyyy&apos;), SYSDATE) &gt;=
+                                                               TRUNC (SYSDATE)
+ORDER BY hgstr_unitname</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select Special Clinic</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select Special Clinic</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>9</parameterId>
+         <parameterName>Age</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Age</parameterDisplayName>
+         <parameterQuery>SELECT   hgnum_min || &apos;-&apos; || hgnum_max, hgstr_age_classification
+    FROM hgbt_age_classification_mst
+   WHERE gnum_isvalid = 1 AND gnum_hospital_code = &lt;HOSPITALCODE&gt;
+ORDER BY hgnum_min</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>13</parameterId>
+         <parameterName>MLC</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>MLC</parameterDisplayName>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOptionForFilter>
+         <lstOption class="java.util.ArrayList">
+            <optionVO>
+               <optionValue>0</optionValue>
+               <optionText>No</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>1</optionValue>
+               <optionText>Yes</optionText>
+            </optionVO>
+         </lstOption>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>11</parameterId>
+         <parameterName>Unknown</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Unknown</parameterDisplayName>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOptionForFilter>
+         <lstOption class="java.util.ArrayList">
+            <optionVO>
+               <optionValue>0</optionValue>
+               <optionText>No</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>1</optionValue>
+               <optionText>Yes</optionText>
+            </optionVO>
+         </lstOption>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>8</parameterId>
+         <parameterName>National ID</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>National ID</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>12</parameterId>
+         <parameterName>Brought Dead</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Brought Dead</parameterDisplayName>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>Select</optionText>
+         </defaultOptionForFilter>
+         <lstOption class="java.util.ArrayList">
+            <optionVO>
+               <optionValue>0</optionValue>
+               <optionText>No</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>1</optionValue>
+               <optionText>Yes</optionText>
+            </optionVO>
+         </lstOption>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>21</parameterId>
+         <parameterName>Group Name</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Group Name</parameterDisplayName>
+         <parameterQuery>SELECT   hblnum_group_id, hblstr_group_name
+    FROM hblt_group_mst
+   WHERE gnum_hospital_code = &lt;HOSPITALCODE&gt;
+     AND gnum_isvalid = 1
+     AND TRUNC (gdt_effective_frm) &lt;= TRUNC (SYSDATE)
+ORDER BY hblstr_group_name</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>30</parameterId>
+         <parameterName>Menu Name</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Menu Name</parameterDisplayName>
+         <parameterQuery>SELECT 
+H.HDBNUM_MENU_ID, initcap(H.HDBSTR_MENU_NAME)
+FROM HDBT_MENU_MST H
+where H.GNUM_ISVALID=1
+order by H.HDBSTR_MENU_NAME</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>31</parameterId>
+         <parameterName>Kiosk Name</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Kiosk Name</parameterDisplayName>
+         <parameterQuery>SELECT 
+H.HDBNUM_KIOSK_ID, initcap(H.HDBSTR_KIOSK_NAME)
+FROM HDBT_KIOSK_MST H
+where  H.GNUM_ISVALID=1</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>4</parameterId>
+         <parameterName>Admission No.</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Admission No.</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>2</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%%</defaultValueIfEmpty>
+         <textboxMaxlength>10</textboxMaxlength>
+         <textboxMinlength>10</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>32</parameterId>
+         <parameterName>From Date</parameterName>
+         <parameterType>4</parameterType>
+         <parameterDisplayName>From Date</parameterDisplayName>
+         <parentId>0</parentId>
+         <currentDateRequired>2</currentDateRequired>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <shouldBeLessThanField>33</shouldBeLessThanField>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>33</parameterId>
+         <parameterName>To Date</parameterName>
+         <parameterType>4</parameterType>
+         <parameterDisplayName>To Date</parameterDisplayName>
+         <parentId>0</parentId>
+         <currentDateRequired>2</currentDateRequired>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <shouldBeGreaterThanField>32</shouldBeGreaterThanField>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>35</parameterId>
+         <parameterName>Search</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Search</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>37</parameterId>
+         <parameterName>City</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>City</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>17</parameterId>
+         <parameterName>Contact No</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Contact No</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%%</defaultValueIfEmpty>
+         <textboxMaxlength>15</textboxMaxlength>
+         <textboxMinlength>6</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>26</parameterId>
+         <parameterName>Test Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Test Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>3</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+         <textboxMinlength>1</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>27</parameterId>
+         <parameterName>Laboratory</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Laboratory</parameterDisplayName>
+         <parameterQuery>SELECT distinct gnum_lab_code, INITCAP (gstr_lab_name) labname
+  FROM gblt_laboratory_mst l
+ WHERE gbl_isvalid = 1 AND gnum_hospital_code =&lt;HOSPITALCODE&gt;
+and exists (select 1 from  gblt_department_mst d where l.GNUM_DEPT_CODE=d.GNUM_DEPT_CODE and GNUM_ISVALID=1 and l.gnum_hospital_code=d.gnum_hospital_code )
+ order by labname</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>19</parameterId>
+         <parameterName>Year</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Year</parameterDisplayName>
+         <parameterQuery>select to_char(sysdate,&apos;yyyy&apos;) - 1 from dual
+</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>2015</optionValue>
+            <optionText>2015</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>2015</optionValue>
+            <optionText>2015</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>22</parameterId>
+         <parameterName>Tariff Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Tariff Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>60</textboxMaxlength>
+         <textboxMinlength>2</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>29</parameterId>
+         <parameterName>Lab Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Lab Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>39</parameterId>
+         <parameterName>Portal OPD Type</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>OPD Type</parameterDisplayName>
+         <parameterQuery>select distinct DEPARMENT_CATEGORY_ID, decode(DEPARMENT_CATEGORY_ID,&apos;1&apos;, &apos;General&apos;,&apos;2&apos;,&apos;Special&apos;) &quot;OPD_Type&quot; from PGI_OPD_MST@PORTAL_KIOSK_LINK
+where DEPARTMENT_ID=#PARA#38#PARA# and DEPARMENT_CATEGORY_ID is not null order by DEPARMENT_CATEGORY_ID </parameterQuery>
+         <parentId>38</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>38</parameterId>
+         <parameterName>Portal Department</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Department</parameterDisplayName>
+         <parameterQuery>select distinct DEPARTMENT_ID, DEPARTMENT_NAME as &quot;DEPARTMENT&quot;  from PGI_OPD_MST@PORTAL_KIOSK_LINK
+where DEPARTMENT_NAME is not null
+ order by DEPARTMENT_NAME</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>1</parameterId>
+         <parameterName>Department</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Department</parameterDisplayName>
+         <parameterQuery>SELECT GNUM_DEPT_CODE, GSTR_DEPT_NAME FROM GBLT_DEPARTMENT_MST WHERE GNUM_ISVALID=1 AND GNUM_HOSPITAL_CODE = &lt;HOSPITALCODE&gt; AND GNUM_DEPT_TYPE=1 ORDER BY GSTR_DEPT_NAME</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select Department</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select Department</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>10</parameterId>
+         <parameterName>Gender</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Gender</parameterDisplayName>
+         <parameterQuery>select gstr_gender_code, initcap(gstr_gender_name) from gblt_gender_mst  where gnum_isvalid=1 order by gstr_gender_code</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>40</parameterId>
+         <parameterName>Middle Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Middle Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>41</parameterId>
+         <parameterName>Last Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Last Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>6</parameterId>
+         <parameterName>Father Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Father Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>7</parameterId>
+         <parameterName>Spouse Name 	</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Spouse Name 	</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>5</parameterId>
+         <parameterName>CR No.</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>CR No.</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>2</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>15</textboxMaxlength>
+         <textboxMinlength>15</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>14</parameterId>
+         <parameterName>Country</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Country</parameterDisplayName>
+         <parameterQuery>SELECT GSTR_COUNTRY_CODE, Initcap(GSTR_COUNTRY_NAME) FROM GBLT_COUNTRY_MST  WHERE GNUM_ISVALID=1 ORDER BY Initcap(GSTR_COUNTRY_NAME)</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>IND</optionValue>
+            <optionText>India</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>IND</optionValue>
+            <optionText>India</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>16</parameterId>
+         <parameterName>District</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>District</parameterDisplayName>
+         <parameterQuery>
+SELECT DISTINCT GNUM_DISTRICT_CODE, INITCAP (GSTR_DISTRICT_NAME), GNUM_STATE_CODE FROM GBLT_DISTRICT_MST 
+WHERE GNUM_STATE_CODE = &apos;#PARA#15#PARA#&apos;
+ORDER BY INITCAP (GSTR_DISTRICT_NAME) 
+</parameterQuery>
+         <parentId>15</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>42</parameterId>
+         <parameterName>H.No.</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>H.No.</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>1</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>43</parameterId>
+         <parameterName>Street</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Street</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>44</parameterId>
+         <parameterName>Location</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Location</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>45</parameterId>
+         <parameterName>City / Village</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>City / Village</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>1</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>46</parameterId>
+         <parameterName>Pin Code</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Pin Code</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>2</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>10</textboxMaxlength>
+         <textboxMinlength>5</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>47</parameterId>
+         <parameterName>Tehsil</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Tehsil</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>28</parameterId>
+         <parameterName>Department With Lab</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Department</parameterDisplayName>
+         <parameterQuery>SELECT distinct b.GNUM_DEPT_CODE,b.gstr_dept_name
+  FROM gblt_laboratory_mst a, gblt_department_mst b
+ WHERE a.gnum_dept_code = b.gnum_dept_code  
+   AND a.gnum_hospital_code = b.gnum_hospital_code
+   AND b.gnum_isvalid = 1
+   AND a.gnum_hospital_code =&lt;HOSPITALCODE&gt;
+   AND a.gbl_isvalid = 1
+   order by b.gstr_dept_name</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>48</parameterId>
+         <parameterName>Hospital Name</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Hospital Name</parameterDisplayName>
+         <parameterQuery>select GNUM_HOSPITAL_CODE, GSTR_HOSPITAL_NAME  from gblt_hospital_mst where gnum_isvalid=1 and GNUM_HOSPITAL_CODE &lt;&gt; 100 order by GSTR_HOSPITAL_NAME</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select Value</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>24</parameterId>
+         <parameterName>Designation</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Designation</parameterDisplayName>
+         <parameterQuery>SELECT   gnum_desig_code,initcap(gstr_desig_name) 
+FROM gblt_designation_mst
+WHERE gnum_isvalid = 1 AND gnum_hospital_code = &lt;HOSPITALCODE&gt;
+ORDER BY gstr_desig_name</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>23</parameterId>
+         <parameterName>All Department</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Department</parameterDisplayName>
+         <parameterQuery>SELECT   gnum_dept_code, gstr_dept_name
+    FROM gblt_department_mst
+   WHERE gnum_hospital_code = &lt;HOSPITALCODE&gt; AND gnum_isvalid = 1
+ORDER BY gstr_dept_name</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>25</parameterId>
+         <parameterName>Staff Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Staff Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>18</parameterId>
+         <parameterName>All Clinical Department</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Department</parameterDisplayName>
+         <parameterQuery>SELECT   gnum_dept_code departmentcode, initcap(gstr_dept_name) department         
+FROM gblt_department_mst a
+WHERE gnum_dept_type = 1
+AND a.gnum_isvalid IN (1,2)
+AND a.gnum_hospital_code = &lt;HOSPITALCODE&gt;
+order by  gstr_dept_name
+</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>36</parameterId>
+         <parameterName>Consultant (Dr.)</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Consultant (Dr.)</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>20</parameterId>
+         <parameterName>Holiday Type</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Holiday Type</parameterDisplayName>
+         <parameterQuery>SELECT num_holiday_type_id, initcap(str_holiday_type_name)       
+  FROM pist_holiday_type_sys
+  where gnum_isvalid=1
+  order by num_holiday_type_id</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+      </parameter>
+      <parameter>
+         <parameterId>3</parameterId>
+         <parameterName>Patient Name</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Patient Name</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>50</textboxMaxlength>
+         <textboxMinlength>3</textboxMinlength>
+      </parameter>
+      <parameter>
+         <parameterId>15</parameterId>
+         <parameterName>State</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>State</parameterDisplayName>
+         <parameterQuery>SELECT GNUM_STATE_CODE, Initcap(GSTR_STATE_NAME) FROM GBLT_STATE_MST 
+WHERE GSTR_COUNTRY_CODE=&apos;#PARA#14#PARA#&apos;
+AND  GNUM_ISVALID=1  
+ORDER BY Initcap(GSTR_STATE_NAME) 
+</parameterQuery>
+         <parentId>14</parentId>
+         <defaultOption>
+            <optionValue>28</optionValue>
+            <optionText>Andhra Pradesh</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>28</optionValue>
+            <optionText>Andhra Pradesh</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+      </parameter>
+      <parameter>
+         <parameterId>34</parameterId>
+         <parameterName>Search Department</parameterName>
+         <parameterType>2</parameterType>
+         <parameterDisplayName>Search Department</parameterDisplayName>
+         <parentId>0</parentId>
+         <textBoxValidation>4</textBoxValidation>
+         <isMandatory>No</isMandatory>
+         <defaultValueIfEmpty>%</defaultValueIfEmpty>
+         <textboxMaxlength>20</textboxMaxlength>
+      </parameter>
+      <parameter>
+         <parameterId>49</parameterId>
+         <parameterName>Bed Status</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Bed Status</parameterDisplayName>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>10</optionValue>
+            <optionText>Vacant</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>10</optionValue>
+            <optionText>Vacant</optionText>
+         </defaultOptionForFilter>
+         <lstOption class="java.util.ArrayList">
+            <optionVO>
+               <optionValue>10</optionValue>
+               <optionText>Vacant</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>12</optionValue>
+               <optionText>Occupied</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>13</optionValue>
+               <optionText>Blocked</optionText>
+            </optionVO>
+         </lstOption>
+         <isMandatory>Yes</isMandatory>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>50</parameterId>
+         <parameterName>Ward Name</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Ward Name</parameterDisplayName>
+         <parameterQuery>
+SELECT Distinct hipnum_ward_code,INITCAP(HIPSTR_WARD_NAME) 
+             FROM HIPT_WARD_MST a 
+               WHERE a.gnum_isvalid in (1,2)
+               AND A.GNUM_HOSPITAL_CODE =&lt;HOSPITALCODE&gt;               and hipnum_ward_code in (select hipnum_ward_code from  HIPT_DUWRBED_MST b where b.hipnum_ward_code=a.hipnum_ward_code and b.GNUM_HOSPITAL_CODE=a.GNUM_HOSPITAL_CODE and gnum_isvalid=1)
+               order by HIPSTR_WARD_NAME</parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>%</optionValue>
+            <optionText>All</optionText>
+         </defaultOptionForFilter>
+         <isMandatory>Yes</isMandatory>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+      <parameter>
+         <parameterId>51</parameterId>
+         <parameterName>Day Of Week</parameterName>
+         <parameterType>1</parameterType>
+         <parameterDisplayName>Day Of Week</parameterDisplayName>
+         <parameterQuery></parameterQuery>
+         <parentId>0</parentId>
+         <defaultOption>
+            <optionValue>-1</optionValue>
+            <optionText>Select</optionText>
+         </defaultOption>
+         <defaultOptionForFilter>
+            <optionValue>-1</optionValue>
+            <optionText>Select</optionText>
+         </defaultOptionForFilter>
+         <lstOption class="java.util.ArrayList">
+            <optionVO>
+               <optionValue>1</optionValue>
+               <optionText>Monday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>2</optionValue>
+               <optionText>Tuesday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>3</optionValue>
+               <optionText>Wednessday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>4</optionValue>
+               <optionText>Thrusday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>5</optionValue>
+               <optionText>Friday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>6</optionValue>
+               <optionText>Satarday</optionText>
+            </optionVO>
+            <optionVO>
+               <optionValue>7</optionValue>
+               <optionText>Sunday</optionText>
+            </optionVO>
+         </lstOption>
+         <isMandatory>Yes</isMandatory>
+         <maxDaysAfterCurrentDate>0</maxDaysAfterCurrentDate>
+      </parameter>
+   </parameterLst>
+</parameterMain>

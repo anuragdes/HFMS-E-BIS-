@@ -1,0 +1,64 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                           Schedule Report For WHEAT ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000958 045368 Sukhjit  Singh           Driver                Other                  500
+
+PGIPER00002978 045306 Jagdish   Chand          Clerk                 Other                  500
+
+PGIPER00003003 045365 Varinder   Kumar         Lower Division Clerk  Other                  500
+
+PGIPER00003007 045332 Ratti   Pal              Clerk                 Other                  500
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk                 Other                  500
+
+PGIPER00003023 045421 Parvinder   Singh        Other                 Other                  500
+
+PGIPER00003024 045322 Lachham    Singh         Clerk                 Other                  500
+
+PGIPER00003029 045323 Sham   Lal               Clerk                 Other                  500
+
+PGIPER00003041 045217 Tajinder   Singh         Other                 Engineering Dep        500
+
+PGIPER00003044 045385 Bhupinder   Kaur         Lower Division Clerk  Other                  500
+
+PGIPER00003060 045390 Shashi   Prabha          Clerk                 Engineering Dep        500
+
+PGIPER00003061 045389 Gautam   Ram             Clerk                 Other                  500
+
+PGIPER00003062 045370 Anita   Kiran            Clerk                 Other                  500
+
+PGIPER00003065 045312 Charanjit   Kaur         Clerk                 Engineering Dep        500
+
+PGIPER00003067 045304 Sameer   Tinku           Lower Division Clerk  Other                  500
+
+PGIPER00003068 045320 Jaswant   Singh          Clerk                 Engineering Dep        500
+
+PGIPER00003090 045363 Rakesh   Gautam          Draftsmam             Other                  500
+
+PGIPER00003102 045331 Siya Ram Yadav           Lower Division Clerk  Engineering Dep        500
+
+PGIPER00003108 045377 Piar   Chand             Lower Division Clerk  School Of Publi        500
+
+PGIPER00003109 045406 Surya   Bhushan          Other                 Other                  500
+
+PGIPER00003125 045416 Vijay   Kumar            Other                 Other                  500
+
+PGIPER00003126 045407 Sarbjit   Singh          OTHER (C)             Engineering Dep        500
+
+PGIPER00003731 045328 Jatinder Pal Srivastava  Technical Assistant   Engineering Dep        500
+
+PGIPER00004900 045410 Rishi   Pal              Tech.Gr.3             Engineering Dep        500
+
+                                                                          Grand Total     12000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

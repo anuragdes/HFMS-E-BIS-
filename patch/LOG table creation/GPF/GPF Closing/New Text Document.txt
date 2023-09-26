@@ -1,0 +1,11 @@
+CREATE OR REPLACE TRIGGER actpay_gpf_closing_bal_trn
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_gpf_closing_bal_trn
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_gpf_closing_bal_trn_log(str_employee_no,str_financial_yr,num_gpf_opening_bal,num_gpf_closing_bal,gnum_isvalid,gnum_seat_id,gdt_entry_date,gdt_lstmod_date,
+gnum_lstmod_seatid,gnum_hospital_code,num_gpf_interest) 
+ select :old.str_employee_no,:old.str_financial_yr,:old.num_gpf_opening_bal,:old.num_gpf_closing_bal,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date,
+:old.gnum_lstmod_seatid,:old.gnum_hospital_code,:old.num_gpf_interest from actpay.actpay_gpf_closing_bal_trn
+where str_employee_no=:new.str_employee_no and str_financial_yr=:new.str_financial_yr ;
+END;

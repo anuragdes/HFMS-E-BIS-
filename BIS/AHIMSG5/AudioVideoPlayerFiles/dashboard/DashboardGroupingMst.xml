@@ -1,0 +1,19 @@
+<dashboardGroupingListVO>
+   <maxGroupId>1</maxGroupId>
+   <lstDashboardGroupingVO class="java.util.ArrayList">
+      <dashboardGroupingVO>
+         <groupId>1</groupId>
+         <groupName>Enquiry</groupName>
+         <groupUrl>/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=1</groupUrl>
+         <dashboardIds>1</dashboardIds>
+         <timeInterval>0</timeInterval>
+         <changeInterval>0</changeInterval>
+         <isActive>1</isActive>
+         <isAlertRequired>No</isAlertRequired>
+         <alertListnerDelayTime>10000</alertListnerDelayTime>
+         <isAudioAlertRequired>Yes</isAudioAlertRequired>
+         <parameterOptions>1</parameterOptions>
+         <isVirtualKeyboardRequired>No</isVirtualKeyboardRequired>
+      </dashboardGroupingVO>
+   </lstDashboardGroupingVO>
+</dashboardGroupingListVO>

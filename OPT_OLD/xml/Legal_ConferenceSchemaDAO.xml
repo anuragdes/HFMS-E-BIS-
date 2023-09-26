@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="HR" PROCESS_NAME="Case Processing File" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="17">
+	 INSERT INTO PISLEG_CASE_CONF_TRN (GNUM_HOSPITAL_CODE,STR_CASE_ID,STR_CASE_NUMBER,DT_DATE_OF_CONFERENCE,STR_ADV_ID,NUM_CONF_COUNT,STR_MEMBER_NAME,STR_MEMBER_ID,STR_TYPE,STR_DETAILS_OF_THE_MEMBER,STR_PROFILE_OF_THE_MEMBER,GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,GDT_EFFECT_DATE,GDT_ENTRY_DATE,GNUM_ISVALID,GNUM_SEAT_ID) values (?,?,?,to_date(?,'DD-Mon-YYYY'),?,?,?,?,?,?,?,to_date(?,'DD-Mon-YYYY'),nvl(?,null),to_date(?,'DD-Mon-YYYY'),to_date(?,'DD-Mon-YYYY'),?,nvl(?,null))   
+	</QRY>
+	</BLOCK>
+</OPR>
+
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	DELETE FROM PISLEG_CASE_CONF_TRN WHERE STR_CASE_ID=? AND STR_CASE_NUMBER=?  AND STR_ADV_ID=? AND NUM_CONF_COUNT=? and gnum_hospital_code=?
+	 </QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="3" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	  UPDATE PISLEG_CASE_CONF_TRN A SET GNUM_ISVALID=0 WHERE STR_CASE_ID=? and STR_CASE_NUMBER=? and gnum_hospital_code=? 
+      AND STR_ADV_ID=? and NUM_CONF_COUNT=?
+	 </QRY>
+	</BLOCK>
+</OPR>
+</tns:Transaction>
+
+

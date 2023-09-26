@@ -1,0 +1,17 @@
+CREATE TABLE ahislog.actpay_pran_intrest_mon_log
+(
+   slno bigint NOT NULL DEFAULT nextval('"CHECK_slno_seq"'::regclass),
+    str_employee_no character varying(15),
+  str_financial_yr character varying(12),
+  str_month character varying(12),
+  num_gpf_opening_bal numeric(10,2),
+  gnum_isvalid numeric(1,0),
+  gdt_entry_date timestamp(6) without time zone,
+  num_gpf_interest numeric(10,2),
+  CONSTRAINT actpay_pran_intrest_mon_pk PRIMARY KEY (slno,str_employee_no,gdt_entry_date)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE ahislog.actpay_pran_intrest_mon_log
+  OWNER TO bishfms;

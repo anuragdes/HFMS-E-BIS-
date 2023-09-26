@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:Transaction MODULE_NAME="HOUSEKEEPING" PROCESS_NAME="QualityParameterMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+  <OPR ID="1" NAME="INSERT" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 INSERT INTO HK_ITEM_QUALITY_MST(NUM_ITEM_ID, NUM_QUALITY_ID, STR_QUALITY_PARAMETER, GNUM_ISVALID, GNUM_SEAT_ID, GDT_ENTRY_DATE, GSTR_REMARKS, GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	
+</OPR>
+<OPR ID="2" NAME="UPDATE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 UPDATE HK_ITEM_QUALITY_MST SET STR_QUALITY_PARAMETER=?,GSTR_REMARKS=?,GNUM_ISVALID=?,GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=? WHERE NUM_QUALITY_ID=? and  NUM_ITEM_ID=? and gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+<OPR ID="3" NAME="DELETE" BLOCK_SIZE="1" QRY_TOT_SIZE="1" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="5">
+	 UPDATE HK_ITEM_QUALITY_MST SET GDT_LSTMOD_DATE=?,GNUM_LSTMOD_SEATID=?,GNUM_ISVALID=0 WHERE NUM_QUALITY_ID=? and NUM_ITEM_ID=? AND gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>	
+</tns:Transaction>

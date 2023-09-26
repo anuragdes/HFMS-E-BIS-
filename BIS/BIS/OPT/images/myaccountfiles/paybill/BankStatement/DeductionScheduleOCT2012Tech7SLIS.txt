@@ -1,0 +1,54 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                    Schedule Report For SLIS
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Technician   Sub-Category  :Tech7                                             
+Demand No  :10120013271  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00002956 045310 Krishan Lal Sharma       Clerk                 Engineering Dep         36
+
+PGIPER00002961 045309 Rajinder  Pal  Singh     Other                 Other                   36
+
+PGIPER00002968 045308 Sudesh   Kumari          Office Superintendent Administration          36
+
+PGIPER00003007 045332 Ratti   Pal              Clerk                 Other                   36
+
+PGIPER00003017 045324 Nirmal   Singh           Clerk                 Other                   36
+
+PGIPER00003029 045323 Sham   Lal               Clerk                 Other                   36
+
+PGIPER00003049 045373 Rajinder   Singh         Clerk                 Engineering Dep         36
+
+PGIPER00003052 045313 Gurdeep   Singh          Clerk                 Other                   36
+
+PGIPER00003055 045311 Bal   Krishan            Upper Division Clerk  Engineering Dep         36
+
+PGIPER00003065 045312 Charanjit   Kaur         Clerk                 Engineering Dep         36
+
+PGIPER00003066 045319 Sham   Sunder            Clerk                 Accounts                36
+
+PGIPER00003068 045320 Jaswant   Singh          Clerk                 Engineering Dep         36
+
+PGIPER00003072 045391 Amrik   Kaur             OTHER (A)             Engineering Dep         36
+
+PGIPER00003085 045378 Sunita   Devi            Lower Division Clerk  Other                   36
+
+PGIPER00003086 045382 Jaibinder   Singh        Draftsmam             Other                   36
+
+PGIPER00003092 045254 Vinay   Kumar            Other                 Other                   36
+
+PGIPER00003104 045392 Omeshwar   Sharma        Draftsmam             Engineering Dep         36
+
+PGIPER00003181 045369 Anju    GOYAL            Junior Steno          Other                   36
+
+PGIPER00004900 045410 Rishi   Pal              Tech.Gr.3             Engineering Dep         36
+
+                                                                          Grand Total       684
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

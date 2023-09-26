@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setup xmlns="http://www.cdacnoida.in/his/setup_bill">
+    <general>
+        <cancellationTime>20</cancellationTime>
+        <duplicatePrintCharge>0</duplicatePrintCharge>
+        <printerName>MyPrinter</printerName>
+        <recordsDisplayMaster>999</recordsDisplayMaster>
+        <levelModifyMaster>1</levelModifyMaster>
+        <levelDeleteMaster>2</levelDeleteMaster>
+        <tempPath>rtrtrrtrtyetwer</tempPath>
+        <receiptType>1</receiptType>
+        <duplicatePrint>2</duplicatePrint>
+        <isWithoutCrNoRequired>1</isWithoutCrNoRequired>
+        <onlineRefundRequestAllowed>1</onlineRefundRequestAllowed>
+        <isReferringPhysicianRequired>1</isReferringPhysicianRequired>
+        <isPreviousCrNoRequired>1</isPreviousCrNoRequired>
+        <ccConfermationType>1</ccConfermationType>
+    </general>
+    <opd>
+        <thirdParyBilling>0</thirdParyBilling>
+        <discount>1</discount>
+        <discountClerk>0</discountClerk>
+        <refundPenalty>0</refundPenalty>
+        <roundOff>1</roundOff>
+        <opdServiceTax>0</opdServiceTax>
+    </opd>
+    <billformat>
+        <header1></header1>
+        <header2></header2>
+        <header3></header3>
+        <header4></header4>
+        <footer></footer>
+        <disclaimer>This request is entertained as an outside patient on request of other hospital/doctor. Results/Reports are to be interpreted by the referring hospital/doctor</disclaimer>
+    </billformat>
+    <ipd>
+        <thirdParyBilling>0</thirdParyBilling>
+        <discount>1</discount>
+        <discountClerk>0</discountClerk>
+        <refundPenalty>0</refundPenalty>
+        <creditBilling>1</creditBilling>
+        <partPaymentDuration>2</partPaymentDuration>
+        <roundOff>1</roundOff>
+        <serviceTaxOnTotalBill>0</serviceTaxOnTotalBill>
+        <excessCreditLimit>10000</excessCreditLimit>
+        <ipdGenAdtProcessType>2</ipdGenAdtProcessType>
+        <ipdServiceTax>0</ipdServiceTax>
+    </ipd>
+    <emergency>
+        <thirdPartyBilling>0</thirdPartyBilling>
+        <discount>1</discount>
+        <discountClerk>0</discountClerk>
+        <refundPenalty>0</refundPenalty>
+        <roundOff>1</roundOff>
+        <emgServiceTax>0</emgServiceTax>
+    </emergency>
+</setup>
+

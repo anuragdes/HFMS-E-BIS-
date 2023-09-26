@@ -1,0 +1,98 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                27 October 2012 
+                                     Schedule Report For HRD
+ 
+Month      :OCT          Year          :2012                                              
+Category   :Nursing      Sub-Category  :Nu3                                               
+Demand No  :1012001131   Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00001727 028337 Seema                    Sister Gr. I          Nursing Cell           170
+
+PGIPER00002009 028204 Kansi                    Sister Gr. I          Nursing Cell           170
+
+PGIPER00002017 028219 Kamaljit   Kaur          Sister Gr. II         Nursing Cell           170
+
+PGIPER00002018 028216 Anita   Malik            Sister Gr. I          Nursing Cell           170
+
+PGIPER00002023 028195 Baljeet   Kaur           Sister Gr. II         Nursing Cell           170
+
+PGIPER00002025 028199 Vimaljeet   Kaur         Sister Gr. I          Nursing Cell           152
+
+PGIPER00002028 028205 Nirmal Jit Kaur          Sister Gr. I          Nursing Cell           170
+
+PGIPER00002031 028202 Sunita   Kumari          Sister Gr. II         Nursing Cell           170
+
+PGIPER00002034 028234 Surinder                 Sister Gr. II         Other                  170
+
+PGIPER00002039 028229 Diljeet   Rani           Sister Gr. II         Nursing Cell           170
+
+PGIPER00002043 028256 Geeta   Rani             Sister Gr. I          Nursing Cell           170
+
+PGIPER00002046 028259 Kamlesh   Kaur           Sister Gr. I          Nursing Cell           170
+
+PGIPER00002048 028235 Tripta   Devi            Sister Gr. I          Nursing Cell           170
+
+PGIPER00002049 028255 Naresh   Kumari          Sister Gr. I          Nursing Cell           170
+
+PGIPER00002059 028252 Sukhwinderjeet   Kaur    Sister Gr. I          Nursing Cell           100
+
+PGIPER00002060 028266 Jabsang   Dolma          Sister Gr. II         Nursing Cell           170
+
+PGIPER00002064 028293 Anita   Sharma           Sister Gr. II         Advance Cardiac        170
+
+PGIPER00002065 028275 Kanwal Jeet Kaur         Sister Gr. I          Advance Cardiac        172
+
+PGIPER00002069 028294 Rajinder   Kaur          Sister Gr. II         Renal Transplan        170
+
+PGIPER00002070 028298 Manpreet   Kaur          Sister Gr. I          Nursing Cell           100
+
+PGIPER00002071 028261 Gurpreet   kaur          Sister Gr. I          Nursing Cell           100
+
+PGIPER00002074 028281 Nandini   Shelley        Sister Gr. II         Other                  172
+
+PGIPER00002075 028302 Kulwinder   Kaur         Sister Gr. I          Advance Cardiac        102
+
+PGIPER00002077 028274 Neelam   Bhardwaj        Sister Gr. I          Nursing Cell           170
+
+PGIPER00002081 028287 Santosh   Kumari         Sister Gr. II         Nursing Cell           170
+
+PGIPER00002083 028215 Suman   Lata             Sister Gr. II         Nursing Cell           170
+
+PGIPER00002088 028288 Usha   Devi              Sister Gr. I          Advance Cardiac        170
+
+PGIPER00002105 028415 Mamta                    Sister Gr. II         Nursing Cell           170
+
+PGIPER00002109 028423 Neelam   Jung            Sister Gr. II         Advance Eye Cen        100
+
+PGIPER00002117 028376 Bindu  Mol  Jacob        Sister Gr. II         Nursing Cell           172
+
+PGIPER00002120 028476 Jyoti                    Sister Gr. II         Nursing Cell           100
+
+PGIPER00002124 028484 Lakhwinder   Kaur        Sister Gr. II         Nursing Cell           102
+
+PGIPER00002137 028495 Hans   Rani              Sister Gr. II         Nursing Cell           100
+
+PGIPER00002146 028509 Kiran                    Sister Gr. II         Nursing Cell           100
+
+PGIPER00002183 028570 Veena F   Chand          Sister Gr. II         Nursing Cell           200
+
+PGIPER00002192 028425 Parvesh                  Sister Gr. I          Nursing Cell           102
+
+PGIPER00008041 028593 Reena    Rani            Sister Gr. II         Nursing Cell           100
+
+PGIPER00008048 028558 Saroj   Bala             Sister Gr. II         Nursing Cell           100
+
+PGIPER00008072 028470 Preet   Kamal            Sister Gr. II         Nursing Cell           102
+
+PGIPER00008097 028531 Neelam                   Sister Gr. I          Nursing Cell           102
+
+PGIPER00008345 028239 Sarabjit  Kaur           Sister Gr. II         Nursing Cell           170
+
+                                                                          Grand Total      6018
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

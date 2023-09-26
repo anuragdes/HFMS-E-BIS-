@@ -1,0 +1,990 @@
+2011-08-04 16:04:54,390 [http-8082-Processor19] INFO   - [ERROR ID :: 2011001388][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 16:12:38,062 [http-8082-Processor23] INFO   - [ERROR ID :: 2011001389][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 16:20:40,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-08-04 16:20:40,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/transactionutil'.
+2011-08-04 16:36:40,515 [http-8082-Processor19] INFO   - [ERROR ID :: 2011001390][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 16:37:06,359 [http-8082-Processor24] INFO   - [ERROR ID :: 2011001391][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:09:53,281 [http-8082-Processor20] INFO   - [ERROR ID :: 2011001392][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:10:51,437 [http-8082-Processor21] INFO   - [ERROR ID :: 2011001393][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:11:04,031 [http-8082-Processor18] INFO   - [ERROR ID :: 2011001394][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:12:30,781 [http-8082-Processor24] INFO   - [ERROR ID :: 2011001395][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:12:38,234 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-08-04 17:12:38,234 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/transactionutil'.
+2011-08-04 17:16:04,265 [http-8082-Processor23] INFO   - [ERROR ID :: 2011001396][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:22:17,093 [http-8082-Processor24] INFO   - [ERROR ID :: 2011001397][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:22:17,140 [http-8082-Processor19] INFO   - [ERROR ID :: 2011001398][MMS --> OfflineIssueIndentTransDATA->ApprovedByCombo()] [OfflineIssueIndentTransBO.ApprovedByCombo() --> OfflineIssueIndentDAO.getApprovedByCombo() --> HisDAO.executeProcedure() -->HisProcedure.executeProc({call PKG_MMS_VIEW.proc_store_emp_dtl(modeVal=>'1')) -->
+null]
+2011-08-04 17:23:08,156 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-08-04 17:23:08,156 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/transactionutil'.
+2016-09-20 15:44:38,522 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2016000001][mms --> ChallanProcessTransDATA->getScheduleDtlsTwo()] [Drug Inventory.NewChallanProcessTransDATA.getScheduleDtlsTwo(vo) --> 1]
+2016-09-20 15:44:58,531 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2016000002][mms --> ChallanProcessTransDATA->insert()] [NewChallanProcessTransDATA.insert(vo) --> NewChallanProcessTransBO.insert() --> NewChallanProcessTransDAO.verifyInsert() --> null]
+2016-09-20 15:44:59,184 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2016000003][mms --> ChallanProcessTransDATA->getScheduleDtlsTwo()] [Drug Inventory.NewChallanProcessTransDATA.getScheduleDtlsTwo(vo) --> 1]
+2016-09-20 16:06:08,797 [http-bio-8080-exec-7] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2016-09-20 16:36:01,995 [http-bio-8080-exec-18] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2016-09-21 12:19:22,314 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000004][Issue Desk --> GenericData-->LISTPAGE()] [GenericHLP.getCombo() --> 2]
+2016-09-21 12:20:15,911 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2016000005][Issue Desk --> GenericData-->LISTPAGE()] [GenericHLP.getCombo() --> 2]
+2016-09-21 12:30:40,619 [http-bio-8080-exec-9] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2016-09-21 12:30:48,615 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2016-09-21 12:30:48,615 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2016-09-21 13:12:08,251 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2016-09-22 10:57:47,649 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2016000006][Issue Desk --> GenericData-->LISTPAGE()] [GenericHLP.getCombo() --> 2]
+2016-09-22 10:59:25,035 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2016000007][Issue Desk --> GenericData-->LISTPAGE()] [GenericHLP.getCombo() --> 2]
+2016-09-26 15:10:23,701 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2016000008][Indent Desk --> GenericData-->setUserName()] [GenericBO.getUserName --> GenericDAO.getUserName -->Array index out of range: 0]
+2016-09-26 15:18:57,815 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2016000009][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001100',hosp_code=>'101',reqNo=>'111716090000010',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:20:17,960 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2016000010][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001100',hosp_code=>'101',reqNo=>'111716090000010',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:20:23,840 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000011][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001100',hosp_code=>'101',reqno=>'111716090000010',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:20:57,163 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000012][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001100',hosp_code=>'101',reqno=>'111716090000010',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:21:05,120 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000013][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001100',hosp_code=>'101',reqNo=>'111716090000010',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:21:09,198 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000014][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001100',hosp_code=>'101',reqno=>'111716090000010',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:22:48,451 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000015][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001100',hosp_code=>'101',reqno=>'111716090000010',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:24:44,318 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000016][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001100',hosp_code=>'101',reqno=>'111716090000010',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2016-09-26 15:25:21,555 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2016000017][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001100',hosp_code=>'101',reqNo=>'111716090000010',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: more than one row returned by a subquery used as an expression]
+2017-05-29 16:39:37,263 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2017000016][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:39:37,266 [http-bio-8080-exec-15] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:44:21,693 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2017000017][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:44:21,693 [http-bio-8080-exec-15] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:44:21,778 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2017000018][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:44:21,778 [http-bio-8080-exec-15] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:45:24,761 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2017000019][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:45:24,761 [http-bio-8080-exec-3] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:45:24,861 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2017000020][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:45:24,862 [http-bio-8080-exec-3] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:45:34,806 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.control.CompositeCacheConfigurator - No special ElementAttribute class defined for key [jcs.region.hisDAOCacheVO.elementattributes], using default class.
+2017-05-29 16:45:34,806 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.memory.lru.LRUMemoryCache - initialized LRUMemoryCache for hisDAOCacheVO
+2017-05-29 16:45:34,806 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.control.CompositeCache - Constructed cache with name [hisDAOCacheVO] and cache attributes [ useLateral = true, useRemote = true, useDisk = true, maxObjs = 4000, maxSpoolPerRun = -1, diskUsagePattern = 0 ]
+2017-05-29 16:45:36,421 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2017-05-29 16:45:36,422 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+2017-05-29 16:45:36,422 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2017-05-29 16:45:36,426 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2017-05-29 16:45:36,426 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2017-05-29 16:45:36,427 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2017-05-29 16:45:40,146 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2017000021][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:45:40,147 [http-bio-8080-exec-15] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 16:45:40,239 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2017000022][mms --> ItemConsumptionSummeryDATA->initialAdd()] [null]
+2017-05-29 16:45:40,239 [http-bio-8080-exec-15] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2017-05-29 17:12:27,352 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2017000023][mms --> ReturnRequestTransDATA->INSERT()] [ReturnRequestTransDATA.INSERT(vo) --> 1]
+2017-06-05 10:56:11,053 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2017000024][mms --> IssueEmployeeTransDATA->insert()] [mms.transactions.IssueEmployeeTransDATA.insert --> IssueEmployeeTransBO.insert()-->IssueTransDAO.insert() --> HisDAO.fire() -->HisProcedure.executeProc_Batch({call Pkg_Mms_Dml.Dml_Patemp_Issue_Dtls(modeval=>'1',strStoreId=>'10001101',req_No=>'0',strIssueNo=>'133217060500001',hosp_code=>'101',strOrderBy=>'101710000066',strOrderDate=>'05-Jun-2017',days=>'0',strCrNo=>'0',strReqTypeId=>'34',stradmno=>'0',strempno=>'101710000066',strItemCatNo=>'13',strFinalCost=>'',strFinStartDate=>'01-Apr-2014',strFinEndDate=>'31-Mar-2015',strSeatId=>'10001',strDeptUnitCode=>'0',strVisitType=>'0',strDeptCode=>'144',strWardCode=>'0',strRecieveBy=>'Anoj Panwar',strRemarks=>'adfa',strReqDate=>'05-Jun-2017',strEpiCode=>'0',strVisitNo=>'0',p_first_name=>'Anoj Panwar',p_middle_name=>'',p_last_name=>'',p_hststr_father_name=>'',p_hstdt_age=>'',p_gnum_gender_code=>'',p_hststr_address=>'',p_hststr_patient_id=>'',p_hstnum_patient_type=>'',p_trans_type=>'',p_age_unit=>'',p_issue_date=>'05-Jun-2017',p_out_stock=>'',err=>':X1')) -->
+Error thrown by procedure : Dml_patemp_Issue_Dtls  :: duplicate key value violates unique constraint "sstt_patemp_issue_dtl_pkey"]
+2017-06-05 11:01:53,665 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2017000025][mms --> IssueEmployeeTransDATA->insert()] [mms.transactions.IssueEmployeeTransDATA.insert --> IssueEmployeeTransBO.insert()-->IssueTransDAO.insert() --> HisDAO.fire() -->HisProcedure.executeProc_Batch({call Pkg_Mms_Dml.Dml_Patemp_Issue_Dtls(modeval=>'1',strStoreId=>'10001101',req_No=>'0',strIssueNo=>'133217060500002',hosp_code=>'101',strOrderBy=>'013048',strOrderDate=>'05-Jun-2017',days=>'0',strCrNo=>'0',strReqTypeId=>'34',stradmno=>'0',strempno=>'101710000066',strItemCatNo=>'13',strFinalCost=>'',strFinStartDate=>'01-Apr-2014',strFinEndDate=>'31-Mar-2015',strSeatId=>'10001',strDeptUnitCode=>'0',strVisitType=>'0',strDeptCode=>'144',strWardCode=>'0',strRecieveBy=>'Anoj Panwar',strRemarks=>'kkk',strReqDate=>'05-Jun-2017',strEpiCode=>'0',strVisitNo=>'0',p_first_name=>'Anoj Panwar',p_middle_name=>'',p_last_name=>'',p_hststr_father_name=>'',p_hstdt_age=>'',p_gnum_gender_code=>'',p_hststr_address=>'',p_hststr_patient_id=>'',p_hstnum_patient_type=>'',p_trans_type=>'',p_age_unit=>'',p_issue_date=>'05-Jun-2017',p_out_stock=>'',err=>':X1')) -->
+Error thrown by procedure : Dml_patemp_Issue_Dtls  :: duplicate key value violates unique constraint "sstt_patemp_issue_dtl_pkey"]
+2017-06-05 12:17:15,453 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2017000026][mms --> ReturnFromEmployeeTransDATA->insert()] [hisglobaltransactionutil.ReturnFromEmployeeTransDATA.insert(vo) --> ReturnFromEmployeeTransBO.insert() --> ReturnFromEmployeeTransDAO.insert() --> HisDAO.fire() -->No Query/Procedure added into batch]
+2017-06-05 12:18:27,289 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2017-06-05 12:18:27,289 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2017-06-05 12:18:27,289 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2017-06-05 12:18:27,289 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2017-06-05 13:30:35,294 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2017000027][mms --> IssueEmployeeTransDATA->insert()] [mms.transactions.IssueEmployeeTransDATA.insert --> IssueEmployeeTransBO.insert()-->IssueTransDAO.insert() --> HisDAO.fire() -->HisProcedure.executeProc_Batch({call Pkg_Mms_Dml.Dml_Patemp_Issue_Dtls(modeval=>'1',strStoreId=>'10001101',req_No=>'0',strIssueNo=>'123217060500001',hosp_code=>'101',strOrderBy=>'999970500001',strOrderDate=>'05-Jun-2017',days=>'0',strCrNo=>'0',strReqTypeId=>'34',stradmno=>'0',strempno=>'101710000066',strItemCatNo=>'12',strFinalCost=>'',strFinStartDate=>'01-Apr-2014',strFinEndDate=>'31-Mar-2015',strSeatId=>'10001',strDeptUnitCode=>'0',strVisitType=>'0',strDeptCode=>'144',strWardCode=>'0',strRecieveBy=>'Anoj Panwar',strRemarks=>'rg',strReqDate=>'05-Jun-2017',strEpiCode=>'0',strVisitNo=>'0',p_first_name=>'Anoj Panwar',p_middle_name=>'',p_last_name=>'',p_hststr_father_name=>'',p_hstdt_age=>'',p_gnum_gender_code=>'',p_hststr_address=>'',p_hststr_patient_id=>'',p_hstnum_patient_type=>'',p_trans_type=>'',p_age_unit=>'',p_issue_date=>'05-Jun-2017',p_out_stock=>'',err=>':X1')) -->
+Error thrown by procedure : Dml_patemp_Issue_Dtls  :: duplicate key value violates unique constraint "sstt_issue_dtl_pkey"]
+2017-06-05 13:36:24,866 [http-bio-8080-exec-14] INFO   - [ERROR ID :: 2017000028][mms --> IssueEmployeeTransDATA->insert()] [mms.transactions.IssueEmployeeTransDATA.insert --> IssueEmployeeTransBO.insert()-->IssueTransDAO.insert() --> HisDAO.fire() -->HisProcedure.executeProc_Batch({call Pkg_Mms_Dml.Dml_Patemp_Issue_Dtls(modeval=>'1',strStoreId=>'10001101',req_No=>'0',strIssueNo=>'123217060500002',hosp_code=>'101',strOrderBy=>'999970500001',strOrderDate=>'05-Jun-2017',days=>'0',strCrNo=>'0',strReqTypeId=>'34',stradmno=>'0',strempno=>'101710000066',strItemCatNo=>'12',strFinalCost=>'',strFinStartDate=>'01-Apr-2014',strFinEndDate=>'31-Mar-2015',strSeatId=>'10001',strDeptUnitCode=>'0',strVisitType=>'0',strDeptCode=>'144',strWardCode=>'0',strRecieveBy=>'Anoj Panwar',strRemarks=>'sdf',strReqDate=>'05-Jun-2017',strEpiCode=>'0',strVisitNo=>'0',p_first_name=>'Anoj Panwar',p_middle_name=>'',p_last_name=>'',p_hststr_father_name=>'',p_hstdt_age=>'',p_gnum_gender_code=>'',p_hststr_address=>'',p_hststr_patient_id=>'',p_hstnum_patient_type=>'',p_trans_type=>'',p_age_unit=>'',p_issue_date=>'05-Jun-2017',p_out_stock=>'',err=>':X1')) -->
+Error thrown by procedure : Dml_patemp_Issue_Dtls  :: duplicate key value violates unique constraint "sstt_issue_dtl_pkey"]
+2017-06-05 13:44:14,366 [http-bio-8080-exec-12] INFO   - [ERROR ID :: 2017000029][mms --> IssueEmployeeTransDATA->insert()] [mms.transactions.IssueEmployeeTransDATA.insert --> IssueEmployeeTransBO.insert()-->IssueTransDAO.insert() --> HisDAO.fire() -->HisProcedure.executeProc_Batch({call Pkg_Mms_Dml.Dml_Patemp_Issue_Dtls(modeval=>'1',strStoreId=>'10001101',req_No=>'0',strIssueNo=>'133217060500001',hosp_code=>'101',strOrderBy=>'999970500001',strOrderDate=>'05-Jun-2017',days=>'0',strCrNo=>'0',strReqTypeId=>'34',stradmno=>'0',strempno=>'101710000066',strItemCatNo=>'13',strFinalCost=>'',strFinStartDate=>'01-Apr-2014',strFinEndDate=>'31-Mar-2015',strSeatId=>'10001',strDeptUnitCode=>'0',strVisitType=>'0',strDeptCode=>'144',strWardCode=>'0',strRecieveBy=>'Anoj Panwar',strRemarks=>'',strReqDate=>'05-Jun-2017',strEpiCode=>'0',strVisitNo=>'0',p_first_name=>'Anoj Panwar',p_middle_name=>'',p_last_name=>'',p_hststr_father_name=>'',p_hstdt_age=>'',p_gnum_gender_code=>'',p_hststr_address=>'',p_hststr_patient_id=>'',p_hstnum_patient_type=>'',p_trans_type=>'',p_age_unit=>'',p_issue_date=>'05-Jun-2017',p_out_stock=>'',err=>':X1')) -->
+Error thrown by procedure : Dml_patemp_Issue_Dtls  :: duplicate key value violates unique constraint "sstt_issue_dtl_pkey"]
+2020-12-11 18:07:18,609 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000001][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-11 18:11:44,476 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000001][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-11 16:51:03,016 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000002][mms --> IndentTransADDDATA->GetData()] [IndentTransADDDATA.GetData(vo) --> IndentTransADDBO.CallFunction() --> IndentTransADDBO.GetData() --> IndentTransADDDAO.ToStoreCombo() --> HisUtil.getOptionValue(4 parameters) -->Invalid cursor position]
+2020-12-11 16:51:03,281 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-11 16:51:03,294 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-11 16:51:20,729 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000003][mms --> IndentTransADDDATA->GetData()] [IndentTransADDDATA.GetData(vo) --> IndentTransADDBO.CallFunction() --> IndentTransADDBO.GetData() --> IndentTransADDDAO.ToStoreCombo() --> HisUtil.getOptionValue(4 parameters) -->Invalid cursor position]
+2020-12-11 16:52:07,632 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-11 16:52:07,633 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-11 16:52:07,633 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-11 16:52:07,633 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-14 12:59:43,014 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000004][mms --> IndentTransADDDATA->INSERT()] [IndentTransADDDATA.INSERT(vo) --> IndentTransADDBO.INSERT() --> --> IndentTransADDDAO.INSERT()-->HisDAO.fire() -->HisProcedure.executeProc_Batch({call PKG_MMS_DML.DML_INDENT_DTL(modval=>'1',strId=>'10001215',hosp_code=>'101',reqTypeId =>'17',toStrId=>'10001195',itemcatNo=>'12',itemTypeId=>'0',urgentFlag=>'0',indentPeriod=>'13',finStartDate=>'01-Apr-2014',finEndDate=>'31-Mar-2015',remarks=>'fg',seatId=>'10506',grantTypeId=>'0',puk =>'0',empNo=>'0',admNo=>'0',episodeCode=>'0',consultantId=>'0',memoNo=>'0',totCost=>'0',indentPeriodValue=>'',cancelSeatId=>'0',cancelDate=>'0',cancelReason=>'0',certificateNo=>'0',certificateDate=>'0',rateContSuppId=>'0',bsReqNo=>'0',diagCode=>'0',empCode=>'0',username=>'063967',approvalFlg=>':X1',indentNo=>':X2',err=>':X3')) -->
+Error thrown by procedure : dml_indent_dtl :: duplicate key value violates unique constraint "hstt_indent_dtl_pkey",a1,a2,a3,a4,a4a,b1,b2]
+2020-12-14 13:12:32,105 [http-bio-8080-exec-1] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-14 13:26:38,834 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000005][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001215',genericItemId=>'0',reqType=>'17',userInfo=>'0',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: operator does not exist: || unknown,a15,aXYZ,a17,a18SELECT INITCAP(B.HSTSTR_ITEM_NAME)||  '^' || NVL(B.HSTSTR_SPECIFICATION,'/') || '^' || 
+                NVL(A.HSTNUM_REORDER_QTY,0) || '^' ||  
+              Mms_Mst.get_stock_dtl(1::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric)
+              -- || '^' ||
+             -- NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' ||
+             -- Mms_Mst.get_supp_dtl(1,B.GNUM_HOSPITAL_CODE,B.HSTNUM_LSTSUPPLIER_ID) || '^' ||
+             -- NVL(B.HSTNUM_LSTREC_QTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' ||
+             --- '/^/^/^/^/^0^0^0^' || Mms_Mst.GetUnitName(B.GNUM_HOSPITAL_CODE,Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,10,B.HSTNUM_ITEM_ID))
+             -- || '^' || DECODE(B.HSTNUM_ITEM_MAKE,1,'Indian',2,'Imported','NA')                                   
+              ||'#' ||                                   
+             --Mms_Mst.get_stock_dtl(3::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+            -- (NVL(B.HSTNUM_LSTPUR_RATE,0)/(Mms_Mst.getUnitBaseValue(B.HSTNUM_LSTPUR_RATE_UNITID,B.GNUM_HOSPITAL_CODE))) || '^' ||
+            -- (NVL(A.HSTNUM_REORDER_QTY,0) * Mms_Mst.getUnitBaseValue(A.GNUM_LEVEL_UNITID,B.GNUM_HOSPITAL_CODE))                                   
+              ||'#' ||                                  
+              B.HSTNUM_ITEM_ID || '^' || B.HSTNUM_ITEMBRAND_ID || '^' || 
+             Mms_Mst.Get_item_property(1,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^' ||
+             NVL(A.HSTNUM_REORDER_QTY,0) || '^' || GNUM_LEVEL_UNITID || '^' ||
+             Mms_Mst.get_stock_dtl(4::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+             NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' || B.HSTNUM_LSTPUR_RATE_UNITID || '^' ||
+             Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,B.SSTNUM_ITEM_CAT_NO,B.HSTNUM_ITEM_ID) || '^' ||
+             NVL(HSTNUM_LSTPO_NO,'0') || '^' || HSTDT_LSTPO_DATE|| '^' || HSTNUM_LSTSUPPLIER_ID || '^' ||
+             '0^^^^' || NVL(B.HSTNUM_LSTREC_QTY,0) || '^' || B.HSTNUM_LSTREC_QTY_UNITID || '^' || 
+             NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' || A.GNUM_LASTINDENT_UNITID || '^' ||
+              NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' || A.GNUM_LASTREC_UNITID || '^' ||
+             NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' || A.HSTNUM_LSTYEAR_CONSQTY_UNITID || '^-^0.00^0^' ||                                   
+              Mms_Mst.Get_item_property(2,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^0^0^0^' || B.HSTNUM_BRAND_RESERVE_FLAG || '^' || B.HSTNUM_ITEM_MAKE
+              || '^' || NVL(B.HSTSTR_USER_CODE,'0') || '^' || NVL(HSTSTR_UPLOAD_FILE_ID,'0') || '^' || NVL(HSTSTR_USER_FILE_NAME,'NA'),                       
+             decode(HSTNUM_BRAND_RESERVE_FLAG,2,'*'||INITCAP(HSTSTR_ITEM_NAME),INITCAP(HSTSTR_ITEM_NAME)) AS ITEM_NAME FROM HSTT_ITEMBRAND_MST B LEFT JOIN HSTT_STOREITEM_MST A 
+                                    ON A.GNUM_ISVALID = 1 AND TRUNC(A.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)          
+                                    AND A.GNUM_HOSPITAL_CODE = 101 
+                                    AND A.SSTNUM_ITEM_CAT_NO = 12 
+                                    AND A.HSTNUM_ITEM_ID = B.HSTNUM_ITEM_ID
+                                    AND A.HSTNUM_ITEMBRAND_ID = B.HSTNUM_ITEMBRAND_ID                                  
+                                   AND A.HSTNUM_STORE_ID = 10001215 WHERE B.GNUM_ISVALID = 1
+            AND B.GNUM_HOSPITAL_CODE = 100
+            AND TRUNC(B.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)
+            AND B.SSTNUM_ITEM_CAT_NO = 12 ORDER BY ITEM_NAME]
+2020-12-14 13:27:45,516 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000006][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001215',genericItemId=>'0',reqType=>'17',userInfo=>'0',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: operator does not exist: || unknown,a15,aXYZ,a17,a18SELECT INITCAP(B.HSTSTR_ITEM_NAME)||  '^' || NVL(B.HSTSTR_SPECIFICATION,'/') || '^' || 
+                NVL(A.HSTNUM_REORDER_QTY,0) || '^' ||  
+              Mms_Mst.get_stock_dtl(1::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric)
+              -- || '^' ||
+             -- NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' ||
+             -- Mms_Mst.get_supp_dtl(1,B.GNUM_HOSPITAL_CODE,B.HSTNUM_LSTSUPPLIER_ID) || '^' ||
+             -- NVL(B.HSTNUM_LSTREC_QTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' ||
+             --- '/^/^/^/^/^0^0^0^' || Mms_Mst.GetUnitName(B.GNUM_HOSPITAL_CODE,Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,10,B.HSTNUM_ITEM_ID))
+             -- || '^' || DECODE(B.HSTNUM_ITEM_MAKE,1,'Indian',2,'Imported','NA')                                   
+              ||'#' ||                                   
+             --Mms_Mst.get_stock_dtl(3::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+            -- (NVL(B.HSTNUM_LSTPUR_RATE,0)/(Mms_Mst.getUnitBaseValue(B.HSTNUM_LSTPUR_RATE_UNITID,B.GNUM_HOSPITAL_CODE))) || '^' ||
+            -- (NVL(A.HSTNUM_REORDER_QTY,0) * Mms_Mst.getUnitBaseValue(A.GNUM_LEVEL_UNITID,B.GNUM_HOSPITAL_CODE))                                   
+              ||'#' ||                                  
+              B.HSTNUM_ITEM_ID || '^' || B.HSTNUM_ITEMBRAND_ID || '^' || 
+             Mms_Mst.Get_item_property(1,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^' ||
+             NVL(A.HSTNUM_REORDER_QTY,0) || '^' || GNUM_LEVEL_UNITID || '^' ||
+             Mms_Mst.get_stock_dtl(4::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+             NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' || B.HSTNUM_LSTPUR_RATE_UNITID || '^' ||
+             Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,B.SSTNUM_ITEM_CAT_NO,B.HSTNUM_ITEM_ID) || '^' ||
+             NVL(HSTNUM_LSTPO_NO,'0') || '^' || HSTDT_LSTPO_DATE|| '^' || HSTNUM_LSTSUPPLIER_ID || '^' ||
+             '0^^^^' || NVL(B.HSTNUM_LSTREC_QTY,0) || '^' || B.HSTNUM_LSTREC_QTY_UNITID || '^' || 
+             NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' || A.GNUM_LASTINDENT_UNITID || '^' ||
+              NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' || A.GNUM_LASTREC_UNITID || '^' ||
+             NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' || A.HSTNUM_LSTYEAR_CONSQTY_UNITID || '^-^0.00^0^' ||                                   
+              Mms_Mst.Get_item_property(2,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^0^0^0^' || B.HSTNUM_BRAND_RESERVE_FLAG || '^' || B.HSTNUM_ITEM_MAKE
+              || '^' || NVL(B.HSTSTR_USER_CODE,'0') || '^' || NVL(HSTSTR_UPLOAD_FILE_ID,'0') || '^' || NVL(HSTSTR_USER_FILE_NAME,'NA'),                       
+             decode(HSTNUM_BRAND_RESERVE_FLAG,2,'*'||INITCAP(HSTSTR_ITEM_NAME),INITCAP(HSTSTR_ITEM_NAME)) AS ITEM_NAME FROM HSTT_ITEMBRAND_MST B LEFT JOIN HSTT_STOREITEM_MST A 
+                                    ON A.GNUM_ISVALID = 1 AND TRUNC(A.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)          
+                                    AND A.GNUM_HOSPITAL_CODE = 101 
+                                    AND A.SSTNUM_ITEM_CAT_NO = 12 
+                                    AND A.HSTNUM_ITEM_ID = B.HSTNUM_ITEM_ID
+                                    AND A.HSTNUM_ITEMBRAND_ID = B.HSTNUM_ITEMBRAND_ID                                  
+                                   AND A.HSTNUM_STORE_ID = 10001215 WHERE B.GNUM_ISVALID = 1
+            AND B.GNUM_HOSPITAL_CODE = 100
+            AND TRUNC(B.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)
+            AND B.SSTNUM_ITEM_CAT_NO = 12 ORDER BY ITEM_NAME]
+2020-12-14 13:36:10,080 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-14 13:36:10,081 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-14 13:36:10,081 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-14 13:36:10,081 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-14 15:15:40,012 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000007][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001215',genericItemId=>'0',reqType=>'17',userInfo=>'0',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: syntax error at or near ")",a15,aXYZ,a17,a18SELECT INITCAP(B.HSTSTR_ITEM_NAME)||  '^' || NVL(B.HSTSTR_SPECIFICATION,'/') || '^' || 
+                NVL(A.HSTNUM_REORDER_QTY,0) || '^' ||  
+              Mms_Mst.get_stock_dtl(1::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric)
+              -- || '^' ||
+             -- NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' ||
+             -- Mms_Mst.get_supp_dtl(1,B.GNUM_HOSPITAL_CODE,B.HSTNUM_LSTSUPPLIER_ID) || '^' ||
+             -- NVL(B.HSTNUM_LSTREC_QTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' ||
+             -- NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' ||
+             --- '/^/^/^/^/^0^0^0^' || Mms_Mst.GetUnitName(B.GNUM_HOSPITAL_CODE,Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,10,B.HSTNUM_ITEM_ID))
+             -- || '^' || DECODE(B.HSTNUM_ITEM_MAKE,1,'Indian',2,'Imported','NA')                                   
+              ||'#' ||                                   
+               --Mms_Mst.get_stock_dtl(3::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+              --(NVL(B.HSTNUM_LSTPUR_RATE,0)/(Mms_Mst.getUnitBaseValue(B.HSTNUM_LSTPUR_RATE_UNITID,B.GNUM_HOSPITAL_CODE))) || '^' ||
+              (NVL(A.HSTNUM_REORDER_QTY,0) * Mms_Mst.getUnitBaseValue(A.GNUM_LEVEL_UNITID,B.GNUM_HOSPITAL_CODE))                                   
+              ||'#' ||                                  
+              B.HSTNUM_ITEM_ID || '^' || B.HSTNUM_ITEMBRAND_ID || '^' || 
+             Mms_Mst.Get_item_property(1,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^' ||
+             NVL(A.HSTNUM_REORDER_QTY,0) || '^' || GNUM_LEVEL_UNITID || '^' ||
+             Mms_Mst.get_stock_dtl(4::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001215::numeric) || '^' ||
+             NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' || B.HSTNUM_LSTPUR_RATE_UNITID || '^' ||
+             Mms_Mst.get_inventory_unitId (1, B.GNUM_HOSPITAL_CODE,B.SSTNUM_ITEM_CAT_NO,B.HSTNUM_ITEM_ID) || '^' ||
+             NVL(HSTNUM_LSTPO_NO,'0') || '^' || HSTDT_LSTPO_DATE|| '^' || HSTNUM_LSTSUPPLIER_ID || '^' ||
+             '0^^^^' || NVL(B.HSTNUM_LSTREC_QTY,0) || '^' || B.HSTNUM_LSTREC_QTY_UNITID || '^' || 
+             NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' || A.GNUM_LASTINDENT_UNITID),                       
+             decode(HSTNUM_BRAND_RESERVE_FLAG,2,'*'||INITCAP(HSTSTR_ITEM_NAME),INITCAP(HSTSTR_ITEM_NAME)) AS ITEM_NAME FROM HSTT_ITEMBRAND_MST B LEFT JOIN HSTT_STOREITEM_MST A 
+                                    ON A.GNUM_ISVALID = 1 AND TRUNC(A.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)          
+                                    AND A.GNUM_HOSPITAL_CODE = 101 
+                                    AND A.SSTNUM_ITEM_CAT_NO = 12 
+                                    AND A.HSTNUM_ITEM_ID = B.HSTNUM_ITEM_ID
+                                    AND A.HSTNUM_ITEMBRAND_ID = B.HSTNUM_ITEMBRAND_ID                                  
+                                   AND A.HSTNUM_STORE_ID = 10001215 WHERE B.GNUM_ISVALID = 1
+            AND B.GNUM_HOSPITAL_CODE = 100
+            AND TRUNC(B.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)
+            AND B.SSTNUM_ITEM_CAT_NO = 12 ORDER BY ITEM_NAME]
+2020-12-14 15:38:19,449 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-14 15:38:19,449 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-14 15:38:19,449 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-14 15:38:19,449 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-14 17:09:30,839 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000008][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-14 17:09:49,992 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000009][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-14 17:11:01,530 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000010][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-14 17:14:16,078 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-14 17:14:16,079 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-14 17:14:16,079 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-14 17:14:16,079 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-14 17:14:43,931 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000011][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-14 17:21:02,216 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-14 17:21:02,216 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-14 17:21:02,216 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-14 17:21:02,217 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-14 17:25:00,570 [http-bio-8080-exec-28] INFO   - [ERROR ID :: 2020000012][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-14 17:26:58,185 [http-bio-8080-exec-29] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/transactions/IndentTransADDCNT] to method FIRSTDATA returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.apache.struts.action.RequestProcessor.doForward(RequestProcessor.java:1069)
+	at org.apache.struts.tiles.TilesRequestProcessor.doForward(TilesRequestProcessor.java:274)
+	at org.apache.struts.action.RequestProcessor.processForwardConfig(RequestProcessor.java:455)
+	at org.apache.struts.tiles.TilesRequestProcessor.processForwardConfig(TilesRequestProcessor.java:320)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:279)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at filters.CrossScriptingFilter.doFilter(CrossScriptingFilter.java:65)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at hissso.client.filter.HISSSOClientRequestFilter.doFilter(HISSSOClientRequestFilter.java:236)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at filters.RequestFilter.doFilter(RequestFilter.java:159)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at filters.FormFieldValidationFilter.doFilter(FormFieldValidationFilter.java:215)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:409)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1044)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:607)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:315)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:800)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at org.apache.catalina.loader.WebappClassLoader.findClassInternal(WebappClassLoader.java:2928)
+	at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1174)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1669)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1547)
+	at mms.transactions.controller.data.IndentTransADDDATA.GetData(IndentTransADDDATA.java:76)
+	at mms.transactions.controller.action.IndentTransADDCNT.FIRSTDATA(IndentTransADDCNT.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.apache.struts.action.RequestProcessor.doForward(RequestProcessor.java:1069)
+	at org.apache.struts.tiles.TilesRequestProcessor.doForward(TilesRequestProcessor.java:274)
+2020-12-15 10:44:32,405 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000013][Requisition Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-15 10:44:56,432 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000014][Requisition Desk --> GenericData-->DEFAULT()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-15 12:19:58,049 [http-bio-8080-exec-13] INFO   - [ERROR ID :: 2020000015][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001246',hosp_code=>'101',reqNo=>'121720100000117',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "fgfghfghf" does not exist
+  Where: edb-spl function "proc_get_indentitem_dtl" line 312 at SQL statement
+line 15312 of package body]
+2020-12-15 12:20:20,386 [http-bio-8080-exec-20] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-15 12:20:20,387 [http-bio-8080-exec-20] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-15 12:29:56,277 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-15 12:29:56,277 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-15 12:29:56,277 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-15 12:29:56,277 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 11:29:38,250 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000016][Acknowledge Desk --> GenericData-->DEFAULT()] [GenericHLP.getQueryData --> 6]
+2020-12-16 11:32:34,654 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 11:32:34,654 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 11:32:34,654 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 11:32:34,654 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 12:43:03,358 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000017][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [null]
+2020-12-16 12:43:03,448 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000018][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-16 12:45:02,463 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000019][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 12:45:02,557 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000020][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-16 12:45:22,594 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 12:45:22,595 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 12:45:22,595 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 12:45:22,595 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 13:54:25,407 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000021][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 13:54:25,492 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 13:54:25,507 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 13:54:25,507 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 13:56:43,651 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000022][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 13:58:11,885 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000023][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 13:58:11,901 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 13:58:11,901 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 13:58:11,901 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:01:25,489 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 14:01:25,490 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 14:01:25,490 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 14:01:25,490 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 14:02:42,892 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000024][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 14:02:42,907 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 14:02:42,907 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:02:42,907 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:08:14,280 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000025][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 14:08:14,302 [http-bio-8080-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 14:08:14,307 [http-bio-8080-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:08:14,307 [http-bio-8080-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:09:25,374 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000026][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 14:09:25,405 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 14:09:25,405 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 14:09:25,405 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 15:59:54,273 [http-bio-8080-exec-19] INFO   - [ERROR ID :: 2020000027][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> Invalid column index]
+2020-12-16 16:00:36,410 [http-bio-8080-exec-15] INFO   - [ERROR ID :: 2020000028][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> Invalid column index]
+2020-12-16 16:08:06,633 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000029][Acknowledge Transaction --> AcknowledgeTransHLP.getAcknowledgeDetails()-->] [Invalid column index]
+2020-12-16 16:08:06,718 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000030][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:08:06,733 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 16:08:44,878 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 16:08:44,878 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 16:08:44,878 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 16:08:44,878 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 16:10:24,116 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000031][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> Invalid column index]
+2020-12-16 16:10:24,147 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 16:10:24,147 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 16:10:24,147 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 16:11:52,741 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000032][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:11:52,829 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000033][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:13:35,962 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000034][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:13:36,046 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000035][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:16:35,954 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000036][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:16:36,038 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000037][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:17:16,283 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000038][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:17:16,367 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000039][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:22:45,734 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000040][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:22:45,950 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000041][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:22:45,966 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 16:23:04,905 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 16:23:04,906 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 16:23:04,906 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 16:23:04,906 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 16:25:10,886 [http-bio-8080-exec-13] INFO   - [ERROR ID :: 2020000042][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:25:11,002 [http-bio-8080-exec-13] INFO   - [ERROR ID :: 2020000043][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:25:11,018 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 16:30:12,190 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 16:30:12,190 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 16:30:12,190 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 16:30:12,190 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 16:32:08,129 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000044][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [Invalid column index]
+2020-12-16 16:32:08,345 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000045][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> null]
+2020-12-16 16:36:45,645 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 16:36:45,647 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 16:36:45,647 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 16:36:45,647 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 17:01:00,428 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000046][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2020-12-16 17:01:00,595 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000047][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2020-12-16 17:01:02,376 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 17:01:02,376 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 17:05:26,835 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 17:05:26,835 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 17:05:26,835 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 17:05:26,835 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 17:07:18,070 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000048][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2020-12-16 17:07:18,222 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000049][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2020-12-16 17:07:18,238 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-16 17:07:18,238 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 17:07:18,238 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-16 17:07:18,238 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 17:07:18,238 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 17:16:02,777 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-16 17:16:02,777 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-16 17:16:02,777 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-16 17:16:02,777 [localhost-startStop-2] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-16 17:42:57,642 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000050][Acknowledge Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-16 18:15:08,002 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 18:15:08,002 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 18:15:08,002 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 18:15:08,002 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 18:15:08,002 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-16 18:15:16,672 [http-bio-8080-exec-1] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-17 11:04:41,253 [http-bio-8080-exec-14] INFO   - [ERROR ID :: 2020000051][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getInitialVal(vo) --> AcknowledgeTransBO.getAcknowledgeVal() --> AcknowledgeTransDAO.getItemVal() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.Proc_Ack_Item_Dtls(modval=>'1',storeId=>'10001195',hosp_code=>'101',transNo=>'1231201200231',reqTypeId=>'31',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near ")"
+  Where: edb-spl function "proc_ack_item_dtls" line 121 at OPEN
+line 11095 of package body]
+2020-12-17 11:04:41,427 [http-bio-8080-exec-14] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-17 11:17:23,151 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-17 11:17:23,151 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-17 11:17:23,151 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-17 11:17:23,151 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-18 10:26:46,149 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000052][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "gggggg" does not exist
+  Where: edb-spl function "proc_get_indentitem_dtl" line 311 at SQL statement
+line 15312 of package body]
+2020-12-18 10:29:36,802 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000053][mms --> IndentApprovalDeskDATA->viewData()] [IndentApprovalDeskDATA.viewData(vo) --> IndentApprovalDeskBO.viewData() --> --> IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeId=>'10001229',hosp_code=>'101',reqNo=>'121720120000072',reqTypeId=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "gggggg" does not exist
+  Where: edb-spl function "proc_get_indentitem_dtl" line 311 at SQL statement
+line 15312 of package body]
+2020-12-18 11:11:00,800 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000054][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720110000139',frmstoreid=>'10001202',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "dgfdgfgfhg" does not exist
+  Where: edb-spl function "proc_indentissue_item_dtls" line 8 at SQL statement
+line 13068 of package body]
+2020-12-18 11:11:01,132 [http-bio-8080-exec-7] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-18 11:11:01,132 [http-bio-8080-exec-7] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-18 11:11:16,647 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000055][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720120000065',frmstoreid=>'10001233',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "dgfdgfgfhg" does not exist
+  Where: edb-spl function "proc_indentissue_item_dtls" line 8 at SQL statement
+line 13068 of package body]
+2020-12-18 11:36:20,125 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000056][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720110000141',frmstoreid=>'10001237',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "ggg" does not exist
+  Where: edb-spl function "proc_indentissue_item_dtls" line 6 at SQL statement
+line 13066 of package body]
+2020-12-18 12:40:09,289 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-18 12:40:09,289 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-18 12:56:46,183 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-18 13:54:04,488 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000057][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: relation "reqtypeid_not_exist_11_80_81_83_84_85_86" does not exist
+  Where: edb-spl function "proc_get_indentitem_dtl" line 62 at SQL statement
+line 15063 of package body]
+2020-12-18 16:17:53,973 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000058][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: invalid input syntax for type double precision: ",6301,'No.') AS LSTINDENT_QTY_UNITID,
+              NVL(HSTNUM_LSTISSUE_QTY,'0') || ' ' || DECODE(HSTNUM_LSTISSUE_QTY_UNITID,0,'/',6301,'No.') AS LSTISSUE_QTY_UNITID,
+              (SELECT I.HSTSTR_ITEM_NAME   FROM HSTT_ITEMBRAND_MST I WHERE I.GNUM_ISVALID=1 AND I.HSTNUM_ITEMBRAND_ID=A.HSTNUM_ITEMBRAND_ID) AS ITEM_NAME,
+              NVL(HSTNUM_INHAND_QTY,'0') || ' ' || DECODE(HSTNUM_INHAND_QTY_UNITID,0,'/',6301,'No.') AS AVLAIBLE_QTY_UNITID,
+              NVL(HSTNUM_INDENT_QTY,'0') || ' ' || DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.')  AS REQ_QTY_UNITID,
+              NVL(HSTNUM_SANCTION_QTY,'0') || ' ' || DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.') AS SANC_QTY_UNITID,
+              NVL(HSTNUM_RATE,'0') || '/' || DECODE(HSTNUM_RATE_UNITID,null,'/',6301,'No.') AS RATE_QTY_UNITID,
+              
+              HSTNUM_INDENTQTY_UNITID,
+                                        
+             NVL( HSTNUM_SANCTION_QTY,'0') || ' ' ||  DECODE(HSTNUM_SANCQTY_UNITID,0,DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.'),DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.')),
+                      
+              HSTNUM_ITEM_ID,HSTNUM_ITEMBRAND_ID,HSTNUM_RESERVED_FLAG,
+                  
+              DECODE( NVL( HSTNUM_SANCQTY_UNITID,'0'),0,HSTNUM_INDENTQTY_UNITID, HSTNUM_SANCQTY_UNITID),  HSTNUM_INDENT_QTY, 
+                           
+             '6301' || "
+  Where: edb-spl function "proc_get_indentitem_dtl" line 311 at assignment
+line 15312 of package body]
+2020-12-18 16:23:09,852 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000059][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: invalid input syntax for type double precision: ",6301,'No.') AS LSTINDENT_QTY_UNITID,
+              NVL(HSTNUM_LSTISSUE_QTY,'0') || ' ' || DECODE(HSTNUM_LSTISSUE_QTY_UNITID,0,'/',6301,'No.') AS LSTISSUE_QTY_UNITID,
+              (SELECT I.HSTSTR_ITEM_NAME   FROM HSTT_ITEMBRAND_MST I WHERE I.GNUM_ISVALID=1 AND I.HSTNUM_ITEMBRAND_ID=A.HSTNUM_ITEMBRAND_ID) AS ITEM_NAME,
+              NVL(HSTNUM_INHAND_QTY,'0') || ' ' || DECODE(HSTNUM_INHAND_QTY_UNITID,0,'/',6301,'No.') AS AVLAIBLE_QTY_UNITID,
+              NVL(HSTNUM_INDENT_QTY,'0') || ' ' || DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.')  AS REQ_QTY_UNITID,
+              NVL(HSTNUM_SANCTION_QTY,'0') || ' ' || DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.') AS SANC_QTY_UNITID,
+              NVL(HSTNUM_RATE,'0') || '/' || DECODE(HSTNUM_RATE_UNITID,null,'/',6301,'No.') AS RATE_QTY_UNITID,
+              
+              HSTNUM_INDENTQTY_UNITID,
+                                        
+             NVL( HSTNUM_SANCTION_QTY,'0') || ' ' ||  DECODE(HSTNUM_SANCQTY_UNITID,0,DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.'),DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.')),
+                      
+              HSTNUM_ITEM_ID,HSTNUM_ITEMBRAND_ID,HSTNUM_RESERVED_FLAG,
+                  
+              DECODE( NVL( HSTNUM_SANCQTY_UNITID,'0'),0,HSTNUM_INDENTQTY_UNITID, HSTNUM_SANCQTY_UNITID),  HSTNUM_INDENT_QTY, 
+                           
+             '6301' || "
+  Where: edb-spl function "proc_get_indentitem_dtl" line 311 at assignment
+line 15312 of package body]
+2020-12-18 16:24:50,151 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000060][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: invalid input syntax for type double precision: "select  
+                 
+              NVL(HSTNUM_ISSUE_QTY,'0') || ' ' || DECODE(HSTNUM_ISSUEQTY_UNITID,0,'/',6301,'No.') AS ISSUE_QTY_UNITID,,
+              NVL(HSTNUM_REORDER_LEVEL,'0') || ' ' || DECODE(HSTNUM_REORDER_UNITID,null,'/',6301,'No.') AS REORDER_LEVEL_UNITID,
+              NVL(HSTNUM_LSTINDENT_QTY,'0') || ' ' || DECODE(HSTNUM_LSTINDENT_QTY_UNITID,null,'/',0,'/',6301,'No.') AS LSTINDENT_QTY_UNITID,
+              NVL(HSTNUM_LSTISSUE_QTY,'0') || ' ' || DECODE(HSTNUM_LSTISSUE_QTY_UNITID,0,'/',6301,'No.') AS LSTISSUE_QTY_UNITID,
+              (SELECT I.HSTSTR_ITEM_NAME   FROM HSTT_ITEMBRAND_MST I WHERE I.GNUM_ISVALID=1 AND I.HSTNUM_ITEMBRAND_ID=A.HSTNUM_ITEMBRAND_ID) AS ITEM_NAME,
+              NVL(HSTNUM_INHAND_QTY,'0') || ' ' || DECODE(HSTNUM_INHAND_QTY_UNITID,0,'/',6301,'No.') AS AVLAIBLE_QTY_UNITID,
+              NVL(HSTNUM_INDENT_QTY,'0') || ' ' || DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.')  AS REQ_QTY_UNITID,
+              NVL(HSTNUM_SANCTION_QTY,'0') || ' ' || DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.') AS SANC_QTY_UNITID,
+              NVL(HSTNUM_RATE,'0') || '/' || DECODE(HSTNUM_RATE_UNITID,null,'/',6301,'No.') AS RATE_QTY_UNITID,
+              
+              HSTNUM_INDENTQTY_UNITID,
+                                        
+             NVL( HSTNUM_SANCTION_QTY,'0') || ' ' ||  DECODE(HSTNUM_SANCQTY_UNITID,0,DECODE(HSTNUM_INDENTQTY_UNITID,0,'/',6301,'No.'),DECODE(HSTNUM_SANCQTY_UNITID,0,'/',6301,'No.')),
+                      
+              HSTNUM_ITEM_ID,HSTNUM_ITEMBRAND_ID,HSTNUM_RESERVED_FLAG,
+                  
+              DECODE( NVL( HSTNUM_SANCQTY_UNITID,'0'),0,HSTNUM_INDENTQTY_UNITID, HSTNUM_SANCQTY_UNITID),  HSTNUM_INDENT_QTY, 
+                           
+             '6301' || "
+  Where: edb-spl function "proc_get_indentitem_dtl" line 311 at assignment
+line 15312 of package body]
+2020-12-18 16:28:27,325 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000061][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near ","
+  Where: edb-spl function "proc_get_indentitem_dtl" line 617 at OPEN
+line 15618 of package body]
+2020-12-18 16:29:44,763 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000062][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near ","
+  Where: edb-spl function "proc_get_indentitem_dtl" line 617 at OPEN
+line 15618 of package body]
+2020-12-18 16:30:46,005 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000063][mms --> IndentApprovalDeskDATA->ApprovedRecord()] [IndentApprovalDeskDATA.ApprovedRecord(vo) --> IndentApprovalDeskBO.viewData() --> -->IndentApprovalDeskDAO.getItemDetails()-->HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.PROC_GET_INDENTITEM_DTL(modval=>'1',storeid=>'10001230',hosp_code=>'101',reqno=>'121720120000078',reqtypeid=>'17',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near ","
+  Where: edb-spl function "proc_get_indentitem_dtl" line 617 at OPEN
+line 15618 of package body]
+2020-12-18 16:53:23,643 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000064][Approval Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-18 17:05:12,361 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-18 17:05:12,362 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-18 17:05:12,362 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-18 17:05:12,362 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-21 14:00:22,774 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2020000065][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:01:47,079 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000066][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:02:35,744 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000067][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:04:43,965 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000068][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:06:21,608 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000069][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:43:10,719 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000070][Acknowledge Transaction --> AcknowledgeTransHLP.getItemDetails()-->] [null]
+2020-12-21 14:43:10,802 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000071][mms --> AcknowledgeTransDATA->getAcknowledgeVal()] [AcknowledgeTransDATA.getViewInitialVal(vo) --> null]
+2020-12-21 14:58:41,317 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-21 14:58:41,317 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-21 14:58:41,317 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-21 14:58:41,317 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-21 17:48:06,353 [http-bio-8080-exec-11] INFO   - [ERROR ID :: 2020000072][mms --> IssueDeskTransDATA->getViewDetails1()] [Issue Desk.IssueDeskTransDATA.getViewDetails1(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720120000020',frmstoreid=>'10001240',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: invalid input syntax for type double precision: ",0,'0',2),
+                 
+                 (
+                  6301||"
+  Where: edb-spl function "proc_indentissue_item_dtls" line 9 at assignment
+line 13155 of package body]
+2020-12-21 17:48:06,453 [http-bio-8080-exec-11] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-21 17:48:46,599 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000073][mms --> IssueDeskTransDATA->getViewDetails1()] [Issue Desk.IssueDeskTransDATA.getViewDetails1(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720120000020',frmstoreid=>'10001240',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: invalid input syntax for type double precision: ",0,'0',2),
+                 
+                 (
+                 '6301'||"
+  Where: edb-spl function "proc_indentissue_item_dtls" line 9 at assignment
+line 13155 of package body]
+2020-12-21 17:49:48,584 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000074][mms --> IssueDeskTransDATA->getViewDetails1()] [Issue Desk.IssueDeskTransDATA.getViewDetails1(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720120000020',frmstoreid=>'10001240',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near "AS"
+  Where: edb-spl function "proc_indentissue_item_dtls" line 64 at OPEN
+line 13210 of package body]
+2020-12-21 17:50:32,043 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000075][mms --> IssueDeskTransDATA->getViewDetails1()] [Issue Desk.IssueDeskTransDATA.getViewDetails1(vo) --> IssueDeskTransBO.getItemDetail() --> IssueDeskTransDAO.getItemDetail() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call Pkg_Mms_View.proc_indentissue_item_dtls(modeval=>'1',hosp_code=>'101',indentno=>'121720120000086',frmstoreid=>'10001199',issuingStoreid=>'10001195',err=>':X1',resultset=>':X2')) -->
+ERROR: syntax error at or near "AS"
+  Where: edb-spl function "proc_indentissue_item_dtls" line 64 at OPEN
+line 13210 of package body]
+2020-12-22 16:27:59,735 [http-bio-8080-exec-21] INFO   - [ERROR ID :: 2020000076][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:27:59,858 [http-bio-8080-exec-21] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-22 16:27:59,874 [http-bio-8080-exec-21] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:27:59,874 [http-bio-8080-exec-21] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:29:30,891 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-22 16:29:30,891 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-22 16:29:30,891 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-22 16:29:30,891 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-22 16:31:38,120 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2020000077][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:31:38,144 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-22 16:31:38,148 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:31:38,148 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:32:25,484 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-22 16:32:25,484 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-22 16:32:25,484 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-22 16:32:25,484 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-22 16:32:51,956 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2020000078][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:32:51,979 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-22 16:32:51,983 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:32:51,983 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:34:34,755 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-22 16:34:34,755 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-22 16:34:34,755 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-22 16:34:34,755 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-22 16:35:55,412 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000079][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:35:55,427 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-22 16:35:55,443 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:35:55,443 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-22 16:38:12,255 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000080][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:38:15,661 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2020000081][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:38:19,981 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2020000082][mms --> IssueDeskTransDATA->getIndentDetails()] [Issue Desk.IssueDeskTransDATA.getIndentDetails(vo) --> ]
+2020-12-22 16:44:13,915 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-22 16:44:13,915 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-22 16:44:13,915 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-22 16:44:13,915 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 14:50:08,096 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000083][mms --> SupplierMstDATA->view()-] [SupplierMstBO.view() --> SupplierMstDAO.view() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : select trim(A.HSTSTR_SUPPLIER_NAME),(select INITCAP(NVL(s.sstnum_item_cat_name,'')) from sstt_item_category_mst s where s.sstnum_item_cat_no=A.SSTNUM_ITEM_CAT_NO),INITCAP(A.HSTSTR_CONTACT_PERSON), INITCAP(A.HSTSTR_ADDRESS),INITCAP(A.HSTSTR_CITY_NAME),A.HSTSTR_PINCODE,A.HSTSTR_PHONE1,A.HSTSTR_PHONE2,A.HSTSTR_EMAIL1,A.HSTSTR_EMAIL2,A.HSTSTR_FAXNO1,A.HSTSTR_FAXNO2,A.HSTSTR_WEBSITE,A.HSTNUM_SUPPLIER_STATUS,INITCAP(trim(A.GSTR_REMARKS)),to_char(A.GDT_EFFECTIVE_FRM,'dd-Mon-yyyy'), DECODE (A.gnum_isvalid,'1', 'Active',DECODE (A.gnum_isvalid,2, 'Inactive',DECODE (A.gnum_isvalid, 0, 'Deleted','----'))) A.gnum_isvalid,A.HSTNUM_SUPPLIER_GRADE_ID,A.SSTNUM_ITEM_CAT_NO, A.HSTSTR_LST_NO,A.HSTSTR_CST_NO,A.HSTSTR_PAN_NO,A.HSTNUM_IS_SUPPLIER,A.HSTNUM_IS_MANUFACTURER,A.HSTNUM_IS_AGENT,A.HSTNUM_IS_BUYER, (select INITCAP(NVL(s.hststr_grade_name,'')) from hstt_supplier_grade_mst s where s.hstnum_supplier_grade_id=A.HSTNUM_SUPPLIER_GRADE_ID), A.HSTNUM_IS_FOREIGN ,(select INITCAP(NVL(s.gstr_country_name,'/')) from gblt_country_mst s where s.gstr_country_code like (A.GNUM_COUNTRYCODE)),(select INITCAP(NVL(s.gstr_state_name,'/')) from gblt_state_mst s where s.gnum_state_code=A.GNUM_STATECODE), A.HSTSTR_CONTRACT_NO,to_char(A.HSTDT_CONTRACT_DATE,'dd-Mon-yyyy') A.HSTDT_CONTRACT_DATE,to_char(A.HSTDT_CONTRACT_EXPIRY_DATE,'dd-Mon-yyyy') A.HSTDT_CONTRACT_EXPIRY_DATE, NVL(A.HSTNUM_SUPPLIERTYPE_ID,'0') A.HSTNUM_SUPPLIERTYPE_ID ,NVL(A.HSTNUM_TURNOVER, '0'),DECODE (A.HSTNUM_TURNOVER_UNIT,'0','NA','1','Thousand','2','Lac.','3','Crore') ,A.HSTNUM_MAINTANANCE_FLAG,A.HSTNUM_ESCALANATION_FLAG from HSTT_SUPPLIER_MST A where A.HSTNUM_SUPPLIER_ID=? AND  A.GNUM_ISVALID =1				  ) -->ERROR: syntax error at or near "."
+  Position: 603]
+2020-12-23 14:50:08,267 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 14:50:08,268 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-23 15:10:48,322 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000084][mms --> SupplierMstDATA->view()-] [SupplierMstBO.view() --> SupplierMstDAO.view() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : select trim(HSTSTR_SUPPLIER_NAME),mms_mst.get_itemcat_dtl('1',GNUM_HOSPITAL_CODE,SSTNUM_ITEM_CAT_NO),INITCAP(HSTSTR_CONTACT_PERSON), INITCAP(HSTSTR_ADDRESS),INITCAP(HSTSTR_CITY_NAME),HSTSTR_PINCODE,HSTSTR_PHONE1,HSTSTR_PHONE2,HSTSTR_EMAIL1,HSTSTR_EMAIL2,HSTSTR_FAXNO1,HSTSTR_FAXNO2, HSTSTR_WEBSITE,HSTNUM_SUPPLIER_STATUS,INITCAP(trim(GSTR_REMARKS)),to_char(GDT_EFFECTIVE_FRM,'dd-Mon-yyyy'), DECODE (gnum_isvalid,'1', 'Active',DECODE (gnum_isvalid,2, 'Inactive',DECODE (gnum_isvalid, 0, 'Deleted','----'))) gnum_isvalid,HSTNUM_SUPPLIER_GRADE_ID,SSTNUM_ITEM_CAT_NO, HSTSTR_LST_NO,HSTSTR_CST_NO,HSTSTR_PAN_NO,HSTNUM_IS_SUPPLIER,HSTNUM_IS_MANUFACTURER,HSTNUM_IS_AGENT,HSTNUM_IS_BUYER,mms_mst.get_suppGrade_dtl('1',GNUM_HOSPITAL_CODE,HSTNUM_SUPPLIER_GRADE_ID), HSTNUM_IS_FOREIGN ,Mms_Mst.get_country_name(GNUM_HOSPITAL_CODE, GNUM_COUNTRYCODE) , Mms_Mst.get_state_name(GNUM_HOSPITAL_CODE, GNUM_STATECODE), HSTSTR_CONTRACT_NO,to_char(HSTDT_CONTRACT_DATE,'dd-Mon-yyyy') HSTDT_CONTRACT_DATE,to_char(HSTDT_CONTRACT_EXPIRY_DATE,'dd-Mon-yyyy') HSTDT_CONTRACT_EXPIRY_DATE, NVL(HSTNUM_SUPPLIERTYPE_ID,'0') HSTNUM_SUPPLIERTYPE_ID ,NVL(HSTNUM_TURNOVER, '0'),DECODE (HSTNUM_TURNOVER_UNIT,'0','NA','1','Thousand','2','Lac.','3','Crore') ,HSTNUM_MAINTANANCE_FLAG,HSTNUM_ESCALANATION_FLAG from HSTT_SUPPLIER_MST where HSTNUM_SUPPLIER_ID=? and GNUM_HOSPITAL_CODE=? AND  GNUM_ISVALID =1) -->No value specified for parameter 2.]
+2020-12-23 15:10:48,678 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 15:10:48,683 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-23 15:11:07,291 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 15:11:07,291 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 15:11:07,291 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 15:11:07,291 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 15:36:29,383 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000085][mms --> SupplierMstDATA->view()-] [SupplierMstBO.view() --> SupplierMstDAO.view() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : SELECT   NVL (INITCAP (hststr_suppliertype_name), '---') suppliertype_name FROM hstt_supplier_type_mst WHERE gnum_isvalid = 1 AND gnum_hospital_code = ? AND hstnum_suppliertype_id = ? ORDER BY INITCAP (hststr_suppliertype_name)	) -->No value specified for parameter 2.]
+2020-12-23 15:36:29,746 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 15:36:29,753 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-23 15:37:26,168 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 15:37:26,168 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 15:37:26,168 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 15:37:26,168 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 16:04:24,166 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000086][Supplier  Master --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT fghgf, HSTNUM_SUPPLIER_ID||'@'||GNUM_HOSPITAL_CODE||'@'||HSTNUM_SL_NO||'^'||INITCAP(HSTSTR_SUPPLIER_NAME) ||'^'||MMS_MST.GET_SUPPLIER_STATUS_LIST (GNUM_HOSPITAL_CODE, HSTNUM_SUPPLIER_ID::character varying) ||'^'||DECODE(HSTNUM_SUPPLIER_STATUS,2,'Yes','No') AS  DATA FROM HSTT_SUPPLIER_MST where GNUM_ISVALID=1				       				     				 				       		                           	                   		       AND SSTNUM_ITEM_CAT_NO=0 ORDER BY HSTSTR_SUPPLIER_NAME ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: column "fghgf" does not exist
+  Position: 56]
+2020-12-23 16:04:52,246 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 16:04:52,248 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 16:04:52,248 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 16:04:52,248 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 16:11:16,907 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000087][Supplier  Master --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT HSTNUM_SUPPLIER_ID||'@'||GNUM_HOSPITAL_CODE||'@'||HSTNUM_SL_NO||'^'||INITCAP(HSTSTR_SUPPLIER_NAME) ||'^'||MMS_MST.GET_SUPPLIER_STATUS_LIST (GNUM_HOSPITAL_CODE, HSTNUM_SUPPLIER_ID::character varying) ||'^'||DECODE(HSTNUM_SUPPLIER_STATUS,2,'Yes','No') AS  DATA FROM HSTT_SUPPLIER_MST			       				     				 				       		                           	                   		       AND SSTNUM_ITEM_CAT_NO=0 ORDER BY HSTSTR_SUPPLIER_NAME ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 430]
+2020-12-23 16:11:19,611 [http-bio-8080-exec-11] INFO   - [ERROR ID :: 2020000088][Supplier  Master --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT HSTNUM_SUPPLIER_ID||'@'||GNUM_HOSPITAL_CODE||'@'||HSTNUM_SL_NO||'^'||INITCAP(HSTSTR_SUPPLIER_NAME) ||'^'||MMS_MST.GET_SUPPLIER_STATUS_LIST (GNUM_HOSPITAL_CODE, HSTNUM_SUPPLIER_ID::character varying) ||'^'||DECODE(HSTNUM_SUPPLIER_STATUS,2,'Yes','No') AS  DATA FROM HSTT_SUPPLIER_MST			       				     				 				       		                           	                   		       AND SSTNUM_ITEM_CAT_NO=0 ORDER BY HSTSTR_SUPPLIER_NAME ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 430]
+2020-12-23 16:11:51,947 [http-bio-8080-exec-11] INFO   - [ERROR ID :: 2020000089][Supplier  Master --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT HSTNUM_SUPPLIER_ID||'@'||GNUM_HOSPITAL_CODE||'@'||HSTNUM_SL_NO||'^'||INITCAP(HSTSTR_SUPPLIER_NAME) ||'^'||MMS_MST.GET_SUPPLIER_STATUS_LIST (GNUM_HOSPITAL_CODE, HSTNUM_SUPPLIER_ID::character varying) ||'^'||DECODE(HSTNUM_SUPPLIER_STATUS,2,'Yes','No') AS  DATA FROM HSTT_SUPPLIER_MST			       				     				 				       		                           	                   		       AND SSTNUM_ITEM_CAT_NO=0 ORDER BY HSTSTR_SUPPLIER_NAME ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 430]
+2020-12-23 16:11:56,734 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 16:11:56,734 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 16:11:56,734 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 16:11:56,735 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 16:23:26,099 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000090][mms --> SupplierMstDATA->modify()-] [SupplierMstBO.setinitParam() --> SupplierMstDAO.getSupplierGrade() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : select HSTNUM_SUPPLIER_GRADE_ID,HSTSTR_GRADE_NAME from HSTT_SUPPLIER_GRADE_MST GDT_EFFECTIVE_FRM<=sysdate and GNUM_ISVALID=1 ORDER BY HSTSTR_GRADE_NAME) -->0]
+2020-12-23 16:23:26,233 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 16:23:26,243 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:23:26,243 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:23:26,251 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:24:21,295 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 16:24:21,295 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 16:24:21,296 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 16:24:21,296 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 16:24:48,198 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2020000091][mms --> SupplierMstDATA->modify()-] [SupplierMstBO.setinitParam() --> SupplierMstDAO.getSupplierGrade() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : select HSTNUM_SUPPLIER_GRADE_ID,HSTSTR_GRADE_NAME from HSTT_SUPPLIER_GRADE_MST where GDT_EFFECTIVE_FRM<=sysdate and GNUM_ISVALID=1 ORDER BY HSTSTR_GRADE_NAME) -->0]
+2020-12-23 16:24:48,247 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 16:24:48,252 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:24:48,252 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:24:48,252 [http-bio-8080-exec-9] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:26:10,479 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 16:26:10,479 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 16:26:10,479 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 16:26:10,479 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 16:28:04,237 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2020000092][mms --> SupplierMstDATA->modify()-] [SupplierMstBO.modify() --> SupplierMstDAO.getCommiteeDtl() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : select HSTNUM_COMMITTEE_TYPE_ID,mms_mst.get_commType_dtl('1',GNUM_HOSPITAL_CODE,HSTNUM_COMMITTEE_TYPE_ID) as comm_type from  HSTT_COMMITTEE_TYPE_MST A where GNUM_ISVALID=1 and GDT_EFFECTIVE_FRM<=sysdate ORDER BY comm_type) -->0]
+2020-12-23 16:28:04,360 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-23 16:28:04,369 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:28:04,369 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:28:04,379 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-23 16:28:49,131 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 16:28:49,132 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 16:28:49,132 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 16:28:49,132 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 17:35:31,324 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000093][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->VIEWDATA()] [GenericBO.getArrayList --> GenericDAO.getArrayList -->HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : SELECT DECODE (hstnum_section_mode, '1', 'Store', 'Purchase'),Initcap(HSTSTR_STORE_NAME), DECODE(HSTNUM_IS_TIME_BOUND,'0','No','1','Yes','Not Defined'), NVL(HSTSTR_FROM_TIME,'---'), NVL(HSTSTR_TO_TIME,'---'), TO_CHAR (gdt_effective_frm, 'DD-Mon-YYYY'), NVL (gstr_remarks, ' '), DECODE (gnum_isvalid, '1', 'Active', '2', 'Inactive') HSTSTR_HEADER1	FROM hstt_store_mst a WHERE hstnum_store_id = ?						) -->1]
+2020-12-23 17:35:31,775 [http-bio-8080-exec-6] WARN  org.apache.struts.action.RequestProcessor - Unhandled Exception thrown: class java.lang.NullPointerException
+2020-12-23 17:38:16,880 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 17:38:16,881 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 17:38:16,881 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 17:38:16,881 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 17:43:45,941 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2020000094][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT GNUM_HOSPITAL_CODE||'@'||HSTNUM_STORE_ID||'^'||HSTSTR_STORE_NAME ||'^'||  HSTSTR_LOCATION ||'^'||  DEPT_NAME || '^' || WARD_NAME||'^'||SECTIONTYPE AS DATA FROM ( SELECT GNUM_HOSPITAL_CODE,IPD_MST.GETWARDNAME(GNUM_WARD_CODE,GNUM_HOSPITAL_CODE,NULL,NULL) AS WARD_NAME, AHIS_FUNCTION.GETDEPTNAME(GNUM_DEPT_CODE,GNUM_HOSPITAL_CODE) DEPT_NAME,HSTNUM_STORE_ID ,HSTSTR_STORE_CODE,NUM_DIST_ID, HSTNUM_STORETYPE_ID, GNUM_ISVALID, Initcap(HSTSTR_STORE_NAME) AS HSTSTR_STORE_NAME,AHIS_FUNCTION.FUN_EMP_NAME(HGSTR_EMP_CODE,GNUM_HOSPITAL_CODE) INCHARGE_NAME,  HSTNUM_STORE_LEVEL ,  HSTSTR_LOCATION, HSTSTR_PHONE_NO,DECODE(HSTNUM_SECTION_MODE,'1','STORE','PURCHASE') SECTIONTYPE,HSTNUM_PARENT_STORE_ID FROM HSTT_STORE_MST ) A               AND A.GNUM_ISVALID = 1		 ORDER BY HSTSTR_STORE_CODE ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 782]
+2020-12-23 17:45:05,024 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 17:45:05,025 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 17:45:05,025 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 17:45:05,025 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 17:45:21,291 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000095][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT GNUM_HOSPITAL_CODE||'@'||HSTNUM_STORE_ID||'^'||HSTSTR_STORE_NAME ||'^'||  HSTSTR_LOCATION ||'^'||  DEPT_NAME || '^' || WARD_NAME||'^'||SECTIONTYPE AS DATA FROM ( SELECT GNUM_HOSPITAL_CODE,IPD_MST.GETWARDNAME(GNUM_WARD_CODE,GNUM_HOSPITAL_CODE,NULL,NULL) AS WARD_NAME, AHIS_FUNCTION.GETDEPTNAME(GNUM_DEPT_CODE,GNUM_HOSPITAL_CODE) DEPT_NAME,HSTNUM_STORE_ID ,HSTSTR_STORE_CODE,NUM_DIST_ID, HSTNUM_STORETYPE_ID, GNUM_ISVALID, Initcap(HSTSTR_STORE_NAME) AS HSTSTR_STORE_NAME,AHIS_FUNCTION.FUN_EMP_NAME(HGSTR_EMP_CODE,GNUM_HOSPITAL_CODE) INCHARGE_NAME,  HSTNUM_STORE_LEVEL ,  HSTSTR_LOCATION, HSTSTR_PHONE_NO,DECODE(HSTNUM_SECTION_MODE,'1','STORE','PURCHASE') SECTIONTYPE,HSTNUM_PARENT_STORE_ID FROM HSTT_STORE_MST ) A               AND A.GNUM_ISVALID = 1		 ORDER BY HSTSTR_STORE_CODE ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 782]
+2020-12-23 17:45:33,535 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000096][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT GNUM_HOSPITAL_CODE||'@'||HSTNUM_STORE_ID||'^'||HSTSTR_STORE_NAME ||'^'||  HSTSTR_LOCATION ||'^'||  DEPT_NAME || '^' || WARD_NAME||'^'||SECTIONTYPE AS DATA FROM ( SELECT GNUM_HOSPITAL_CODE,IPD_MST.GETWARDNAME(GNUM_WARD_CODE,GNUM_HOSPITAL_CODE,NULL,NULL) AS WARD_NAME, AHIS_FUNCTION.GETDEPTNAME(GNUM_DEPT_CODE,GNUM_HOSPITAL_CODE) DEPT_NAME,HSTNUM_STORE_ID ,HSTSTR_STORE_CODE,NUM_DIST_ID, HSTNUM_STORETYPE_ID, GNUM_ISVALID, Initcap(HSTSTR_STORE_NAME) AS HSTSTR_STORE_NAME,AHIS_FUNCTION.FUN_EMP_NAME(HGSTR_EMP_CODE,GNUM_HOSPITAL_CODE) INCHARGE_NAME,  HSTNUM_STORE_LEVEL ,  HSTSTR_LOCATION, HSTSTR_PHONE_NO,DECODE(HSTNUM_SECTION_MODE,'1','STORE','PURCHASE') SECTIONTYPE,HSTNUM_PARENT_STORE_ID FROM HSTT_STORE_MST ) A               AND A.GNUM_ISVALID = 1		 ORDER BY HSTSTR_STORE_CODE ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 782]
+2020-12-23 17:45:42,019 [http-bio-8080-exec-12] INFO   - [ERROR ID :: 2020000097][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT GNUM_HOSPITAL_CODE||'@'||HSTNUM_STORE_ID||'^'||HSTSTR_STORE_NAME ||'^'||  HSTSTR_LOCATION ||'^'||  DEPT_NAME || '^' || WARD_NAME||'^'||SECTIONTYPE AS DATA FROM ( SELECT GNUM_HOSPITAL_CODE,IPD_MST.GETWARDNAME(GNUM_WARD_CODE,GNUM_HOSPITAL_CODE,NULL,NULL) AS WARD_NAME, AHIS_FUNCTION.GETDEPTNAME(GNUM_DEPT_CODE,GNUM_HOSPITAL_CODE) DEPT_NAME,HSTNUM_STORE_ID ,HSTSTR_STORE_CODE,NUM_DIST_ID, HSTNUM_STORETYPE_ID, GNUM_ISVALID, Initcap(HSTSTR_STORE_NAME) AS HSTSTR_STORE_NAME,AHIS_FUNCTION.FUN_EMP_NAME(HGSTR_EMP_CODE,GNUM_HOSPITAL_CODE) INCHARGE_NAME,  HSTNUM_STORE_LEVEL ,  HSTSTR_LOCATION, HSTSTR_PHONE_NO,DECODE(HSTNUM_SECTION_MODE,'1','STORE','PURCHASE') SECTIONTYPE,HSTNUM_PARENT_STORE_ID FROM HSTT_STORE_MST ) A               AND A.GNUM_ISVALID = 1		 ORDER BY HSTSTR_STORE_CODE ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "AND"
+  Position: 782]
+2020-12-23 17:46:22,019 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 17:46:22,020 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 17:46:22,020 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 17:46:22,020 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-23 17:48:24,223 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2020000098][Store Master#6^PURCHASE^Purchase Section^E7D7E2 --> GenericData-->LISTPAGE()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->HisDAO.getQryResult(qry,Query : SELECT * FROM (SELECT A.DATA,(ROWNUM) SNO FROM (SELECT GNUM_HOSPITAL_CODE||'@'||HSTNUM_STORE_ID||'^'||HSTSTR_STORE_NAME ||'^'||  HSTSTR_LOCATION ||'^'||  DEPT_NAME || '^' || WARD_NAME||'^'||SECTIONTYPE AS DATA FROM ( SELECT GNUM_HOSPITAL_CODE,IPD_MST.GETWARDNAME(GNUM_WARD_CODE,GNUM_HOSPITAL_CODE,NULL,NULL) AS WARD_NAME, AHIS_FUNCTION.GETDEPTNAME(GNUM_DEPT_CODE,GNUM_HOSPITAL_CODE) DEPT_NAME,HSTNUM_STORE_ID ,HSTSTR_STORE_CODE,NUM_DIST_ID, HSTNUM_STORETYPE_ID, GNUM_ISVALID, Initcap(HSTSTR_STORE_NAME) AS HSTSTR_STORE_NAME,AHIS_FUNCTION.FUN_EMP_NAME(HGSTR_EMP_CODE,GNUM_HOSPITAL_CODE) INCHARGE_NAME,  HSTNUM_STORE_LEVEL ,  HSTSTR_LOCATION, HSTSTR_PHONE_NO,DECODE(HSTNUM_SECTION_MODE,'1','STORE','PURCHASE') SECTIONTYPE,HSTNUM_PARENT_STORE_ID FROM HSTT_STORE_MST ) A              A.GNUM_ISVALID = 1		 ORDER BY HSTSTR_STORE_CODE ASC) A ) B WHERE B.SNO <=101  AND B.SNO > 0 ) -->ERROR: syntax error at or near "A"
+  Position: 781]
+2020-12-23 17:49:00,650 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-23 17:49:00,651 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-23 17:49:00,651 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-23 17:49:00,651 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-24 11:14:13,275 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2020000099][mms --> StoreCategoryMstDATA->insertRecord()] [Store Category Master.StoreCategoryMstDATA.insertRecord(vo) --> StoreCategoryMstBO.insertRecord() --> --> StoreCategoryMstDAO.insertQuery()-->mms.dao.StoreCategoryDAO.insert() --> strStoreItemCategory can not be blank]
+2020-12-24 11:14:42,699 [http-bio-8080-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 11:16:05,018 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-24 11:16:05,018 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-24 11:16:05,018 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-24 11:16:05,018 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-24 12:45:31,679 [http-bio-8080-exec-17] INFO   - [ERROR ID :: 2020000100][mms --> ApprovingAuthorityMstDATA->modifyRecord()] [ApprovingAuthorityMstDATA.modifyRecord(vo) --> ApprovingAuthorityMstBO.modifyRecord() --> --> ApprovingAuthorityMstDAO.modifyRecord()-->HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : SELECT select INITCAP (gstr_usr_name) || ' ( ' || gstr_user_name || ' ) ' from gblt_user_mst s where s.gnum_userid=A.GNUM_USERID),GNUM_ISVALID ,TO_CHAR(GDT_EFFECTIVE_DATE,'dd-Mon-yyyy'),TRIM(GSTR_REMARKS) FROM HSTT_APPROVING_AUTH_MST A WHERE A.HSTNUM_APP_ID = ?					) -->ERROR: syntax error at or near "select"
+  Position: 8]
+2020-12-24 12:45:32,164 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-24 12:45:32,164 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 12:45:32,164 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 12:46:03,884 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-24 12:46:03,885 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-24 12:46:03,885 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-24 12:46:03,885 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-24 17:10:26,753 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2020000101][mms --> StoreItemMstDATA->initialAdd()] [StoreItemMaster.StoreItemMstDATA.initialAdd(vo) --> StoreItemMstBO.initAdd() --> --> StoreItemMstDAO.initAddQuery()-->Index: 1, Size: 0]
+2020-12-24 17:10:27,001 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-24 17:10:27,001 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 17:10:27,001 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 17:10:27,001 [http-bio-8080-exec-10] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-24 17:11:32,224 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-24 17:11:32,224 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-24 17:11:32,224 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-24 17:11:32,224 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-24 17:14:44,088 [http-bio-8080-exec-17] INFO   - [ERROR ID :: 2020000102][mms --> StoreItemMstDATA->initialAdd()] [StoreItemMaster.StoreItemMstDATA.initialAdd(vo) --> StoreItemMstBO.initAdd() --> --> StoreItemMstDAO.initAddQuery()-->Index: 1, Size: 0]
+2020-12-24 17:14:44,119 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2020-12-24 17:14:44,119 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 17:14:44,119 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2020-12-24 17:14:44,119 [http-bio-8080-exec-17] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2020-12-24 17:15:05,672 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2020-12-24 17:15:05,672 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2020-12-24 17:15:05,672 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2020-12-24 17:15:05,672 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2020-12-29 15:43:46,436 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2020000103][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001195',genericItemId=>'0',reqType=>'17',userInfo=>'10001186',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: operator is not unique: unknown / unknown,a15]
+2020-12-29 16:07:34,519 [http-bio-8080-exec-19] INFO   - [ERROR ID :: 2020000104][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001195',genericItemId=>'0',reqType=>'17',userInfo=>'10001220',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: operator does not exist: || unknown,a15,aXYZ,a17,a18SELECT INITCAP(B.HSTSTR_ITEM_NAME)||  '^' || NVL(B.HSTSTR_SPECIFICATION,'/') || '^' || 
+                NVL(A.HSTNUM_REORDER_QTY,0) || '^' ||  
+              Mms_Mst.get_stock_dtl(1::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+              NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' ||
+              Mms_Mst.get_supp_dtl(1,B.GNUM_HOSPITAL_CODE,B.HSTNUM_LSTSUPPLIER_ID) || '^' ||
+              NVL(B.HSTNUM_LSTREC_QTY,0) || '^' ||
+              NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' ||
+              NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' ||
+              NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' ||                    
+              ||'#' ||                             
+              Mms_Mst.get_stock_dtl(3::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+                '0.000'   || '^' ||
+                '0.000'   
+              ||'#' ||                                  
+              B.HSTNUM_ITEM_ID || '^' || B.HSTNUM_ITEMBRAND_ID || '^' || 
+             Mms_Mst.Get_item_property(1,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^' ||
+             '23' || '^' || GNUM_LEVEL_UNITID || '^' ||
+             Mms_Mst.get_stock_dtl(4::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+             NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' || B.HSTNUM_LSTPUR_RATE_UNITID || '^' ||
+             NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' || NVL(A.GNUM_LASTINDENT_UNITID,0) ,                
+             decode(HSTNUM_BRAND_RESERVE_FLAG,2,'*'||INITCAP(HSTSTR_ITEM_NAME),INITCAP(HSTSTR_ITEM_NAME)) AS ITEM_NAME FROM HSTT_ITEMBRAND_MST B LEFT JOIN HSTT_STOREITEM_MST A 
+                                    ON A.GNUM_ISVALID = 1 AND TRUNC(A.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)          
+                                    AND A.GNUM_HOSPITAL_CODE = 101 
+                                    AND A.SSTNUM_ITEM_CAT_NO = 12 
+                                    AND A.HSTNUM_ITEM_ID = B.HSTNUM_ITEM_ID
+                                    AND A.HSTNUM_ITEMBRAND_ID = B.HSTNUM_ITEMBRAND_ID                                  
+                                   AND A.HSTNUM_STORE_ID = 10001195 WHERE B.GNUM_ISVALID = 1
+            AND B.GNUM_HOSPITAL_CODE = 100
+            AND TRUNC(B.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)
+            AND B.SSTNUM_ITEM_CAT_NO = 12 ORDER BY ITEM_NAME]
+2020-12-29 16:08:33,477 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2020000105][mms --> MmsDATA.searchItemBrandList(vo) --> ] [MmsDATA.searchItemBrandList(vo) --> MmsBO.getSearchItemBrandListDtls() --> MmsDAO.getItemBrandList() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call pkg_mms_view.Proc_Itembrand_Detail(modeval=>'1',hosp_code=>'101',itemCat=>'12',frmStrId=>'10001195',genericItemId=>'0',reqType=>'17',userInfo=>'10001220',grpId=>'0',subGrpId=>'0',err=>':X1',resultset=>':X2')) -->
+Error thrown by procedure : Proc_Itembrand_Details :: operator does not exist: || unknown,a15,aXYZ,a17,a18SELECT INITCAP(B.HSTSTR_ITEM_NAME)||  '^' || NVL(B.HSTSTR_SPECIFICATION,'/') || '^' || 
+                NVL(A.HSTNUM_REORDER_QTY,0) || '^' ||  
+              Mms_Mst.get_stock_dtl(1::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+              NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' ||
+              Mms_Mst.get_supp_dtl(1,B.GNUM_HOSPITAL_CODE,B.HSTNUM_LSTSUPPLIER_ID) || '^' ||
+              NVL(B.HSTNUM_LSTREC_QTY,0) || '^' ||
+              NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' ||
+              NVL(A.HSTNUM_LAST_RECEIVEQTY,0) || '^' ||
+              NVL(A.HSTNUM_LSTYEAR_CONS_QTY,0) || '^' ||                    
+              ||'#' ||                             
+              Mms_Mst.get_stock_dtl(3::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+                '0.000'   || '^' ||
+                '0.000'   
+              ||'#' ||                                  
+              B.HSTNUM_ITEM_ID || '^' || B.HSTNUM_ITEMBRAND_ID || '^' || 
+             Mms_Mst.Get_item_property(1,B.HSTNUM_ITEM_ID,B.GNUM_HOSPITAL_CODE) || '^' ||
+             '23' || '^' || GNUM_LEVEL_UNITID || '^' ||
+             Mms_Mst.get_stock_dtl(4::numeric,101::numeric,B.HSTNUM_ITEM_ID::numeric,B.HSTNUM_ITEMBRAND_ID::numeric,0::character varying,10::numeric,10001195::numeric) || '^' ||
+             NVL(B.HSTNUM_LSTPUR_RATE,0) || '^' || B.HSTNUM_LSTPUR_RATE_UNITID || '^' ||
+             NVL(A.HSTNUM_LAST_INDENTQTY,0) || '^' || NVL(A.GNUM_LASTINDENT_UNITID,0) ,                
+             decode(HSTNUM_BRAND_RESERVE_FLAG,2,'*'||INITCAP(HSTSTR_ITEM_NAME),INITCAP(HSTSTR_ITEM_NAME)) AS ITEM_NAME FROM HSTT_ITEMBRAND_MST B LEFT JOIN HSTT_STOREITEM_MST A 
+                                    ON A.GNUM_ISVALID = 1 AND TRUNC(A.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)          
+                                    AND A.GNUM_HOSPITAL_CODE = 101 
+                                    AND A.SSTNUM_ITEM_CAT_NO = 12 
+                                    AND A.HSTNUM_ITEM_ID = B.HSTNUM_ITEM_ID
+                                    AND A.HSTNUM_ITEMBRAND_ID = B.HSTNUM_ITEMBRAND_ID                                  
+                                   AND A.HSTNUM_STORE_ID = 10001195 WHERE B.GNUM_ISVALID = 1
+            AND B.GNUM_HOSPITAL_CODE = 100
+            AND TRUNC(B.GDT_EFFECTIVE_FRM) <= TRUNC(SYSDATE)
+            AND B.SSTNUM_ITEM_CAT_NO = 12 ORDER BY ITEM_NAME]
+2020-12-30 06:48:36,789 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2020000106][Approval Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2020-12-30 07:29:12,535 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.control.CompositeCacheConfigurator - No special ElementAttribute class defined for key [jcs.region.cacheVOMMS.elementattributes], using default class.
+2020-12-30 07:29:12,535 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.memory.lru.LRUMemoryCache - initialized LRUMemoryCache for cacheVOMMS
+2020-12-30 07:29:12,535 [http-bio-8080-exec-3] INFO  org.apache.jcs.engine.control.CompositeCache - Constructed cache with name [cacheVOMMS] and cache attributes [ useLateral = true, useRemote = true, useDisk = true, maxObjs = 4000, maxSpoolPerRun = -1, diskUsagePattern = 0 ]
+2021-01-01 16:28:49,656 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2021000001][Approval Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2021-01-01 16:29:16,028 [http-bio-8080-exec-4] INFO  org.apache.jcs.engine.control.CompositeCacheConfigurator - No special ElementAttribute class defined for key [jcs.region.cacheVOMMS.elementattributes], using default class.
+2021-01-01 16:29:16,028 [http-bio-8080-exec-4] INFO  org.apache.jcs.engine.memory.lru.LRUMemoryCache - initialized LRUMemoryCache for cacheVOMMS
+2021-01-01 16:29:16,028 [http-bio-8080-exec-4] INFO  org.apache.jcs.engine.control.CompositeCache - Constructed cache with name [cacheVOMMS] and cache attributes [ useLateral = true, useRemote = true, useDisk = true, maxObjs = 4000, maxSpoolPerRun = -1, diskUsagePattern = 0 ]
+2021-01-01 16:29:34,980 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-01-01 16:29:34,981 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-01-01 16:29:34,981 [http-bio-8080-exec-4] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-01-01 16:53:43,250 [http-bio-8080-exec-10] INFO   - [ERROR ID :: 2021000002][Approval Desk --> GenericData-->SEARCH()] [GenericBO.LISTPAGE --> GenericDAO.LISTPAGE -->1]
+2021-01-01 16:54:04,275 [http-bio-8080-exec-1] INFO  org.apache.jcs.engine.control.CompositeCacheConfigurator - No special ElementAttribute class defined for key [jcs.region.cacheVOMMS.elementattributes], using default class.
+2021-01-01 16:54:04,275 [http-bio-8080-exec-1] INFO  org.apache.jcs.engine.memory.lru.LRUMemoryCache - initialized LRUMemoryCache for cacheVOMMS
+2021-01-01 16:54:04,275 [http-bio-8080-exec-1] INFO  org.apache.jcs.engine.control.CompositeCache - Constructed cache with name [cacheVOMMS] and cache attributes [ useLateral = true, useRemote = true, useDisk = true, maxObjs = 4000, maxSpoolPerRun = -1, diskUsagePattern = 0 ]
+2021-01-01 16:54:04,347 [http-bio-8080-exec-1] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-01-01 17:17:35,665 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-01-01 17:17:35,665 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-03-08 13:52:27,033 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2021000003][mms --> IndentApprovalDeskDATA->insertDetails()] [IndentApprovalDeskDATA.insertDetails(vo) --> IndentApprovalDeskBO.INSERT() --> -->IndentApprovalDeskDAO.INSERT()-->-->IndentApprovalDeskDAO.INSERTINTABLE()-->HisDAO.fire() -->HisProcedure.executeProc_Batch({call PKG_MMS_DML.DML_APPROVALITEM_DTL(modval=>'1',strId=>'10001175',toStrId=>'10001195',reqNo=>'121721030000038',reqTypeId=>'17',catNo=>'12',itemId=>'12000002',itemBrandId=>'12100194',batchNo=>'0',itemSlNo=>'0',stkStatus=>'0',expiryDate=>'08-Mar-2021',reqqty=>'8.00',reqqtyunitid=>'6301',sancQty=>'8',sancQtyUnitId=>'6301',reservedFlag=>'0',status=>'1',appNo=>'1',hosp_code=>'101',seatId=>'10300',prevSancQty=>'0.00 No.',prevSancQtyUnitId=>'6301',lstStatus=>'0',strRemarks=>'',retSlNo=>':X1',err=>':X2')) -->
+Error thrown by procedure : DML_APPROVALITEM_DTL :: duplicate key value violates unique constraint "PK_HSTT_APPROVAL_ITEM_DTL",a1,a2,a3,a4,a5,8]
+2021-03-08 14:06:51,619 [http-bio-8080-exec-1] INFO   - [ERROR ID :: 2021000004][mms --> IndentApprovalDeskDATA->insertDetails()] [IndentApprovalDeskDATA.insertDetails(vo) --> IndentApprovalDeskBO.INSERT() --> -->IndentApprovalDeskDAO.INSERT()-->-->IndentApprovalDeskDAO.INSERTINTABLE()-->HisDAO.fire() -->HisProcedure.executeProc_Batch({call PKG_MMS_DML.DML_APPROVALITEM_DTL(modval=>'1',strId=>'10001175',toStrId=>'10001195',reqNo=>'121721030000038',reqTypeId=>'17',catNo=>'12',itemId=>'12000002',itemBrandId=>'12100194',batchNo=>'0',itemSlNo=>'0',stkStatus=>'0',expiryDate=>'08-Mar-2021',reqqty=>'2.00',reqqtyunitid=>'6301',sancQty=>'0',sancQtyUnitId=>'6301',reservedFlag=>'0',status=>'99',appNo=>'1',hosp_code=>'101',seatId=>'10300',prevSancQty=>'0.00 No.',prevSancQtyUnitId=>'6301',lstStatus=>'0',strRemarks=>'tem remarks of rej',retSlNo=>':X1',err=>':X2')) -->
+Error thrown by procedure : DML_APPROVALITEM_DTL :: duplicate key value violates unique constraint "PK_HSTT_APPROVAL_ITEM_DTL",a1,a2,a3,a4,a5,0]
+2021-03-08 14:32:41,825 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2021000005][mms --> IndentTransADDDATA->INSERT()] [IndentTransADDDATA.INSERT(vo) --> IndentTransADDBO.INSERT() --> --> IndentTransADDDAO.INSERT()-->HisDAO.fire() -->HisProcedure.executeProc_Batch({call PKG_MMS_DML.DML_INDENT_DTL(modval=>'1',strId=>'10001175',hosp_code=>'101',reqTypeId =>'17',toStrId=>'10001195',itemcatNo=>'12',itemTypeId=>'0',urgentFlag=>'0',indentPeriod=>'13',finStartDate=>'01-Apr-2014',finEndDate=>'31-Mar-2015',remarks=>'indent remarks',seatId=>'10517',grantTypeId=>'0',puk =>'0',empNo=>'0',admNo=>'0',episodeCode=>'0',consultantId=>'0',memoNo=>'0',totCost=>'0',indentPeriodValue=>'',cancelSeatId=>'0',cancelDate=>'0',cancelReason=>'0',certificateNo=>'0',certificateDate=>'0',rateContSuppId=>'0',bsReqNo=>'0',diagCode=>'0',empCode=>'0',username=>'060194',approvalFlg=>':X1',indentNo=>':X2',err=>':X3')) -->
+Error thrown by procedure : dml_indent_dtl :: duplicate key value violates unique constraint "hstt_indent_dtl_pkey",a1,a2,a3,a4,a4a,b1,b2]
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:26:26,512 [http-bio-8080-exec-31] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-03-08 15:28:13,382 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-03-08 15:44:35,760 [http-bio-8080-exec-28] INFO   - [ERROR ID :: 2021000006][Acknowledge Desk --> GenericData-->setUserName()] [GenericBO.getUserName --> GenericDAO.getUserName -->Array index out of range: 0]
+2021-03-08 15:44:35,876 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2021000007][Acknowledge Desk --> GenericData-->setUserName()] [GenericBO.getUserName --> GenericDAO.getUserName -->Array index out of range: 0]
+2021-03-08 15:44:36,092 [http-bio-8080-exec-28] INFO   - [ERROR ID :: 2021000008][Acknowledge Desk --> GenericData-->setUserName()] [GenericBO.getUserName --> GenericDAO.getUserName -->Array index out of range: 0]
+2021-04-01 13:19:49,414 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000009][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:19:49,714 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000010][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:19:49,923 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-04-01 13:19:49,924 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 13:19:49,983 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:19:49,983 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:23:04,794 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2021000011][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:23:04,928 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2021000012][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:26:23,409 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2021000013][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:26:23,714 [http-bio-8080-exec-7] INFO   - [ERROR ID :: 2021000014][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:28:07,739 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2021-04-01 13:28:07,740 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2021-04-01 13:28:07,740 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2021-04-01 13:28:07,740 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2021-04-01 13:29:12,044 [http-bio-8080-exec-13] INFO   - [ERROR ID :: 2021000015][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:29:12,283 [http-bio-8080-exec-13] INFO   - [ERROR ID :: 2021000016][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:29:12,303 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-04-01 13:29:12,305 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 13:29:12,305 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 13:29:12,312 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:29:12,312 [http-bio-8080-exec-13] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:29:55,559 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2021-04-01 13:29:55,560 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2021-04-01 13:29:55,560 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2021-04-01 13:29:55,560 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2021-04-01 13:40:22,424 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2021000017][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:40:22,638 [http-bio-8080-exec-5] INFO   - [ERROR ID :: 2021000018][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:40:22,654 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-04-01 13:40:22,657 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 13:40:22,657 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 13:40:22,667 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:40:22,668 [http-bio-8080-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 13:42:42,416 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2021000019][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:42:42,500 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2021000020][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:43:02,894 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2021000021][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:43:02,973 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2021000022][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:44:05,428 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2021000023][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:45:45,478 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2021000024][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 13:45:45,584 [http-bio-8080-exec-6] INFO   - [ERROR ID :: 2021000025][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 13:45:49,139 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2021-04-01 13:45:49,139 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2021-04-01 13:45:49,139 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2021-04-01 13:45:49,139 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2021-04-01 14:01:19,787 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2021000026][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:01:19,994 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2021000027][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:01:20,009 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-04-01 14:01:20,011 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 14:01:20,012 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 14:01:20,021 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 14:01:20,021 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 14:02:07,028 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000028][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:02:07,108 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000029][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:02:30,401 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000030][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:02:30,483 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000031][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:04:43,595 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000032][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:04:43,683 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000033][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:06:49,384 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2021000034][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:06:49,464 [http-bio-8080-exec-4] INFO   - [ERROR ID :: 2021000035][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:09:29,187 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000036][Mms Configuration --> mms.MmsConfigUtil] [MmsConfigUtil.readXMLDataObject() -->null]
+2021-04-01 14:09:29,287 [http-bio-8080-exec-8] INFO   - [ERROR ID :: 2021000037][mms --> DrugInventoryTransDATA->initialAdd()] [Drug Inventory.DrugInventoryTransDATA.initialAddDummy(vo) --> null]
+2021-04-01 14:09:29,305 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-04-01 14:09:29,308 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 14:09:29,308 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2021-04-01 14:09:29,319 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 14:09:29,319 [http-bio-8080-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2021-04-01 14:17:23,891 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2021-04-01 14:17:23,892 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2021-04-01 14:17:23,892 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2021-04-01 14:17:23,892 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2021-10-28 12:21:07,986 [http-bio-8080-exec-9] INFO   - [ERROR ID :: 2021000038][mms --> AuthorityHierDtlDATA->heirdetails()] [AuthorityHierDtlBO.heirdetails() --> AuthorityHierDtlDAO.heirdetails() --> HisDAO.executeQry(1 Args) -->HisQuery.executeQry(3 Args, Query : SELECT HSTNUM_APP_ID,GNUM_USERID, (select INITCAP (gstr_usr_name) || ' ( ' || gstr_user_name || ' ) ' from gblt_user_mst s where s.gnum_userid=A.GNUM_USERID) AS USR_NAME,HSTNUM_APP_TYPE,HSTNUM_STORE_ID,GSTR_REMARKS FROM HSTT_APPROVING_AUTH_MST A WHERE GDT_EFFECTIVE_DATE<=SYSDATE AND HSTNUM_STORE_ID =? AND HSTNUM_APP_TYPE=? and gnum_isvalid = 1 ORDER BY HSTNUM_APP_ID) -->FATAL: terminating connection due to administrator command]
+2021-10-28 17:19:25,010 [http-bio-8080-exec-2] INFO   - [ERROR ID :: 2021000039][mms --> StoreHierarchyMstDATA->initialAdd()] [StoreHierarchyMaster.StoreHierarchyMstDATA.initialAdd(vo) --> 1]
+2021-10-28 17:19:26,050 [http-bio-8080-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-10-28 17:22:30,903 [http-bio-8080-exec-3] INFO   - [ERROR ID :: 2021000040][mms --> StoreHierarchyMstDATA->initialAdd()] [StoreHierarchyMaster.StoreHierarchyMstDATA.initialAdd(vo) --> 1]
+2021-10-28 17:22:30,919 [http-bio-8080-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2021-10-28 17:22:56,091 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2021-10-28 17:22:56,092 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2021-10-28 17:22:56,092 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2021-10-28 17:22:56,092 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2022-11-30 14:53:09,727 ["http-bio-8080"-exec-8] INFO   - [ERROR ID :: 2022000001][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 14:53:09,801 ["http-bio-8080"-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2022-11-30 14:53:09,802 ["http-bio-8080"-exec-8] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2022-11-30 14:53:09,866 ["http-bio-8080"-exec-8] INFO   - [ERROR ID :: 2022000002][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 14:53:09,874 ["http-bio-8080"-exec-9] INFO   - [ERROR ID :: 2022000003][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:11,489 ["http-bio-8080"-exec-8] INFO   - [ERROR ID :: 2022000004][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:11,548 ["http-bio-8080"-exec-8] INFO   - [ERROR ID :: 2022000005][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:11,555 ["http-bio-8080"-exec-2] INFO   - [ERROR ID :: 2022000006][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:31,898 ["http-bio-8080"-exec-7] INFO   - [ERROR ID :: 2022000007][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:31,933 ["http-bio-8080"-exec-7] INFO   - [ERROR ID :: 2022000008][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2022-11-30 15:48:31,941 ["http-bio-8080"-exec-6] INFO   - [ERROR ID :: 2022000009][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2023-04-19 11:58:53,074 ["http-bio-8080"-exec-5] INFO   - [ERROR ID :: 2023000001][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2023-04-19 11:58:53,088 ["http-bio-8080"-exec-3] INFO   - [ERROR ID :: 2023000002][MMS --> OfflineIssueIndentsDATA->GetData()] [OfflineIssueIndentDATA.GetData(vo) --> OfflineIssueIndentBO.GetData() --> OfflineIssueIndentDAO.itemCategoryCombo() --> HisDAO.executeProcedureByPosition() -->HisProcedure.executeProcByPosition({call PKG_MMS_VIEW.proc_item_category_list(modeval=>'2')) -->
+null]
+2023-04-19 11:58:54,055 ["http-bio-8080"-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2023-04-19 11:58:54,055 ["http-bio-8080"-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+2023-04-19 11:58:54,055 ["http-bio-8080"-exec-3] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.bean.LocalStrings', returnNull=true
+2023-04-19 11:58:54,055 ["http-bio-8080"-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2023-04-19 11:58:54,055 ["http-bio-8080"-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2023-04-19 11:58:54,071 ["http-bio-8080"-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2023-04-19 11:58:54,071 ["http-bio-8080"-exec-5] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2023-04-20 15:55:17,861 ["http-bio-8080"-exec-9] INFO   - [ERROR ID :: 2023000003][mms --> StoreHierarchyMstDATA->insertRecord()] [StoreHierarchyMaster.StoreHierarchyMstDATA.insertRecord(vo) --> 1]
+2023-04-20 15:56:40,650 ["http-bio-8080"-exec-2] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.logic.LocalStrings', returnNull=true
+2023-04-20 15:58:51,960 ["http-bio-8080"-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2023-04-20 15:58:51,960 ["http-bio-8080"-exec-6] INFO  org.apache.struts.util.PropertyMessageResources - Initializing, config='org.apache.struts.taglib.html.LocalStrings', returnNull=true
+2023-04-20 15:59:28,535 [Thread-12] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2023-04-20 15:59:28,535 [Thread-12] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dynamicreports'.
+2023-04-20 15:59:28,535 [Thread-12] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2023-04-20 15:59:28,535 [Thread-12] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.

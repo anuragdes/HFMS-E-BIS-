@@ -1,0 +1,108 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                26 October 2012 
+                                     Schedule Report For GIS
+ 
+Month      :SEP          Year          :2012                                              
+Category   :Class4       Sub-Category  :Ena                                               
+Demand No  :09120014481  Demand Date   :20-Sep-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00003184 060036 Avtar   Singh            Security Guard Gr.1   Security                15
+
+PGIPER00003186 060012 Bharui   Ram             Mali                  Engineering Dep         15
+
+PGIPER00003187 060011 Daya Shankar Yadav       Mali                  Other                   15
+
+PGIPER00003192 060037 Sher   Singh             Machine Man           Other                   15
+
+PGIPER00003194 060040 Jagira   Ram             Machine Man           Engineering Dep         15
+
+PGIPER00003196 060033 Jawahar   Lal            Mali                  Engineering Dep         15
+
+PGIPER00003199 060001 Mehma   Ram              OTHER (C)             Engineering Dep         15
+
+PGIPER00003202 060032 Ram   Bhadur             Mali                  Engineering Dep         15
+
+PGIPER00003204 060019 Prem   Lal               Mali                  Other                   15
+
+PGIPER00003209 060039 Sucha   Ram              Machine Man           Other                   15
+
+PGIPER00003215 060038 Basheshar                Machine Man           Other                   15
+
+PGIPER00003217 060060 Nirmal   Devi            Mali                  Engineering Dep         15
+
+PGIPER00003219 060063 Joginder                 Mali                  Engineering Dep         15
+
+PGIPER00003223 060056 Kali   Dass              Mali                  Engineering Dep         15
+
+PGIPER00003229 060064 Rakesh Kumar Pal         Mali                  Engineering Dep         15
+
+PGIPER00003230 060055 Ramesh   Kumar           Mali                  Engineering Dep         15
+
+PGIPER00003235 060067 Vikas    Saini           Mali                  Other                   15
+
+PGIPER00003236 060059 Ram   Partap             Mali                  Other                   15
+
+PGIPER00003241 060054 Kalika   Parshad         Mali                  Engineering Dep         15
+
+PGIPER00003243 060058 Ram   Chander            Mali                  Engineering Dep         15
+
+PGIPER00003244 060057 Ram   Sanjeevan          Mali                  Engineering Dep         15
+
+PGIPER00003247 060053 Mishri   Lal             Mali                  Engineering Dep         15
+
+PGIPER00003249 060007 Ram   Sanjivan           Mali                  Engineering Dep         15
+
+PGIPER00003251 060061 Rama   Kant              Mali                  Engineering Dep         15
+
+PGIPER00003253 060052 Ram   Nath               Mali                  Other                   15
+
+PGIPER00003255 060065 Daya   Shankar           Mali                  Engineering Dep         15
+
+PGIPER00003259 060051 Nirmal                   Mali                  Other                   15
+
+PGIPER00003260 060062 Bans    Bhadur           Mali                  Engineering Dep         15
+
+PGIPER00003264 060068 Sunita   Sharma          Hospital Attendant Gr Engineering Dep         15
+
+PGIPER00003268 060020 Balbir    Singh          Suprivisor            Engineering Dep         30
+
+PGIPER00003269 060066 Gajodhar   Parshad       Mali                  Other                   15
+
+PGIPER00003272 060049 Gurdev   Kaur            Mali                  Engineering Dep         15
+
+PGIPER00003274 060006 Dwaraka   Prashad        Mali                  Engineering Dep         15
+
+PGIPER00003277 060003 Banta   Ram              Mali                  Engineering Dep         15
+
+PGIPER00003280 060014 Girdhari   Lal           Mali                  Other                   15
+
+PGIPER00003281 060008 Surjit   Singh           OTHER (C)             Other                   15
+
+PGIPER00003284 060002 Gorkha   Ram             Mali                  Other                   15
+
+PGIPER00003288 060004 Shri Hira Lal            Mali                  Other                   15
+
+PGIPER00003291 060024 Sada   Nand              Mali                  Other                   15
+
+PGIPER00003293 060030 Dharm   Pal              Mali                  Engineering Dep         15
+
+PGIPER00003295 060022 Situ   Ram               Mali                  Other                   15
+
+PGIPER00003297 060029 Karam   Singh            Mali Gr.I             Engineering Dep         15
+
+PGIPER00003299 060005 Piara   Singh            Mali                  Engineering Dep         15
+
+PGIPER00003301 060009 Chhadi   Ram             Mali                  Other                   15
+
+PGIPER00003303 060026 Sohan   Singh            Mali                  Other                   15
+
+PGIPER00003307 060031 Prema   Devi             Mali                  Engineering Dep         15
+
+                                                                          Grand Total       705
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

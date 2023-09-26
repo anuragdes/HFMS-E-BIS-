@@ -1,0 +1,116 @@
+                       Post Graduate Institute of Medical Education And Research 
+                     Chandigarh -(INDIA),  , Chandigarh 
+                                                                                29 October 2012 
+                           Schedule Report For WHEAT ADVANCE
+ 
+Month      :OCT          Year          :2012                                              
+Category   :MiscellaneousSub-Category  :Cl5                                               
+Demand No  :10120018661  Demand Date   :20-Oct-2012                                       
+ 
+Employee ID    Old ID Name                     Designation           Department      Amount(Rs)
+PGIPER00000295 051195 Jagjivan   Singh         Book Binder           Library                500
+
+PGIPER00000296 051194 Parkash   Chand          Book Binder           Training Branch        500
+
+PGIPER00000298 051148 Kiran  Bala Puri         OTHER (C)             Bio Statistics         500
+
+PGIPER00000299 051149 Meena   Pardasani        OTHER (C)             Bio Statistics         500
+
+PGIPER00000303 051150 Saroj   Bala             OTHER (C)             Bio Statistics         500
+
+PGIPER00000318 051325 Jagjeet   Jaswal         Data Entry Operator G Computer Sectio        500
+
+PGIPER00000319 051323 Rakesh   Bhardwaj        Clerk                 Library                500
+
+PGIPER00000320 051324 Neeru   Sood             Clerk                 Library                500
+
+PGIPER00000324 051320 Parminder Singh Sodhi    Data Entry Operator   Computer Sectio        500
+
+PGIPER00000326 051319 Davinder   Chopra        Data Entry Operator   Computer Sectio        500
+
+PGIPER00000345 051370 Parminder   Kaur         Data Entry Operator   Computer Sectio        500
+
+PGIPER00000896 051138 Sat  Pal  Bhatia         OTHER (C)             Other                  500
+
+PGIPER00000900 051306 Mohan   Singh            Dup.Machine Operator  Centre Store           500
+
+PGIPER00000927 051293 Poonam   Kumari          Sr. Tailor            Centre Store           500
+
+PGIPER00000928 051288 Harish   Chand           Dark Room Attendant   Radio Diagnosis        500
+
+PGIPER00000930 051280 Karampal   Kaur          Dental Operating Room Oral Health Sci        500
+
+PGIPER00000932 051279 Asha   Rani              Sr. Tailor            Centre Store           500
+
+PGIPER00000950 051315 Vijay    Kumar           OTHER (C)             Other                  500
+
+PGIPER00000952 051313 Balwinder  Kaur          OTHER (C)             Other                  500
+
+PGIPER00000956 051305 Neelam   Kumari          Dental Operating Room Oral Health Sci        500
+
+PGIPER00000957 051303 Nasima                   Sr. Tailor            Centre Store           500
+
+PGIPER00000960 051283 Parveen   Rani           Dental Operating Room Oral Health Sci        500
+
+PGIPER00000966 051342 Hira   Singh             OTHER (C)             Other                  500
+
+PGIPER00000974 051330 Rajesh  Kumar            Dental Mechanic Grade Oral Health Sci        500
+
+PGIPER00000997 051369 Pankaj    Kumar          OTHER (C)             Radio Diagnosis        500
+
+PGIPER00001008 051352 Jyotsana   Sharma        OTHER (C)             Advance Pediatr        500
+
+PGIPER00001011 051380 Suresh   Kumar           OTHER (C)             Other                  500
+
+PGIPER00001012 051403 Rajan   Kumar            OTHER (C)             Immunopathology        500
+
+PGIPER00001043 051114 Gurmeet   Singh          OTHER (C)             Photography            500
+
+PGIPER00001045 051125 Sukhvinder   Singh       Other                 Forensic Medici        500
+
+PGIPER00003952 051459 Surinder   Singh         Dark Room Attendant   Other                  500
+
+PGIPER00004232 051310 Anjana    Verma          OTHER (C)             Other                  500
+
+PGIPER00004236 051387 Kumari  Pramila          OTHER (C)             Other                  500
+
+PGIPER00004240 051308 Anil   Kumar             OTHER (C)             Other                  500
+
+PGIPER00004242 051250 Ramlesh                  Sr. Store Officer     Other                  500
+
+PGIPER00004243 051382 Nitika    Chandel        OTHER (C)             Other                  500
+
+PGIPER00004248 051386 Jyoti                    OTHER (C)             Other                  500
+
+PGIPER00004251 051284 Sudesh   Paul            Pharmacist Gr.I       Other                  500
+
+PGIPER00004253 051350 Narender  Kumar          OTHER (C)             Other                  500
+
+PGIPER00004255 051273 Shiv Nandan Kumar        Pharmacist Gr.I       Other                  500
+
+PGIPER00004259 051251 Jagdish   Singh          Sr. Store Officer     Other                  500
+
+PGIPER00004270 051275 Dharmesh   Kumar         Pharmacist Gr.I       Other                  500
+
+PGIPER00004275 051437 Vajinder  Singh          OTHER (C)             Other                  500
+
+PGIPER00004279 051426 Gopal  Singh             OTHER (C)             Other                  500
+
+PGIPER00004280 051300 Babbu    Devi            Pharmacist Gr.I       Other                  500
+
+PGIPER00004282 051420 Sandeep  Kaur            OTHER (C)             Other                  500
+
+PGIPER00004286 051051 Gurnam  Singh            Other                 Other                  500
+
+PGIPER00004294 051349 Manju  Bala              OTHER (B)             Other                  500
+
+PGIPER00008666 051116 Jaimal  Singh            Pharmacist Gr.I       Other                  500
+
+PGIPER00008705 051455 Joginder  Kaur           Social Worker         Sanitation             500
+
+                                                                          Grand Total     25000
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

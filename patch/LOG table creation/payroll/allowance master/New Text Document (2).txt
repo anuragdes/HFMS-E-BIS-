@@ -1,0 +1,16 @@
+CREATE OR REPLACE TRIGGER trg1_actpay_allowance_mst
+  AFTER UPDATE OR DELETE
+  ON actpay.actpay_allowance_mst
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpay_allowance_mst_log(str_allow_name,str_allow_code,gnum_slno,str_basis,dt_applicability,str_rate_flag,str_isemployee_specific,str_validity_flag,
+str_istaxable_flag,str_ispf_calculation,str_office_name,str_group_name,str_employee_type,str_employee_class,num_lower_basic,num_upper_basic,num_amount,gdt_effective_frm,gdt_effective_to,gnum_isvalid,
+gnum_seat_id,gdt_entry_date,gdt_lstmod_date,gstr_remarks,gnum_lstmod_seatid,str_type,num_allow_id,num_pay_scale_id,num_amount_qualifying,num_increment_base,num_no_of_increments,num_consolidated_flag
+,str_designation,num_basic_id,gnum_hospital_code,str_da_flag,str_grade_pay,num_traveling_amount,str_pay_commision) 
+ select :old.str_allow_name,:old.str_allow_code,:old.gnum_slno,:old.str_basis,:old.dt_applicability,:old.str_rate_flag,:old.str_isemployee_specific,:old.str_validity_flag,
+:old.str_istaxable_flag,:old.str_ispf_calculation,:old.str_office_name,:old.str_group_name,:old.str_employee_type,:old.str_employee_class,:old.num_lower_basic,:old.num_upper_basic,:old.num_amount,:old.gdt_effective_frm,:old.gdt_effective_to,:old.gnum_isvalid,
+:old.gnum_seat_id,:old.gdt_entry_date,:old.gdt_lstmod_date,:old.gstr_remarks,:old.gnum_lstmod_seatid,:old.str_type,:old.num_allow_id,:old.num_pay_scale_id,:old.num_amount_qualifying,
+:old.num_increment_base,:old.num_no_of_increments,:old.num_consolidated_flag
+,:old.str_designation,:old.num_basic_id,:old.gnum_hospital_code,:old.str_da_flag,:old.str_grade_pay,:old.num_traveling_amount,:old.str_pay_commision from actpay.actpay_allowance_mst
+where str_allow_code=:new.str_allow_code and str_allow_name=:new.str_allow_name ;
+END;

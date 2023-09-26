@@ -1,0 +1,778 @@
+2011-12-06 15:13:19,281 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:13:19,781 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:15:09,015 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:15:09,234 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:15:09,390 [http-8080-Processor25] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:15:52,296 [http-8080-Processor21] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:15:52,312 [http-8080-Processor21] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:15:52,312 [http-8080-Processor21] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:15:57,015 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:15:57,031 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:15:57,031 [http-8080-Processor19] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:16:34,703 [http-8080-Processor20] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:16:34,703 [http-8080-Processor20] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:16:34,703 [http-8080-Processor20] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:20:58,812 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2011-12-06 15:20:58,812 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2011-12-06 15:20:58,812 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/AHIMS] - QuartzInitializer: Quartz Scheduler successful shutdown.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/cash'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/registration'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/budget'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/alertmanagement'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mms'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/opd'.
+2011-12-06 15:20:58,812 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor ''.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/paybill'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dutyroster'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/dynamicdesk'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/disaster'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/transport'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/fee'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/enquiry'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bmed'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/compilation'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/contingency'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/inpatient'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/pis'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mrd'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/utility'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Definition Factory not found for module '/hisglobal/utility/generictemplate'. Have you declared the appropriate plugin in struts-config.xml ?
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bloodbank'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mortuary'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/internalaudit'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/appointment'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/committeMemberRecommendation'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/privategrants'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/investigation'.
+2011-12-06 15:20:58,828 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/tada'.
+2011-12-06 15:27:18,484 [http-8080-Processor22] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:27:18,546 [http-8080-Processor22] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:27:18,562 [http-8080-Processor22] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:31:17,546 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2011-12-06 15:31:17,546 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2011-12-06 15:31:17,546 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/AHIMS] - QuartzInitializer: Quartz Scheduler successful shutdown.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/cash'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/budget'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/alertmanagement'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mms'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/opd'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor ''.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/paybill'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dutyroster'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/dynamicdesk'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/disaster'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/transport'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/fee'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/enquiry'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bmed'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/compilation'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/contingency'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/inpatient'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/pis'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mrd'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/utility'.
+2011-12-06 15:31:17,546 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Definition Factory not found for module '/hisglobal/utility/generictemplate'. Have you declared the appropriate plugin in struts-config.xml ?
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bloodbank'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mortuary'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/internalaudit'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/committeMemberRecommendation'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/privategrants'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/investigation'.
+2011-12-06 15:31:17,562 [main] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/tada'.
+2011-12-06 15:46:11,109 [http-8080-Processor21] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:46:11,468 [http-8080-Processor21] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:46:11,468 [http-8080-Processor21] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:46:20,765 [http-8080-Processor24] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:46:20,765 [http-8080-Processor24] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:46:20,765 [http-8080-Processor24] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/SanitationWorkMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:46:28,671 [http-8080-Processor23] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/billing'.
+2011-12-06 15:46:28,671 [http-8080-Processor23] ERROR org.apache.struts.util.RequestUtils - Error creating form bean of class billing.masters.VOBillSetup
+java.lang.ClassNotFoundException: billing.masters.VOBillSetup
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.util.RequestUtils.createActionForm(RequestUtils.java:837)
+	at org.apache.struts.action.RequestProcessor.processActionForm(RequestProcessor.java:364)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:253)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:46:28,671 [http-8080-Processor23] ERROR org.apache.struts.action.RequestProcessor - No action instance for path /masters/CNTBillSetup could be created
+java.lang.ClassNotFoundException: billing.masters.CNTBillSetup
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.action.RequestProcessor.processActionCreate(RequestProcessor.java:326)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:268)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:46:36,031 [http-8080-Processor25] ERROR org.apache.struts.util.RequestUtils - Error creating form bean of class billing.masters.VOcounterMst
+java.lang.ClassNotFoundException: billing.masters.VOcounterMst
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.util.RequestUtils.createActionForm(RequestUtils.java:837)
+	at org.apache.struts.action.RequestProcessor.processActionForm(RequestProcessor.java:364)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:253)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:46:36,031 [http-8080-Processor25] ERROR org.apache.struts.action.RequestProcessor - No action instance for path /masters/CNTcounterMst could be created
+java.lang.ClassNotFoundException: billing.masters.CNTcounterMst
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.action.RequestProcessor.processActionCreate(RequestProcessor.java:326)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:268)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:46:38,046 [http-8080-Processor19] ERROR org.apache.struts.util.RequestUtils - Error creating form bean of class billing.masters.VOcounterMst
+java.lang.ClassNotFoundException: billing.masters.VOcounterMst
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.util.RequestUtils.createActionForm(RequestUtils.java:837)
+	at org.apache.struts.action.RequestProcessor.processActionForm(RequestProcessor.java:364)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:253)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:46:38,046 [http-8080-Processor19] ERROR org.apache.struts.action.RequestProcessor - No action instance for path /masters/CNTcounterMst could be created
+java.lang.ClassNotFoundException: billing.masters.CNTcounterMst
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1352)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1198)
+	at org.apache.struts.util.RequestUtils.applicationClass(RequestUtils.java:207)
+	at org.apache.struts.util.RequestUtils.applicationInstance(RequestUtils.java:231)
+	at org.apache.struts.action.RequestProcessor.processActionCreate(RequestProcessor.java:326)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:268)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doGet(ActionServlet.java:507)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:689)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+2011-12-06 15:47:02,000 [http-8080-Processor25] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mms'.
+2011-12-06 15:47:02,390 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:47:03,406 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:47:03,406 [http-8080-Processor25] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/ApprovingAuthorityMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:47:08,609 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:47:08,750 [http-8080-Processor19] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:47:08,750 [http-8080-Processor19] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/GatePassTypeMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:47:10,750 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-06 15:47:11,171 [http-8080-Processor25] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-06 15:47:11,171 [http-8080-Processor25] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/CurrencyMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/AHIMS] - QuartzInitializer: Quartz Scheduler successful shutdown.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/cash'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/registration'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/budget'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/alertmanagement'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/ipd'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/opd'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor ''.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/paybill'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/purchase'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/dutyroster'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/dynamicdesk'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/disaster'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/transport'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/fee'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/enquiry'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bmed'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/compilation'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/contingency'.
+2011-12-06 15:52:36,390 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/inpatient'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/pis'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mrd'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/utility'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Definition Factory not found for module '/hisglobal/utility/generictemplate'. Have you declared the appropriate plugin in struts-config.xml ?
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/bloodbank'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/mortuary'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/internalaudit'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/appointment'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hisglobal/utility/committeMemberRecommendation'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/accounts/privategrants'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/investigation'.
+2011-12-06 15:52:36,406 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] INFO  org.apache.struts.tiles.TilesRequestProcessor - Tiles definition factory found for request processor '/hr/tada'.
+2011-12-09 18:10:42,765 [http-8081-Processor22] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-09 18:10:44,125 [http-8081-Processor22] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-09 18:10:44,171 [http-8081-Processor22] INFO   - [Master Template --> HisUtil.GenericData] [hisDAO OPEN]
+2011-12-09 18:10:44,515 [http-8081-Processor22] INFO   - [Master Template --> HisUtil.GenericData] [hisDAO CLOSE]
+2011-12-09 18:10:44,531 [http-8081-Processor22] INFO   - [Master Template --> HisUtil.GenericData] [hisDAO OPEN]
+2011-12-09 18:10:44,546 [http-8081-Processor22] INFO   - [Master Template --> HisUtil.GenericData] [hisDAO CLOSE]
+2011-12-09 18:12:31,765 [http-8081-Processor24] INFO   - [MasterTemplate --> GenericDAO] [hisDAO OPEN]
+2011-12-09 18:12:31,796 [http-8081-Processor24] INFO   - [MasterTemplate --> GenericDAO] [hisDAO CLOSE]
+2011-12-09 18:12:31,796 [http-8081-Processor24] ERROR org.apache.struts.actions.DispatchAction - Dispatch[/masters/ComplaintEscalationMstCNT] to method LISTPAGE returned an exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.struts.actions.DispatchAction.dispatchMethod(DispatchAction.java:280)
+	at org.apache.struts.actions.DispatchAction.execute(DispatchAction.java:216)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:484)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:274)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1482)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:525)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:709)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:252)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at hisglobal.listener.HisRequestLoginFilter.doFilter(HisRequestLoginFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:202)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:173)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:178)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:126)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:105)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:107)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:148)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:869)
+	at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:664)
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:527)
+	at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:80)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:684)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.OracleDatabaseMetaData.locatorsUpdateCopy()Z
+	at com.sun.rowset.CachedRowSetImpl.initMetaData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.populate(Unknown Source)
+	at com.sun.rowset.internal.CachedRowSetReader.readData(Unknown Source)
+	at com.sun.rowset.CachedRowSetImpl.execute(Unknown Source)
+	at hisglobal.transactionmgnt.HisDAO.getQryResult(HisDAO.java:916)
+	at hisglobal.masterutil.GenericDAO.LISTPAGE(GenericDAO.java:43)
+	at hisglobal.masterutil.GenericBO.LISTPAGE(GenericBO.java:73)
+	at hisglobal.masterutil.GenericData.LISTPAGE(GenericData.java:194)
+	at hisglobal.masterutil.GenericController.LISTPAGE(GenericController.java:53)
+	... 29 more

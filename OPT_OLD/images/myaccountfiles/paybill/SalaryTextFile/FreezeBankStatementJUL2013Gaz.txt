@@ -1,0 +1,40 @@
+                       Post Graduate Institute of Medical Education And Research 
+                      Chandigarh-(India),  , Chandigarh 
+                                                                                 20 August 2013 
+                                Employee Wise Bank Statement
+                                       Month  :July 2013
+ 
+Category  :Gazetted                                                                            
+Sub-Category  :Gaz                                                                             
+ 
+SlNoEmployee ID    Old ID Name                     Designation           Bank Ac No  Amount(Rs)
+1   PGIPER00000001 041079 Raju Prasad Guaba        Pharmacist Gr.II      Bank No. 1       20616
+
+2   PGIPER00000004 041001 Veena  Dogra             Assistant             10413603553      25535
+
+3   PGIPER00000009 043109 Vijay  Kumar Ahuja       Clerk                 -                26082
+
+4   PGIPER00000053 -      Sudesh    Kumari         Security Officer      -                43072
+
+5   PGIPER00000217 070006 Amrit   Lal              Clerk                 10413642470      21328
+
+6   PGIPER00000336 043142 Ashwani  Thakur          Store-keeper          10413733219      21463
+
+7   PGIPER00000383 040140 Baljeet   Kaur           Stenographer          -                16945
+
+8   PGIPER00001219 000687 Manish   Modi            Assistant Professor   -                78088
+
+9   PGIPER00001359 000788 Dr. S   Venkataseshan    Assistant Professor   -               146080
+
+10  PGIPER00001391 000748 Vikas    Suri            Assistant Professor   -                75800
+
+11  PGIPER00008298 -      Gurpreet                 SHE                   -                39054
+
+12  PGIPER00008306 11223344Abhay  Kumar             PPS                   -               137600
+
+                                                                          Grand Total    651663
+
+
+                                                                       -Sd/-
+                                                              DRAWING & DISBURSING OFFICER
+                                                                     PGIMER,CHANDIGARH

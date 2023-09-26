@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mmsConfig xmlns="http://www.cdacnoida.in/his/MmsConfig">
+    <mmsIssueProcess>
+        <issueMode>1</issueMode>
+        <lastIssuePatientStaffInDays>6</lastIssuePatientStaffInDays>
+        <lastIssueEmployeeInDays>4</lastIssueEmployeeInDays>
+        <onlineIssueDetailsInDays>0</onlineIssueDetailsInDays>
+        <autoReturnRequest>5</autoReturnRequest>
+    </mmsIssueProcess>
+    <mmsConfigGerneral>
+        <committeeFilePath>c:/FileUpload</committeeFilePath>
+        <costRequired>0</costRequired>
+        <indianDeliveryTime>12</indianDeliveryTime>
+        <importedDeliveryTime>30</importedDeliveryTime>
+        <residualCostAuction>252529.00</residualCostAuction>
+    </mmsConfigGerneral>
+</mmsConfig>
+

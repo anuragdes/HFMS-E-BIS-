@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Transaction MODULE_NAME="BUDGET" PROCESS_NAME="PGCurrencyMaster" xmlns:tns="http://www.example.org/transactionSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/transactionSchema transactionSchema.xsd ">
+
+
+<OPR ID="1" NAME="INSERT" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="11">
+	INSERT INTO ACTIA_AUDIT_OBS_REP_PREP_TRN(NUM_AUDIT_SCH_NO,STR_OBS_RPT_FILE_NAME,STR_SYS_OBS_RPT_FILE_NAME,STR_REMARKS,STR_OBS_RPT_PREP_BY,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,GNUM_HOSPITAL_CODE) VALUES (?,?,?,?,?,?,?,?,?,?,?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	<QRY ID="1" COL_SIZE="2">
+	update actia_audit_sch_trn t set t.str_audit_status=4 where t.num_audit_sch_no=? and t.gnum_hospital_code=?
+	</QRY>
+	</BLOCK>
+</OPR>
+
+
+<OPR ID="2" NAME="DELETE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+	 INSERT INTO ACTIA_L_AUDIT_OBS_REP_PREP_TRN (NUM_AUDIT_SCH_NO,STR_OBS_RPT_FILE_NAME,STR_SYS_OBS_RPT_FILE_NAME,STR_REMARKS,STR_OBS_RPT_PREP_BY,GNUM_ISVALID,GNUM_SEAT_ID,GDT_ENTRY_DATE,GDT_LSTMOD_DATE,GNUM_LSTMOD_SEATID,GNUM_HOSPITAL_CODE,STR_MODIFY_SL_NO) ( SELECT T.NUM_AUDIT_SCH_NO,T.STR_OBS_RPT_FILE_NAME,T.STR_SYS_OBS_RPT_FILE_NAME,T.STR_REMARKS,T.STR_OBS_RPT_PREP_BY,T.GNUM_ISVALID,T.GNUM_SEAT_ID,T.GDT_ENTRY_DATE,T.GDT_LSTMOD_DATE,T.GNUM_LSTMOD_SEATID,T.GNUM_HOSPITAL_CODE,(select nvl(max(A.STR_MODIFY_SL_NO),0)+1 from ACTIA_L_AUDIT_OBS_REP_PREP_TRN A where A.NUM_AUDIT_SCH_NO=T.NUM_AUDIT_SCH_NO and A.GNUM_HOSPITAL_CODE=T.GNUM_HOSPITAL_CODE ) FROM ACTIA_AUDIT_OBS_REP_PREP_TRN T WHERE T.NUM_AUDIT_SCH_NO=? AND T.GNUM_HOSPITAL_CODE=?)
+	</QRY>
+	</BLOCK>
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="8">
+	 update ACTIA_AUDIT_OBS_REP_PREP_TRN t set t.STR_OBS_RPT_FILE_NAME=?,t.STR_SYS_OBS_RPT_FILE_NAME=?,t.STR_REMARKS=?,t.STR_OBS_RPT_PREP_BY=?,t.GDT_LSTMOD_DATE=?,t.GNUM_LSTMOD_SEATID=? where t.NUM_AUDIT_SCH_NO=? and t.GNUM_HOSPITAL_CODE=?
+	</QRY>
+	</BLOCK>	
+</OPR>
+
+<OPR ID="3" NAME="UPDATE" BLOCK_SIZE="5" QRY_TOT_SIZE="5" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="16">
+		INSERT INTO  ACTIA_AUDIT_TRACK_DTL A (a.gnum_hospital_code, a.str_audit_body_code,a.num_audit_track_slno, a.str_observation,a.str_reply_descrip,a.str_reply_status, a.dt_reply_recv_date,a.gnum_isvalid, a.gnum_seat_id, a.gdt_entry_date,a.gdt_lstmod_date, a.gnum_lstmod_seatid, a.str_final_action_det,a.num_sl_no,a.str_para_details,a.DT_PROPOSED_PARA_DATE) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+	 </QRY>
+	 </BLOCK>
+
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+		update  ACTIA_AUDIT_TRACK_TRN t set t.str_status=? where t.NUM_AUDIT_TRACK_SLNO=?
+	 </QRY>
+	 </BLOCK>
+
+	<BLOCK ID="3" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+		update  ACTIA_AUDIT_REPLY_TRN t set t.str_status=? where t.NUM_AUDIT_REP_SLNO=?
+	 </QRY>
+	 </BLOCK>
+	<BLOCK ID="4" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+		update  ACTIA_AUDIT_PROPOSED_TRN t set t.str_status=? where t.NUM_AUDIT_PROPOSED_SLNO=?
+	 </QRY>
+	 </BLOCK>
+
+	<BLOCK ID="5" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="2">
+		update  ACTIA_AUDIT_BODY_SCH_TRN t set t.str_status=? where t.num_audit_sch_slno=?
+	 </QRY>
+	 </BLOCK>
+</OPR>
+
+<OPR ID="4" NAME="DELETE" BLOCK_SIZE="2" QRY_TOT_SIZE="2" TRN_MGMT="N">
+	<BLOCK ID="1" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="3">
+	 UPDATE ACTIA_AUDIT_TRACK_TRN SET GNUM_ISVALID=0,GDT_LSTMOD_DATE=(TO_DATE(?,'DD-MON-YYYY')),GNUM_LSTMOD_SEATID=? where NUM_AUDIT_TRACK_SLNO =? 
+	</QRY>
+	</BLOCK>
+	
+	<BLOCK ID="2" QRY_SIZE="1" ROWS_INS="S" MANDATORY="Y">
+	 <QRY ID="1" COL_SIZE="3">
+	 UPDATE ACTIA_AUDIT_TRACK_DTL SET GNUM_ISVALID=0,GDT_LSTMOD_DATE=(TO_DATE(?,'DD-MON-YYYY')),GNUM_LSTMOD_SEATID=? where NUM_AUDIT_TRACK_SLNO =? 
+	</QRY>
+	</BLOCK>
+</OPR>
+
+</tns:Transaction>

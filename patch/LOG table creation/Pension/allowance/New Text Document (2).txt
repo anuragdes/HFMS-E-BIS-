@@ -1,0 +1,12 @@
+
+CREATE OR REPLACE TRIGGER actpns_allowance_specs_trns
+  AFTER UPDATE OR DELETE
+  ON actpay.actpns_allowance_specs_trns
+  FOR EACH ROW
+BEGIN
+INSERT INTO AHISLOG.actpns_allowance_specs_trns_log(str_employee_number,num_allowance_code,str_category_head_code,num_amount,gnum_slno,dt_effective_frm,dt_effective_to,gnum_isvalid,gnum_seat_id,gdt_entry_date
+,gdt_lstmod_date,gnum_lstmod_seatid,gstr_remarks,gnum_hospital_code,num_status_flag,dt_applicability_date) 
+ select :old.str_employee_number,:old.num_allowance_code,:old.str_category_head_code,:old.num_amount,:old.gnum_slno,dt_effective_frm,:old.dt_effective_to,:old.gnum_isvalid,:old.gnum_seat_id,:old.gdt_entry_date,
+:old.gdt_lstmod_date,:old.gnum_lstmod_seatid,:old.gstr_remarks,:old.gnum_hospital_code,:old.num_status_flag,:old.dt_applicability_date from actpay.actpns_allowance_specs_trns
+where str_employee_number=:new.str_employee_number and   num_allowance_code=:new.num_allowance_code;
+END;
